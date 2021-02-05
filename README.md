@@ -1244,7 +1244,7 @@
 
 <!--Organizers-->
 
-<table border="0" cellpading="0" cellspacing="0">
+<table id="people_table" border="0" cellpading="0" cellspacing="0">
     <h2 style="color:black;">Organizers</h2>
     <tbody>
     <tr>
@@ -1334,7 +1334,7 @@
 
 <!--Supervisors-->
 <h2 style="color:black;">Supervisors</h2>
-<table border="0" cellpading="0" cellspacing="0">
+<table id="people_table" border="0" cellpading="0" cellspacing="0">
     <tbody>
     <tr>
         <!--Person-->
@@ -1430,7 +1430,7 @@
 <hr>
 <footer>
     <p style="text-align:center">
-        <a href="https://schedseminar.github.io">SchedulingSeminars.com</a> is maintained by
+        <a href="https://schedseminar.github.io">schedulingseminar.com</a> is maintained by
         <a href="https://schedseminar.github.io">CIIRC</a>.
     </p>
 </footer>
