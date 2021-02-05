@@ -1,4 +1,4 @@
-<!--Header table-->
+<!--Header-->
 <!--<h1 style="color:black;">Scheduling seminar</h1>-->
 <table>
     <tbody>
@@ -17,16 +17,15 @@
     </tbody>
 </table>
 
-
+<!--Buttons-->
 <p style="text-align:center;">
     <a href="https://youtu.be/add-link" class="button3">Join Youtube Live Stream</a>
     <a href="zoom information.html" class="button3">Join by Zoom</a>
 </p>
 
+
+<!--Talks-->
 <!--<h2 style="color:black;">Talks</h2>-->
-
-
-<!--Talks table-->
 <table cellpadding="0" cellspacing="0">
     <tbody>
 
@@ -1018,8 +1017,9 @@
     </tbody>
 </table>
 
-<hr>
 
+<!--Google form-->
+<hr>
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScaSLm3y0prj-PRM5htvsZ3R-6fUuTI3acBwAjSB0VisdzMFQ/viewform?embedded=true"
         width="640" height="407" frameborder="0" marginheight="0" marginwidth="0">Loading…
 </iframe>
