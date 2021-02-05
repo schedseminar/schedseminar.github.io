@@ -5,7 +5,7 @@
     <tr valign="middle">
         <td style="width:40%;"><img src="./images/placeholder.png" height="200" width="600"/></td>
         <td style="width:60%;">
-            <h2>Scheduling seminar</h2>
+            <h1 style="color:#4eb5f1;">Scheduling seminar</h1>
             3DGV is a virtual seminar series on Geometry Processing and 3D Computer Vision. Seminars
             take place every Wednesday, cycling through three different time zones
             (<font style="background-color:#e2e2df;">Europe</font>,
@@ -23,9 +23,10 @@
 
 <hr>
 <!--Buttons-->
+<h2 style="color:#4eb5f1; text-align: center;">Join us online</h2>
 <p style="text-align:center;">
-    <a href="https://youtu.be/add-link" class="button3">Join Youtube Live Stream</a>
-    <a href="zoom information.html" class="button3">Join by Zoom</a>
+    <a href="https://youtu.be/add-link" class="button3">Youtube Live Stream</a>
+    <a href="zoom information.html" class="button3">Zoom Conference</a>
 </p>
 
 
