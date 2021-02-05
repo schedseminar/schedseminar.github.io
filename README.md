@@ -1417,6 +1417,20 @@
 <div class="column">
     <h2 style="color:black;">Feedback form</h2>
     <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScaSLm3y0prj-PRM5htvsZ3R-6fUuTI3acBwAjSB0VisdzMFQ/viewform?embedded=true"
-            width="640" height="407" frameborder="0" marginheight="0" marginwidth="0">Loading…
+            width="640" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading…
     </iframe>
 </div>
+<br/>
+<br/>
+<br/>
+
+
+<!--Footer-->
+&nbsp;
+<hr>
+<footer>
+    <p style="text-align:center">
+        <a href="https://schedseminar.github.io">SchedulingSeminars.com</a> is maintained by
+        <a href="https://schedseminar.github.io">CIIRC</a>.
+    </p>
+</footer>
