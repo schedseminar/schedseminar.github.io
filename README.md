@@ -1243,73 +1243,180 @@
 
 
 <!--Organizers-->
-<h2 style="color:black;">Organizers</h2>
+
 <table border="0" cellpading="0" cellspacing="0">
+    <h2 style="color:black;">Organizers</h2>
     <tbody>
     <tr>
-        <td><a href="https://www.3dunderstanding.org/"><img src="./images/angela_dai.jpg" height="200"/><br>TUM<br>Angela
-            Dai</a></td>
-        <td><a href="https://www.comp.nus.edu.sg/cs/bio/ayao/"><img src="./images/angela_yao.jpg"
-                                                                    height="200"/><br>NUS<br>Angela Yao</a></td>
-        <td><a href="https://people.eecs.berkeley.edu/~kanazawa/"><img src="./images/angjoo_kanazawa.jpg"
-                                                                       height="200"/><br>Berkeley<br>Angjoo
-            Kanazawa</a></td>
-    </tr>
-    <tr>
-        <td><a href="https://jiajunwu.com/"><img src="./images/jiajun_wu.jpg" height="200"/><br>Stanford<br>Jiajun
-            Wu</a></td>
-        <td><a href="http://staff.ustc.edu.cn/~juyong/"><img src="./images/juyong_zhang.png"
-                                                             height="200"/><br>USTC<br>Juyong
-            Zhang</a></td>
-        <td><a href="https://www.cs.utexas.edu/~huangqx/"><img src="./images/qixing_huang.jpg" height="200"/><br>UT
-            Austin<br>Qixing Huang</a></td>
-    </tr>
-    <tr>
-        <td><a href="https://scholar.google.com/citations?user=jzx6_ZIAAAAJ&hl=en"><img
-                src="./images/torsten_sattler.jpg" height="200"/><br>CIIRC, CVUT<br>Torsten Sattler</a></td>
-        <td><a href="https://xueyuhanlang.github.io/"><img src="./images/yang_liu.jpg" height="200"/><br>MSRA<br>Yang
-            Liu</a></td>
-        <td><a href="https://www.cs.sfu.ca/~furukawa"><img src="./images/yasutaka_furukawa.jpg"
-                                                           height="200"/><br>SFU<br>Yasutaka Furukawa</a></td>
+        <!--Person-->
+        <td>
+            <a href="https://schedseminar.github.io/">
+                <img src="./images/person_placeholder.png" height="200"/><br>
+                CIIRC<br>
+                First name</a>
+        </td>
+
+        <!--Person-->
+        <td>
+            <a href="https://schedseminar.github.io/">
+                <img src="./images/person_placeholder.png" height="200"/><br>
+                CIIRC<br>
+                First name</a>
+        </td>
+
+        <!--Person-->
+        <td>
+            <a href="https://schedseminar.github.io/">
+                <img src="./images/person_placeholder.png" height="200"/><br>
+                CIIRC<br>
+                First name</a>
+        </td>
+
+        <!--Person-->
+        <td>
+            <a href="https://schedseminar.github.io/">
+                <img src="./images/person_placeholder.png" height="200"/><br>
+                CIIRC<br>
+                First name</a>
+        </td>
+
+        <!--Person-->
+        <td>
+            <a href="https://schedseminar.github.io/">
+                <img src="./images/person_placeholder.png" height="200"/><br>
+                CIIRC<br>
+                First name</a>
+        </td>
+
+        <!--Person-->
+        <td>
+            <a href="https://schedseminar.github.io/">
+                <img src="./images/person_placeholder.png" height="200"/><br>
+                CIIRC<br>
+                First name</a>
+        </td>
+
+        <!--Person-->
+        <td>
+            <a href="https://schedseminar.github.io/">
+                <img src="./images/person_placeholder.png" height="200"/><br>
+                CIIRC<br>
+                First name</a>
+        </td>
+
+        <!--Person-->
+        <td>
+            <a href="https://schedseminar.github.io/">
+                <img src="./images/person_placeholder.png" height="200"/><br>
+                CIIRC<br>
+                First name</a>
+        </td>
+
+        <!--Person-->
+        <td>
+            <a href="https://schedseminar.github.io/">
+                <img src="./images/person_placeholder.png" height="200"/><br>
+                CIIRC<br>
+                First name</a>
+        </td>
+
+        <!--Person-->
+        <td>
+            <a href="https://schedseminar.github.io/">
+                <img src="./images/person_placeholder.png" height="200"/><br>
+                CIIRC<br>
+                First name</a>
+        </td>
+
     </tr>
     </tbody>
 </table>
 
 <!--Supervisors-->
-<h2 style="color:black;">Senior Supervisors</h2>
+<h2 style="color:black;">Supervisors</h2>
 <table border="0" cellpading="0" cellspacing="0">
     <tbody>
     <tr>
-        <td><a href="https://cfcs.pku.edu.cn/baoquan/"><img src="./images/baoquan_chen.jpg" height="200"/><br>Peking
-            University<br>Baoquan Chen</a></td>
-        <td><a href="https://cs.gmu.edu/~kosecka/"><img src="./images/jana_kosecka.jpg" height="200"/><br>GMU<br>Jana
-            Košecká</a></td>
-        <td><a href="https://people.eecs.berkeley.edu/~malik/"><img src="./images/jitendra_malik.gif" height="200"/><br>Berkeley<br>Jitendra
-            Malik</a></td>
-        <td><a href="https://geometry.stanford.edu/member/guibas/"><img src="./images/leo_guibas.jpg" height="200"/><br>Stanford<br>Leo
-            Guibas</a></td>
-    </tr>
-    <tr>
-        <td><a href="http://www0.cs.ucl.ac.uk/staff/L.Agapito/"><img src="./images/lourdes_agapito.jpg"
-                                                                     height="200"/><br>UCL<br>Lourdes Agapito</a>
+        <!--Person-->
+        <td>
+            <a href="https://schedseminar.github.io/">
+                <img src="./images/person_placeholder.png" height="200"/><br>
+                CIIRC<br>
+                First name</a>
         </td>
-        <td><a href="https://ps.is.mpg.de/~black"><img src="./images/michael_black.jpg" height="200"/><br>MPI<br>Michael
-            Black</a></td>
-        <td><a href="http://users.cecs.anu.edu.au/~hartley/"><img src="./images/richard_hartley.jpg"
-                                                                  height="200"/><br>ANU<br>Richard
-            Hartley</a></td>
+
+        <!--Person-->
+        <td>
+            <a href="https://schedseminar.github.io/">
+                <img src="./images/person_placeholder.png" height="200"/><br>
+                CIIRC<br>
+                First name</a>
+        </td>
+
+        <!--Person-->
+        <td>
+            <a href="https://schedseminar.github.io/">
+                <img src="./images/person_placeholder.png" height="200"/><br>
+                CIIRC<br>
+                First name</a>
+        </td>
+
+        <!--Person-->
+        <td>
+            <a href="https://schedseminar.github.io/">
+                <img src="./images/person_placeholder.png" height="200"/><br>
+                CIIRC<br>
+                First name</a>
+        </td>
+
+        <!--Person-->
+        <td>
+            <a href="https://schedseminar.github.io/">
+                <img src="./images/person_placeholder.png" height="200"/><br>
+                CIIRC<br>
+                First name</a>
+        </td>
+
+        <!--Person-->
+        <td>
+            <a href="https://schedseminar.github.io/">
+                <img src="./images/person_placeholder.png" height="200"/><br>
+                CIIRC<br>
+                First name</a>
+        </td>
+
+        <!--Person-->
+        <td>
+            <a href="https://schedseminar.github.io/">
+                <img src="./images/person_placeholder.png" height="200"/><br>
+                CIIRC<br>
+                First name</a>
+        </td>
+
+        <!--Person-->
+        <td>
+            <a href="https://schedseminar.github.io/">
+                <img src="./images/person_placeholder.png" height="200"/><br>
+                CIIRC<br>
+                First name</a>
+        </td>
     </tr>
     </tbody>
 </table>
 
 
+<hr>
 <!--Calendar-->
-<h2 style="color:black;">Calendar (time zone conversion)</h2>
-<iframe src="https://calendar.google.com/calendar/embed?height=500&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FVancouver&amp;src=M2Rndi5zZW1pbmFyQGdtYWlsLmNvbQ&amp;color=%23039BE5&amp;showTitle=1&amp;mode=AGENDA"
-        style="border:solid 1px #777" width="500" height="500" frameborder="0" scrolling="no"></iframe>
+<div class="column">
+    <h2 style="color:black;">Calendar (time zone conversion)</h2>
+    <iframe src="https://calendar.google.com/calendar/embed?height=500&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FVancouver&amp;src=M2Rndi5zZW1pbmFyQGdtYWlsLmNvbQ&amp;color=%23039BE5&amp;showTitle=1&amp;mode=AGENDA"
+            style="border:solid 1px #777" width="500" height="500" frameborder="0" scrolling="no"></iframe>
+</div>
 
 <!--Google form-->
-<hr>
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScaSLm3y0prj-PRM5htvsZ3R-6fUuTI3acBwAjSB0VisdzMFQ/viewform?embedded=true"
-        width="640" height="407" frameborder="0" marginheight="0" marginwidth="0">Loading…
-</iframe>
+<div class="column">
+    <h2 style="color:black;">Feedback form</h2>
+    <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScaSLm3y0prj-PRM5htvsZ3R-6fUuTI3acBwAjSB0VisdzMFQ/viewform?embedded=true"
+            width="640" height="407" frameborder="0" marginheight="0" marginwidth="0">Loading…
+    </iframe>
+</div>
