@@ -41,7 +41,7 @@
             <td style="width:25%;">
                 <a href="https://schedseminar.github.io/">
                     <img src="./images/person_placeholder.png" width="200"/>
-                </a>
+                </a><br/>
                 <b>[ Presenter ] </b> <br>
                 <a href="">First Name</a><br/>(Affiliation)<br>
             </td>
@@ -89,7 +89,7 @@
             <td style="width:25%;">
                 <a href="https://schedseminar.github.io/">
                     <img src="./images/person_placeholder.png" width="200"/>
-                </a>
+                </a><br/>
                 <b>[ Presenter ] </b> <br>
                 <a href="">First Name</a>(Affiliation)<br><br/>
             </td>
@@ -137,7 +137,7 @@
             <td style="width:25%;">
                 <a href="https://schedseminar.github.io/">
                     <img src="./images/person_placeholder.png" width="200"/>
-                </a>
+                </a><br/>
                 <b>[ Presenter ] </b> <br>
                 <a href="">First Name</a>(Affiliation)<br><br/>
             </td>
@@ -185,7 +185,7 @@
             <td style="width:25%;">
                 <a href="https://schedseminar.github.io/">
                     <img src="./images/person_placeholder.png" width="200"/>
-                </a>
+                </a><br/>
                 <b>[ Presenter ] </b> <br>
                 <a href="">First Name</a><br/>(Affiliation)<br>
             </td>
@@ -233,7 +233,7 @@
             <td style="width:25%;">
                 <a href="https://schedseminar.github.io/">
                     <img src="./images/person_placeholder.png" width="200"/>
-                </a>
+                </a><br/>
                 <b>[ Presenter ] </b> <br>
                 <a href="">First Name</a>(Affiliation)<br><br/>
             </td>
@@ -281,7 +281,7 @@
             <td style="width:25%;">
                 <a href="https://schedseminar.github.io/">
                     <img src="./images/person_placeholder.png" width="200"/>
-                </a>
+                </a><br/>
                 <b>[ Presenter ] </b> <br>
                 <a href="">First Name</a>(Affiliation)<br><br/>
             </td>
@@ -329,7 +329,7 @@
             <td style="width:25%;">
                 <a href="https://schedseminar.github.io/">
                     <img src="./images/person_placeholder.png" width="200"/>
-                </a>
+                </a><br/>
                 <b>[ Presenter ] </b> <br>
                 <a href="">First Name</a><br/>(Affiliation)<br>
             </td>
@@ -377,7 +377,7 @@
             <td style="width:25%;">
                 <a href="https://schedseminar.github.io/">
                     <img src="./images/person_placeholder.png" width="200"/>
-                </a>
+                </a><br/>
                 <b>[ Presenter ] </b> <br>
                 <a href="">First Name</a>(Affiliation)<br><br/>
             </td>
@@ -425,7 +425,7 @@
             <td style="width:25%;">
                 <a href="https://schedseminar.github.io/">
                     <img src="./images/person_placeholder.png" width="200"/>
-                </a>
+                </a><br/>
                 <b>[ Presenter ] </b> <br>
                 <a href="">First Name</a>(Affiliation)<br><br/>
             </td>
@@ -473,7 +473,7 @@
             <td style="width:25%;">
                 <a href="https://schedseminar.github.io/">
                     <img src="./images/person_placeholder.png" width="200"/>
-                </a>
+                </a><br/>
                 <b>[ Presenter ] </b> <br>
                 <a href="">First Name</a><br/>(Affiliation)<br>
             </td>
@@ -521,7 +521,7 @@
             <td style="width:25%;">
                 <a href="https://schedseminar.github.io/">
                     <img src="./images/person_placeholder.png" width="200"/>
-                </a>
+                </a><br/>
                 <b>[ Presenter ] </b> <br>
                 <a href="">First Name</a>(Affiliation)<br><br/>
             </td>
@@ -569,7 +569,7 @@
             <td style="width:25%;">
                 <a href="https://schedseminar.github.io/">
                     <img src="./images/person_placeholder.png" width="200"/>
-                </a>
+                </a><br/>
                 <b>[ Presenter ] </b> <br>
                 <a href="">First Name</a>(Affiliation)<br><br/>
             </td>
@@ -617,7 +617,7 @@
             <td style="width:25%;">
                 <a href="https://schedseminar.github.io/">
                     <img src="./images/person_placeholder.png" width="200"/>
-                </a>
+                </a><br/>
                 <b>[ Presenter ] </b> <br>
                 <a href="">First Name</a><br/>(Affiliation)<br>
             </td>
@@ -665,7 +665,7 @@
             <td style="width:25%;">
                 <a href="https://schedseminar.github.io/">
                     <img src="./images/person_placeholder.png" width="200"/>
-                </a>
+                </a><br/>
                 <b>[ Presenter ] </b> <br>
                 <a href="">First Name</a>(Affiliation)<br><br/>
             </td>
@@ -713,7 +713,7 @@
             <td style="width:25%;">
                 <a href="https://schedseminar.github.io/">
                     <img src="./images/person_placeholder.png" width="200"/>
-                </a>
+                </a><br/>
                 <b>[ Presenter ] </b> <br>
                 <a href="">First Name</a>(Affiliation)<br><br/>
             </td>
@@ -761,7 +761,7 @@
             <td style="width:25%;">
                 <a href="https://schedseminar.github.io/">
                     <img src="./images/person_placeholder.png" width="200"/>
-                </a>
+                </a><br/>
                 <b>[ Presenter ] </b> <br>
                 <a href="">First Name</a><br/>(Affiliation)<br>
             </td>
@@ -809,7 +809,7 @@
             <td style="width:25%;">
                 <a href="https://schedseminar.github.io/">
                     <img src="./images/person_placeholder.png" width="200"/>
-                </a>
+                </a><br/>
                 <b>[ Presenter ] </b> <br>
                 <a href="">First Name</a>(Affiliation)<br><br/>
             </td>
@@ -857,7 +857,7 @@
             <td style="width:25%;">
                 <a href="https://schedseminar.github.io/">
                     <img src="./images/person_placeholder.png" width="200"/>
-                </a>
+                </a><br/>
                 <b>[ Presenter ] </b> <br>
                 <a href="">First Name</a>(Affiliation)<br><br/>
             </td>
@@ -915,7 +915,7 @@
             <td style="width:25%;">
                 <a href="https://schedseminar.github.io/">
                     <img src="./images/person_placeholder.png" width="200"/>
-                </a>
+                </a><br/>
                 <b>[ Presenter ] </b> <br>
                 <a href="">First Name</a><br/>(Affiliation)<br>
                 <br/>
@@ -936,7 +936,7 @@
             <td style="width:25%;">
                 <a href="https://schedseminar.github.io/">
                     <img src="./images/person_placeholder.png" width="200"/>
-                </a>
+                </a><br/>
                 <b>[ Presenter ] </b> <br>
                 <a href="">First Name</a><br/>(Affiliation)<br>
                 <br/>
@@ -956,7 +956,7 @@
             <td style="width:25%;">
                 <a href="https://schedseminar.github.io/">
                     <img src="./images/person_placeholder.png" width="200"/>
-                </a>
+                </a><br/>
                 <b>[ Presenter ] </b> <br>
                 <a href="">First Name</a><br/>(Affiliation)<br>
                 <br/>
@@ -976,7 +976,7 @@
             <td style="width:25%;">
                 <a href="https://schedseminar.github.io/">
                     <img src="./images/person_placeholder.png" width="200"/>
-                </a>
+                </a><br/>
                 <b>[ Presenter ] </b> <br>
                 <a href="">First Name</a><br/>(Affiliation)<br>
                 <br/>
@@ -996,7 +996,7 @@
             <td style="width:25%;">
                 <a href="https://schedseminar.github.io/">
                     <img src="./images/person_placeholder.png" width="200"/>
-                </a>
+                </a><br/>
                 <b>[ Presenter ] </b> <br>
                 <a href="">First Name</a><br/>(Affiliation)<br>
                 <br/>
@@ -1016,7 +1016,7 @@
             <td style="width:25%;">
                 <a href="https://schedseminar.github.io/">
                     <img src="./images/person_placeholder.png" width="200"/>
-                </a>
+                </a><br/>
                 <b>[ Presenter ] </b> <br>
                 <a href="">First Name</a><br/>(Affiliation)<br>
                 <br/>
@@ -1036,7 +1036,7 @@
             <td style="width:25%;">
                 <a href="https://schedseminar.github.io/">
                     <img src="./images/person_placeholder.png" width="200"/>
-                </a>
+                </a><br/>
                 <b>[ Presenter ] </b> <br>
                 <a href="">First Name</a><br/>(Affiliation)<br>
                 <br/>
@@ -1056,7 +1056,7 @@
             <td style="width:25%;">
                 <a href="https://schedseminar.github.io/">
                     <img src="./images/person_placeholder.png" width="200"/>
-                </a>
+                </a><br/>
                 <b>[ Presenter ] </b> <br>
                 <a href="">First Name</a><br/>(Affiliation)<br>
                 <br/>
@@ -1076,7 +1076,7 @@
             <td style="width:25%;">
                 <a href="https://schedseminar.github.io/">
                     <img src="./images/person_placeholder.png" width="200"/>
-                </a>
+                </a><br/>
                 <b>[ Presenter ] </b> <br>
                 <a href="">First Name</a><br/>(Affiliation)<br>
                 <br/>
@@ -1096,7 +1096,7 @@
             <td style="width:25%;">
                 <a href="https://schedseminar.github.io/">
                     <img src="./images/person_placeholder.png" width="200"/>
-                </a>
+                </a><br/>
                 <b>[ Presenter ] </b> <br>
                 <a href="">First Name</a><br/>(Affiliation)<br>
                 <br/>
@@ -1116,7 +1116,7 @@
             <td style="width:25%;">
                 <a href="https://schedseminar.github.io/">
                     <img src="./images/person_placeholder.png" width="200"/>
-                </a>
+                </a><br/>
                 <b>[ Presenter ] </b> <br>
                 <a href="">First Name</a><br/>(Affiliation)<br>
                 <br/>
@@ -1136,7 +1136,7 @@
             <td style="width:25%;">
                 <a href="https://schedseminar.github.io/">
                     <img src="./images/person_placeholder.png" width="200"/>
-                </a>
+                </a><br/>
                 <b>[ Presenter ] </b> <br>
                 <a href="">First Name</a><br/>(Affiliation)<br>
                 <br/>
@@ -1156,7 +1156,7 @@
             <td style="width:25%;">
                 <a href="https://schedseminar.github.io/">
                     <img src="./images/person_placeholder.png" width="200"/>
-                </a>
+                </a><br/>
                 <b>[ Presenter ] </b> <br>
                 <a href="">First Name</a><br/>(Affiliation)<br>
                 <br/>
@@ -1176,7 +1176,7 @@
             <td style="width:25%;">
                 <a href="https://schedseminar.github.io/">
                     <img src="./images/person_placeholder.png" width="200"/>
-                </a>
+                </a><br/>
                 <b>[ Presenter ] </b> <br>
                 <a href="">First Name</a><br/>(Affiliation)<br>
                 <br/>
@@ -1196,7 +1196,7 @@
             <td style="width:25%;">
                 <a href="https://schedseminar.github.io/">
                     <img src="./images/person_placeholder.png" width="200"/>
-                </a>
+                </a><br/>
                 <b>[ Presenter ] </b> <br>
                 <a href="">First Name</a><br/>(Affiliation)<br>
                 <br/>
