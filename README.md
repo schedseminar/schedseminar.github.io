@@ -5,13 +5,15 @@
     <tr valign="middle">
         <td style="width:40%;"><img src="./images/placeholder.png" height="200" width="320"/></td>
         <td style="width:60%;">3DGV is a virtual seminar series on Geometry Processing and 3D Computer Vision. Seminars
-            take place every Wednesday, cycling through three different time zones (<font
-                    style="background-color:#e2e2df;">Europe</font>, <font
-                    style="background-color:#e2cfc4;">America</font>, and <font
-                    style="background-color:#c6def1;">Asia</font>). We show seminar hours in six different time zones in
-            the following table. Please <a
-                    href="https://calendar.google.com/calendar/ical/3dgv.seminar%40gmail.com/public/basic.ics">add this
-                to your calendar</a> to know hours in your time-zone.
+            take place every Wednesday, cycling through three different time zones
+            (<font style="background-color:#e2e2df;">Europe</font>,
+            <font style="background-color:#e2cfc4;">America</font>, and
+            <font style="background-color:#c6def1;">Asia</font>).
+            We show seminar hours in six different time zones in the following table. Please
+            <a href="https://calendar.google.com/calendar/ical/3dgv.seminar%40gmail.com/public/basic.ics">
+                add this to your calendar
+            </a>
+            to know hours in your time-zone.
         </td>
     </tr>
     </tbody>
@@ -30,104 +32,54 @@
     <table cellpadding="0" cellspacing="0">
         <tbody>
 
-        <!--Person-->
-        <tr valign="middle" style="background-color:#e2e2df">
-
-            <!--Post-talk template-->
-            <td><img src="images/matthias-niessner.jpg" width="200"/><br>
-                [ Panelists ] <br>
-                <a href="http://www0.cs.ucl.ac.uk/staff/n.mitra/">Niloy Mitra (UCL)</a><br>
-            </td>
-            <td colspan="2">
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/ZhV1Tg_7gww" frameborder="0"
-                        allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-                        allowfullscreen></iframe>
-            </td>
-
-            <!--Pre-talk template-->
-            <!--
-              <td style="width:40%;">
-                <table>
-                  <tbody>
-                    <tr style="background-color:#c6def1"><td>Sydney</td>  <td>01/13 21:30 Wed</td></tr>
-                    <tr style="background-color:#c6def1"><td>Beijing</td> <td>01/13 18:30 Wed</td></tr>
-                    <tr style="background-color:#e2e2df"><td>France</td>  <td>01/13 11:30 Wed</td></tr>
-                    <tr style="background-color:#e2e2df"><td>UK</td>      <td>01/13 10:30 Wed</td></tr>
-                    <tr style="background-color:#e2cfc4"><td>Eastern</td> <td>01/13 05:30 Wed</td></tr>
-                    <tr style="background-color:#e2cfc4"><td>Pacific</td> <td>01/13 02:30 Wed</td></tr>
-                  </tbody>
-                </table>
-              </td>
-              <td style="width:35%;"><b>Learning Non-Rigid Reconstruction</b><br><br><a href="https://www.niessnerlab.org/">Matthias Niessner<br>TUM</a></td>
-        -->
-        </tr>
-        <tr valign="middle" style="background-color:#e2cfc4">
-            <td><img src="images/hao_su.jpg" width="200"/><br>
-                [ Panelists ] <br>
-                <a href="http://shubhtuls.github.io/">Shubham Tulsiani</a> (FAIR)
-            </td>
-            <td colspan="2">
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/MArIHoX3jQ8" frameborder="0"
-                        allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-                        allowfullscreen></iframe>
-            </td>
-            <!--
-                  <td style="width:40%;">
-                    <table>
-                      <tbody>
-                        <tr style="background-color:#c6def1"><td>Sydney</td>  <td>01/21 06:00 Thu</td></tr>
-                        <tr style="background-color:#c6def1"><td>Beijing</td> <td>01/21 03:00 Thu</td></tr>
-                        <tr style="background-color:#e2e2df"><td>France</td>  <td>01/20 20:00 Wed</td></tr>
-                        <tr style="background-color:#e2e2df"><td>UK</td>      <td>01/20 19:00 Wed</td></tr>
-                        <tr style="background-color:#e2cfc4"><td>Eastern</td> <td>01/20 14:00 Wed</td></tr>
-                        <tr style="background-color:#e2cfc4"><td>Pacific</td> <td>01/20 11:00 Wed</td></tr>
-                      </tbody>
-                    </table>
-                  </td>
-                  <td style="width:35%;"><b>Compositional Generalizability for Geometry and Policy Learning</b><br><br><a href="https://cseweb.ucsd.edu/~haosu/">Hao Su<br>UCSD</a></td>
-            -->
-        </tr>
-
-        <tr valign="middle" style="background-color:white">
-            <td></td>
-            <td><img src="images/break.jpg" width="200"/></td>
-            <td><img src="images/break.jpg" width="200"/></td>
-        </tr>
-
         <tr valign="middle" style="background-color:#c6def1">
-            <td><img src="images/ligang_liu.png" width="200"/><br>
-                [ Panelists ] <br>
-                <a href="https://kevinkaixu.net/">Kai Xu</a> (NUDT)<br>
-                <a href="https://sites.google.com/site/panjia/home">Jia Pan</a> (HKU)
+            <td><img src="images/person_placeholder.png" width="200"/><br>
+                <b>[ Presenter ] </b> <br>
+                <a href="">First Name</a>(Affiliation)<br><br/>
             </td>
 
-            <td colspan="2">
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/RqSkp-HPSac" frameborder="0"
-                        allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-                        allowfullscreen></iframe>
-            </td>
-            <!--
             <td style="width:40%;">
-              <table>
-                <tbody>
-                  <tr style="background-color:#c6def1"><td>Sydney</td>  <td>02/03 14:00 Wed</td></tr>
-                  <tr style="background-color:#c6def1"><td>Beijing</td> <td>02/03 11:00 Wed</td></tr>
-                  <tr style="background-color:#e2e2df"><td>France</td>  <td>02/03 04:00 Wed</td></tr>
-                  <tr style="background-color:#e2e2df"><td>UK</td>      <td>02/03 03:00 Wed</td></tr>
-                  <tr style="background-color:#e2cfc4"><td>Eastern</td> <td>02/02 22:00 Tue</td></tr>
-                  <tr style="background-color:#e2cfc4"><td>Pacific</td> <td>02/02 19:00 Tue</td></tr>
-                </tbody>
-              </table>
+                <table>
+                    <tbody>
+                    <tr style="background-color:#c6def1">
+                        <td>Sydney</td>
+                        <td>02/03 14:00 Wed</td>
+                    </tr>
+                    <tr style="background-color:#c6def1">
+                        <td>Beijing</td>
+                        <td>02/03 11:00 Wed</td>
+                    </tr>
+                    <tr style="background-color:#e2e2df">
+                        <td>France</td>
+                        <td>02/03 04:00 Wed</td>
+                    </tr>
+                    <tr style="background-color:#e2e2df">
+                        <td>UK</td>
+                        <td>02/03 03:00 Wed</td>
+                    </tr>
+                    <tr style="background-color:#e2cfc4">
+                        <td>Eastern</td>
+                        <td>02/02 22:00 Tue</td>
+                    </tr>
+                    <tr style="background-color:#e2cfc4">
+                        <td>Pacific</td>
+                        <td>02/02 19:00 Tue</td>
+                    </tr>
+                    </tbody>
+                </table>
             </td>
-            <td style="width:35%;"><b>Robot-oriented Geometry Processing</b><br><br><a href="http://staff.ustc.edu.cn/~lgliu/">Ligang Liu<br>USTC</a></td>
-            -->
-        </tr>
-
-        <tr valign="middle" style="background-color:#e2e2df">
-            <td><img src="images/siyu_tang.jpg" width="200"/><br>
-                [ Panelists ] <br>
+            <td style="width:35%;">
+                <b>Some scheduling topic</b><br><br>
+                <b>[ Panelists ]</b> <br>
                 <a href="">Name</a>(Affiliation)<br>
                 <a href="">Name</a>(Affiliation)
+            </td>
+        </tr>
+
+        <tr valign="middle" style="background-color:#e2e2df">
+            <td><img src="images/person_placeholder.png" width="200"/><br>
+                <b>[ Presenter ] </b> <br>
+                <a href="">First Name</a>(Affiliation)<br><br/>
             </td>
             <td style="width:40%;">
                 <table>
@@ -159,14 +111,18 @@
                     </tbody>
                 </table>
             </td>
-            <td style="width:35%;"><b>Title</b><br><br><a href="https://ps.is.mpg.de/~stang">Siyu Tang<br>ETH</a></td>
+            <td style="width:35%;">
+                <b>Some scheduling topic</b><br><br>
+                <b>[ Panelists ]</b> <br>
+                <a href="">Name</a>(Affiliation)<br>
+                <a href="">Name</a>(Affiliation)
+            </td>
         </tr>
 
         <tr valign="middle" style="background-color:#e2cfc4">
-            <td><img src="images/daniel_ritchie.jpg" width="200"/><br>
-                [ Panelists ] <br>
-                <a href="">Name</a>(Affiliation)<br>
-                <a href="">Name</a>(Affiliation)
+            <td><img src="images/person_placeholder.png" width="200"/><br>
+                <b>[ Presenter ] </b> <br>
+                <a href="">First Name</a>(Affiliation)<br><br/>
             </td>
             <td style="width:40%;">
                 <table>
@@ -198,371 +154,12 @@
                     </tbody>
                 </table>
             </td>
-            <td style="width:35%;"><b>Title</b><br><br><a href="https://dritchie.github.io/">Daniel Ritchie<br>Brown</a>
-            </td>
-        </tr>
-
-        <tr valign="middle" style="background-color:#c6def1">
-            <td><img src="images/takeo_igarashi.jpg" width="200"/><br>
-                [ Panelists ] <br>
+            <td style="width:35%;">
+                <b>Some scheduling topic</b><br><br>
+                <b>[ Panelists ]</b> <br>
                 <a href="">Name</a>(Affiliation)<br>
                 <a href="">Name</a>(Affiliation)
             </td>
-            <td style="width:40%;">
-                <table>
-                    <tbody>
-                    <tr style="background-color:#c6def1">
-                        <td>Sydney</td>
-                        <td>02/24 14:00 Wed</td>
-                    </tr>
-                    <tr style="background-color:#c6def1">
-                        <td>Beijing</td>
-                        <td>02/24 11:00 Wed</td>
-                    </tr>
-                    <tr style="background-color:#e2e2df">
-                        <td>France</td>
-                        <td>02/24 04:00 Wed</td>
-                    </tr>
-                    <tr style="background-color:#e2e2df">
-                        <td>UK</td>
-                        <td>02/24 03:00 Wed</td>
-                    </tr>
-                    <tr style="background-color:#e2cfc4">
-                        <td>Eastern</td>
-                        <td>02/23 22:00 Tue</td>
-                    </tr>
-                    <tr style="background-color:#e2cfc4">
-                        <td>Pacific</td>
-                        <td>02/23 19:00 Tue</td>
-                    </tr>
-                    </tbody>
-                </table>
-            </td>
-            <td style="width:35%;"><b>Human-in-the-loop Computational Design</b><br><br><a
-                    href="https://www-ui.is.s.u-tokyo.ac.jp/~takeo/">Takeo Igarashi<br>U Tokyo</a></td>
-        </tr>
-
-        <tr valign="middle" style="background-color:#e2e2df">
-            <td><img src="" width="200"/><br>
-                [ Panelists ] <br>
-                <a href="">Name</a>(Affiliation)<br>
-                <a href="">Name</a>(Affiliation)
-            </td>
-            <td style="width:40%;">
-                <table>
-                    <tbody>
-                    <tr style="background-color:#c6def1">
-                        <td>Sydney</td>
-                        <td>03/03 22:00 Wed</td>
-                    </tr>
-                    <tr style="background-color:#c6def1">
-                        <td>Beijing</td>
-                        <td>03/03 19:00 Wed</td>
-                    </tr>
-                    <tr style="background-color:#e2e2df">
-                        <td>France</td>
-                        <td>03/03 12:00 Wed</td>
-                    </tr>
-                    <tr style="background-color:#e2e2df">
-                        <td>UK</td>
-                        <td>03/03 11:00 Wed</td>
-                    </tr>
-                    <tr style="background-color:#e2cfc4">
-                        <td>Eastern</td>
-                        <td>03/03 06:00 Wed</td>
-                    </tr>
-                    <tr style="background-color:#e2cfc4">
-                        <td>Pacific</td>
-                        <td>03/03 03:00 Wed</td>
-                    </tr>
-                    </tbody>
-                </table>
-            </td>
-            <td style="width:35%;"><b>Title</b><br><br><a href="">Name<br>Affiliation</a></td>
-        </tr>
-
-        <tr valign="middle" style="background-color:#e2cfc4">
-            <td><img src="images/noah_snavely.jpg" width="200"/><br>
-                [ Panelists ] <br>
-                <a href="">Name</a>(Affiliation)<br>
-                <a href="">Name</a>(Affiliation)
-            </td>
-            <td style="width:40%;">
-                <table>
-                    <tbody>
-                    <tr style="background-color:#c6def1">
-                        <td>Sydney</td>
-                        <td>03/11 06:00 Thu</td>
-                    </tr>
-                    <tr style="background-color:#c6def1">
-                        <td>Beijing</td>
-                        <td>03/11 03:00 Thu</td>
-                    </tr>
-                    <tr style="background-color:#e2e2df">
-                        <td>France</td>
-                        <td>03/10 20:00 Wed</td>
-                    </tr>
-                    <tr style="background-color:#e2e2df">
-                        <td>UK</td>
-                        <td>03/10 19:00 Wed</td>
-                    </tr>
-                    <tr style="background-color:#e2cfc4">
-                        <td>Eastern</td>
-                        <td>03/10 14:00 Wed</td>
-                    </tr>
-                    <tr style="background-color:#e2cfc4">
-                        <td>Pacific</td>
-                        <td>03/10 11:00 Wed</td>
-                    </tr>
-                    </tbody>
-                </table>
-            </td>
-            <td style="width:35%;"><b>Title</b><br><br><a href="http://www.cs.cornell.edu/~snavely/">Noah Snavely<br>Cornell
-                Tech and Google Research</a></td>
-        </tr>
-
-        <tr valign="middle" style="background-color:white">
-            <td></td>
-            <td><img src="images/break.jpg" width="200"/></td>
-            <td><img src="images/break.jpg" width="200"/></td>
-        </tr>
-
-        <tr valign="middle" style="background-color:#c6def1">
-            <td><img src="images/tat_jun_chin.png" width="200"/><br>
-                [ Panelists ] <br>
-                <a href="">Name</a>(Affiliation)<br>
-                <a href="">Name</a>(Affiliation)
-            </td>
-            <td style="width:40%;">
-                <table>
-                    <tbody>
-                    <tr style="background-color:#c6def1">
-                        <td>Sydney</td>
-                        <td>03/24 14:00 Wed</td>
-                    </tr>
-                    <tr style="background-color:#c6def1">
-                        <td>Beijing</td>
-                        <td>03/24 11:00 Wed</td>
-                    </tr>
-                    <tr style="background-color:#e2e2df">
-                        <td>France</td>
-                        <td>03/24 04:00 Wed</td>
-                    </tr>
-                    <tr style="background-color:#e2e2df">
-                        <td>UK</td>
-                        <td>03/24 03:00 Wed</td>
-                    </tr>
-                    <tr style="background-color:#e2cfc4">
-                        <td>Eastern</td>
-                        <td>03/23 23:00 Tue</td>
-                    </tr>
-                    <tr style="background-color:#e2cfc4">
-                        <td>Pacific</td>
-                        <td>03/23 20:00 Tue</td>
-                    </tr>
-                    </tbody>
-                </table>
-            </td>
-            <td style="width:35%;"><b>Title</b><br><br><a href="https://cs.adelaide.edu.au/~tjchin">Tat-Jun Chin<br>U
-                Adelaide</a></td>
-        </tr>
-
-        <tr valign="middle" style="background-color:#e2e2df">
-            <td><img src="images/andrew_davison.jpg" width="200"/><br>
-                [ Panelists ] <br>
-                <a href="">Name</a>(Affiliation)<br>
-                <a href="">Name</a>(Affiliation)
-            </td>
-            <td style="width:40%;">
-                <table>
-                    <tbody>
-                    <tr style="background-color:#c6def1">
-                        <td>Sydney</td>
-                        <td>03/31 21:00 Wed</td>
-                    </tr>
-                    <tr style="background-color:#c6def1">
-                        <td>Beijing</td>
-                        <td>03/31 18:00 Wed</td>
-                    </tr>
-                    <tr style="background-color:#e2e2df">
-                        <td>France</td>
-                        <td>03/31 12:00 Wed</td>
-                    </tr>
-                    <tr style="background-color:#e2e2df">
-                        <td>UK</td>
-                        <td>03/31 11:00 Wed</td>
-                    </tr>
-                    <tr style="background-color:#e2cfc4">
-                        <td>Eastern</td>
-                        <td>03/31 06:00 Wed</td>
-                    </tr>
-                    <tr style="background-color:#e2cfc4">
-                        <td>Pacific</td>
-                        <td>03/31 03:00 Wed</td>
-                    </tr>
-                    </tbody>
-                </table>
-            </td>
-            <td style="width:35%;"><b>Title</b><br><br><a href="https://www.doc.ic.ac.uk/~ajd/">Andrew Davison<br>Imperial
-                College London</a></td>
-        </tr>
-
-        <tr valign="middle" style="background-color:#e2cfc4">
-            <td><img src="images/shuran_song.jpg" width="200"/><br>
-                [ Panelists ] <br>
-                <a href="">Name</a>(Affiliation)<br>
-                <a href="">Name</a>(Affiliation)
-            </td>
-            <td style="width:40%;">
-                <table>
-                    <tbody>
-                    <tr style="background-color:#c6def1">
-                        <td>Sydney</td>
-                        <td>04/08 04:00 Thu</td>
-                    </tr>
-                    <tr style="background-color:#c6def1">
-                        <td>Beijing</td>
-                        <td>04/08 02:00 Thu</td>
-                    </tr>
-                    <tr style="background-color:#e2e2df">
-                        <td>France</td>
-                        <td>04/07 20:00 Wed</td>
-                    </tr>
-                    <tr style="background-color:#e2e2df">
-                        <td>UK</td>
-                        <td>04/07 19:00 Wed</td>
-                    </tr>
-                    <tr style="background-color:#e2cfc4">
-                        <td>Eastern</td>
-                        <td>04/07 14:00 Wed</td>
-                    </tr>
-                    <tr style="background-color:#e2cfc4">
-                        <td>Pacific</td>
-                        <td>04/07 11:00 Wed</td>
-                    </tr>
-                    </tbody>
-                </table>
-            </td>
-            <td style="width:35%;"><b>Title</b><br><br><a href="https://www.cs.columbia.edu/~shurans/">Shuran Song<br>Columbia</a>
-            </td>
-        </tr>
-
-        <tr valign="middle" style="background-color:#c6def1">
-            <td><img src="images/siddhartha_chaudhuri.jpg" width="200"/><br>
-                [ Panelists ] <br>
-                <a href="">Name</a>(Affiliation)<br>
-                <a href="">Name</a>(Affiliation)
-            </td>
-            <td style="width:40%;">
-                <table>
-                    <tbody>
-                    <tr style="background-color:#c6def1">
-                        <td>Sydney</td>
-                        <td>04/14 13:00 Wed</td>
-                    </tr>
-                    <tr style="background-color:#c6def1">
-                        <td>Beijing</td>
-                        <td>04/14 11:00 Wed</td>
-                    </tr>
-                    <tr style="background-color:#e2e2df">
-                        <td>France</td>
-                        <td>04/14 05:00 Wed</td>
-                    </tr>
-                    <tr style="background-color:#e2e2df">
-                        <td>UK</td>
-                        <td>04/14 04:00 Wed</td>
-                    </tr>
-                    <tr style="background-color:#e2cfc4">
-                        <td>Eastern</td>
-                        <td>04/13 23:00 Tue</td>
-                    </tr>
-                    <tr style="background-color:#e2cfc4">
-                        <td>Pacific</td>
-                        <td>04/13 20:00 Tue</td>
-                    </tr>
-                    </tbody>
-                </table>
-            </td>
-            <td style="width:35%;"><b>Title</b><br><br><a href="https://www.cse.iitb.ac.in/~sidch/">Siddhartha Chaudhuri<br>IIT
-                Bombay & Adobe Research</a></td>
-        </tr>
-
-        <tr valign="middle" style="background-color:#e2e2df">
-            <td><img src="images/andreas_geiger.jpg" width="200"/><br>
-                [ Panelists ] <br>
-                <a href="">Name</a>(Affiliation)<br>
-                <a href="">Name</a>(Affiliation)
-            </td>
-            <td style="width:40%;">
-                <table>
-                    <tbody>
-                    <tr style="background-color:#c6def1">
-                        <td>Sydney</td>
-                        <td>04/21 20:00 Wed</td>
-                    </tr>
-                    <tr style="background-color:#c6def1">
-                        <td>Beijing</td>
-                        <td>04/21 18:00 Wed</td>
-                    </tr>
-                    <tr style="background-color:#e2e2df">
-                        <td>France</td>
-                        <td>04/21 12:00 Wed</td>
-                    </tr>
-                    <tr style="background-color:#e2e2df">
-                        <td>UK</td>
-                        <td>04/21 11:00 Wed</td>
-                    </tr>
-                    <tr style="background-color:#e2cfc4">
-                        <td>Eastern</td>
-                        <td>04/21 06:00 Wed</td>
-                    </tr>
-                    <tr style="background-color:#e2cfc4">
-                        <td>Pacific</td>
-                        <td>04/21 03:00 Wed</td>
-                    </tr>
-                    </tbody>
-                </table>
-            </td>
-            <td style="width:35%;"><b>Title</b><br><br><a href="">Andreas Geiger<br>Tübingen/MPI</a></td>
-        </tr>
-        <tr valign="middle" style="background-color:#e2e2df">
-            <td><img src="images/yaron_lipman.jpg" width="200"/><br>
-                [ Panelists ] <br>
-                <a href="">Name</a>(Affiliation)<br>
-                <a href="">Name</a>(Affiliation)
-            </td>
-            <td style="width:40%;">
-                <table>
-                    <tbody>
-                    <tr style="background-color:#c6def1">
-                        <td>Sydney</td>
-                        <td>05/05 20:00 Wed</td>
-                    </tr>
-                    <tr style="background-color:#c6def1">
-                        <td>Beijing</td>
-                        <td>05/05 18:00 Wed</td>
-                    </tr>
-                    <tr style="background-color:#e2e2df">
-                        <td>France</td>
-                        <td>05/05 12:00 Wed</td>
-                    </tr>
-                    <tr style="background-color:#e2e2df">
-                        <td>UK</td>
-                        <td>05/05 11:00 Wed</td>
-                    </tr>
-                    <tr style="background-color:#e2cfc4">
-                        <td>Eastern</td>
-                        <td>05/05 06:00 Wed</td>
-                    </tr>
-                    <tr style="background-color:#e2cfc4">
-                        <td>Pacific</td>
-                        <td>05/05 03:00 Wed</td>
-                    </tr>
-                    </tbody>
-                </table>
-            </td>
-            <td style="width:35%;"><b>Title</b><br><br><a href="http://www.wisdom.weizmann.ac.il/~ylipman/">Yaron Lipman<br>Weizmann
-                Institute of Science</a></td>
         </tr>
         </tbody>
     </table>

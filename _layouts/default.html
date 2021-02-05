@@ -38,8 +38,8 @@
         }
 
         .row {
-            margin-left:-5px;
-            margin-right:-5px;
+            margin-left: -5px;
+            margin-right: -5px;
         }
 
         .column {
@@ -68,9 +68,15 @@
         }
 
         /* If display too small, put the columns under each other */
-        @media screen and (max-width: 800px) {
+        @media screen and (max-width: 80em) {
             .column {
-                width: 100%;
+                width: 100% !important;
+            }
+        }
+
+        @media screen and (min-width: 64em) {
+            .main-content {
+                max-width: 100em !important;
             }
         }
     </style>
