@@ -21,6 +21,7 @@
     </tbody>
 </table>
 
+<hr>
 <!--Buttons-->
 <p style="text-align:center;">
     <a href="https://youtu.be/add-link" class="button3">Join Youtube Live Stream</a>
@@ -28,6 +29,7 @@
 </p>
 
 
+<hr>
 <!--Talks-->
 <div class="column">
     <h2 style="color:black;">Upcoming talks</h2>
@@ -1243,7 +1245,8 @@
 
 
 <!--Organizers-->
-
+&nbsp;
+<hr>
 <table id="people_table" border="0" cellpading="0" cellspacing="0">
     <h2 style="color:black;">Organizers</h2>
     <tbody>
@@ -1333,6 +1336,8 @@
 </table>
 
 <!--Supervisors-->
+&nbsp;
+<hr>
 <h2 style="color:black;">Supervisors</h2>
 <table id="people_table" border="0" cellpading="0" cellspacing="0">
     <tbody>
@@ -1405,6 +1410,7 @@
 </table>
 
 
+&nbsp;
 <hr>
 <!--Calendar-->
 <div class="column">
