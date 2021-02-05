@@ -33,12 +33,45 @@
             object-fit: cover;
         }
 
-        table {
-            border-collapse: collapse;
+        * {
+            box-sizing: border-box;
         }
 
-        td {
+        .row {
+            margin-left:-5px;
+            margin-right:-5px;
+        }
+
+        .column {
+            float: left;
+            width: 50%;
+            padding: 5px;
+        }
+
+        /* Clearfix (clear floats) */
+        .row::after {
+            content: "";
+            clear: both;
+            display: table;
+        }
+
+        table {
+            border-collapse: collapse;
+            border-spacing: 0;
+            width: 100%;
+        }
+
+        th, td {
             border-style: hidden !important;
+            text-align: left;
+            padding: 16px;
+        }
+
+        /* If display too small, put the columns under each other */
+        @media screen and (max-width: 800px) {
+            .column {
+                width: 100%;
+            }
         }
     </style>
 
