@@ -12,7 +12,7 @@
             <font style="background-color:#e2cfc4;">America</font>, and
             <font style="background-color:#c6def1;">Asia</font>).
             We show seminar hours in six different time zones in the following table. Please
-            <a href="https://calendar.google.com/calendar/ical/3dgv.seminar%40gmail.com/public/basic.ics">
+            <a href="https://calendar.google.com/calendar/ical/2msocnucclr024qb5f0giulpng%40group.calendar.google.com/public/basic.ics">
                 add this to your calendar
             </a>
             to know hours in your time-zone.
@@ -925,11 +925,10 @@
                 <a href="">Name</a><br/>(Affiliation)
             </td>
             <td colspan="2">
-                <iframe height="350" width="100%" src="https://www.youtube.com/embed/eS-BMGIVp2o"
-                        frameborder="0"
-                        allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-                        allowfullscreen>
-                </iframe>
+
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/SC5CX8drAtU" frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                        allowfullscreen></iframe>
             </td>
         </tr>
 
@@ -947,11 +946,9 @@
                 <a href="">Name</a><br/>(Affiliation)
             </td>
             <td colspan="2">
-                <iframe height="350" width="100%" src="https://www.youtube.com/embed/eS-BMGIVp2o"
-                        frameborder="0"
-                        allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-                        allowfullscreen>
-                </iframe>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/SC5CX8drAtU" frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                        allowfullscreen></iframe>
             </td>
         </tr>
 
@@ -969,11 +966,9 @@
                 <a href="">Name</a><br/>(Affiliation)
             </td>
             <td colspan="2">
-                <iframe height="350" width="100%" src="https://www.youtube.com/embed/eS-BMGIVp2o"
-                        frameborder="0"
-                        allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-                        allowfullscreen>
-                </iframe>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/SC5CX8drAtU" frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                        allowfullscreen></iframe>
             </td>
         </tr>
 
@@ -991,11 +986,9 @@
                 <a href="">Name</a><br/>(Affiliation)
             </td>
             <td colspan="2">
-                <iframe height="350" width="100%" src="https://www.youtube.com/embed/eS-BMGIVp2o"
-                        frameborder="0"
-                        allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-                        allowfullscreen>
-                </iframe>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/SC5CX8drAtU" frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                        allowfullscreen></iframe>
             </td>
         </tr>
 
@@ -1013,11 +1006,9 @@
                 <a href="">Name</a><br/>(Affiliation)
             </td>
             <td colspan="2">
-                <iframe height="350" width="100%" src="https://www.youtube.com/embed/eS-BMGIVp2o"
-                        frameborder="0"
-                        allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-                        allowfullscreen>
-                </iframe>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/SC5CX8drAtU" frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                        allowfullscreen></iframe>
             </td>
         </tr>
 
@@ -1035,11 +1026,9 @@
                 <a href="">Name</a><br/>(Affiliation)
             </td>
             <td colspan="2">
-                <iframe height="350" width="100%" src="https://www.youtube.com/embed/eS-BMGIVp2o"
-                        frameborder="0"
-                        allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-                        allowfullscreen>
-                </iframe>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/SC5CX8drAtU" frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                        allowfullscreen></iframe>
             </td>
         </tr>
 
@@ -1057,11 +1046,9 @@
                 <a href="">Name</a><br/>(Affiliation)
             </td>
             <td colspan="2">
-                <iframe height="350" width="100%" src="https://www.youtube.com/embed/eS-BMGIVp2o"
-                        frameborder="0"
-                        allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-                        allowfullscreen>
-                </iframe>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/SC5CX8drAtU" frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                        allowfullscreen></iframe>
             </td>
         </tr>
 
@@ -1079,11 +1066,9 @@
                 <a href="">Name</a><br/>(Affiliation)
             </td>
             <td colspan="2">
-                <iframe height="350" width="100%" src="https://www.youtube.com/embed/eS-BMGIVp2o"
-                        frameborder="0"
-                        allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-                        allowfullscreen>
-                </iframe>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/SC5CX8drAtU" frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                        allowfullscreen></iframe>
             </td>
         </tr>
 
@@ -1101,11 +1086,9 @@
                 <a href="">Name</a><br/>(Affiliation)
             </td>
             <td colspan="2">
-                <iframe height="350" width="100%" src="https://www.youtube.com/embed/eS-BMGIVp2o"
-                        frameborder="0"
-                        allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-                        allowfullscreen>
-                </iframe>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/SC5CX8drAtU" frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                        allowfullscreen></iframe>
             </td>
         </tr>
 
@@ -1123,11 +1106,9 @@
                 <a href="">Name</a><br/>(Affiliation)
             </td>
             <td colspan="2">
-                <iframe height="350" width="100%" src="https://www.youtube.com/embed/eS-BMGIVp2o"
-                        frameborder="0"
-                        allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-                        allowfullscreen>
-                </iframe>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/SC5CX8drAtU" frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                        allowfullscreen></iframe>
             </td>
         </tr>
 
@@ -1145,11 +1126,9 @@
                 <a href="">Name</a><br/>(Affiliation)
             </td>
             <td colspan="2">
-                <iframe height="350" width="100%" src="https://www.youtube.com/embed/eS-BMGIVp2o"
-                        frameborder="0"
-                        allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-                        allowfullscreen>
-                </iframe>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/SC5CX8drAtU" frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                        allowfullscreen></iframe>
             </td>
         </tr>
 
@@ -1167,11 +1146,9 @@
                 <a href="">Name</a><br/>(Affiliation)
             </td>
             <td colspan="2">
-                <iframe height="350" width="100%" src="https://www.youtube.com/embed/eS-BMGIVp2o"
-                        frameborder="0"
-                        allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-                        allowfullscreen>
-                </iframe>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/SC5CX8drAtU" frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                        allowfullscreen></iframe>
             </td>
         </tr>
 
@@ -1189,11 +1166,9 @@
                 <a href="">Name</a><br/>(Affiliation)
             </td>
             <td colspan="2">
-                <iframe height="350" width="100%" src="https://www.youtube.com/embed/eS-BMGIVp2o"
-                        frameborder="0"
-                        allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-                        allowfullscreen>
-                </iframe>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/SC5CX8drAtU" frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                        allowfullscreen></iframe>
             </td>
         </tr>
 
@@ -1211,11 +1186,9 @@
                 <a href="">Name</a><br/>(Affiliation)
             </td>
             <td colspan="2">
-                <iframe height="350" width="100%" src="https://www.youtube.com/embed/eS-BMGIVp2o"
-                        frameborder="0"
-                        allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-                        allowfullscreen>
-                </iframe>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/SC5CX8drAtU" frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                        allowfullscreen></iframe>
             </td>
         </tr>
 
@@ -1233,11 +1206,9 @@
                 <a href="">Name</a><br/>(Affiliation)
             </td>
             <td colspan="2">
-                <iframe height="350" width="100%" src="https://www.youtube.com/embed/eS-BMGIVp2o"
-                        frameborder="0"
-                        allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-                        allowfullscreen>
-                </iframe>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/SC5CX8drAtU" frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                        allowfullscreen></iframe>
             </td>
         </tr>
         </tbody>
@@ -1416,14 +1387,15 @@
 <!--Calendar-->
 <div class="column">
     <h2 style="color:black;">Calendar (time zone conversion)</h2>
-    <iframe src="https://calendar.google.com/calendar/embed?height=500&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FVancouver&amp;src=M2Rndi5zZW1pbmFyQGdtYWlsLmNvbQ&amp;color=%23039BE5&amp;showTitle=1&amp;mode=AGENDA"
-            style="border:solid 1px #777" width="500" height="500" frameborder="0" scrolling="no"></iframe>
+    <iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=Europe%2FPrague&amp;src=Mm1zb2NudWNjbHIwMjRxYjVmMGdpdWxwbmdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23D81B60"
+            style="border:solid 1px #777" width="640" height="500" frameborder="0" scrolling="no"></iframe>
+
 </div>
 
 <!--Google form-->
 <div class="column">
     <h2 style="color:black;">Feedback form</h2>
-    <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScaSLm3y0prj-PRM5htvsZ3R-6fUuTI3acBwAjSB0VisdzMFQ/viewform?embedded=true"
+    <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSft0c5z1TpqKgoVWG6SBv_CIix-gaaqjIbyDCBXJ8vkjKXTug/viewform?usp=sf_link"
             width="640" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading…
     </iframe>
 </div>
