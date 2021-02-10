@@ -1237,9 +1237,10 @@
 
 
 <!--Organizers-->
+<div style="clear: both"></div>
 &nbsp;
 <hr>
-<div id="PC_co-chairs">
+<div id="PC_co-chairs" style="width:100%">
     <table id="people_table" border="0" cellpading="0" cellspacing="0">
         <h2 style="color:black;">PC co-chairs</h2>
         <tbody>
