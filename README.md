@@ -58,7 +58,7 @@
         <tbody>
 
         <!--Person-->
-        <tr valign="middle" style="background-color:#c6def1">
+        <tr valign="middle" style="background-color:var(--europe)">
             <td style="width:25%;">
                 <a href="https://schedseminar.github.io/">
                     <img src="./images/person_placeholder.png" height="300" width="300"/>
@@ -76,22 +76,237 @@
                 <a href="">Name Surname</a> (Affiliation)
             </td>
 
-            <td style="width:45%;">
+            <td style="width:30%;">
                 <table>
                     <tbody>
-                    <tr style="background-color:#ffffff">
+                    <tr style="background-color:var(--utc)">
                         <td>UTC</td>
                         <td>Feb 20, 14:00 Wed</td>
                     </tr>
-                    <tr style="background-color:#e2e2df">
+                    <tr style="background-color:var(--europe)">
                         <td>Prague</td>
                         <td>Feb 20, 11:00 Wed</td>
                     </tr>
-                    <tr style="background-color:#e2cfc4">
+                    <tr style="background-color:var(--america)">
                         <td>New York</td>
                         <td>Feb 20, 04:00 Wed</td>
                     </tr>
-                    <tr style="background-color:#c6def1">
+                    <tr style="background-color:var(--asia)">
+                        <td>Shanghai</td>
+                        <td>Feb 20, 03:00 Wed</td>
+                    </tr>
+                    </tbody>
+                </table>
+            </td>
+        </tr>
+
+        <!--Person-->
+        <tr valign="middle" style="background-color:var(--america)">
+            <td style="width:25%;">
+                <a href="https://schedseminar.github.io/">
+                    <img src="./images/person_placeholder.png" height="300" width="300"/>
+                </a><br/>
+
+            </td>
+            <td style="width:30%;">
+                <b>Some scheduling topic</b><br>
+                <b>[ Presenter ] </b> <br>
+                <a href="">Name Surname</a> (Affiliation)<br><br/>
+                <b>[ Panelists ]</b> <br>
+                <a href="">Name Surname</a> (Affiliation)<br>
+                <a href="">Name Surname</a> (Affiliation)<br/><br/>
+                <b>[ Invited by ]</b> <br>
+                <a href="">Name Surname</a> (Affiliation)
+            </td>
+
+            <td style="width:30%;">
+                <table>
+                    <tbody>
+                    <tr style="background-color:var(--utc)">
+                        <td>UTC</td>
+                        <td>Feb 20, 14:00 Wed</td>
+                    </tr>
+                    <tr style="background-color:var(--europe)">
+                        <td>Prague</td>
+                        <td>Feb 20, 11:00 Wed</td>
+                    </tr>
+                    <tr style="background-color:var(--america)">
+                        <td>New York</td>
+                        <td>Feb 20, 04:00 Wed</td>
+                    </tr>
+                    <tr style="background-color:var(--asia)">
+                        <td>Shanghai</td>
+                        <td>Feb 20, 03:00 Wed</td>
+                    </tr>
+                    </tbody>
+                </table>
+            </td>
+        </tr>
+
+        <!--Person-->
+        <tr valign="middle" style="background-color:var(--asia)">
+            <td style="width:25%;">
+                <a href="https://schedseminar.github.io/">
+                    <img src="./images/person_placeholder.png" height="300" width="300"/>
+                </a><br/>
+
+            </td>
+            <td style="width:30%;">
+                <b>Some scheduling topic</b><br>
+                <b>[ Presenter ] </b> <br>
+                <a href="">Name Surname</a> (Affiliation)<br><br/>
+                <b>[ Panelists ]</b> <br>
+                <a href="">Name Surname</a> (Affiliation)<br>
+                <a href="">Name Surname</a> (Affiliation)<br/><br/>
+                <b>[ Invited by ]</b> <br>
+                <a href="">Name Surname</a> (Affiliation)
+            </td>
+
+            <td style="width:30%;">
+                <table>
+                    <tbody>
+                    <tr style="background-color:var(--utc)">
+                        <td>UTC</td>
+                        <td>Feb 20, 14:00 Wed</td>
+                    </tr>
+                    <tr style="background-color:var(--europe)">
+                        <td>Prague</td>
+                        <td>Feb 20, 11:00 Wed</td>
+                    </tr>
+                    <tr style="background-color:var(--america)">
+                        <td>New York</td>
+                        <td>Feb 20, 04:00 Wed</td>
+                    </tr>
+                    <tr style="background-color:var(--asia)">
+                        <td>Shanghai</td>
+                        <td>Feb 20, 03:00 Wed</td>
+                    </tr>
+                    </tbody>
+                </table>
+            </td>
+        </tr>
+
+        <!--Person-->
+        <tr valign="middle" style="background-color:var(--europe)">
+            <td style="width:25%;">
+                <a href="https://schedseminar.github.io/">
+                    <img src="./images/person_placeholder.png" height="300" width="300"/>
+                </a><br/>
+
+            </td>
+            <td style="width:30%;">
+                <b>Some scheduling topic</b><br>
+                <b>[ Presenter ] </b> <br>
+                <a href="">Name Surname</a> (Affiliation)<br><br/>
+                <b>[ Panelists ]</b> <br>
+                <a href="">Name Surname</a> (Affiliation)<br>
+                <a href="">Name Surname</a> (Affiliation)<br/><br/>
+                <b>[ Invited by ]</b> <br>
+                <a href="">Name Surname</a> (Affiliation)
+            </td>
+
+            <td style="width:30%;">
+                <table>
+                    <tbody>
+                    <tr style="background-color:var(--utc)">
+                        <td>UTC</td>
+                        <td>Feb 20, 14:00 Wed</td>
+                    </tr>
+                    <tr style="background-color:var(--europe)">
+                        <td>Prague</td>
+                        <td>Feb 20, 11:00 Wed</td>
+                    </tr>
+                    <tr style="background-color:var(--america)">
+                        <td>New York</td>
+                        <td>Feb 20, 04:00 Wed</td>
+                    </tr>
+                    <tr style="background-color:var(--asia)">
+                        <td>Shanghai</td>
+                        <td>Feb 20, 03:00 Wed</td>
+                    </tr>
+                    </tbody>
+                </table>
+            </td>
+        </tr>
+
+        <!--Person-->
+        <tr valign="middle" style="background-color:var(--america)">
+            <td style="width:25%;">
+                <a href="https://schedseminar.github.io/">
+                    <img src="./images/person_placeholder.png" height="300" width="300"/>
+                </a><br/>
+
+            </td>
+            <td style="width:30%;">
+                <b>Some scheduling topic</b><br>
+                <b>[ Presenter ] </b> <br>
+                <a href="">Name Surname</a> (Affiliation)<br><br/>
+                <b>[ Panelists ]</b> <br>
+                <a href="">Name Surname</a> (Affiliation)<br>
+                <a href="">Name Surname</a> (Affiliation)<br/><br/>
+                <b>[ Invited by ]</b> <br>
+                <a href="">Name Surname</a> (Affiliation)
+            </td>
+
+            <td style="width:30%;">
+                <table>
+                    <tbody>
+                    <tr style="background-color:var(--utc)">
+                        <td>UTC</td>
+                        <td>Feb 20, 14:00 Wed</td>
+                    </tr>
+                    <tr style="background-color:var(--europe)">
+                        <td>Prague</td>
+                        <td>Feb 20, 11:00 Wed</td>
+                    </tr>
+                    <tr style="background-color:var(--america)">
+                        <td>New York</td>
+                        <td>Feb 20, 04:00 Wed</td>
+                    </tr>
+                    <tr style="background-color:var(--asia)">
+                        <td>Shanghai</td>
+                        <td>Feb 20, 03:00 Wed</td>
+                    </tr>
+                    </tbody>
+                </table>
+            </td>
+        </tr>
+
+        <!--Person-->
+        <tr valign="middle" style="background-color:var(--asia)">
+            <td style="width:25%;">
+                <a href="https://schedseminar.github.io/">
+                    <img src="./images/person_placeholder.png" height="300" width="300"/>
+                </a><br/>
+
+            </td>
+            <td style="width:30%;">
+                <b>Some scheduling topic</b><br>
+                <b>[ Presenter ] </b> <br>
+                <a href="">Name Surname</a> (Affiliation)<br><br/>
+                <b>[ Panelists ]</b> <br>
+                <a href="">Name Surname</a> (Affiliation)<br>
+                <a href="">Name Surname</a> (Affiliation)<br/><br/>
+                <b>[ Invited by ]</b> <br>
+                <a href="">Name Surname</a> (Affiliation)
+            </td>
+
+            <td style="width:30%;">
+                <table>
+                    <tbody>
+                    <tr style="background-color:var(--utc)">
+                        <td>UTC</td>
+                        <td>Feb 20, 14:00 Wed</td>
+                    </tr>
+                    <tr style="background-color:var(--europe)">
+                        <td>Prague</td>
+                        <td>Feb 20, 11:00 Wed</td>
+                    </tr>
+                    <tr style="background-color:var(--america)">
+                        <td>New York</td>
+                        <td>Feb 20, 04:00 Wed</td>
+                    </tr>
+                    <tr style="background-color:var(--asia)">
                         <td>Shanghai</td>
                         <td>Feb 20, 03:00 Wed</td>
                     </tr>
@@ -147,775 +362,6 @@
                         <a href="">Name</a>(Affiliation)
                     </td>
                 </tr>-->
-
-        <!--Person-->
-        <tr valign="middle" style="background-color:#e2cfc4">
-            <td style="width:25%;">
-                <a href="https://schedseminar.github.io/">
-                    <img src="./images/person_placeholder.png" width="200"/>
-                </a><br/>
-                <b>[ Presenter ] </b> <br>
-                <a href="">First Name</a>(Affiliation)<br><br/>
-            </td>
-
-            <td style="width:40%;">
-                <table>
-                    <tbody>
-                    <tr style="background-color:#c6def1">
-                        <td>Sydney</td>
-                        <td>02/18 06:00 Thu</td>
-                    </tr>
-                    <tr style="background-color:#c6def1">
-                        <td>Beijing</td>
-                        <td>02/18 03:00 Thu</td>
-                    </tr>
-                    <tr style="background-color:#e2e2df">
-                        <td>France</td>
-                        <td>02/17 20:00 Wed</td>
-                    </tr>
-                    <tr style="background-color:#e2e2df">
-                        <td>UK</td>
-                        <td>02/17 19:00 Wed</td>
-                    </tr>
-                    <tr style="background-color:#e2cfc4">
-                        <td>Eastern</td>
-                        <td>02/17 14:00 Wed</td>
-                    </tr>
-                    <tr style="background-color:#e2cfc4">
-                        <td>Pacific</td>
-                        <td>02/17 11:00 Wed</td>
-                    </tr>
-                    </tbody>
-                </table>
-            </td>
-            <td style="width:35%;">
-                <b>Some scheduling topic</b><br><br>
-                <b>[ Panelists ]</b> <br>
-                <a href="">Name</a>(Affiliation)<br>
-                <a href="">Name</a>(Affiliation)
-            </td>
-        </tr>
-
-        <!--Person-->
-        <tr valign="middle" style="background-color:#c6def1">
-            <td style="width:25%;">
-                <a href="https://schedseminar.github.io/">
-                    <img src="./images/person_placeholder.png" width="200"/>
-                </a><br/>
-                <b>[ Presenter ] </b> <br>
-                <a href="">First Name</a><br/>(Affiliation)<br>
-            </td>
-
-            <td style="width:40%;">
-                <table>
-                    <tbody>
-                    <tr style="background-color:#c6def1">
-                        <td>Sydney</td>
-                        <td>02/03 14:00 Wed</td>
-                    </tr>
-                    <tr style="background-color:#c6def1">
-                        <td>Beijing</td>
-                        <td>02/03 11:00 Wed</td>
-                    </tr>
-                    <tr style="background-color:#e2e2df">
-                        <td>France</td>
-                        <td>02/03 04:00 Wed</td>
-                    </tr>
-                    <tr style="background-color:#e2e2df">
-                        <td>UK</td>
-                        <td>02/03 03:00 Wed</td>
-                    </tr>
-                    <tr style="background-color:#e2cfc4">
-                        <td>Eastern</td>
-                        <td>02/02 22:00 Tue</td>
-                    </tr>
-                    <tr style="background-color:#e2cfc4">
-                        <td>Pacific</td>
-                        <td>02/02 19:00 Tue</td>
-                    </tr>
-                    </tbody>
-                </table>
-            </td>
-            <td style="width:35%;">
-                <b>Some scheduling topic</b><br><br>
-                <b>[ Panelists ]</b> <br>
-                <a href="">Name</a>(Affiliation)<br>
-                <a href="">Name</a>(Affiliation)
-            </td>
-        </tr>
-
-        <!--Person-->
-        <tr valign="middle" style="background-color:#e2e2df">
-            <td style="width:25%;">
-                <a href="https://schedseminar.github.io/">
-                    <img src="./images/person_placeholder.png" width="200"/>
-                </a><br/>
-                <b>[ Presenter ] </b> <br>
-                <a href="">First Name</a>(Affiliation)<br><br/>
-            </td>
-
-            <td style="width:40%;">
-                <table>
-                    <tbody>
-                    <tr style="background-color:#c6def1">
-                        <td>Sydney</td>
-                        <td>02/10 22:00 Wed</td>
-                    </tr>
-                    <tr style="background-color:#c6def1">
-                        <td>Beijing</td>
-                        <td>02/10 19:00 Wed</td>
-                    </tr>
-                    <tr style="background-color:#e2e2df">
-                        <td>France</td>
-                        <td>02/10 12:00 Wed</td>
-                    </tr>
-                    <tr style="background-color:#e2e2df">
-                        <td>UK</td>
-                        <td>02/10 11:00 Wed</td>
-                    </tr>
-                    <tr style="background-color:#e2cfc4">
-                        <td>Eastern</td>
-                        <td>02/10 06:00 Wed</td>
-                    </tr>
-                    <tr style="background-color:#e2cfc4">
-                        <td>Pacific</td>
-                        <td>02/10 03:00 Wed</td>
-                    </tr>
-                    </tbody>
-                </table>
-            </td>
-            <td style="width:35%;">
-                <b>Some scheduling topic</b><br><br>
-                <b>[ Panelists ]</b> <br>
-                <a href="">Name</a>(Affiliation)<br>
-                <a href="">Name</a>(Affiliation)
-            </td>
-        </tr>
-
-        <!--Person-->
-        <tr valign="middle" style="background-color:#e2cfc4">
-            <td style="width:25%;">
-                <a href="https://schedseminar.github.io/">
-                    <img src="./images/person_placeholder.png" width="200"/>
-                </a><br/>
-                <b>[ Presenter ] </b> <br>
-                <a href="">First Name</a>(Affiliation)<br><br/>
-            </td>
-
-            <td style="width:40%;">
-                <table>
-                    <tbody>
-                    <tr style="background-color:#c6def1">
-                        <td>Sydney</td>
-                        <td>02/18 06:00 Thu</td>
-                    </tr>
-                    <tr style="background-color:#c6def1">
-                        <td>Beijing</td>
-                        <td>02/18 03:00 Thu</td>
-                    </tr>
-                    <tr style="background-color:#e2e2df">
-                        <td>France</td>
-                        <td>02/17 20:00 Wed</td>
-                    </tr>
-                    <tr style="background-color:#e2e2df">
-                        <td>UK</td>
-                        <td>02/17 19:00 Wed</td>
-                    </tr>
-                    <tr style="background-color:#e2cfc4">
-                        <td>Eastern</td>
-                        <td>02/17 14:00 Wed</td>
-                    </tr>
-                    <tr style="background-color:#e2cfc4">
-                        <td>Pacific</td>
-                        <td>02/17 11:00 Wed</td>
-                    </tr>
-                    </tbody>
-                </table>
-            </td>
-            <td style="width:35%;">
-                <b>Some scheduling topic</b><br><br>
-                <b>[ Panelists ]</b> <br>
-                <a href="">Name</a>(Affiliation)<br>
-                <a href="">Name</a>(Affiliation)
-            </td>
-        </tr>
-
-        <!--Person-->
-        <tr valign="middle" style="background-color:#c6def1">
-            <td style="width:25%;">
-                <a href="https://schedseminar.github.io/">
-                    <img src="./images/person_placeholder.png" width="200"/>
-                </a><br/>
-                <b>[ Presenter ] </b> <br>
-                <a href="">First Name</a><br/>(Affiliation)<br>
-            </td>
-
-            <td style="width:40%;">
-                <table>
-                    <tbody>
-                    <tr style="background-color:#c6def1">
-                        <td>Sydney</td>
-                        <td>02/03 14:00 Wed</td>
-                    </tr>
-                    <tr style="background-color:#c6def1">
-                        <td>Beijing</td>
-                        <td>02/03 11:00 Wed</td>
-                    </tr>
-                    <tr style="background-color:#e2e2df">
-                        <td>France</td>
-                        <td>02/03 04:00 Wed</td>
-                    </tr>
-                    <tr style="background-color:#e2e2df">
-                        <td>UK</td>
-                        <td>02/03 03:00 Wed</td>
-                    </tr>
-                    <tr style="background-color:#e2cfc4">
-                        <td>Eastern</td>
-                        <td>02/02 22:00 Tue</td>
-                    </tr>
-                    <tr style="background-color:#e2cfc4">
-                        <td>Pacific</td>
-                        <td>02/02 19:00 Tue</td>
-                    </tr>
-                    </tbody>
-                </table>
-            </td>
-            <td style="width:35%;">
-                <b>Some scheduling topic</b><br><br>
-                <b>[ Panelists ]</b> <br>
-                <a href="">Name</a>(Affiliation)<br>
-                <a href="">Name</a>(Affiliation)
-            </td>
-        </tr>
-
-        <!--Person-->
-        <tr valign="middle" style="background-color:#e2e2df">
-            <td style="width:25%;">
-                <a href="https://schedseminar.github.io/">
-                    <img src="./images/person_placeholder.png" width="200"/>
-                </a><br/>
-                <b>[ Presenter ] </b> <br>
-                <a href="">First Name</a>(Affiliation)<br><br/>
-            </td>
-
-            <td style="width:40%;">
-                <table>
-                    <tbody>
-                    <tr style="background-color:#c6def1">
-                        <td>Sydney</td>
-                        <td>02/10 22:00 Wed</td>
-                    </tr>
-                    <tr style="background-color:#c6def1">
-                        <td>Beijing</td>
-                        <td>02/10 19:00 Wed</td>
-                    </tr>
-                    <tr style="background-color:#e2e2df">
-                        <td>France</td>
-                        <td>02/10 12:00 Wed</td>
-                    </tr>
-                    <tr style="background-color:#e2e2df">
-                        <td>UK</td>
-                        <td>02/10 11:00 Wed</td>
-                    </tr>
-                    <tr style="background-color:#e2cfc4">
-                        <td>Eastern</td>
-                        <td>02/10 06:00 Wed</td>
-                    </tr>
-                    <tr style="background-color:#e2cfc4">
-                        <td>Pacific</td>
-                        <td>02/10 03:00 Wed</td>
-                    </tr>
-                    </tbody>
-                </table>
-            </td>
-            <td style="width:35%;">
-                <b>Some scheduling topic</b><br><br>
-                <b>[ Panelists ]</b> <br>
-                <a href="">Name</a>(Affiliation)<br>
-                <a href="">Name</a>(Affiliation)
-            </td>
-        </tr>
-
-        <!--Person-->
-        <tr valign="middle" style="background-color:#e2cfc4">
-            <td style="width:25%;">
-                <a href="https://schedseminar.github.io/">
-                    <img src="./images/person_placeholder.png" width="200"/>
-                </a><br/>
-                <b>[ Presenter ] </b> <br>
-                <a href="">First Name</a>(Affiliation)<br><br/>
-            </td>
-
-            <td style="width:40%;">
-                <table>
-                    <tbody>
-                    <tr style="background-color:#c6def1">
-                        <td>Sydney</td>
-                        <td>02/18 06:00 Thu</td>
-                    </tr>
-                    <tr style="background-color:#c6def1">
-                        <td>Beijing</td>
-                        <td>02/18 03:00 Thu</td>
-                    </tr>
-                    <tr style="background-color:#e2e2df">
-                        <td>France</td>
-                        <td>02/17 20:00 Wed</td>
-                    </tr>
-                    <tr style="background-color:#e2e2df">
-                        <td>UK</td>
-                        <td>02/17 19:00 Wed</td>
-                    </tr>
-                    <tr style="background-color:#e2cfc4">
-                        <td>Eastern</td>
-                        <td>02/17 14:00 Wed</td>
-                    </tr>
-                    <tr style="background-color:#e2cfc4">
-                        <td>Pacific</td>
-                        <td>02/17 11:00 Wed</td>
-                    </tr>
-                    </tbody>
-                </table>
-            </td>
-            <td style="width:35%;">
-                <b>Some scheduling topic</b><br><br>
-                <b>[ Panelists ]</b> <br>
-                <a href="">Name</a>(Affiliation)<br>
-                <a href="">Name</a>(Affiliation)
-            </td>
-        </tr>
-
-        <!--Person-->
-        <tr valign="middle" style="background-color:#c6def1">
-            <td style="width:25%;">
-                <a href="https://schedseminar.github.io/">
-                    <img src="./images/person_placeholder.png" width="200"/>
-                </a><br/>
-                <b>[ Presenter ] </b> <br>
-                <a href="">First Name</a><br/>(Affiliation)<br>
-            </td>
-
-            <td style="width:40%;">
-                <table>
-                    <tbody>
-                    <tr style="background-color:#c6def1">
-                        <td>Sydney</td>
-                        <td>02/03 14:00 Wed</td>
-                    </tr>
-                    <tr style="background-color:#c6def1">
-                        <td>Beijing</td>
-                        <td>02/03 11:00 Wed</td>
-                    </tr>
-                    <tr style="background-color:#e2e2df">
-                        <td>France</td>
-                        <td>02/03 04:00 Wed</td>
-                    </tr>
-                    <tr style="background-color:#e2e2df">
-                        <td>UK</td>
-                        <td>02/03 03:00 Wed</td>
-                    </tr>
-                    <tr style="background-color:#e2cfc4">
-                        <td>Eastern</td>
-                        <td>02/02 22:00 Tue</td>
-                    </tr>
-                    <tr style="background-color:#e2cfc4">
-                        <td>Pacific</td>
-                        <td>02/02 19:00 Tue</td>
-                    </tr>
-                    </tbody>
-                </table>
-            </td>
-            <td style="width:35%;">
-                <b>Some scheduling topic</b><br><br>
-                <b>[ Panelists ]</b> <br>
-                <a href="">Name</a>(Affiliation)<br>
-                <a href="">Name</a>(Affiliation)
-            </td>
-        </tr>
-
-        <!--Person-->
-        <tr valign="middle" style="background-color:#e2e2df">
-            <td style="width:25%;">
-                <a href="https://schedseminar.github.io/">
-                    <img src="./images/person_placeholder.png" width="200"/>
-                </a><br/>
-                <b>[ Presenter ] </b> <br>
-                <a href="">First Name</a>(Affiliation)<br><br/>
-            </td>
-
-            <td style="width:40%;">
-                <table>
-                    <tbody>
-                    <tr style="background-color:#c6def1">
-                        <td>Sydney</td>
-                        <td>02/10 22:00 Wed</td>
-                    </tr>
-                    <tr style="background-color:#c6def1">
-                        <td>Beijing</td>
-                        <td>02/10 19:00 Wed</td>
-                    </tr>
-                    <tr style="background-color:#e2e2df">
-                        <td>France</td>
-                        <td>02/10 12:00 Wed</td>
-                    </tr>
-                    <tr style="background-color:#e2e2df">
-                        <td>UK</td>
-                        <td>02/10 11:00 Wed</td>
-                    </tr>
-                    <tr style="background-color:#e2cfc4">
-                        <td>Eastern</td>
-                        <td>02/10 06:00 Wed</td>
-                    </tr>
-                    <tr style="background-color:#e2cfc4">
-                        <td>Pacific</td>
-                        <td>02/10 03:00 Wed</td>
-                    </tr>
-                    </tbody>
-                </table>
-            </td>
-            <td style="width:35%;">
-                <b>Some scheduling topic</b><br><br>
-                <b>[ Panelists ]</b> <br>
-                <a href="">Name</a>(Affiliation)<br>
-                <a href="">Name</a>(Affiliation)
-            </td>
-        </tr>
-
-        <!--Person-->
-        <tr valign="middle" style="background-color:#e2cfc4">
-            <td style="width:25%;">
-                <a href="https://schedseminar.github.io/">
-                    <img src="./images/person_placeholder.png" width="200"/>
-                </a><br/>
-                <b>[ Presenter ] </b> <br>
-                <a href="">First Name</a>(Affiliation)<br><br/>
-            </td>
-
-            <td style="width:40%;">
-                <table>
-                    <tbody>
-                    <tr style="background-color:#c6def1">
-                        <td>Sydney</td>
-                        <td>02/18 06:00 Thu</td>
-                    </tr>
-                    <tr style="background-color:#c6def1">
-                        <td>Beijing</td>
-                        <td>02/18 03:00 Thu</td>
-                    </tr>
-                    <tr style="background-color:#e2e2df">
-                        <td>France</td>
-                        <td>02/17 20:00 Wed</td>
-                    </tr>
-                    <tr style="background-color:#e2e2df">
-                        <td>UK</td>
-                        <td>02/17 19:00 Wed</td>
-                    </tr>
-                    <tr style="background-color:#e2cfc4">
-                        <td>Eastern</td>
-                        <td>02/17 14:00 Wed</td>
-                    </tr>
-                    <tr style="background-color:#e2cfc4">
-                        <td>Pacific</td>
-                        <td>02/17 11:00 Wed</td>
-                    </tr>
-                    </tbody>
-                </table>
-            </td>
-            <td style="width:35%;">
-                <b>Some scheduling topic</b><br><br>
-                <b>[ Panelists ]</b> <br>
-                <a href="">Name</a>(Affiliation)<br>
-                <a href="">Name</a>(Affiliation)
-            </td>
-        </tr>
-
-        <!--Person-->
-        <tr valign="middle" style="background-color:#c6def1">
-            <td style="width:25%;">
-                <a href="https://schedseminar.github.io/">
-                    <img src="./images/person_placeholder.png" width="200"/>
-                </a><br/>
-                <b>[ Presenter ] </b> <br>
-                <a href="">First Name</a><br/>(Affiliation)<br>
-            </td>
-
-            <td style="width:40%;">
-                <table>
-                    <tbody>
-                    <tr style="background-color:#c6def1">
-                        <td>Sydney</td>
-                        <td>02/03 14:00 Wed</td>
-                    </tr>
-                    <tr style="background-color:#c6def1">
-                        <td>Beijing</td>
-                        <td>02/03 11:00 Wed</td>
-                    </tr>
-                    <tr style="background-color:#e2e2df">
-                        <td>France</td>
-                        <td>02/03 04:00 Wed</td>
-                    </tr>
-                    <tr style="background-color:#e2e2df">
-                        <td>UK</td>
-                        <td>02/03 03:00 Wed</td>
-                    </tr>
-                    <tr style="background-color:#e2cfc4">
-                        <td>Eastern</td>
-                        <td>02/02 22:00 Tue</td>
-                    </tr>
-                    <tr style="background-color:#e2cfc4">
-                        <td>Pacific</td>
-                        <td>02/02 19:00 Tue</td>
-                    </tr>
-                    </tbody>
-                </table>
-            </td>
-            <td style="width:35%;">
-                <b>Some scheduling topic</b><br><br>
-                <b>[ Panelists ]</b> <br>
-                <a href="">Name</a>(Affiliation)<br>
-                <a href="">Name</a>(Affiliation)
-            </td>
-        </tr>
-
-        <!--Person-->
-        <tr valign="middle" style="background-color:#e2e2df">
-            <td style="width:25%;">
-                <a href="https://schedseminar.github.io/">
-                    <img src="./images/person_placeholder.png" width="200"/>
-                </a><br/>
-                <b>[ Presenter ] </b> <br>
-                <a href="">First Name</a>(Affiliation)<br><br/>
-            </td>
-
-            <td style="width:40%;">
-                <table>
-                    <tbody>
-                    <tr style="background-color:#c6def1">
-                        <td>Sydney</td>
-                        <td>02/10 22:00 Wed</td>
-                    </tr>
-                    <tr style="background-color:#c6def1">
-                        <td>Beijing</td>
-                        <td>02/10 19:00 Wed</td>
-                    </tr>
-                    <tr style="background-color:#e2e2df">
-                        <td>France</td>
-                        <td>02/10 12:00 Wed</td>
-                    </tr>
-                    <tr style="background-color:#e2e2df">
-                        <td>UK</td>
-                        <td>02/10 11:00 Wed</td>
-                    </tr>
-                    <tr style="background-color:#e2cfc4">
-                        <td>Eastern</td>
-                        <td>02/10 06:00 Wed</td>
-                    </tr>
-                    <tr style="background-color:#e2cfc4">
-                        <td>Pacific</td>
-                        <td>02/10 03:00 Wed</td>
-                    </tr>
-                    </tbody>
-                </table>
-            </td>
-            <td style="width:35%;">
-                <b>Some scheduling topic</b><br><br>
-                <b>[ Panelists ]</b> <br>
-                <a href="">Name</a>(Affiliation)<br>
-                <a href="">Name</a>(Affiliation)
-            </td>
-        </tr>
-
-        <!--Person-->
-        <tr valign="middle" style="background-color:#e2cfc4">
-            <td style="width:25%;">
-                <a href="https://schedseminar.github.io/">
-                    <img src="./images/person_placeholder.png" width="200"/>
-                </a><br/>
-                <b>[ Presenter ] </b> <br>
-                <a href="">First Name</a>(Affiliation)<br><br/>
-            </td>
-
-            <td style="width:40%;">
-                <table>
-                    <tbody>
-                    <tr style="background-color:#c6def1">
-                        <td>Sydney</td>
-                        <td>02/18 06:00 Thu</td>
-                    </tr>
-                    <tr style="background-color:#c6def1">
-                        <td>Beijing</td>
-                        <td>02/18 03:00 Thu</td>
-                    </tr>
-                    <tr style="background-color:#e2e2df">
-                        <td>France</td>
-                        <td>02/17 20:00 Wed</td>
-                    </tr>
-                    <tr style="background-color:#e2e2df">
-                        <td>UK</td>
-                        <td>02/17 19:00 Wed</td>
-                    </tr>
-                    <tr style="background-color:#e2cfc4">
-                        <td>Eastern</td>
-                        <td>02/17 14:00 Wed</td>
-                    </tr>
-                    <tr style="background-color:#e2cfc4">
-                        <td>Pacific</td>
-                        <td>02/17 11:00 Wed</td>
-                    </tr>
-                    </tbody>
-                </table>
-            </td>
-            <td style="width:35%;">
-                <b>Some scheduling topic</b><br><br>
-                <b>[ Panelists ]</b> <br>
-                <a href="">Name</a>(Affiliation)<br>
-                <a href="">Name</a>(Affiliation)
-            </td>
-        </tr>
-
-        <!--Person-->
-        <tr valign="middle" style="background-color:#c6def1">
-            <td style="width:25%;">
-                <a href="https://schedseminar.github.io/">
-                    <img src="./images/person_placeholder.png" width="200"/>
-                </a><br/>
-                <b>[ Presenter ] </b> <br>
-                <a href="">First Name</a><br/>(Affiliation)<br>
-            </td>
-
-            <td style="width:40%;">
-                <table>
-                    <tbody>
-                    <tr style="background-color:#c6def1">
-                        <td>Sydney</td>
-                        <td>02/03 14:00 Wed</td>
-                    </tr>
-                    <tr style="background-color:#c6def1">
-                        <td>Beijing</td>
-                        <td>02/03 11:00 Wed</td>
-                    </tr>
-                    <tr style="background-color:#e2e2df">
-                        <td>France</td>
-                        <td>02/03 04:00 Wed</td>
-                    </tr>
-                    <tr style="background-color:#e2e2df">
-                        <td>UK</td>
-                        <td>02/03 03:00 Wed</td>
-                    </tr>
-                    <tr style="background-color:#e2cfc4">
-                        <td>Eastern</td>
-                        <td>02/02 22:00 Tue</td>
-                    </tr>
-                    <tr style="background-color:#e2cfc4">
-                        <td>Pacific</td>
-                        <td>02/02 19:00 Tue</td>
-                    </tr>
-                    </tbody>
-                </table>
-            </td>
-            <td style="width:35%;">
-                <b>Some scheduling topic</b><br><br>
-                <b>[ Panelists ]</b> <br>
-                <a href="">Name</a>(Affiliation)<br>
-                <a href="">Name</a>(Affiliation)
-            </td>
-        </tr>
-
-        <!--Person-->
-        <tr valign="middle" style="background-color:#e2e2df">
-            <td style="width:25%;">
-                <a href="https://schedseminar.github.io/">
-                    <img src="./images/person_placeholder.png" width="200"/>
-                </a><br/>
-                <b>[ Presenter ] </b> <br>
-                <a href="">First Name</a>(Affiliation)<br><br/>
-            </td>
-
-            <td style="width:40%;">
-                <table>
-                    <tbody>
-                    <tr style="background-color:#c6def1">
-                        <td>Sydney</td>
-                        <td>02/10 22:00 Wed</td>
-                    </tr>
-                    <tr style="background-color:#c6def1">
-                        <td>Beijing</td>
-                        <td>02/10 19:00 Wed</td>
-                    </tr>
-                    <tr style="background-color:#e2e2df">
-                        <td>France</td>
-                        <td>02/10 12:00 Wed</td>
-                    </tr>
-                    <tr style="background-color:#e2e2df">
-                        <td>UK</td>
-                        <td>02/10 11:00 Wed</td>
-                    </tr>
-                    <tr style="background-color:#e2cfc4">
-                        <td>Eastern</td>
-                        <td>02/10 06:00 Wed</td>
-                    </tr>
-                    <tr style="background-color:#e2cfc4">
-                        <td>Pacific</td>
-                        <td>02/10 03:00 Wed</td>
-                    </tr>
-                    </tbody>
-                </table>
-            </td>
-            <td style="width:35%;">
-                <b>Some scheduling topic</b><br><br>
-                <b>[ Panelists ]</b> <br>
-                <a href="">Name</a>(Affiliation)<br>
-                <a href="">Name</a>(Affiliation)
-            </td>
-        </tr>
-
-        <!--Person-->
-        <tr valign="middle" style="background-color:#e2cfc4">
-            <td style="width:25%;">
-                <a href="https://schedseminar.github.io/">
-                    <img src="./images/person_placeholder.png" width="200"/>
-                </a><br/>
-                <b>[ Presenter ] </b> <br>
-                <a href="">First Name</a>(Affiliation)<br><br/>
-            </td>
-
-            <td style="width:40%;">
-                <table>
-                    <tbody>
-                    <tr style="background-color:#c6def1">
-                        <td>Sydney</td>
-                        <td>02/18 06:00 Thu</td>
-                    </tr>
-                    <tr style="background-color:#c6def1">
-                        <td>Beijing</td>
-                        <td>02/18 03:00 Thu</td>
-                    </tr>
-                    <tr style="background-color:#e2e2df">
-                        <td>France</td>
-                        <td>02/17 20:00 Wed</td>
-                    </tr>
-                    <tr style="background-color:#e2e2df">
-                        <td>UK</td>
-                        <td>02/17 19:00 Wed</td>
-                    </tr>
-                    <tr style="background-color:#e2cfc4">
-                        <td>Eastern</td>
-                        <td>02/17 14:00 Wed</td>
-                    </tr>
-                    <tr style="background-color:#e2cfc4">
-                        <td>Pacific</td>
-                        <td>02/17 11:00 Wed</td>
-                    </tr>
-                    </tbody>
-                </table>
-            </td>
-            <td style="width:35%;">
-                <b>Some scheduling topic</b><br><br>
-                <b>[ Panelists ]</b> <br>
-                <a href="">Name</a>(Affiliation)<br>
-                <a href="">Name</a>(Affiliation)
-            </td>
-        </tr>
-
         </tbody>
     </table>
 </div>
@@ -940,15 +386,14 @@
                 <a href="">Name</a><br/>(Affiliation)
             </td>
             <td colspan="2">
-
                 <iframe width="560" height="315" src="https://www.youtube.com/embed/SC5CX8drAtU" frameborder="0"
                         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                         allowfullscreen></iframe>
             </td>
         </tr>
 
-        <!--Person-->
-        <tr valign="middle" style="background-color:#e2cfc4">
+        <!--TODO Person backup-->
+        <!--<tr valign="middle" style="background-color:#e2cfc4">
             <td style="width:25%;">
                 <a href="https://schedseminar.github.io/">
                     <img src="./images/person_placeholder.png" width="200"/>
@@ -965,7 +410,7 @@
                         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                         allowfullscreen></iframe>
             </td>
-        </tr>
+        </tr>-->
 
         <!--Person-->
         <tr valign="middle" style="background-color:#c6def1">
