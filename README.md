@@ -61,97 +61,92 @@
         <tr valign="middle" style="background-color:#c6def1">
             <td style="width:25%;">
                 <a href="https://schedseminar.github.io/">
-                    <img src="./images/person_placeholder.png" width="200"/>
+                    <img src="./images/person_placeholder.png" height="300" width="300"/>
                 </a><br/>
+
+            </td>
+            <td style="width:30%;">
+                <b>Some scheduling topic</b><br>
                 <b>[ Presenter ] </b> <br>
-                <a href="">First Name</a><br/>(Affiliation)<br>
+                <a href="">Name Surname</a> (Affiliation)<br><br/>
+                <b>[ Panelists ]</b> <br>
+                <a href="">Name Surname</a> (Affiliation)<br>
+                <a href="">Name Surname</a> (Affiliation)<br/><br/>
+                <b>[ Invited by ]</b> <br>
+                <a href="">Name Surname</a> (Affiliation)
             </td>
 
-            <td style="width:40%;">
+            <td style="width:45%;">
                 <table>
                     <tbody>
-                    <tr style="background-color:#c6def1">
-                        <td>Sydney</td>
-                        <td>02/03 14:00 Wed</td>
-                    </tr>
-                    <tr style="background-color:#c6def1">
-                        <td>Beijing</td>
-                        <td>02/03 11:00 Wed</td>
+                    <tr style="background-color:#ffffff">
+                        <td>UTC</td>
+                        <td>Feb 20, 14:00 Wed</td>
                     </tr>
                     <tr style="background-color:#e2e2df">
-                        <td>France</td>
-                        <td>02/03 04:00 Wed</td>
-                    </tr>
-                    <tr style="background-color:#e2e2df">
-                        <td>UK</td>
-                        <td>02/03 03:00 Wed</td>
+                        <td>Prague</td>
+                        <td>Feb 20, 11:00 Wed</td>
                     </tr>
                     <tr style="background-color:#e2cfc4">
-                        <td>Eastern</td>
-                        <td>02/02 22:00 Tue</td>
+                        <td>New York</td>
+                        <td>Feb 20, 04:00 Wed</td>
                     </tr>
-                    <tr style="background-color:#e2cfc4">
-                        <td>Pacific</td>
-                        <td>02/02 19:00 Tue</td>
+                    <tr style="background-color:#c6def1">
+                        <td>Shanghai</td>
+                        <td>Feb 20, 03:00 Wed</td>
                     </tr>
                     </tbody>
                 </table>
             </td>
-            <td style="width:35%;">
-                <b>Some scheduling topic</b><br><br>
-                <b>[ Panelists ]</b> <br>
-                <a href="">Name</a>(Affiliation)<br>
-                <a href="">Name</a>(Affiliation)
-            </td>
         </tr>
 
-        <!--Person-->
-        <tr valign="middle" style="background-color:#e2e2df">
-            <td style="width:25%;">
-                <a href="https://schedseminar.github.io/">
-                    <img src="./images/person_placeholder.png" width="200"/>
-                </a><br/>
-                <b>[ Presenter ] </b> <br>
-                <a href="">First Name</a>(Affiliation)<br><br/>
-            </td>
+        <!--TODO OLD Person-->
+        <!--        <tr valign="middle" style="background-color:#e2e2df">
+                    <td style="width:25%;">
+                        <a href="https://schedseminar.github.io/">
+                            <img src="./images/person_placeholder.png" width="200"/>
+                        </a><br/>
+                        <b>[ Presenter ] </b> <br>
+                        <a href="">First Name</a>(Affiliation)<br><br/>
+                    </td>
 
-            <td style="width:40%;">
-                <table>
-                    <tbody>
-                    <tr style="background-color:#c6def1">
-                        <td>Sydney</td>
-                        <td>02/10 22:00 Wed</td>
-                    </tr>
-                    <tr style="background-color:#c6def1">
-                        <td>Beijing</td>
-                        <td>02/10 19:00 Wed</td>
-                    </tr>
-                    <tr style="background-color:#e2e2df">
-                        <td>France</td>
-                        <td>02/10 12:00 Wed</td>
-                    </tr>
-                    <tr style="background-color:#e2e2df">
-                        <td>UK</td>
-                        <td>02/10 11:00 Wed</td>
-                    </tr>
-                    <tr style="background-color:#e2cfc4">
-                        <td>Eastern</td>
-                        <td>02/10 06:00 Wed</td>
-                    </tr>
-                    <tr style="background-color:#e2cfc4">
-                        <td>Pacific</td>
-                        <td>02/10 03:00 Wed</td>
-                    </tr>
-                    </tbody>
-                </table>
-            </td>
-            <td style="width:35%;">
-                <b>Some scheduling topic</b><br><br>
-                <b>[ Panelists ]</b> <br>
-                <a href="">Name</a>(Affiliation)<br>
-                <a href="">Name</a>(Affiliation)
-            </td>
-        </tr>
+                    <td style="width:40%;">
+                        <table>
+                            <tbody>
+                            <tr style="background-color:#c6def1">
+                                <td>Sydney</td>
+                                <td>02/10 22:00 Wed</td>
+                            </tr>
+                            <tr style="background-color:#c6def1">
+                                <td>Beijing</td>
+                                <td>02/10 19:00 Wed</td>
+                            </tr>
+                            <tr style="background-color:#e2e2df">
+                                <td>France</td>
+                                <td>02/10 12:00 Wed</td>
+                            </tr>
+                            <tr style="background-color:#e2e2df">
+                                <td>UK</td>
+                                <td>02/10 11:00 Wed</td>
+                            </tr>
+                            <tr style="background-color:#e2cfc4">
+                                <td>Eastern</td>
+                                <td>02/10 06:00 Wed</td>
+                            </tr>
+                            <tr style="background-color:#e2cfc4">
+                                <td>Pacific</td>
+                                <td>02/10 03:00 Wed</td>
+                            </tr>
+                            </tbody>
+                        </table>
+                    </td>
+                    <td style="width:35%;">
+                        <b>Some scheduling topic</b><br><br>
+                        <b>[ Panelists ]</b> <br>
+                        <a href="">Name</a>(Affiliation)<br>
+                        <a href="">Name</a>(Affiliation)
+                    </td>
+                </tr>-->
 
         <!--Person-->
         <tr valign="middle" style="background-color:#e2cfc4">
@@ -1241,7 +1236,7 @@
 &nbsp;
 <hr>
 <div id="PC_co-chairs" style="width:100%">
-    <table id="people_table" border="0" cellpading="0" cellspacing="0">
+    <table class="people_table" border="0" cellpading="0" cellspacing="0">
         <h2 style="color:black;">PC co-chairs</h2>
         <tbody>
         <tr>
@@ -1335,7 +1330,7 @@
 <hr>
 <div id="Program_committee">
     <h2 style="color:black;">Program committee</h2>
-    <table id="people_table" border="0" cellpading="0" cellspacing="0">
+    <table class="people_table" border="0" cellpading="0" cellspacing="0">
         <tbody>
         <tr>
             <!--Person-->
@@ -1415,8 +1410,8 @@
     <span style="color:black"><i>Might not work properly if location is unrecognized or VPN is used.</i></span>
     <iframe src="https://calendar.google.com/calendar/embed?height=500&amp;wkst=2&amp;bgcolor=%234285F4&amp;ctz=Europe%2FPrague&amp;src=Mml0YXVjNmdhZGZsNjRsZWZxdDhiczgzZmtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23616161&amp;showTz=1&amp;showCalendars=0&amp;showTabs=1&amp;showPrint=1&amp;showDate=1&amp;showNav=1&amp;showTitle=0&amp;mode=AGENDA&amp;title=Sched%20seminar%20test"
             style="border:solid 1px #777" width="640" height="500" frameborder="0" scrolling="no"></iframe>
-<!--    <iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=Europe%2FPrague&amp;src=Mm1zb2NudWNjbHIwMjRxYjVmMGdpdWxwbmdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23D81B60"-->
-<!--            style="border:solid 1px #777" width="640" height="500" frameborder="0" scrolling="no"></iframe>-->
+    <!--    <iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=Europe%2FPrague&amp;src=Mm1zb2NudWNjbHIwMjRxYjVmMGdpdWxwbmdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23D81B60"-->
+    <!--            style="border:solid 1px #777" width="640" height="500" frameborder="0" scrolling="no"></iframe>-->
 
 </div>
 
@@ -1424,7 +1419,8 @@
 <div class="column">
     <h2 style="color:black;">Feedback form</h2>
     <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfRk8Nv2J7RvGk-z7Gl5KLWMO5hoZC1Sd-ZFDvgzI97mZe6nw/viewform?embedded=true"
-            width="640" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+            width="640" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading…
+    </iframe>
 </div>
 <br/>
 <br/>
