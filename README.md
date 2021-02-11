@@ -376,9 +376,11 @@
                     </a><br/>
                 </td>
                 <td colspan="2">
-                    <iframe width="500" height="315" src="https://www.youtube.com/embed/SC5CX8drAtU" frameborder="0"
-                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                            allowfullscreen></iframe>
+                    <div class="resizable">
+                        <iframe width="400" height="250" src="https://www.youtube.com/embed/SC5CX8drAtU" frameborder="0"
+                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                                allowfullscreen></iframe>
+                    </div>
                 </td>
             </tr>
 
@@ -414,9 +416,11 @@
                     </a><br/>
                 </td>
                 <td colspan="2">
-                    <iframe width="500" height="315" src="https://www.youtube.com/embed/SC5CX8drAtU" frameborder="0"
-                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                            allowfullscreen></iframe>
+                    <div class="resizable">
+                        <iframe width="400" height="250" src="https://www.youtube.com/embed/SC5CX8drAtU" frameborder="0"
+                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                                allowfullscreen></iframe>
+                    </div>
                 </td>
             </tr>
 
@@ -452,9 +456,11 @@
                     </a><br/>
                 </td>
                 <td colspan="2">
-                    <iframe width="500" height="315" src="https://www.youtube.com/embed/SC5CX8drAtU" frameborder="0"
-                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                            allowfullscreen></iframe>
+                    <div class="resizable">
+                        <iframe width="400" height="250" src="https://www.youtube.com/embed/SC5CX8drAtU" frameborder="0"
+                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                                allowfullscreen></iframe>
+                    </div>
                 </td>
             </tr>
 
@@ -490,9 +496,11 @@
                     </a><br/>
                 </td>
                 <td colspan="2">
-                    <iframe width="500" height="315" src="https://www.youtube.com/embed/SC5CX8drAtU" frameborder="0"
-                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                            allowfullscreen></iframe>
+                    <div class="resizable">
+                        <iframe width="400" height="250" src="https://www.youtube.com/embed/SC5CX8drAtU" frameborder="0"
+                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                                allowfullscreen></iframe>
+                    </div>
                 </td>
             </tr>
 
@@ -528,9 +536,11 @@
                     </a><br/>
                 </td>
                 <td colspan="2">
-                    <iframe width="500" height="315" src="https://www.youtube.com/embed/SC5CX8drAtU" frameborder="0"
-                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                            allowfullscreen></iframe>
+                    <div class="resizable">
+                        <iframe width="400" height="250" src="https://www.youtube.com/embed/SC5CX8drAtU" frameborder="0"
+                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                                allowfullscreen></iframe>
+                    </div>
                 </td>
             </tr>
 
@@ -727,20 +737,23 @@
 <div class="column">
     <h2 style="color:black;">Calendar (time zone conversion)</h2>
     <span style="color:black"><i>Might not work properly if location is unrecognized or VPN is used.</i></span>
+    <div class="resizable">
     <iframe src="https://calendar.google.com/calendar/embed?height=500&amp;wkst=2&amp;bgcolor=%234285F4&amp;ctz=Europe%2FPrague&amp;src=Mml0YXVjNmdhZGZsNjRsZWZxdDhiczgzZmtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23616161&amp;showTz=1&amp;showCalendars=0&amp;showTabs=1&amp;showPrint=1&amp;showDate=1&amp;showNav=1&amp;showTitle=0&amp;mode=AGENDA&amp;title=Sched%20seminar%20test"
             style="border:solid 1px #777" width="640" height="500" frameborder="0" scrolling="no"></iframe>
     <!--    <iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=Europe%2FPrague&amp;src=Mm1zb2NudWNjbHIwMjRxYjVmMGdpdWxwbmdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23D81B60"-->
     <!--            style="border:solid 1px #777" width="640" height="500" frameborder="0" scrolling="no"></iframe>-->
-
+    </div>
 </div>
 
 
 <!--Google form-->
 <div class="column">
     <h2 style="color:black;">Feedback form</h2>
+    <div class="resizable">
     <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfRk8Nv2J7RvGk-z7Gl5KLWMO5hoZC1Sd-ZFDvgzI97mZe6nw/viewform?embedded=true"
             width="640" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading…
     </iframe>
+    </div>
 </div>
 
 
