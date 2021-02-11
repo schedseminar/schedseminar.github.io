@@ -51,49 +51,6 @@
         <tbody>
 
         <!--Person-->
-        <tr valign="middle" style="background-color:var(--europe)">
-            <td style="width:25%;">
-                <a href="https://schedseminar.github.io/">
-                    <img src="./images/person_placeholder.png" height="300" width="300"/>
-                </a><br/>
-
-            </td>
-            <td style="width:30%;">
-                <b>Some scheduling topic</b><br>
-                <b>[Presenter] </b> <br>
-                <a href="">Name Surname</a> (Affiliation)<br><br/>
-                <b>[Panelists]</b> <br>
-                <a href="">Name Surname</a> (Affiliation)<br>
-                <a href="">Name Surname</a> (Affiliation)<br/><br/>
-                <b>[Invited by]</b> <br>
-                <a href="">Name Surname</a> (Affiliation)
-            </td>
-
-            <td style="width:30%;">
-                <table>
-                    <tbody>
-                    <tr style="background-color:var(--utc)">
-                        <td>UTC</td>
-                        <td>Feb 20, 14:00 Wed</td>
-                    </tr>
-                    <tr style="background-color:var(--europe)">
-                        <td>Prague</td>
-                        <td>Feb 20, 11:00 Wed</td>
-                    </tr>
-                    <tr style="background-color:var(--america)">
-                        <td>New York</td>
-                        <td>Feb 20, 04:00 Wed</td>
-                    </tr>
-                    <tr style="background-color:var(--asia)">
-                        <td>Shanghai</td>
-                        <td>Feb 20, 03:00 Wed</td>
-                    </tr>
-                    </tbody>
-                </table>
-            </td>
-        </tr>
-
-        <!--Person-->
         <tr valign="middle" style="background-color:var(--america)">
             <td style="width:25%;">
                 <a href="https://schedseminar.github.io/">
@@ -117,19 +74,19 @@
                     <tbody>
                     <tr style="background-color:var(--utc)">
                         <td>UTC</td>
-                        <td>Feb 20, 14:00 Wed</td>
+                        <td>Feb 24, 20:00 Wed</td>
                     </tr>
                     <tr style="background-color:var(--europe)">
                         <td>Prague</td>
-                        <td>Feb 20, 11:00 Wed</td>
+                        <td>Feb 24, 21:00 Wed</td>
                     </tr>
                     <tr style="background-color:var(--america)">
                         <td>New York</td>
-                        <td>Feb 20, 04:00 Wed</td>
+                        <td>Feb 24, 15:00 Wed</td>
                     </tr>
                     <tr style="background-color:var(--asia)">
                         <td>Shanghai</td>
-                        <td>Feb 20, 03:00 Wed</td>
+                        <td>Feb 25, 04:00 Thu</td>
                     </tr>
                     </tbody>
                 </table>
@@ -160,19 +117,19 @@
                     <tbody>
                     <tr style="background-color:var(--utc)">
                         <td>UTC</td>
-                        <td>Feb 20, 14:00 Wed</td>
+                        <td>Mar 3, 07:00 Wed</td>
                     </tr>
                     <tr style="background-color:var(--europe)">
                         <td>Prague</td>
-                        <td>Feb 20, 11:00 Wed</td>
+                        <td>Mar 3, 08:00 Wed</td>
                     </tr>
                     <tr style="background-color:var(--america)">
                         <td>New York</td>
-                        <td>Feb 20, 04:00 Wed</td>
+                        <td>Mar 3, 02:00 Wed</td>
                     </tr>
                     <tr style="background-color:var(--asia)">
                         <td>Shanghai</td>
-                        <td>Feb 20, 03:00 Wed</td>
+                        <td>Mar 3, 15:00 Wed</td>
                     </tr>
                     </tbody>
                 </table>
@@ -203,19 +160,19 @@
                     <tbody>
                     <tr style="background-color:var(--utc)">
                         <td>UTC</td>
-                        <td>Feb 20, 14:00 Wed</td>
+                        <td>Mar 17, 14:00 Wed</td>
                     </tr>
                     <tr style="background-color:var(--europe)">
                         <td>Prague</td>
-                        <td>Feb 20, 11:00 Wed</td>
+                        <td>Mar 17, 15:00 Wed</td>
                     </tr>
                     <tr style="background-color:var(--america)">
                         <td>New York</td>
-                        <td>Feb 20, 04:00 Wed</td>
+                        <td>Mar 17, 10:00 Wed</td>
                     </tr>
                     <tr style="background-color:var(--asia)">
                         <td>Shanghai</td>
-                        <td>Feb 20, 03:00 Wed</td>
+                        <td>Mar 17, 22:00 Wed</td>
                     </tr>
                     </tbody>
                 </table>
@@ -246,19 +203,19 @@
                     <tbody>
                     <tr style="background-color:var(--utc)">
                         <td>UTC</td>
-                        <td>Feb 20, 14:00 Wed</td>
+                        <td>Mar 31, 19:00 Wed</td>
                     </tr>
                     <tr style="background-color:var(--europe)">
                         <td>Prague</td>
-                        <td>Feb 20, 11:00 Wed</td>
+                        <td>Mar 31, 21:00 Wed</td>
                     </tr>
                     <tr style="background-color:var(--america)">
                         <td>New York</td>
-                        <td>Feb 20, 04:00 Wed</td>
+                        <td>Mar 31, 15:00 Wed</td>
                     </tr>
                     <tr style="background-color:var(--asia)">
                         <td>Shanghai</td>
-                        <td>Feb 20, 03:00 Wed</td>
+                        <td>Apr 1, 03:00 Thu</td>
                     </tr>
                     </tbody>
                 </table>
@@ -289,19 +246,19 @@
                     <tbody>
                     <tr style="background-color:var(--utc)">
                         <td>UTC</td>
-                        <td>Feb 20, 14:00 Wed</td>
+                        <td>Apr 14, 07:00 Wed</td>
                     </tr>
                     <tr style="background-color:var(--europe)">
                         <td>Prague</td>
-                        <td>Feb 20, 11:00 Wed</td>
+                        <td>Apr 14, 09:00 Wed</td>
                     </tr>
                     <tr style="background-color:var(--america)">
                         <td>New York</td>
-                        <td>Feb 20, 04:00 Wed</td>
+                        <td>Apr 14, 03:00 Wed</td>
                     </tr>
                     <tr style="background-color:var(--asia)">
                         <td>Shanghai</td>
-                        <td>Feb 20, 03:00 Wed</td>
+                        <td>Apr 14, 15:00 Wed</td>
                     </tr>
                     </tbody>
                 </table>
@@ -409,46 +366,6 @@
         <!--Person-->
         <span class="person">
             <!--Photo and video-->
-            <tr valign="middle" style="background-color:var(--america)">
-                <td style="width:30%;">
-                    <a href="https://schedseminar.github.io/">
-                        <img src="./images/person_placeholder.png" height="300" width="300"/>
-                    </a><br/>
-                </td>
-                <td colspan="2">
-                    <div class="resizable">
-                        <iframe width="400" height="250" src="https://www.youtube.com/embed/SC5CX8drAtU" frameborder="0"
-                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                                allowfullscreen></iframe>
-                    </div>
-                </td>
-            </tr>
-
-            <!--Text description-->
-            <tr valign="middle" style="background-color:var(--america)">
-                <td style="width:30%;">
-                    <b>[Presenter]</b><br/>
-                    <a href="">Name Surname</a><br/>
-                    (Affiliation)<br/>
-                    <br/>
-                </td>
-                <td>
-                    <table>
-                        <tr>
-                            <td colspan="2"><b>[Panelists]</b> <br></td>
-                            <td><b>[Invited by]</b> <br></td>
-                        </tr>
-                        <td><a href="">Name Surname</a><br/>(Affiliation)<br></td>
-                        <td><a href="">Name Surname</a><br/>(Affiliation)</td>
-                        <td><a href="">Name Surname</a><br/> (Affiliation)</td>
-                    </table>
-                </td>
-            </tr>
-        </span>
-
-        <!--Person-->
-        <span class="person">
-            <!--Photo and video-->
             <tr valign="middle" style="background-color:var(--asia)">
                 <td style="width:30%;">
                     <a href="https://schedseminar.github.io/">
@@ -489,7 +406,7 @@
         <!--Person-->
         <span class="person">
             <!--Photo and video-->
-            <tr valign="middle" style="background-color:var(--europe)">
+            <tr valign="middle" style="background-color:var(--america)">
                 <td style="width:30%;">
                     <a href="https://schedseminar.github.io/">
                         <img src="./images/person_placeholder.png" height="300" width="300"/>
@@ -505,7 +422,7 @@
             </tr>
 
             <!--Text description-->
-            <tr valign="middle" style="background-color:var(--europe)">
+            <tr valign="middle" style="background-color:var(--america)">
                 <td style="width:30%;">
                     <b>[Presenter]</b><br/>
                     <a href="">Name Surname</a><br/>
@@ -529,7 +446,7 @@
         <!--Person-->
         <span class="person">
             <!--Photo and video-->
-            <tr valign="middle" style="background-color:var(--america)">
+            <tr valign="middle" style="background-color:var(--europe)">
                 <td style="width:30%;">
                     <a href="https://schedseminar.github.io/">
                         <img src="./images/person_placeholder.png" height="300" width="300"/>
@@ -545,7 +462,7 @@
             </tr>
 
             <!--Text description-->
-            <tr valign="middle" style="background-color:var(--america)">
+            <tr valign="middle" style="background-color:var(--europe)">
                 <td style="width:30%;">
                     <b>[Presenter]</b><br/>
                     <a href="">Name Surname</a><br/>
