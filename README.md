@@ -2,7 +2,7 @@
 <table>
     <tbody>
     <tr valign="middle">
-        <td style="width:40%;"><img src="./images/placeholder.png" height="200" width="600"/></td>
+        <td style="width:40%;"><img src="./images/gantt-fabrio-merica.png" height="200" width="600"/></td>
         <td style="width:60%;">
             <h1 style="color:#4eb5f1;">Scheduling seminar</h1>
             Objective of a virtual seminar on scheduling research and applications is to discuss both the field's newest
@@ -17,6 +17,8 @@
             <div align="right">
                 <a href='#PC_co-chairs' class="button3">PC co-chairs</a>
                 <a href='#Program_committee' class="button3">Program committee</a>
+                <a href='#Calendar' class="button3">Calendar</a>
+                <a href='#Feedback' class="button3">Feedback</a>
             </div>
 
             <!--TODO-->
@@ -651,7 +653,7 @@
 <!--Calendar-->
 &nbsp;
 <hr>
-<div class="column">
+<div id="Calendar" class="column">
     <h2 style="color:black;">Calendar (time zone conversion)</h2>
     <span style="color:black"><i>Might not work properly if location is unrecognized or VPN is used.</i></span>
     <div class="resizable">
@@ -664,7 +666,7 @@
 
 
 <!--Google form-->
-<div class="column">
+<div id="Feedback" class="column">
     <h2 style="color:black;">Feedback form</h2>
     <div class="resizable">
     <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfRk8Nv2J7RvGk-z7Gl5KLWMO5hoZC1Sd-ZFDvgzI97mZe6nw/viewform?embedded=true"
