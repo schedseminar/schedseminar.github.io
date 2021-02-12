@@ -54,6 +54,11 @@
 
         <!--Person-->
         <tr valign="middle" style="background-color:var(--america)">
+            <td colspan="3">
+                <h2 style="color:dimgray"><b>Topic: Some interesting scheduling topic</b><br></h2>
+            </td>
+        </tr>
+        <tr valign="middle" style="background-color:var(--america)">
             <td style="width:25%;">
                 <a href="https://schedseminar.github.io/">
                     <img src="./images/person_placeholder.png" height="300" width="300"/>
@@ -61,7 +66,6 @@
 
             </td>
             <td style="width:30%;">
-                <b>Some scheduling topic</b><br>
                 <b>[Presenter] </b> <br>
                 <a href="">Name Surname</a> (Affiliation)<br><br/>
                 <b>[Panelists]</b> <br>
@@ -511,7 +515,7 @@
 <div style="clear: both"></div>
 
 
-<!--Organizers-->
+<!--PC co-chairs-->
 &nbsp;
 <hr>
 <div id="PC_co-chairs" style="width:100%">
@@ -521,67 +525,31 @@
         <tr>
             <!--Person-->
             <td>
-                <a href="https://schedseminar.github.io/">
-                    <img src="./images/person_placeholder.png" height="200"/><br>
-                    Name Surname<br>Affiliation</a>
+                <a href="https://rtime.ciirc.cvut.cz/~hanzalek/">
+                    <img src="./images/Zdenek.jpg" height="200"/><br>
+                    Zdeněk Hanzálek<br>CTU in Prague</a>
             </td>
 
             <!--Person-->
             <td>
-                <a href="https://schedseminar.github.io/">
-                    <img src="./images/person_placeholder.png" height="200"/><br>
-                    Name Surname<br>Affiliation</a>
+                <a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">
+                    <img src="./images/mpinedo.jpg" height="200"/><br>
+                    Michael Pinedo<br>New York University </a>
             </td>
 
             <!--Person-->
             <td>
-                <a href="https://schedseminar.github.io/">
-                    <img src="./images/person_placeholder.png" height="200"/><br>
-                    Name Surname<br>Affiliation</a>
+                <a href="http://www.acem.sjtu.edu.cn/en/faculty/wanguohua.html">
+                    <img src="./images/guohua_wan.jpg" height="200"/><br>
+                    Guohua Wan<br>SJTU</a>
             </td>
-
-            <!--Person-->
-            <td>
-                <a href="https://schedseminar.github.io/">
-                    <img src="./images/person_placeholder.png" height="200"/><br>
-                    Name Surname<br>Affiliation</a>
-            </td>
-
-            <!--Person-->
-            <td>
-                <a href="https://schedseminar.github.io/">
-                    <img src="./images/person_placeholder.png" height="200"/><br>
-                    Name Surname<br>Affiliation</a>
-            </td>
-
-            <!--Person-->
-            <td>
-                <a href="https://schedseminar.github.io/">
-                    <img src="./images/person_placeholder.png" height="200"/><br>
-                    Name Surname<br>Affiliation</a>
-            </td>
-
-            <!--Person-->
-            <td>
-                <a href="https://schedseminar.github.io/">
-                    <img src="./images/person_placeholder.png" height="200"/><br>
-                    Name Surname<br>Affiliation</a>
-            </td>
-
-            <!--Person-->
-            <td>
-                <a href="https://schedseminar.github.io/">
-                    <img src="./images/person_placeholder.png" height="200"/><br>
-                    Name Surname<br>Affiliation</a>
-            </td>
-
         </tr>
         </tbody>
     </table>
 </div>
 
 
-<!--Supervisors-->
+<!--Program committee-->
 &nbsp;
 <hr>
 <div id="Program_committee">
@@ -657,10 +625,11 @@
     <h2 style="color:black;">Calendar (time zone conversion)</h2>
     <span style="color:black"><i>Might not work properly if location is unrecognized or VPN is used.</i></span>
     <div class="resizable">
-    <iframe src="https://calendar.google.com/calendar/embed?height=500&amp;wkst=2&amp;bgcolor=%234285F4&amp;ctz=Europe%2FPrague&amp;src=Mml0YXVjNmdhZGZsNjRsZWZxdDhiczgzZmtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23616161&amp;showTz=1&amp;showCalendars=0&amp;showTabs=1&amp;showPrint=1&amp;showDate=1&amp;showNav=1&amp;showTitle=0&amp;mode=AGENDA&amp;title=Sched%20seminar%20test"
-            style="border:solid 1px #777" width="640" height="500" frameborder="0" scrolling="no"></iframe>
-    <!--    <iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=Europe%2FPrague&amp;src=Mm1zb2NudWNjbHIwMjRxYjVmMGdpdWxwbmdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23D81B60"-->
-    <!--            style="border:solid 1px #777" width="640" height="500" frameborder="0" scrolling="no"></iframe>-->
+        <iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=2&amp;bgcolor=%234285F4&amp;ctz=Europe%2FPrague&amp;src=Mml0YXVjNmdhZGZsNjRsZWZxdDhiczgzZmtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23039BE5&amp;showTitle=0&amp;showNav=1&amp;showDate=1&amp;showPrint=1&amp;showTabs=0&amp;showCalendars=0&amp;mode=AGENDA"
+                style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
+        <!--    <iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=Europe%2FPrague&amp;src=Mm1zb2NudWNjbHIwMjRxYjVmMGdpdWxwbmdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23D81B60"-->
+        <!--            style="border:solid 1px #777" width="640" height="500" frameborder="0" scrolling="no"></iframe>-->
     </div>
 </div>
 
@@ -669,9 +638,9 @@
 <div id="Feedback" class="column">
     <h2 style="color:black;">Feedback form</h2>
     <div class="resizable">
-    <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfRk8Nv2J7RvGk-z7Gl5KLWMO5hoZC1Sd-ZFDvgzI97mZe6nw/viewform?embedded=true"
-            width="640" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading…
-    </iframe>
+        <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfRk8Nv2J7RvGk-z7Gl5KLWMO5hoZC1Sd-ZFDvgzI97mZe6nw/viewform?embedded=true"
+                width="640" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading…
+        </iframe>
     </div>
 </div>
 
@@ -682,6 +651,6 @@
 <footer>
     <p style="text-align:center">
         <a href="https://schedseminar.github.io">schedulingseminar.com</a> is maintained by
-        <a href="https://www.cvut.cz/en">CTU in Prague</a>.
+        <a href="https://iid.ciirc.cvut.cz/">CTU in Prague</a>.
     </p>
 </footer>
