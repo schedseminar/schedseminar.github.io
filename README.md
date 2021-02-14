@@ -55,7 +55,7 @@
         <!--Person-->
         <tr valign="middle" style="background-color:var(--america)">
             <td colspan="3">
-                <h2 style="color:dimgray"><b>Topic: Some interesting scheduling topic</b><br></h2>
+                <h2 style="color:dimgray"><b>Some interesting scheduling topic</b><br></h2>
             </td>
         </tr>
         <tr valign="middle" style="background-color:var(--america)">
@@ -101,6 +101,11 @@
 
         <!--Person-->
         <tr valign="middle" style="background-color:var(--asia)">
+            <td colspan="3">
+                <h2 style="color:dimgray"><b>Some interesting scheduling topic</b><br></h2>
+            </td>
+        </tr>
+        <tr valign="middle" style="background-color:var(--asia)">
             <td style="width:25%;">
                 <a href="https://schedseminar.github.io/">
                     <img src="./images/person_placeholder.png" height="300" width="300"/>
@@ -108,7 +113,6 @@
 
             </td>
             <td style="width:30%;">
-                <b>Some scheduling topic</b><br>
                 <b>[Presenter] </b> <br>
                 <a href="">Name Surname</a> (Affiliation)<br><br/>
                 <b>[Panelists]</b> <br>
@@ -144,6 +148,11 @@
 
         <!--Person-->
         <tr valign="middle" style="background-color:var(--europe)">
+            <td colspan="3">
+                <h2 style="color:dimgray"><b>Some interesting scheduling topic</b><br></h2>
+            </td>
+        </tr>
+        <tr valign="middle" style="background-color:var(--europe)">
             <td style="width:25%;">
                 <a href="https://schedseminar.github.io/">
                     <img src="./images/person_placeholder.png" height="300" width="300"/>
@@ -151,7 +160,6 @@
 
             </td>
             <td style="width:30%;">
-                <b>Some scheduling topic</b><br>
                 <b>[Presenter] </b> <br>
                 <a href="">Name Surname</a> (Affiliation)<br><br/>
                 <b>[Panelists]</b> <br>
@@ -187,6 +195,11 @@
 
         <!--Person-->
         <tr valign="middle" style="background-color:var(--america)">
+            <td colspan="3">
+                <h2 style="color:dimgray"><b>Some interesting scheduling topic</b><br></h2>
+            </td>
+        </tr>
+        <tr valign="middle" style="background-color:var(--america)">
             <td style="width:25%;">
                 <a href="https://schedseminar.github.io/">
                     <img src="./images/person_placeholder.png" height="300" width="300"/>
@@ -194,7 +207,6 @@
 
             </td>
             <td style="width:30%;">
-                <b>Some scheduling topic</b><br>
                 <b>[Presenter] </b> <br>
                 <a href="">Name Surname</a> (Affiliation)<br><br/>
                 <b>[Panelists]</b> <br>
@@ -229,6 +241,53 @@
         </tr>
 
         <!--Person-->
+        <tr valign="middle" style="background-color:var(--asia)">
+            <td colspan="3">
+                <h2 style="color:dimgray"><b>Some interesting scheduling topic</b><br></h2>
+            </td>
+        </tr>
+        <tr valign="middle" style="background-color:var(--asia)">
+            <td style="width:25%;">
+                <a href="https://schedseminar.github.io/">
+                    <img src="./images/person_placeholder.png" height="300" width="300"/>
+                </a><br/>
+
+            </td>
+            <td style="width:30%;">
+                <b>[Presenter] </b> <br>
+                <a href="">Name Surname</a> (Affiliation)<br><br/>
+                <b>[Panelists]</b> <br>
+                <a href="">Name Surname</a> (Affiliation)<br>
+                <a href="">Name Surname</a> (Affiliation)<br/><br/>
+                <b>[Invited by]</b> <br>
+                <a href="">Name Surname</a> (Affiliation)
+            </td>
+
+            <td style="width:30%;">
+                <table>
+                    <tbody>
+                    <tr style="background-color:var(--utc)">
+                        <td>UTC</td>
+                        <td>Apr 14, 07:00 Wed</td>
+                    </tr>
+                    <tr style="background-color:var(--europe)">
+                        <td>Prague</td>
+                        <td>Apr 14, 09:00 Wed</td>
+                    </tr>
+                    <tr style="background-color:var(--america)">
+                        <td>New York</td>
+                        <td>Apr 14, 03:00 Wed</td>
+                    </tr>
+                    <tr style="background-color:var(--asia)">
+                        <td>Shanghai</td>
+                        <td>Apr 14, 15:00 Wed</td>
+                    </tr>
+                    </tbody>
+                </table>
+            </td>
+        </tr>
+
+        <!--TODO OLD V2 Person-->
         <tr valign="middle" style="background-color:var(--asia)">
             <td style="width:25%;">
                 <a href="https://schedseminar.github.io/">
@@ -271,7 +330,7 @@
             </td>
         </tr>
 
-        <!--TODO OLD Person-->
+        <!--TODO OLD V1 Person-->
         <!--        <tr valign="middle" style="background-color:#e2e2df">
                     <td style="width:25%;">
                         <a href="https://schedseminar.github.io/">
