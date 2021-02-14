@@ -288,7 +288,7 @@
         </tr>
 
         <!--TODO OLD V2 Person-->
-        <tr valign="middle" style="background-color:var(--asia)">
+        <!--        <tr valign="middle" style="background-color:var(&#45;&#45;asia)">
             <td style="width:25%;">
                 <a href="https://schedseminar.github.io/">
                     <img src="./images/person_placeholder.png" height="300" width="300"/>
@@ -309,26 +309,26 @@
             <td style="width:30%;">
                 <table>
                     <tbody>
-                    <tr style="background-color:var(--utc)">
+                    <tr style="background-color:var(&#45;&#45;utc)">
                         <td>UTC</td>
                         <td>Apr 14, 07:00 Wed</td>
                     </tr>
-                    <tr style="background-color:var(--europe)">
+                    <tr style="background-color:var(&#45;&#45;europe)">
                         <td>Prague</td>
                         <td>Apr 14, 09:00 Wed</td>
                     </tr>
-                    <tr style="background-color:var(--america)">
+                    <tr style="background-color:var(&#45;&#45;america)">
                         <td>New York</td>
                         <td>Apr 14, 03:00 Wed</td>
                     </tr>
-                    <tr style="background-color:var(--asia)">
+                    <tr style="background-color:var(&#45;&#45;asia)">
                         <td>Shanghai</td>
                         <td>Apr 14, 15:00 Wed</td>
                     </tr>
                     </tbody>
                 </table>
             </td>
-        </tr>
+        </tr>-->
 
         <!--TODO OLD V1 Person-->
         <!--        <tr valign="middle" style="background-color:#e2e2df">
