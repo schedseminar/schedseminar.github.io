@@ -10,7 +10,7 @@
             three different time zones
             (<span style="background-color:#e2e2df;">Europe</span>,
             <span style="background-color:#e2cfc4;">America</span>, and
-            <span style="background-color:#c6def1;">Asia</span>).
+            <span style="background-color:#c6def1;">Asia & Oceania</span>).
 
             <br/>
             &nbsp;
@@ -600,7 +600,7 @@
             <td>
                 <a href="http://www.acem.sjtu.edu.cn/en/faculty/wanguohua.html">
                     <img src="./images/guohua_wan.jpg" height="200"/><br>
-                    Guohua Wan<br>SJTU</a>
+                    Guohua Wan<br>Shanghai Jiao Tong</a>
             </td>
         </tr>
         </tbody>
