@@ -73,7 +73,7 @@
             </td>
 
             <td style="width:30%;">
-                <table>
+                <table class="time_table">
                     <tbody>
                     <tr style="background-color:var(--utc)">
                         <td>UTC</td>
@@ -119,7 +119,7 @@
             </td>
 
             <td style="width:30%;">
-                <table>
+                <table class="time_table">
                     <tbody>
                     <tr style="background-color:var(--utc)">
                         <td>UTC</td>
@@ -165,7 +165,7 @@
             </td>
 
             <td style="width:30%;">
-                <table>
+                <table class="time_table">
                     <tbody>
                     <tr style="background-color:var(--utc)">
                         <td>UTC</td>
@@ -211,7 +211,7 @@
             </td>
 
             <td style="width:30%;">
-                <table>
+                <table class="time_table">
                     <tbody>
                     <tr style="background-color:var(--utc)">
                         <td>UTC</td>
@@ -257,7 +257,7 @@
             </td>
 
             <td style="width:30%;">
-                <table>
+                <table class="time_table">
                     <tbody>
                     <tr style="background-color:var(--utc)">
                         <td>UTC</td>
