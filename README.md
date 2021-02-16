@@ -62,7 +62,7 @@
                     <img src="./images/person_placeholder_200x320.png"/>
                 </a><br/>
             </td>
-            <td style="width:30%;">
+            <td style="width:25%;">
                 <b>[Presenter] </b> <br>
                 <a href="">Name Surname</a> (Affiliation)<br><br/>
                 <b>[Panelists]</b> <br>
@@ -72,7 +72,7 @@
                 <a href="">Name Surname</a> (Affiliation)
             </td>
 
-            <td style="width:30%;">
+            <td style="width:35%;">
                 <table class="time_table">
                     <tbody>
                     <tr style="background-color:var(--utc)">
@@ -108,7 +108,7 @@
                     <img src="./images/person_placeholder_200x320.png"/>
                 </a><br/>
             </td>
-            <td style="width:30%;">
+            <td style="width:25%;">
                 <b>[Presenter] </b> <br>
                 <a href="">Name Surname</a> (Affiliation)<br><br/>
                 <b>[Panelists]</b> <br>
@@ -118,7 +118,7 @@
                 <a href="">Name Surname</a> (Affiliation)
             </td>
 
-            <td style="width:30%;">
+            <td style="width:35%;">
                 <table class="time_table">
                     <tbody>
                     <tr style="background-color:var(--utc)">
@@ -154,7 +154,7 @@
                     <img src="./images/person_placeholder_200x320.png"/>
                 </a><br/>
             </td>
-            <td style="width:30%;">
+            <td style="width:25%;">
                 <b>[Presenter] </b> <br>
                 <a href="">Name Surname</a> (Affiliation)<br><br/>
                 <b>[Panelists]</b> <br>
@@ -164,7 +164,7 @@
                 <a href="">Name Surname</a> (Affiliation)
             </td>
 
-            <td style="width:30%;">
+            <td style="width:35%;">
                 <table class="time_table">
                     <tbody>
                     <tr style="background-color:var(--utc)">
@@ -200,7 +200,7 @@
                     <img src="./images/person_placeholder_200x320.png"/>
                 </a><br/>
             </td>
-            <td style="width:30%;">
+            <td style="width:25%;">
                 <b>[Presenter] </b> <br>
                 <a href="">Name Surname</a> (Affiliation)<br><br/>
                 <b>[Panelists]</b> <br>
@@ -210,7 +210,7 @@
                 <a href="">Name Surname</a> (Affiliation)
             </td>
 
-            <td style="width:30%;">
+            <td style="width:35%;">
                 <table class="time_table">
                     <tbody>
                     <tr style="background-color:var(--utc)">
@@ -246,7 +246,7 @@
                     <img src="./images/person_placeholder_200x320.png"/>
                 </a><br/>
             </td>
-            <td style="width:30%;">
+            <td style="width:25%;">
                 <b>[Presenter] </b> <br>
                 <a href="">Name Surname</a> (Affiliation)<br><br/>
                 <b>[Panelists]</b> <br>
@@ -256,7 +256,7 @@
                 <a href="">Name Surname</a> (Affiliation)
             </td>
 
-            <td style="width:30%;">
+            <td style="width:35%;">
                 <table class="time_table">
                     <tbody>
                     <tr style="background-color:var(--utc)">
