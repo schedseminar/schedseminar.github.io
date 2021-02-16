@@ -1,7 +1,7 @@
 <!--Header-->
 <table class="header_table">
     <tr>
-        <td class="header_image"><img src="./images/gantt-fabrio-merica.png" height="200" width="600"/></td>
+        <td class="header_image"><img src="./images/gantt-fabrio-merica.png" height="200" width="600" alt="logo"/></td>
         <td class="header_paragraph">
             <h1 style="color:#4eb5f1;">Scheduling seminar</h1>
             Objective of a virtual seminar on scheduling research and applications is to discuss both the field's newest
@@ -19,13 +19,6 @@
                 <a href='#Calendar' class="button3">Calendar</a>
                 <a href='#Feedback' class="button3">Feedback</a>
             </div>
-
-            <!--TODO-->
-            <!--Please
-            <a href="https://calendar.google.com/calendar/ical/2msocnucclr024qb5f0giulpng%40group.calendar.google.com/public/basic.ics">
-            add this to your calendar
-            </a>
-            to know hours in your time-zone.-->
         </td>
     </tr>
 </table>
@@ -59,7 +52,7 @@
         <tr valign="middle" style="background-color:var(--america)">
             <td style="width:35%;">
                 <a href="https://schedseminar.github.io/">
-                    <img src="./images/person_placeholder_200x320.png"/>
+                    <img src="./images/person_placeholder_200x320.png" alt="person_photo"/>
                 </a><br/>
             </td>
             <td style="width:25%;">
@@ -105,7 +98,7 @@
         <tr valign="middle" style="background-color:var(--asia)">
             <td style="width:35%;">
                 <a href="https://schedseminar.github.io/">
-                    <img src="./images/person_placeholder_200x320.png"/>
+                    <img src="./images/person_placeholder_200x320.png" alt="person_photo"/>
                 </a><br/>
             </td>
             <td style="width:25%;">
@@ -151,7 +144,7 @@
         <tr valign="middle" style="background-color:var(--europe)">
             <td style="width:35%;">
                 <a href="https://schedseminar.github.io/">
-                    <img src="./images/person_placeholder_200x320.png"/>
+                    <img src="./images/person_placeholder_200x320.png" alt="person_photo"/>
                 </a><br/>
             </td>
             <td style="width:25%;">
@@ -197,7 +190,7 @@
         <tr valign="middle" style="background-color:var(--america)">
             <td style="width:35%;">
                 <a href="https://schedseminar.github.io/">
-                    <img src="./images/person_placeholder_200x320.png"/>
+                    <img src="./images/person_placeholder_200x320.png" alt="person_photo"/>
                 </a><br/>
             </td>
             <td style="width:25%;">
@@ -243,7 +236,7 @@
         <tr valign="middle" style="background-color:var(--asia)">
             <td style="width:35%;">
                 <a href="https://schedseminar.github.io/">
-                    <img src="./images/person_placeholder_200x320.png"/>
+                    <img src="./images/person_placeholder_200x320.png" alt="person_photo"/>
                 </a><br/>
             </td>
             <td style="width:25%;">
@@ -381,186 +374,157 @@
     <table cellpadding="0" cellspacing="0">
         <tbody>
 
-        <!--Person-->
-        <span class="person">
-            <!--Photo and video-->
-            <tr valign="middle" style="background-color:var(--europe)">
-                <td style="width:35%;">
-                    <a href="https://schedseminar.github.io/">
-                        <img src="./images/person_placeholder_200x320.png"/>
-                    </a><br/>
-                </td>
-                <td colspan="2">
-                    <div class="resizable">
-                        <iframe width="400" height="250" src="https://www.youtube.com/embed/SC5CX8drAtU" frameborder="0"
-                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                                allowfullscreen></iframe>
-                    </div>
-                </td>
-            </tr>
-
-            <!--Text description-->
-            <tr valign="middle" style="background-color:var(--europe)">
-                <td style="width:35%;">
-                    <b>[Presenter]</b><br/>
-                    <a href="">Name Surname</a><br/>
-                    (Affiliation)<br/>
-                    <br/>
-                </td>
-                <td>
-                    <table>
-                        <tr>
-                            <td colspan="2"><b>[Panelists]</b> <br></td>
-                            <td><b>[Invited by]</b> <br></td>
-                        </tr>
-                        <td><a href="">Name Surname</a><br/>(Affiliation)<br></td>
-                        <td><a href="">Name Surname</a><br/>(Affiliation)</td>
-                        <td><a href="">Name Surname</a><br/> (Affiliation)</td>
-                    </table>
-                </td>
-            </tr>
-        </span>
-
-        <!--Person-->
-        <span class="person">
-            <!--Photo and video-->
-            <tr valign="middle" style="background-color:var(--asia)">
-                <td style="width:35%;">
-                    <a href="https://schedseminar.github.io/">
-                        <img src="./images/person_placeholder_200x320.png"/>
-                    </a><br/>
-                </td>
-                <td colspan="2">
-                    <div class="resizable">
-                        <iframe width="400" height="250" src="https://www.youtube.com/embed/SC5CX8drAtU" frameborder="0"
-                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                                allowfullscreen></iframe>
-                    </div>
-                </td>
-            </tr>
-
-            <!--Text description-->
-            <tr valign="middle" style="background-color:var(--asia)">
-                <td style="width:35%;">
-                    <b>[Presenter]</b><br/>
-                    <a href="">Name Surname</a><br/>
-                    (Affiliation)<br/>
-                    <br/>
-                </td>
-                <td>
-                    <table>
-                        <tr>
-                            <td colspan="2"><b>[Panelists]</b> <br></td>
-                            <td><b>[Invited by]</b> <br></td>
-                        </tr>
-                        <td><a href="">Name Surname</a><br/>(Affiliation)<br></td>
-                        <td><a href="">Name Surname</a><br/>(Affiliation)</td>
-                        <td><a href="">Name Surname</a><br/> (Affiliation)</td>
-                    </table>
-                </td>
-            </tr>
-        </span>
-
-        <!--Person-->
-        <span class="person">
-            <!--Photo and video-->
-            <tr valign="middle" style="background-color:var(--america)">
-                <td style="width:35%;">
-                    <a href="https://schedseminar.github.io/">
-                        <img src="./images/person_placeholder_200x320.png"/>
-                    </a><br/>
-                </td>
-                <td colspan="2">
-                    <div class="resizable">
-                        <iframe width="400" height="250" src="https://www.youtube.com/embed/SC5CX8drAtU" frameborder="0"
-                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                                allowfullscreen></iframe>
-                    </div>
-                </td>
-            </tr>
-
-            <!--Text description-->
-            <tr valign="middle" style="background-color:var(--america)">
-                <td style="width:35%;">
-                    <b>[Presenter]</b><br/>
-                    <a href="">Name Surname</a><br/>
-                    (Affiliation)<br/>
-                    <br/>
-                </td>
-                <td>
-                    <table>
-                        <tr>
-                            <td colspan="2"><b>[Panelists]</b> <br></td>
-                            <td><b>[Invited by]</b> <br></td>
-                        </tr>
-                        <td><a href="">Name Surname</a><br/>(Affiliation)<br></td>
-                        <td><a href="">Name Surname</a><br/>(Affiliation)</td>
-                        <td><a href="">Name Surname</a><br/> (Affiliation)</td>
-                    </table>
-                </td>
-            </tr>
-        </span>
-
-        <!--Person-->
-        <span class="person">
-            <!--Photo and video-->
-            <tr valign="middle" style="background-color:var(--europe)">
-                <td style="width:35%;">
-                    <a href="https://schedseminar.github.io/">
-                        <img src="./images/person_placeholder_200x320.png"/>
-                    </a><br/>
-                </td>
-                <td colspan="2">
-                    <div class="resizable">
-                        <iframe width="400" height="250" src="https://www.youtube.com/embed/SC5CX8drAtU" frameborder="0"
-                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                                allowfullscreen></iframe>
-                    </div>
-                </td>
-            </tr>
-
-            <!--Text description-->
-            <tr valign="middle" style="background-color:var(--europe)">
-                <td style="width:30%;">
-                    <b>[Presenter]</b><br/>
-                    <a href="">Name Surname</a><br/>
-                    (Affiliation)<br/>
-                    <br/>
-                </td>
-                <td>
-                    <table>
-                        <tr>
-                            <td colspan="2"><b>[Panelists]</b> <br></td>
-                            <td><b>[Invited by]</b> <br></td>
-                        </tr>
-                        <td><a href="">Name Surname</a><br/>(Affiliation)<br></td>
-                        <td><a href="">Name Surname</a><br/>(Affiliation)</td>
-                        <td><a href="">Name Surname</a><br/> (Affiliation)</td>
-                    </table>
-                </td>
-            </tr>
-        </span>
-
-
-        <!--TODO Person backup-->
-        <!--<tr valign="middle" style="background-color:#e2cfc4">
-            <td style="width:25%;">
+        <!------------------------------------------------------------------------------------------------------------->
+        <!--Photo and video-->
+        <tr valign="middle" style="background-color:var(--europe)">
+            <td style="width:35%;">
                 <a href="https://schedseminar.github.io/">
-                    <img src="./images/person_placeholder.png" width="200"/>
+                    <img src="./images/person_placeholder_200x320.png"/>
                 </a><br/>
-                <b>[Presenter] </b> <br>
-                <a href="">First Name</a><br/>(Affiliation)<br>
-                <br/>
-                <b>[Panelists]</b> <br>
-                <a href="">Name</a><br/>(Affiliation)<br>
-                <a href="">Name</a><br/>(Affiliation)
             </td>
             <td colspan="2">
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/SC5CX8drAtU" frameborder="0"
-                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                        allowfullscreen></iframe>
+                <div class="resizable">
+                    <iframe width="400" height="250" src="https://www.youtube.com/embed/SC5CX8drAtU" frameborder="0"
+                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                            allowfullscreen></iframe>
+                </div>
             </td>
-        </tr>-->
+        </tr>
+
+        <!--Text description-->
+        <tr valign="middle" style="background-color:var(--europe)">
+            <td style="width:35%;">
+                <b>[Presenter]</b><br/>
+                <a href="">Name Surname</a><br/>
+                (Affiliation)<br/>
+                <br/>
+            </td>
+            <td>
+                <table>
+                    <tr>
+                        <td colspan="2"><b>[Panelists]</b> <br></td>
+                        <td><b>[Invited by]</b> <br></td>
+                    </tr>
+                    <td><a href="">Name Surname</a><br/>(Affiliation)<br></td>
+                    <td><a href="">Name Surname</a><br/>(Affiliation)</td>
+                    <td><a href="">Name Surname</a><br/> (Affiliation)</td>
+                </table>
+            </td>
+        </tr>
+
+        <!------------------------------------------------------------------------------------------------------------->
+        <!--Photo and video-->
+        <tr valign="middle" style="background-color:var(--asia)">
+            <td style="width:35%;">
+                <a href="https://schedseminar.github.io/">
+                    <img src="./images/person_placeholder_200x320.png"/>
+                </a><br/>
+            </td>
+            <td colspan="2">
+                <div class="resizable">
+                    <iframe width="400" height="250" src="https://www.youtube.com/embed/SC5CX8drAtU" frameborder="0"
+                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                            allowfullscreen></iframe>
+                </div>
+            </td>
+        </tr>
+
+        <!--Text description-->
+        <tr valign="middle" style="background-color:var(--asia)">
+            <td style="width:35%;">
+                <b>[Presenter]</b><br/>
+                <a href="">Name Surname</a><br/>
+                (Affiliation)<br/>
+                <br/>
+            </td>
+            <td>
+                <table>
+                    <tr>
+                        <td colspan="2"><b>[Panelists]</b> <br></td>
+                        <td><b>[Invited by]</b> <br></td>
+                    </tr>
+                    <td><a href="">Name Surname</a><br/>(Affiliation)<br></td>
+                    <td><a href="">Name Surname</a><br/>(Affiliation)</td>
+                    <td><a href="">Name Surname</a><br/> (Affiliation)</td>
+                </table>
+            </td>
+        </tr>
+
+        <!------------------------------------------------------------------------------------------------------------->
+        <!--Photo and video-->
+        <tr valign="middle" style="background-color:var(--america)">
+            <td style="width:35%;">
+                <a href="https://schedseminar.github.io/">
+                    <img src="./images/person_placeholder_200x320.png"/>
+                </a><br/>
+            </td>
+            <td colspan="2">
+                <div class="resizable">
+                    <iframe width="400" height="250" src="https://www.youtube.com/embed/SC5CX8drAtU" frameborder="0"
+                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                            allowfullscreen></iframe>
+                </div>
+            </td>
+        </tr>
+
+        <!--Text description-->
+        <tr valign="middle" style="background-color:var(--america)">
+            <td style="width:35%;">
+                <b>[Presenter]</b><br/>
+                <a href="">Name Surname</a><br/>
+                (Affiliation)<br/>
+                <br/>
+            </td>
+            <td>
+                <table>
+                    <tr>
+                        <td colspan="2"><b>[Panelists]</b> <br></td>
+                        <td><b>[Invited by]</b> <br></td>
+                    </tr>
+                    <td><a href="">Name Surname</a><br/>(Affiliation)<br></td>
+                    <td><a href="">Name Surname</a><br/>(Affiliation)</td>
+                    <td><a href="">Name Surname</a><br/> (Affiliation)</td>
+                </table>
+            </td>
+        </tr>
+
+        <!------------------------------------------------------------------------------------------------------------->
+        <!--Photo and video-->
+        <tr valign="middle" style="background-color:var(--europe)">
+            <td style="width:35%;">
+                <a href="https://schedseminar.github.io/">
+                    <img src="./images/person_placeholder_200x320.png"/>
+                </a><br/>
+            </td>
+            <td colspan="2">
+                <div class="resizable">
+                    <iframe width="400" height="250" src="https://www.youtube.com/embed/SC5CX8drAtU" frameborder="0"
+                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                            allowfullscreen></iframe>
+                </div>
+            </td>
+        </tr>
+
+        <!--Text description-->
+        <tr valign="middle" style="background-color:var(--europe)">
+            <td style="width:30%;">
+                <b>[Presenter]</b><br/>
+                <a href="">Name Surname</a><br/>
+                (Affiliation)<br/>
+                <br/>
+            </td>
+            <td>
+                <table>
+                    <tr>
+                        <td colspan="2"><b>[Panelists]</b> <br></td>
+                        <td><b>[Invited by]</b> <br></td>
+                    </tr>
+                    <td><a href="">Name Surname</a><br/>(Affiliation)<br></td>
+                    <td><a href="">Name Surname</a><br/>(Affiliation)</td>
+                    <td><a href="">Name Surname</a><br/> (Affiliation)</td>
+                </table>
+            </td>
+        </tr>
         </tbody>
     </table>
 </div>
