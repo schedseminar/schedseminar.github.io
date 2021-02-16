@@ -578,21 +578,21 @@
             <!--Person-->
             <td>
                 <a href="https://rtime.ciirc.cvut.cz/~hanzalek/">
-                    <img src="./images/Zdenek.jpg" height="200"/><br>
+                    <img src="./images/Zdenek.jpg" height="200" width="150"/><br>
                     Zdeněk Hanzálek<br>CTU in Prague</a>
             </td>
 
             <!--Person-->
             <td>
                 <a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">
-                    <img src="./images/mpinedo.jpg" height="200"/><br>
+                    <img src="./images/mpinedo.jpg" height="200" width="150"/><br>
                     Michael Pinedo<br>New York University </a>
             </td>
 
             <!--Person-->
             <td>
                 <a href="http://www.acem.sjtu.edu.cn/en/faculty/wanguohua.html">
-                    <img src="./images/guohua_wan.jpg" height="200"/><br>
+                    <img src="./images/guohua_wan.jpg" height="200" width="150"/><br>
                     Guohua Wan<br>Shanghai Jiao Tong</a>
             </td>
         </tr>
@@ -612,56 +612,56 @@
             <!--Person-->
             <td>
                 <a href="https://schedseminar.github.io/">
-                    <img src="./images/person_placeholder.png" height="200"/><br>
+                    <img src="./images/person_placeholder.png" height="200" width="150"/><br>
                     Name Surname<br>Affiliation</a>
             </td>
 
             <!--Person-->
             <td>
                 <a href="https://schedseminar.github.io/">
-                    <img src="./images/person_placeholder.png" height="200"/><br>
+                    <img src="./images/person_placeholder.png" height="200" width="150"/><br>
                     Name Surname<br>Affiliation</a>
             </td>
 
             <!--Person-->
             <td>
                 <a href="https://schedseminar.github.io/">
-                    <img src="./images/person_placeholder.png" height="200"/><br>
+                    <img src="./images/person_placeholder.png" height="200" width="150"/><br>
                     Name Surname<br>Affiliation</a>
             </td>
 
             <!--Person-->
             <td>
                 <a href="https://schedseminar.github.io/">
-                    <img src="./images/person_placeholder.png" height="200"/><br>
+                    <img src="./images/person_placeholder.png" height="200" width="150"/><br>
                     Name Surname<br>Affiliation</a>
             </td>
 
             <!--Person-->
             <td>
                 <a href="https://schedseminar.github.io/">
-                    <img src="./images/person_placeholder.png" height="200"/><br>
+                    <img src="./images/person_placeholder.png" height="200" width="150"/><br>
                     Name Surname<br>Affiliation</a>
             </td>
 
             <!--Person-->
             <td>
                 <a href="https://schedseminar.github.io/">
-                    <img src="./images/person_placeholder.png" height="200"/><br>
+                    <img src="./images/person_placeholder.png" height="200" width="150"/><br>
                     Name Surname<br>Affiliation</a>
             </td>
 
             <!--Person-->
             <td>
                 <a href="https://schedseminar.github.io/">
-                    <img src="./images/person_placeholder.png" height="200"/><br>
+                    <img src="./images/person_placeholder.png" height="200" width="150"/><br>
                     Name Surname<br>Affiliation</a>
             </td>
 
             <!--Person-->
             <td>
                 <a href="https://schedseminar.github.io/">
-                    <img src="./images/person_placeholder.png" height="200"/><br>
+                    <img src="./images/person_placeholder.png" height="200" width="150"/><br>
                     Name Surname<br>Affiliation</a>
             </td>
         </tr>
