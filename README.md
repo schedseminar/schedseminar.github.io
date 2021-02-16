@@ -57,11 +57,10 @@
             </td>
         </tr>
         <tr valign="middle" style="background-color:var(--america)">
-            <td style="width:25%;">
+            <td style="width:35%;">
                 <a href="https://schedseminar.github.io/">
-                    <img src="./images/person_placeholder.png" height="300" width="300"/>
+                    <img src="./images/person_placeholder_200x320.png"/>
                 </a><br/>
-
             </td>
             <td style="width:30%;">
                 <b>[Presenter] </b> <br>
@@ -104,11 +103,10 @@
             </td>
         </tr>
         <tr valign="middle" style="background-color:var(--asia)">
-            <td style="width:25%;">
+            <td style="width:35%;">
                 <a href="https://schedseminar.github.io/">
-                    <img src="./images/person_placeholder.png" height="300" width="300"/>
+                    <img src="./images/person_placeholder_200x320.png"/>
                 </a><br/>
-
             </td>
             <td style="width:30%;">
                 <b>[Presenter] </b> <br>
@@ -151,11 +149,10 @@
             </td>
         </tr>
         <tr valign="middle" style="background-color:var(--europe)">
-            <td style="width:25%;">
+            <td style="width:35%;">
                 <a href="https://schedseminar.github.io/">
-                    <img src="./images/person_placeholder.png" height="300" width="300"/>
+                    <img src="./images/person_placeholder_200x320.png"/>
                 </a><br/>
-
             </td>
             <td style="width:30%;">
                 <b>[Presenter] </b> <br>
@@ -198,11 +195,10 @@
             </td>
         </tr>
         <tr valign="middle" style="background-color:var(--america)">
-            <td style="width:25%;">
+            <td style="width:35%;">
                 <a href="https://schedseminar.github.io/">
-                    <img src="./images/person_placeholder.png" height="300" width="300"/>
+                    <img src="./images/person_placeholder_200x320.png"/>
                 </a><br/>
-
             </td>
             <td style="width:30%;">
                 <b>[Presenter] </b> <br>
@@ -245,11 +241,10 @@
             </td>
         </tr>
         <tr valign="middle" style="background-color:var(--asia)">
-            <td style="width:25%;">
+            <td style="width:35%;">
                 <a href="https://schedseminar.github.io/">
-                    <img src="./images/person_placeholder.png" height="300" width="300"/>
+                    <img src="./images/person_placeholder_200x320.png"/>
                 </a><br/>
-
             </td>
             <td style="width:30%;">
                 <b>[Presenter] </b> <br>
@@ -390,9 +385,9 @@
         <span class="person">
             <!--Photo and video-->
             <tr valign="middle" style="background-color:var(--europe)">
-                <td style="width:30%;">
+                <td style="width:35%;">
                     <a href="https://schedseminar.github.io/">
-                        <img src="./images/person_placeholder.png" height="300" width="300"/>
+                        <img src="./images/person_placeholder_200x320.png"/>
                     </a><br/>
                 </td>
                 <td colspan="2">
@@ -406,7 +401,7 @@
 
             <!--Text description-->
             <tr valign="middle" style="background-color:var(--europe)">
-                <td style="width:30%;">
+                <td style="width:35%;">
                     <b>[Presenter]</b><br/>
                     <a href="">Name Surname</a><br/>
                     (Affiliation)<br/>
@@ -430,9 +425,9 @@
         <span class="person">
             <!--Photo and video-->
             <tr valign="middle" style="background-color:var(--asia)">
-                <td style="width:30%;">
+                <td style="width:35%;">
                     <a href="https://schedseminar.github.io/">
-                        <img src="./images/person_placeholder.png" height="300" width="300"/>
+                        <img src="./images/person_placeholder_200x320.png"/>
                     </a><br/>
                 </td>
                 <td colspan="2">
@@ -446,7 +441,7 @@
 
             <!--Text description-->
             <tr valign="middle" style="background-color:var(--asia)">
-                <td style="width:30%;">
+                <td style="width:35%;">
                     <b>[Presenter]</b><br/>
                     <a href="">Name Surname</a><br/>
                     (Affiliation)<br/>
@@ -470,9 +465,9 @@
         <span class="person">
             <!--Photo and video-->
             <tr valign="middle" style="background-color:var(--america)">
-                <td style="width:30%;">
+                <td style="width:35%;">
                     <a href="https://schedseminar.github.io/">
-                        <img src="./images/person_placeholder.png" height="300" width="300"/>
+                        <img src="./images/person_placeholder_200x320.png"/>
                     </a><br/>
                 </td>
                 <td colspan="2">
@@ -486,7 +481,7 @@
 
             <!--Text description-->
             <tr valign="middle" style="background-color:var(--america)">
-                <td style="width:30%;">
+                <td style="width:35%;">
                     <b>[Presenter]</b><br/>
                     <a href="">Name Surname</a><br/>
                     (Affiliation)<br/>
