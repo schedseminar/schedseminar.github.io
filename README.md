@@ -7,9 +7,9 @@
             Objective of a virtual seminar on scheduling research and applications is to discuss both the field's newest
             advancements and survey traditional areas. Seminars take place typically on every second Wednesday through
             three different time zones
-            (<span style="background-color:#e2e2df;">Europe</span>,
-            <span style="background-color:#e2cfc4;">America</span>, and
-            <span style="background-color:#c6def1;">Asia & Oceania</span>).
+            (<span style="background-color:var(--europe);">Europe</span>,
+            <span style="background-color:var(--america);">America</span>, and
+            <span style="background-color:var(--asia);">Asia & Oceania</span>).
 
             <br/>
             &nbsp;
@@ -30,7 +30,7 @@
 <p style="text-align:center;">
     <a href="https://youtu.be/add-link" class="button3">Youtube Live Stream</a>
 
-    <!--TODO-->
+    <!--TODO MB will be used in future-->
     <!--<a href="zoom_information.html" class="button3">Zoom Conference</a>-->
 </p>
 
@@ -272,97 +272,6 @@
                 </table>
             </td>
         </tr>
-
-        <!--TODO OLD V2 Person-->
-        <!--        <tr valign="middle" style="background-color:var(&#45;&#45;asia)">
-            <td style="width:25%;">
-                <a href="https://schedseminar.github.io/">
-                    <img src="./images/person_placeholder.png" height="300" width="300"/>
-                </a><br/>
-
-            </td>
-            <td style="width:30%;">
-                <b>Some scheduling topic</b><br>
-                <b>[Presenter] </b> <br>
-                <a href="">Name Surname</a> (Affiliation)<br><br/>
-                <b>[Panelists]</b> <br>
-                <a href="">Name Surname</a> (Affiliation)<br>
-                <a href="">Name Surname</a> (Affiliation)<br/><br/>
-                <b>[Invited by]</b> <br>
-                <a href="">Name Surname</a> (Affiliation)
-            </td>
-
-            <td style="width:30%;">
-                <table>
-                    <tbody>
-                    <tr style="background-color:var(&#45;&#45;utc)">
-                        <td>UTC</td>
-                        <td>Apr 14, 07:00 Wed</td>
-                    </tr>
-                    <tr style="background-color:var(&#45;&#45;europe)">
-                        <td>Prague</td>
-                        <td>Apr 14, 09:00 Wed</td>
-                    </tr>
-                    <tr style="background-color:var(&#45;&#45;america)">
-                        <td>New York</td>
-                        <td>Apr 14, 03:00 Wed</td>
-                    </tr>
-                    <tr style="background-color:var(&#45;&#45;asia)">
-                        <td>Shanghai</td>
-                        <td>Apr 14, 15:00 Wed</td>
-                    </tr>
-                    </tbody>
-                </table>
-            </td>
-        </tr>-->
-
-        <!--TODO OLD V1 Person-->
-        <!--        <tr valign="middle" style="background-color:#e2e2df">
-                    <td style="width:25%;">
-                        <a href="https://schedseminar.github.io/">
-                            <img src="./images/person_placeholder.png" width="200"/>
-                        </a><br/>
-                        <b>[Presenter] </b> <br>
-                        <a href="">First Name</a>(Affiliation)<br><br/>
-                    </td>
-
-                    <td style="width:40%;">
-                        <table>
-                            <tbody>
-                            <tr style="background-color:#c6def1">
-                                <td>Sydney</td>
-                                <td>02/10 22:00 Wed</td>
-                            </tr>
-                            <tr style="background-color:#c6def1">
-                                <td>Beijing</td>
-                                <td>02/10 19:00 Wed</td>
-                            </tr>
-                            <tr style="background-color:#e2e2df">
-                                <td>France</td>
-                                <td>02/10 12:00 Wed</td>
-                            </tr>
-                            <tr style="background-color:#e2e2df">
-                                <td>UK</td>
-                                <td>02/10 11:00 Wed</td>
-                            </tr>
-                            <tr style="background-color:#e2cfc4">
-                                <td>Eastern</td>
-                                <td>02/10 06:00 Wed</td>
-                            </tr>
-                            <tr style="background-color:#e2cfc4">
-                                <td>Pacific</td>
-                                <td>02/10 03:00 Wed</td>
-                            </tr>
-                            </tbody>
-                        </table>
-                    </td>
-                    <td style="width:35%;">
-                        <b>Some scheduling topic</b><br><br>
-                        <b>[Panelists]</b> <br>
-                        <a href="">Name</a>(Affiliation)<br>
-                        <a href="">Name</a>(Affiliation)
-                    </td>
-                </tr>-->
         </tbody>
     </table>
 </div>
@@ -651,9 +560,6 @@
     <div class="resizable">
         <iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=2&amp;bgcolor=%234285F4&amp;ctz=Europe%2FPrague&amp;src=Mml0YXVjNmdhZGZsNjRsZWZxdDhiczgzZmtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23039BE5&amp;showTitle=0&amp;showNav=1&amp;showDate=1&amp;showPrint=1&amp;showTabs=0&amp;showCalendars=0&amp;mode=AGENDA"
                 style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
-
-        <!--    <iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=Europe%2FPrague&amp;src=Mm1zb2NudWNjbHIwMjRxYjVmMGdpdWxwbmdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23D81B60"-->
-        <!--            style="border:solid 1px #777" width="640" height="500" frameborder="0" scrolling="no"></iframe>-->
     </div>
 </div>
 
