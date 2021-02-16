@@ -3,13 +3,18 @@
 <head>
     <!--CSS defines-->
     <style>
-        :root{
+
+        /*Vars*/
+        :root {
             --utc: white;
             --europe: #e2e2df;
             --america: #e2cfc4;
             --asia: #c6def1;
         }
 
+        /*-----------------------------------------*/
+
+        /*Buttons*/
         a.button3 {
             display: inline-block;
             padding: 0.3em 1.2em;
@@ -36,13 +41,20 @@
             }
         }
 
+        /*-----------------------------------------*/
+
+        /*other HTML tags*/
         img {
-            object-fit: cover;
+            object-fit: contain;
         }
 
         * {
             box-sizing: border-box;
         }
+
+        /*-----------------------------------------*/
+
+        /*Div classes*/
 
         .row {
             margin-left: -5px;
@@ -64,6 +76,10 @@
             display: table;
         }
 
+        /*-----------------------------------------*/
+
+        /*Generic table settings*/
+
         table {
             border-collapse: collapse;
             border-spacing: 0;
@@ -76,10 +92,47 @@
             padding: 16px;
         }
 
-        #people_table  {display: block; }
-        .people_table  td {display: inline-block; }
+        /*-----------------------------------------*/
 
-        /* If display too small, put the columns under each other */
+        /*Tables related to co-chairs and committee*/
+        .people_table {
+            display: block;
+        }
+
+        .people_table td {
+            display: inline-block;
+        }
+
+        /*-----------------------------------------*/
+
+        /*Table on the top of the page*/
+        @media (max-width: 60em) {
+            .header_table {
+                display: block;
+            }
+        }
+
+        @media (max-width: 60em) {
+            .header_table td {
+                display: inline-block;
+            }
+        }
+
+        @media (min-width: 60em) {
+            .header_image {
+                width: 40%;
+            }
+        }
+
+        @media (min-width: 60em) {
+            .header_paragraph {
+                width: 60%;
+            }
+        }
+
+        /*-----------------------------------------*/
+
+        /*Put the talks columns under each other if display too small*/
         @media screen and (max-width: 80em) {
             .column {
                 width: 100% !important;
@@ -91,6 +144,8 @@
                 max-width: 100em !important;
             }
         }
+
+        /*-----------------------------------------*/
 
         /*Youtube frame*/
         .resizable {
@@ -105,12 +160,17 @@
 
         .resizable iframe {
             position: absolute;
-            top: 0; bottom: 0; left: 0;
+            top: 0;
+            bottom: 0;
+            left: 0;
             width: 100%;
             height: 100%;
             border: 0;
         }
 
+        /*-----------------------------------------*/
+
+        /*Header title style*/
         h1 {
             font-weight: bold !important;
             font-size: 40px !important;

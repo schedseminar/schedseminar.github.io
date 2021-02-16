@@ -1,9 +1,8 @@
 <!--Header-->
-<table>
-    <tbody>
-    <tr valign="middle">
-        <td style="width:40%;"><img src="./images/gantt-fabrio-merica.png" height="200" width="600"/></td>
-        <td style="width:60%;">
+<table class="header_table">
+    <tr>
+        <td class="header_image"><img src="./images/gantt-fabrio-merica.png" height="200" width="600"/></td>
+        <td class="header_paragraph">
             <h1 style="color:#4eb5f1;">Scheduling seminar</h1>
             Objective of a virtual seminar on scheduling research and applications is to discuss both the field's newest
             advancements and survey traditional areas. Seminars take place typically on every second Wednesday through
@@ -29,7 +28,6 @@
             to know hours in your time-zone.-->
         </td>
     </tr>
-    </tbody>
 </table>
 
 
