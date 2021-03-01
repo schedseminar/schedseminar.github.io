@@ -48,6 +48,15 @@
         <tr class="america">
             <td colspan="3">
                 <h2 class="talk_title"><b>Some interesting scheduling topic</b><br></h2>
+                <input type="checkbox" id="my_checkbox" style="display:none;">
+                <label for="my_checkbox" class="label_abstract"><a>Abstract</a></label>
+                <div class="hidden">
+                    <hr style="border-top: 1px solid black;">
+                    Here will be some very long abstract. Here will be some very long abstract. Here will be some very
+                    long abstract. Here will be some very long abstract. Here will be some very long abstract. Here will
+                    be some very long abstract.
+                    <hr style="border-top: 1px solid black;">
+                </div>
             </td>
         </tr>
         <tr class="america">
@@ -87,6 +96,20 @@
                     </tr>
                     </tbody>
                 </table>
+            </td>
+        </tr>
+        <tr class="america">
+            <td colspan="3">
+                <input type="checkbox" id="person" style="display:none;">
+                <label for="person" class="label_abstract"><a>Bibliography</a></label>
+                <div class="hidden">
+                    <hr style="border-top: 1px solid black;">
+                    Ref 1: Some article name...<br/>
+                    Ref 2: Some article name...<br/>
+                    Ref 3: Some article name...<br/>
+                    Ref 4: Some article name...<br/>
+                    <hr style="border-top: 1px solid black;">
+                </div>
             </td>
         </tr>
 

@@ -320,6 +320,23 @@
             font-weight: bold !important;
             font-size: 40px !important;
         }
+
+        /*Expandable data*/
+        .hidden {
+            display: none;
+            padding-left: 10px;
+            padding-top: 10px;
+        }
+
+        :checked + * + .hidden {
+            display: block;
+        }
+
+        .label_abstract {
+            font-style: italic;
+            font-size: 12pt;
+            padding-left: 10px;
+        }
     </style>
 
     <!--JS scripts-->
