@@ -353,7 +353,7 @@
         </tr>
 
         <!------------------------------------------------------------------------------------------------------------->
-        <!--Photo and video-->
+        <!--DUAL Photo and video-->
         <tr class="asia">
             <td class="presenter_picture">
                 <a href="https://schedseminar.github.io/">
