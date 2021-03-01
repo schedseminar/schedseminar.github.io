@@ -1,19 +1,19 @@
 <!--Header-->
 <table class="header_table">
     <tr>
-        <td class="header_image"><img src="./images/gantt-fabrio-merica.png" height="200" width="600" alt="logo"/></td>
+        <td class="header_image"><img src="./images/gantt-fabrio-merica.png" height="200px" width="600px" alt="logo"/>
+        </td>
         <td class="header_paragraph">
-            <h1 style="color:#4eb5f1;">Scheduling seminar</h1>
+            <h1>Scheduling seminar</h1>
             Objective of a virtual seminar on scheduling research and applications is to discuss both the field's newest
             advancements and survey traditional areas. Seminars take place typically on every second Wednesday through
             three different time zones
-            (<span style="background-color:var(--europe);">Europe</span>,
-            <span style="background-color:var(--america);">America</span>, and
-            <span style="background-color:var(--asia);">Asia & Oceania</span>).
-
+            (<span class="europe">Europe</span>,
+            <span class="america">America</span>, and
+            <span class="asia">Asia & Oceania</span>).
             <br/>
             &nbsp;
-            <div align="right">
+            <div style="text-align:right;">
                 <a href='#PC_co-chairs' class="button3">PC co-chairs</a>
                 <a href='#Program_committee' class="button3">Program committee</a>
                 <a href='#Calendar' class="button3">Calendar</a>
@@ -26,7 +26,7 @@
 
 <!--Buttons-->
 <hr>
-<h2 style="color:#4eb5f1; text-align: center;">Join us online</h2>
+<h2 id="join_us">Join us online</h2>
 <p style="text-align:center;">
     <a href="https://youtu.be/add-link" class="button3">Youtube Live Stream</a>
 
@@ -35,27 +35,28 @@
 </p>
 
 
+<!--------------------------------------------------------------------------------------------------------------------->
 <!--Talks-->
 <hr>
 <div class="column">
-    <h2 style="color:black;">Upcoming talks</h2>
+    <h2>Upcoming talks</h2>
 
-    <table cellpadding="0" cellspacing="0">
+    <table>
         <tbody>
 
         <!--Person-->
-        <tr valign="middle" style="background-color:var(--america)">
+        <tr class="america">
             <td colspan="3">
-                <h2 style="color:dimgray"><b>Some interesting scheduling topic</b><br></h2>
+                <h2 class="talk_title"><b>Some interesting scheduling topic</b><br></h2>
             </td>
         </tr>
-        <tr valign="middle" style="background-color:var(--america)">
-            <td style="width:35%;">
+        <tr class="america">
+            <td class="presenter_picture">
                 <a href="https://schedseminar.github.io/">
-                    <img src="./images/person_placeholder_200x320.png" alt="person_photo"/>
+                    <img class="single_presenter" src="./images/person_placeholder_200x320.png" alt="person_photo"/>
                 </a><br/>
             </td>
-            <td style="width:25%;">
+            <td class="information_upcoming">
                 <b>[Presenter] </b> <br>
                 <a href="">Name Surname</a> (Affiliation)<br><br/>
                 <b>[Panelists]</b> <br>
@@ -65,22 +66,22 @@
                 <a href="">Name Surname</a> (Affiliation)
             </td>
 
-            <td style="width:35%;">
+            <td class="time_zones">
                 <table class="time_table">
                     <tbody>
-                    <tr style="background-color:var(--utc)">
+                    <tr class="utc">
                         <td>UTC</td>
                         <td>Feb 24, 20:00 Wed</td>
                     </tr>
-                    <tr style="background-color:var(--europe)">
+                    <tr class="europe">
                         <td>Prague</td>
                         <td>Feb 24, 21:00 Wed</td>
                     </tr>
-                    <tr style="background-color:var(--america)">
+                    <tr class="america">
                         <td>New York</td>
                         <td>Feb 24, 15:00 Wed</td>
                     </tr>
-                    <tr style="background-color:var(--asia)">
+                    <tr class="asia">
                         <td>Shanghai</td>
                         <td>Feb 25, 04:00 Thu</td>
                     </tr>
@@ -89,20 +90,24 @@
             </td>
         </tr>
 
-        <!--Person-->
-        <tr valign="middle" style="background-color:var(--asia)">
+        <!--Dual person-->
+        <tr class="asia">
             <td colspan="3">
-                <h2 style="color:dimgray"><b>Some interesting scheduling topic</b><br></h2>
+                <h2 class="talk_title"><b>Some interesting scheduling topic</b><br></h2>
             </td>
         </tr>
-        <tr valign="middle" style="background-color:var(--asia)">
-            <td style="width:35%;">
+        <tr class="asia">
+            <td class="presenter_picture">
                 <a href="https://schedseminar.github.io/">
-                    <img src="./images/person_placeholder_200x320.png" alt="person_photo"/>
+                    <img class="double_presenter" src="./images/person_placeholder_200x320.png" alt="person_photo"/>
+                </a><br/>
+                <a href="https://schedseminar.github.io/">
+                    <img class="double_presenter" src="./images/person_placeholder_200x320.png" alt="person_photo"/>
                 </a><br/>
             </td>
-            <td style="width:25%;">
-                <b>[Presenter] </b> <br>
+            <td class="information_upcoming">
+                <b>[Presenters] </b> <br>
+                <a href="">Name Surname</a> (Affiliation)<br>
                 <a href="">Name Surname</a> (Affiliation)<br><br/>
                 <b>[Panelists]</b> <br>
                 <a href="">Name Surname</a> (Affiliation)<br>
@@ -111,22 +116,22 @@
                 <a href="">Name Surname</a> (Affiliation)
             </td>
 
-            <td style="width:35%;">
+            <td class="time_zones">
                 <table class="time_table">
                     <tbody>
-                    <tr style="background-color:var(--utc)">
+                    <tr class="utc">
                         <td>UTC</td>
                         <td>Mar 3, 07:00 Wed</td>
                     </tr>
-                    <tr style="background-color:var(--europe)">
+                    <tr class="europe">
                         <td>Prague</td>
                         <td>Mar 3, 08:00 Wed</td>
                     </tr>
-                    <tr style="background-color:var(--america)">
+                    <tr class="america">
                         <td>New York</td>
                         <td>Mar 3, 02:00 Wed</td>
                     </tr>
-                    <tr style="background-color:var(--asia)">
+                    <tr class="asia">
                         <td>Shanghai</td>
                         <td>Mar 3, 15:00 Wed</td>
                     </tr>
@@ -136,18 +141,18 @@
         </tr>
 
         <!--Person-->
-        <tr valign="middle" style="background-color:var(--europe)">
+        <tr class="europe">
             <td colspan="3">
-                <h2 style="color:dimgray"><b>Some interesting scheduling topic</b><br></h2>
+                <h2 class="talk_title"><b>Some interesting scheduling topic</b><br></h2>
             </td>
         </tr>
-        <tr valign="middle" style="background-color:var(--europe)">
-            <td style="width:35%;">
+        <tr class="europe">
+            <td class="presenter_picture">
                 <a href="https://schedseminar.github.io/">
-                    <img src="./images/person_placeholder_200x320.png" alt="person_photo"/>
+                    <img class="single_presenter" src="./images/person_placeholder_200x320.png" alt="person_photo"/>
                 </a><br/>
             </td>
-            <td style="width:25%;">
+            <td class="information_upcoming">
                 <b>[Presenter] </b> <br>
                 <a href="">Name Surname</a> (Affiliation)<br><br/>
                 <b>[Panelists]</b> <br>
@@ -157,22 +162,22 @@
                 <a href="">Name Surname</a> (Affiliation)
             </td>
 
-            <td style="width:35%;">
+            <td class="time_zones">
                 <table class="time_table">
                     <tbody>
-                    <tr style="background-color:var(--utc)">
+                    <tr class="utc">
                         <td>UTC</td>
                         <td>Mar 17, 14:00 Wed</td>
                     </tr>
-                    <tr style="background-color:var(--europe)">
+                    <tr class="europe">
                         <td>Prague</td>
                         <td>Mar 17, 15:00 Wed</td>
                     </tr>
-                    <tr style="background-color:var(--america)">
+                    <tr class="america">
                         <td>New York</td>
                         <td>Mar 17, 10:00 Wed</td>
                     </tr>
-                    <tr style="background-color:var(--asia)">
+                    <tr class="asia">
                         <td>Shanghai</td>
                         <td>Mar 17, 22:00 Wed</td>
                     </tr>
@@ -182,18 +187,18 @@
         </tr>
 
         <!--Person-->
-        <tr valign="middle" style="background-color:var(--america)">
+        <tr class="america">
             <td colspan="3">
-                <h2 style="color:dimgray"><b>Some interesting scheduling topic</b><br></h2>
+                <h2 class="talk_title"><b>Some interesting scheduling topic</b><br></h2>
             </td>
         </tr>
-        <tr valign="middle" style="background-color:var(--america)">
-            <td style="width:35%;">
+        <tr class="america">
+            <td class="presenter_picture">
                 <a href="https://schedseminar.github.io/">
-                    <img src="./images/person_placeholder_200x320.png" alt="person_photo"/>
+                    <img class="single_presenter" src="./images/person_placeholder_200x320.png" alt="person_photo"/>
                 </a><br/>
             </td>
-            <td style="width:25%;">
+            <td class="information_upcoming">
                 <b>[Presenter] </b> <br>
                 <a href="">Name Surname</a> (Affiliation)<br><br/>
                 <b>[Panelists]</b> <br>
@@ -203,22 +208,22 @@
                 <a href="">Name Surname</a> (Affiliation)
             </td>
 
-            <td style="width:35%;">
+            <td class="time_zones">
                 <table class="time_table">
                     <tbody>
-                    <tr style="background-color:var(--utc)">
+                    <tr class="utc">
                         <td>UTC</td>
                         <td>Mar 31, 19:00 Wed</td>
                     </tr>
-                    <tr style="background-color:var(--europe)">
+                    <tr class="europe">
                         <td>Prague</td>
                         <td>Mar 31, 21:00 Wed</td>
                     </tr>
-                    <tr style="background-color:var(--america)">
+                    <tr class="america">
                         <td>New York</td>
                         <td>Mar 31, 15:00 Wed</td>
                     </tr>
-                    <tr style="background-color:var(--asia)">
+                    <tr class="asia">
                         <td>Shanghai</td>
                         <td>Apr 1, 03:00 Thu</td>
                     </tr>
@@ -228,18 +233,18 @@
         </tr>
 
         <!--Person-->
-        <tr valign="middle" style="background-color:var(--asia)">
+        <tr class="asia">
             <td colspan="3">
-                <h2 style="color:dimgray"><b>Some interesting scheduling topic</b><br></h2>
+                <h2 class="talk_title"><b>Some interesting scheduling topic</b><br></h2>
             </td>
         </tr>
-        <tr valign="middle" style="background-color:var(--asia)">
-            <td style="width:35%;">
+        <tr class="asia">
+            <td class="presenter_picture">
                 <a href="https://schedseminar.github.io/">
-                    <img src="./images/person_placeholder_200x320.png" alt="person_photo"/>
+                    <img class="single_presenter" src="./images/person_placeholder_200x320.png" alt="person_photo"/>
                 </a><br/>
             </td>
-            <td style="width:25%;">
+            <td class="information_upcoming">
                 <b>[Presenter] </b> <br>
                 <a href="">Name Surname</a> (Affiliation)<br><br/>
                 <b>[Panelists]</b> <br>
@@ -249,22 +254,22 @@
                 <a href="">Name Surname</a> (Affiliation)
             </td>
 
-            <td style="width:35%;">
+            <td class="time_zones">
                 <table class="time_table">
                     <tbody>
-                    <tr style="background-color:var(--utc)">
+                    <tr class="utc">
                         <td>UTC</td>
                         <td>Apr 14, 07:00 Wed</td>
                     </tr>
-                    <tr style="background-color:var(--europe)">
+                    <tr class="europe">
                         <td>Prague</td>
                         <td>Apr 14, 09:00 Wed</td>
                     </tr>
-                    <tr style="background-color:var(--america)">
+                    <tr class="america">
                         <td>New York</td>
                         <td>Apr 14, 03:00 Wed</td>
                     </tr>
-                    <tr style="background-color:var(--asia)">
+                    <tr class="asia">
                         <td>Shanghai</td>
                         <td>Apr 14, 15:00 Wed</td>
                     </tr>
@@ -279,16 +284,17 @@
 
 <!--Past talks-->
 <div class="column">
-    <h2 style="color:black;">Past talks</h2>
-    <table cellpadding="0" cellspacing="0">
+    <h2>Past talks</h2>
+    <table class="past_talk_table">
         <tbody>
 
         <!------------------------------------------------------------------------------------------------------------->
         <!--Photo and video-->
-        <tr valign="middle" style="background-color:var(--europe)">
-            <td style="width:35%;">
+        <tr class="europe">
+            <td class="presenter_picture">
                 <a href="https://schedseminar.github.io/">
-                    <img src="./images/person_placeholder_200x320.png" alt="photo_person"/>
+                    <img class="single_presenter_finished" src="./images/person_placeholder_200x320.png"
+                         alt="person_photo"/>
                 </a><br/>
             </td>
             <td colspan="2">
@@ -301,15 +307,15 @@
         </tr>
 
         <!--Text description-->
-        <tr valign="middle" style="background-color:var(--europe)">
-            <td style="width:35%;">
+        <tr class="europe">
+            <td class="presenter_past">
                 <b>[Presenter]</b><br/>
                 <a href="">Name Surname</a><br/>
                 (Affiliation)<br/>
                 <br/>
             </td>
             <td>
-                <table>
+                <table class="panelists_past">
                     <tr>
                         <td colspan="2"><b>[Panelists]</b> <br></td>
                         <td><b>[Invited by]</b> <br></td>
@@ -325,10 +331,11 @@
 
         <!------------------------------------------------------------------------------------------------------------->
         <!--Photo and video-->
-        <tr valign="middle" style="background-color:var(--asia)">
-            <td style="width:35%;">
+        <tr class="asia">
+            <td class="presenter_picture">
                 <a href="https://schedseminar.github.io/">
-                    <img src="./images/person_placeholder_200x320.png" alt="photo_person"/>
+                    <img class="double_presenter" src="./images/person_placeholder_200x320.png" alt="person_photo"/>
+                    <img class="double_presenter" src="./images/person_placeholder_200x320.png" alt="person_photo"/>
                 </a><br/>
             </td>
             <td colspan="2">
@@ -341,15 +348,17 @@
         </tr>
 
         <!--Text description-->
-        <tr valign="middle" style="background-color:var(--asia)">
-            <td style="width:35%;">
-                <b>[Presenter]</b><br/>
+        <tr class="asia">
+            <td class="presenter_past">
+                <b>[Presenters]</b><br/>
+                <a href="">Name Surname</a><br/>
+                (Affiliation)<br/>
                 <a href="">Name Surname</a><br/>
                 (Affiliation)<br/>
                 <br/>
             </td>
             <td>
-                <table>
+                <table class="panelists_past">
                     <tr>
                         <td colspan="2"><b>[Panelists]</b> <br></td>
                         <td><b>[Invited by]</b> <br></td>
@@ -365,10 +374,11 @@
 
         <!------------------------------------------------------------------------------------------------------------->
         <!--Photo and video-->
-        <tr valign="middle" style="background-color:var(--america)">
-            <td style="width:35%;">
+        <tr class="america">
+            <td class="presenter_picture">
                 <a href="https://schedseminar.github.io/">
-                    <img src="./images/person_placeholder_200x320.png" alt="photo_person"/>
+                    <img class="single_presenter_finished" src="./images/person_placeholder_200x320.png"
+                         alt="person_photo"/>
                 </a><br/>
             </td>
             <td colspan="2">
@@ -381,15 +391,15 @@
         </tr>
 
         <!--Text description-->
-        <tr valign="middle" style="background-color:var(--america)">
-            <td style="width:35%;">
+        <tr class="america">
+            <td class="presenter_past">
                 <b>[Presenter]</b><br/>
                 <a href="">Name Surname</a><br/>
                 (Affiliation)<br/>
                 <br/>
             </td>
             <td>
-                <table>
+                <table class="panelists_past">
                     <tr>
                         <td colspan="2"><b>[Panelists]</b> <br></td>
                         <td><b>[Invited by]</b> <br></td>
@@ -405,10 +415,11 @@
 
         <!------------------------------------------------------------------------------------------------------------->
         <!--Photo and video-->
-        <tr valign="middle" style="background-color:var(--europe)">
-            <td style="width:35%;">
+        <tr class="europe">
+            <td class="presenter_picture">
                 <a href="https://schedseminar.github.io/">
-                    <img src="./images/person_placeholder_200x320.png" alt="photo_person"/>
+                    <img class="single_presenter_finished" src="./images/person_placeholder_200x320.png"
+                         alt="person_photo"/>
                 </a><br/>
             </td>
             <td colspan="2">
@@ -421,15 +432,15 @@
         </tr>
 
         <!--Text description-->
-        <tr valign="middle" style="background-color:var(--europe)">
-            <td style="width:30%;">
+        <tr class="europe">
+            <td class="presenter_past">
                 <b>[Presenter]</b><br/>
                 <a href="">Name Surname</a><br/>
                 (Affiliation)<br/>
                 <br/>
             </td>
             <td>
-                <table>
+                <table class="panelists_past">
                     <tr>
                         <td colspan="2"><b>[Panelists]</b> <br></td>
                         <td><b>[Invited by]</b> <br></td>
@@ -442,38 +453,40 @@
                 </table>
             </td>
         </tr>
+
         </tbody>
     </table>
 </div>
 <div style="clear: both"></div>
 
 
+<!--------------------------------------------------------------------------------------------------------------------->
 <!--PC co-chairs-->
 &nbsp;
 <hr>
-<div id="PC_co-chairs" style="width:100%">
-    <h2 style="color:black;">PC co-chairs</h2>
-    <table class="people_table" border="0" cellspacing="0">
+<div id="PC_co-chairs">
+    <h2>PC co-chairs</h2>
+    <table class="people_table">
         <tbody>
         <tr>
             <!--Person-->
             <td>
                 <a href="https://rtime.ciirc.cvut.cz/~hanzalek/">
-                    <img src="./images/Zdenek.jpg" height="200" width="150" alt="person_photo"/><br>
+                    <img src="./images/Zdenek.jpg" height="200px" width="150px" alt="person_photo"/><br>
                     Zdeněk Hanzálek<br>CTU in Prague</a>
             </td>
 
             <!--Person-->
             <td>
                 <a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">
-                    <img src="./images/mpinedo.jpg" height="200" width="150" alt="person_photo"/><br>
+                    <img src="./images/mpinedo.jpg" height="200px" width="150px" alt="person_photo"/><br>
                     Michael Pinedo<br>New York University </a>
             </td>
 
             <!--Person-->
             <td>
                 <a href="http://www.acem.sjtu.edu.cn/en/faculty/wanguohua.html">
-                    <img src="./images/guohua_wan.jpg" height="200" width="150" alt="person_photo"/><br>
+                    <img src="./images/guohua_wan.jpg" height="200px" width="150px" alt="person_photo"/><br>
                     Guohua Wan<br>Shanghai Jiao Tong</a>
             </td>
         </tr>
@@ -486,8 +499,8 @@
 &nbsp;
 <hr>
 <div id="Program_committee">
-    <h2 style="color:black;">Program committee</h2>
-    <table class="people_table" border="0" cellspacing="0">
+    <h2>Program committee</h2>
+    <table class="people_table">
         <tbody>
         <tr>
             <!--Person-->
@@ -551,11 +564,12 @@
 </div>
 
 
+<!--------------------------------------------------------------------------------------------------------------------->
 <!--Calendar-->
 &nbsp;
 <hr>
 <div id="Calendar" class="column">
-    <h2 style="color:black;">Calendar (time zone conversion)</h2>
+    <h2>Calendar (time zone conversion)</h2>
     <span style="color:black"><i>Might not work properly if location is unrecognized or VPN is used.</i></span>
     <div class="resizable">
         <iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=2&amp;bgcolor=%234285F4&amp;ctz=Europe%2FPrague&amp;src=Mml0YXVjNmdhZGZsNjRsZWZxdDhiczgzZmtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23039BE5&amp;showTitle=0&amp;showNav=1&amp;showDate=1&amp;showPrint=1&amp;showTabs=0&amp;showCalendars=0&amp;mode=AGENDA"
@@ -566,7 +580,7 @@
 
 <!--Google form-->
 <div id="Feedback" class="column">
-    <h2 style="color:black;">Feedback form</h2>
+    <h2>Feedback form</h2>
     <div class="resizable">
         <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfRk8Nv2J7RvGk-z7Gl5KLWMO5hoZC1Sd-ZFDvgzI97mZe6nw/viewform?embedded=true"
                 width="640" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading…
@@ -575,6 +589,7 @@
 </div>
 
 
+<!--------------------------------------------------------------------------------------------------------------------->
 <!--Footer-->
 &nbsp;
 <hr>

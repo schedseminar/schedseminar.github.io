@@ -4,10 +4,17 @@
     <title></title>
     <!--CSS defines-->
     <style>
+        * {
+            box-sizing: border-box;
+        }
 
+
+        /*-----------------------------------------*/
         /*Vars*/
+
         :root {
             --utc: white;
+            --element_color: #4eb5f1;
 
             /*Accord base*/
             /*--europe: #e2e2df;*/
@@ -26,9 +33,90 @@
 
         }
 
-        /*-----------------------------------------*/
 
+        /*-----------------------------------------*/
+        /*Country_classes*/
+        .utc {
+            background-color: var(--utc);
+        }
+
+        .america {
+            background-color: var(--america);
+        }
+
+        .asia {
+            background-color: var(--asia);
+        }
+
+        .europe {
+            background-color: var(--europe);
+        }
+
+
+        /*-----------------------------------------*/
+        /*Columns talk*/
+
+        /*For both Up and Past*/
+        .presenter_picture {
+            width: 35%;
+        }
+
+        .information_upcoming {
+            width: 25%;
+        }
+
+        .presenter_past {
+            width: 35%;
+            padding-left: 25px !important;
+        }
+
+        .panelists_past {
+            width: 65%;
+            margin-left: -6px;
+            margin-top: -30px !important;
+            border-collapse: separate;
+            overflow: hidden !important;
+        }
+
+        .time_zones {
+            width: 35%;
+        }
+
+        .past_talk_table {
+            border-collapse: separate;
+            overflow: hidden !important;
+        }
+
+
+        /*-----------------------------------------*/
+        /*Headlines*/
+
+        h1 {
+            color: var(--element_color) !important;
+            text-decoration: overline;
+        }
+
+        h2 {
+            color: black !important;
+        }
+
+        .talk_title {
+            color: dimgray !important;
+            padding-top: 8px;
+            padding-left: 8px;
+            margin-bottom: -2px !important;
+            text-decoration: underline;
+        }
+
+        #join_us {
+            color: var(--element_color) !important;
+            text-align: center;
+        }
+
+
+        /*-----------------------------------------*/
         /*Buttons*/
+
         a.button3 {
             display: inline-block;
             padding: 0.3em 1.2em;
@@ -55,9 +143,10 @@
             }
         }
 
-        /*-----------------------------------------*/
 
-        /*other HTML tags*/
+        /*-----------------------------------------*/
+        /*Image related*/
+
         img {
             object-fit: contain;
         }
@@ -70,12 +159,29 @@
             object-fit: cover;
         }
 
-        * {
-            box-sizing: border-box;
+        .single_presenter {
+            padding-left: 8px;
+            width: 200px;
+            height: 320px;
         }
 
-        /*-----------------------------------------*/
+        .single_presenter_finished {
+            padding-left: 8px;
+            padding-top: 20px;
+            width: 200px;
+            height: 320px;
+        }
 
+        .double_presenter {
+            padding-left: 8px;
+            padding-top: 12px;
+            width: 200px;
+            height: 200px;
+            object-fit: None;
+        }
+
+
+        /*-----------------------------------------*/
         /*Div classes*/
 
         .row {
@@ -97,8 +203,8 @@
             display: table;
         }
 
-        /*-----------------------------------------*/
 
+        /*-----------------------------------------*/
         /*Generic table settings*/
 
         table {
@@ -113,8 +219,8 @@
             padding: 16px;
         }
 
-        /*-----------------------------------------*/
 
+        /*-----------------------------------------*/
         /*Tables related to co-chairs and committee*/
         .people_table {
             display: block;
@@ -124,8 +230,8 @@
             display: inline-block;
         }
 
-        /*-----------------------------------------*/
 
+        /*-----------------------------------------*/
         /*Time table*/
         @media (max-width: 64em) {
             .time_table td {
@@ -139,35 +245,37 @@
             }
         }
 
-        /*-----------------------------------------*/
 
+        /*-----------------------------------------*/
         /*Table on the top of the page*/
         @media (max-width: 64em) {
             .header_table {
                 display: block;
             }
-        }
 
-        @media (max-width: 64em) {
             .header_table td {
                 display: inline-block;
             }
         }
 
+
         @media (min-width: 64em) {
             .header_image {
                 width: 40%;
             }
-        }
 
-        @media (min-width: 64em) {
+            .header_table {
+                border-collapse: separate;
+                overflow: hidden !important;
+            }
+
             .header_paragraph {
                 width: 60%;
+                padding-top: 20px !important;
             }
         }
 
         /*-----------------------------------------*/
-
         /*Put the talks columns under each other if display too small*/
         @media screen and (max-width: 80em) {
             .column {
@@ -181,8 +289,8 @@
             }
         }
 
-        /*-----------------------------------------*/
 
+        /*-----------------------------------------*/
         /*Youtube frame*/
         .resizable {
             position: relative;
@@ -192,6 +300,7 @@
             margin: auto;
             padding: 0 0 56.25%; /* 16:9 ratio */
             overflow: hidden;
+            margin-top: -22px !important;
         }
 
         .resizable iframe {
@@ -204,8 +313,8 @@
             border: 0;
         }
 
-        /*-----------------------------------------*/
 
+        /*-----------------------------------------*/
         /*Header title style*/
         h1 {
             font-weight: bold !important;
