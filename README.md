@@ -258,7 +258,7 @@
                 </a><br/>
             </td>
             <td colspan="2">
-                <div class="resizable">
+                <div class="resizable_youtube">
                     <iframe width="400" height="250" src="https://www.youtube.com/embed/SC5CX8drAtU" frameborder="0"
                             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                             allowfullscreen></iframe>
@@ -300,7 +300,7 @@
                 </a><br/>
             </td>
             <td colspan="2">
-                <div class="resizable">
+                <div class="resizable_youtube">
                     <iframe width="400" height="250" src="https://www.youtube.com/embed/SC5CX8drAtU" frameborder="0"
                             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                             allowfullscreen></iframe>
@@ -344,7 +344,7 @@
                 </a><br/>
             </td>
             <td colspan="2">
-                <div class="resizable">
+                <div class="resizable_youtube">
                     <iframe width="400" height="250" src="https://www.youtube.com/embed/SC5CX8drAtU" frameborder="0"
                             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                             allowfullscreen></iframe>
@@ -492,19 +492,24 @@
 <div id="Calendar" class="column">
     <h2>Calendar (time zone conversion)</h2>
     <span style="color:black"><i>Might not work properly if location is unrecognized or VPN is used.</i></span>
-    <div class="resizable">
+    <div class="resizable_calendar">
         <iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=2&amp;bgcolor=%234285F4&amp;ctz=Europe%2FPrague&amp;src=Mml0YXVjNmdhZGZsNjRsZWZxdDhiczgzZmtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23039BE5&amp;showTitle=0&amp;showNav=1&amp;showDate=1&amp;showPrint=1&amp;showTabs=0&amp;showCalendars=0&amp;mode=AGENDA"
-                style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+                style="border:solid 1px #777" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
     </div>
 </div>
 
 
 <!--Google form-->
+<div class="additional_divider">
+    &nbsp;
+    <hr/>
+</div>
+
 <div id="Feedback" class="column">
     <h2>Feedback form</h2>
-    <div class="resizable">
+    <div class="resizable_feedback">
         <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfRk8Nv2J7RvGk-z7Gl5KLWMO5hoZC1Sd-ZFDvgzI97mZe6nw/viewform?embedded=true"
-                width="640" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading…
+                width="100%" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading…
         </iframe>
     </div>
 </div>

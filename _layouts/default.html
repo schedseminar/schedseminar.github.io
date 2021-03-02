@@ -302,7 +302,7 @@
 
         /*-----------------------------------------*/
         /*Youtube frame*/
-        .resizable {
+        .resizable_youtube {
             position: relative;
             display: block;
             width: 95%; /* width of iframe wrapper */
@@ -313,6 +313,24 @@
             margin-top: -22px !important;
         }
 
+        .resizable_calendar {
+            width: 95%; /* width of iframe wrapper */
+            height: 0;
+            padding: 0 0 54%; /* 16:9 ratio */
+            margin-top: 20px !important;
+            margin-left: 0px !important;
+            overflow: hidden;
+        }
+
+        .resizable_feedback {
+            width: 100%; /* width of iframe wrapper */
+            height: 0;
+            padding: 0 0 60%; /* 16:9 ratio */
+            margin-top: 10px !important;
+            margin-left: -20px !important;
+            overflow: hidden;
+        }
+
         .resizable iframe {
             position: absolute;
             top: 0;
@@ -321,6 +339,12 @@
             width: 100%;
             height: 100%;
             border: 0;
+        }
+
+        @media screen and (min-width: 80em) {
+            .additional_divider {
+                display: None;
+            }
         }
 
 
