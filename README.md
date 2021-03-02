@@ -41,7 +41,7 @@
 <div class="column">
     <h2>Upcoming talks</h2>
 
-    <table class="upcoming_table">
+    <table>
         <tbody>
         <!--Dual talk-------------------------------------------------------------------------------------------------->
         <!--Title/Abstract--->
@@ -53,7 +53,7 @@
 
         <!--Data--->
         <tr class="america">
-            <td class="presenter_picture">
+            <td class="presenter_image_container">
                 <a href="https://www.cwi.nl/people/jan-karel-lenstra">
                     <img class="double_presenter" src="./images/jan_karel_lenstra.jpg" alt="person_photo"/>
                 </a><br/>
@@ -61,7 +61,7 @@
                     <img class="double_presenter" src="./images/david_schmoys.jpg" alt="person_photo"/>
                 </a><br/>
             </td>
-            <td class="information_upcoming">
+            <td class="information_upcoming_container">
                 <b>[Presenters] </b> <br>
                 <a href="https://www.cwi.nl/people/jan-karel-lenstra">Jan Karel Lenstra</a> (CWI)<br>
                 <a href="https://people.orie.cornell.edu/shmoys/">David Shmoys</a> ()<br><br/>
@@ -72,7 +72,7 @@
                 <a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a> (New York University)
             </td>
 
-            <td class="time_zones">
+            <td class="time_zones_container">
                 <table class="time_table">
                     <tbody>
                     <tr class="utc">
@@ -97,7 +97,7 @@
         </tr>
 
         <!--Spacing--->
-        <tr style="margin: 0px 0px 0px 0px !important">
+        <tr style="margin: 0 0 0 0 !important">
             <td colspan="100%"></td>
         </tr>
         <!--<tr class="america"><td colspan="100%"><hr style="border-bottom:2px solid white !important;"/></td></tr>-->
@@ -126,12 +126,12 @@
 
         <!--Data--->
         <tr class="america">
-            <td class="presenter_picture">
+            <td class="presenter_image_container">
                 <a href="https://schedseminar.github.io/">
                     <img class="single_presenter" src="./images/mor_harchol-balter.jpg" alt="person_photo"/>
                 </a><br/>
             </td>
-            <td class="information_upcoming">
+            <td class="information_upcoming_container">
                 <b>[Presenter] </b> <br>
                 <a href="http://www.cs.cmu.edu/~harchol/">Mor Harchol-Balter</a> (CMU)<br><br/>
                 <b>[Panelists]</b> <br>
@@ -141,7 +141,7 @@
                 <a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a> (New York University)
             </td>
 
-            <td class="time_zones">
+            <td class="time_zones_container">
                 <table class="time_table">
                     <tbody>
                     <tr class="utc">
@@ -183,7 +183,7 @@
         <!--        </tr>-->
 
         <!--Spacing--->
-        <tr style="margin: 0px 0px 0px 0px !important">
+        <tr style="margin: 0 0 0 0 !important">
             <td colspan="100%"></td>
         </tr>
 
@@ -198,12 +198,12 @@
 
         <!--Data--->
         <tr class="asia">
-            <td class="presenter_picture">
+            <td class="presenter_image_container">
                 <a href="https://schedseminar.github.io/">
                     <img class="single_presenter" src="./images/lixin_tang.png" alt="person_photo"/>
                 </a><br/>
             </td>
-            <td class="information_upcoming">
+            <td class="information_upcoming_container">
                 <b>[Presenter] </b> <br>
                 <a href="http://lixintang.weebly.com/">Lixin Tang</a> (Northeastern Univ., Shenyang)<br><br/>
                 <b>[Panelists]</b> <br>
@@ -213,7 +213,7 @@
                 <a href="http://www.acem.sjtu.edu.cn/en/faculty/wanguohua.html">Guohua Wan</a> (Shanghai Jiao Tong)
             </td>
 
-            <td class="time_zones">
+            <td class="time_zones_container">
                 <table class="time_table">
                     <tbody>
                     <tr class="utc">
@@ -251,7 +251,7 @@
         <!--Single talk------------------------------------------------------------------------------------------------>
         <!--Photo and video-->
         <tr class="europe">
-            <td class="presenter_picture">
+            <td class="presenter_image_container">
                 <a href="https://schedseminar.github.io/">
                     <img class="single_presenter_finished" src="./images/person_placeholder_200x320.png"
                          alt="person_photo"/>
@@ -268,14 +268,14 @@
 
         <!--Text description-->
         <tr class="europe">
-            <td class="presenter_past">
+            <td class="presenter_past_info_container">
                 <b>[Presenter]</b><br/>
                 <a href="">Name Surname</a><br/>
                 (Affiliation)<br/>
                 <br/>
             </td>
             <td>
-                <table class="panelists_past">
+                <table class="panelists_past_container">
                     <tr>
                         <td colspan="2"><b>[Panelists]</b> <br></td>
                         <td><b>[Invited by]</b> <br></td>
@@ -293,7 +293,7 @@
         <!--Dual talk-------------------------------------------------------------------------------------------------->
         <!--Photo and video-->
         <tr class="asia">
-            <td class="presenter_picture">
+            <td class="presenter_image_container">
                 <a href="https://schedseminar.github.io/">
                     <img class="double_presenter" src="./images/person_placeholder_200x320.png" alt="person_photo"/>
                     <img class="double_presenter" src="./images/person_placeholder_200x320.png" alt="person_photo"/>
@@ -310,7 +310,7 @@
 
         <!--Text description-->
         <tr class="asia">
-            <td class="presenter_past">
+            <td class="presenter_past_info_container">
                 <b>[Presenters]</b><br/>
                 <a href="">Name Surname</a><br/>
                 (Affiliation)<br/>
@@ -319,7 +319,7 @@
                 <br/>
             </td>
             <td>
-                <table class="panelists_past">
+                <table class="panelists_past_container">
                     <tr>
                         <td colspan="2"><b>[Panelists]</b> <br></td>
                         <td><b>[Invited by]</b> <br></td>
@@ -337,7 +337,7 @@
         <!--Single talk------------------------------------------------------------------------------------------------>
         <!--Photo and video-->
         <tr class="america">
-            <td class="presenter_picture">
+            <td class="presenter_image_container">
                 <a href="https://schedseminar.github.io/">
                     <img class="single_presenter_finished" src="./images/person_placeholder_200x320.png"
                          alt="person_photo"/>
@@ -354,14 +354,14 @@
 
         <!--Text description-->
         <tr class="america">
-            <td class="presenter_past">
+            <td class="presenter_past_info_container">
                 <b>[Presenter]</b><br/>
                 <a href="">Name Surname</a><br/>
                 (Affiliation)<br/>
                 <br/>
             </td>
             <td>
-                <table class="panelists_past">
+                <table class="panelists_past_container">
                     <tr>
                         <td colspan="2"><b>[Panelists]</b> <br></td>
                         <td><b>[Invited by]</b> <br></td>
