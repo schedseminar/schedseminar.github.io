@@ -53,37 +53,48 @@
 
 
         /*-----------------------------------------*/
-        /*Talks columns*/
+        /*Generic table settings*/
 
-        /*For both Upcoming and Past talks*/
-        .presenter_image_container {
-            width: 35%;
+        table {
+            border-collapse: collapse;
+            border-spacing: 0;
+            width: 100%;
         }
 
-        .information_upcoming_container {
-            width: 25%;
+        th, td {
+            border-style: hidden !important;
+            text-align: left;
+            padding: 16px;
         }
 
-        .presenter_past_info_container {
-            width: 35%;
-            padding-left: 25px !important;
+
+        /*-----------------------------------------*/
+        /*Table on the top of the page*/
+        @media (max-width: 64em) {
+            .header_table {
+                display: block;
+            }
+
+            .header_table td {
+                display: inline-block;
+            }
         }
 
-        .panelists_past_container {
-            width: 65%;
-            margin-left: -6px;
-            margin-top: -30px !important;
-            border-collapse: separate;
-            overflow: hidden !important;
-        }
 
-        .time_zones_container {
-            width: 35%;
-        }
+        @media (min-width: 64em) {
+            .header_image {
+                width: 40%;
+            }
 
-        .past_talk_table {
-            border-collapse: separate;
-            overflow: hidden !important;
+            .header_table {
+                border-collapse: separate;
+                overflow: hidden !important;
+            }
+
+            .header_paragraph {
+                width: 60%;
+                padding-top: 20px !important;
+            }
         }
 
 
@@ -93,6 +104,8 @@
         h1 {
             color: var(--element_color) !important;
             text-decoration: overline;
+            font-weight: bold !important;
+            font-size: 40px !important;
         }
 
         h2 {
@@ -145,6 +158,98 @@
 
 
         /*-----------------------------------------*/
+        /*Columns management*/
+        .column {
+            float: left;
+            width: 50%;
+            padding: 5px 10px 10px;
+            border-left: 4px solid #dbdbdb;
+        }
+
+        /*Put the talks columns under each other if display too small*/
+        @media screen and (max-width: 80em) {
+            .column {
+                width: 100% !important;
+            }
+        }
+
+        @media screen and (min-width: 64em) {
+            .main-content {
+                max-width: 100em !important;
+            }
+        }
+
+
+        /*-----------------------------------------*/
+        /*Talks columns*/
+
+        /*For both Upcoming and Past talks*/
+        .presenter_image_container {
+            width: 35%;
+        }
+
+        .information_upcoming_container {
+            width: 25%;
+        }
+
+        .presenter_past_info_container {
+            width: 35%;
+            padding-left: 25px !important;
+        }
+
+        .panelists_past_container {
+            width: 65%;
+            margin-left: -6px;
+            margin-top: -30px !important;
+            border-collapse: separate;
+            overflow: hidden !important;
+        }
+
+        .time_zones_container {
+            width: 35%;
+        }
+
+        .past_talk_table {
+            border-collapse: separate;
+            overflow: hidden !important;
+        }
+
+
+        /*-----------------------------------------*/
+        /*Expandable data (Abstract/Bibliography)*/
+        .hidden {
+            display: none;
+            padding-left: 10px;
+            padding-top: 10px;
+        }
+
+        :checked + * + .hidden {
+            display: block;
+        }
+
+        .label_abstract {
+            font-style: italic;
+            font-size: 12pt;
+            padding-left: 10px;
+        }
+
+
+        /*-----------------------------------------*/
+        /*Time table*/
+        @media (max-width: 64em) {
+            .time_table td {
+                padding: 8px 6px 8px 6px !important;
+            }
+        }
+
+        @media (min-width: 64em) {
+            .time_table td {
+                padding: 14px 10px 14px 10px !important;
+            }
+        }
+
+
+        /*-----------------------------------------*/
         /*Image related*/
 
         img {
@@ -191,45 +296,6 @@
 
 
         /*-----------------------------------------*/
-        /*Div classes*/
-
-        .row {
-            margin-left: -5px;
-            margin-right: -5px;
-        }
-
-        .column {
-            float: left;
-            width: 50%;
-            padding: 5px 10px 10px;
-            border-left: 4px solid #dbdbdb;
-        }
-
-        /* Clearfix (clear floats) */
-        .row::after {
-            content: "";
-            clear: both;
-            display: table;
-        }
-
-
-        /*-----------------------------------------*/
-        /*Generic table settings*/
-
-        table {
-            border-collapse: collapse;
-            border-spacing: 0;
-            width: 100%;
-        }
-
-        th, td {
-            border-style: hidden !important;
-            text-align: left;
-            padding: 16px;
-        }
-
-
-        /*-----------------------------------------*/
         /*Tables related to co-chairs and committee*/
         .people_table {
             display: block;
@@ -237,65 +303,6 @@
 
         .people_table td {
             display: inline-block;
-        }
-
-
-        /*-----------------------------------------*/
-        /*Time table*/
-        @media (max-width: 64em) {
-            .time_table td {
-                padding: 8px 6px 8px 6px !important;
-            }
-        }
-
-        @media (min-width: 64em) {
-            .time_table td {
-                padding: 14px 10px 14px 10px !important;
-            }
-        }
-
-
-        /*-----------------------------------------*/
-        /*Table on the top of the page*/
-        @media (max-width: 64em) {
-            .header_table {
-                display: block;
-            }
-
-            .header_table td {
-                display: inline-block;
-            }
-        }
-
-
-        @media (min-width: 64em) {
-            .header_image {
-                width: 40%;
-            }
-
-            .header_table {
-                border-collapse: separate;
-                overflow: hidden !important;
-            }
-
-            .header_paragraph {
-                width: 60%;
-                padding-top: 20px !important;
-            }
-        }
-
-        /*-----------------------------------------*/
-        /*Put the talks columns under each other if display too small*/
-        @media screen and (max-width: 80em) {
-            .column {
-                width: 100% !important;
-            }
-        }
-
-        @media screen and (min-width: 64em) {
-            .main-content {
-                max-width: 100em !important;
-            }
         }
 
 
@@ -347,29 +354,6 @@
         }
 
 
-        /*-----------------------------------------*/
-        /*Header title style*/
-        h1 {
-            font-weight: bold !important;
-            font-size: 40px !important;
-        }
-
-        /*Expandable data*/
-        .hidden {
-            display: none;
-            padding-left: 10px;
-            padding-top: 10px;
-        }
-
-        :checked + * + .hidden {
-            display: block;
-        }
-
-        .label_abstract {
-            font-style: italic;
-            font-size: 12pt;
-            padding-left: 10px;
-        }
     </style>
 
     <!--JS scripts-->

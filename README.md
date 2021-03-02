@@ -241,6 +241,11 @@
     </table>
 </div>
 
+<!--Separate upcoming and past talks if different resolution results in one column only-->
+<div class="additional_divider">
+    &nbsp;
+    <hr/>
+</div>
 
 <!--Past talks-->
 <div class="column">
@@ -498,12 +503,13 @@
     </div>
 </div>
 
-
-<!--Google form-->
+<!--Separate calendar and feedback if different resolution results in one column only-->
 <div class="additional_divider">
     &nbsp;
     <hr/>
 </div>
+
+<!--Google form-->
 
 <div id="Feedback" class="column">
     <h2>Feedback form</h2>
