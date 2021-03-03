@@ -132,7 +132,7 @@
         <tr class="america">
             <td class="presenter_image_container">
                 <div class="single_image_container">
-                    <a href="https://schedseminar.github.io/">
+                    <a href="http://www.cs.cmu.edu/~harchol/">
                         <img class="single_presenter" src="./images/mor_harchol-balter.jpg" alt="person_photo"/>
                     </a><br/>
                 </div>
@@ -206,8 +206,8 @@
         <tr class="asia">
             <td class="presenter_image_container">
                 <div class="single_image_container">
-                    <a href="https://schedseminar.github.io/">
-                        <img class="single_presenter" src="./images/lixin_tang.png" alt="person_photo"/>
+                    <a href="http://lixintang.weebly.com/">
+                        <img class="single_presenter" src="./images/person_placeholder_200x320.png" alt="person_photo"/>
                     </a><br/>
                 </div>
             </td>
