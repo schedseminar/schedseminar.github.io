@@ -45,14 +45,14 @@
         <tbody>
         <!--Dual talk-------------------------------------------------------------------------------------------------->
         <!--Title/Abstract--->
-        <tr class="america">
+        <tr class="europe">
             <td colspan="3">
                 <h2 class="talk_title"><b>Elements of Scheduling</b><br></h2>
             </td>
         </tr>
 
         <!--Data--->
-        <tr class="america">
+        <tr class="europe">
             <td class="presenter_image_container">
                 <a href="https://www.cwi.nl/people/jan-karel-lenstra">
                     <img class="double_presenter" src="./images/jan_karel_lenstra.jpg" alt="person_photo"/>
@@ -294,6 +294,11 @@
             </td>
         </tr>
 
+        <!--Spacing--->
+        <tr style="margin: 0 0 0 0 !important">
+            <td colspan="100%"></td>
+        </tr>
+
 
         <!--Dual talk-------------------------------------------------------------------------------------------------->
         <!--Photo and video-->
@@ -336,6 +341,11 @@
                     </tr>
                 </table>
             </td>
+        </tr>
+
+        <!--Spacing--->
+        <tr style="margin: 0 0 0 0 !important">
+            <td colspan="100%"></td>
         </tr>
 
 
