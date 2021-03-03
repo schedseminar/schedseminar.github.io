@@ -281,7 +281,7 @@
             <tr class="europe">
                 <td class="presenter_image_container">
                     <div class="single_image_container">
-                        <a href="https://schedseminar.github.io/">
+                        <a href="https://schedulingseminar.com/">
                             <img class="single_presenter_finished" src="./images/person_placeholder_200x320.png"
                                  alt="person_photo"/>
                         </a><br/>
@@ -333,13 +333,13 @@
             <tr class="asia">
                 <td class="presenter_image_container">
                     <div class="double_image_container">
-                        <a href="https://schedseminar.github.io/">
+                        <a href="https://schedulingseminar.com/">
                             <img class="double_presenter" src="./images/person_placeholder_200x320.png"
                                  alt="person_photo"/>
                             <br/></a>
                     </div>
                     <div class="double_image_container">
-                        <a href="https://schedseminar.github.io/">
+                        <a href="https://schedulingseminar.com/">
                             <img class="double_presenter" src="./images/person_placeholder_200x320.png"
                                  alt="person_photo"/>
                             <br/></a>
@@ -393,7 +393,7 @@
             <tr class="america">
                 <td class="presenter_image_container">
                     <div class="single_image_container">
-                        <a href="https://schedseminar.github.io/">
+                        <a href="https://schedulingseminar.com/">
                             <img class="single_presenter_finished" src="./images/person_placeholder_200x320.png"
                                  alt="person_photo"/>
                         </a><br/>
@@ -483,56 +483,56 @@
         <tr>
             <!--Person-->
             <td>
-                <a href="https://schedseminar.github.io/">
+                <a href="https://schedulingseminar.com/">
                     <img src="./images/person_placeholder.png" height="200" width="150" alt="person_photo"/><br>
                     Name Surname<br>Affiliation</a>
             </td>
 
             <!--Person-->
             <td>
-                <a href="https://schedseminar.github.io/">
+                <a href="https://schedulingseminar.com/">
                     <img src="./images/person_placeholder.png" height="200" width="150" alt="person_photo"/><br>
                     Name Surname<br>Affiliation</a>
             </td>
 
             <!--Person-->
             <td>
-                <a href="https://schedseminar.github.io/">
+                <a href="https://schedulingseminar.com/">
                     <img src="./images/person_placeholder.png" height="200" width="150" alt="person_photo"/><br>
                     Name Surname<br>Affiliation</a>
             </td>
 
             <!--Person-->
             <td>
-                <a href="https://schedseminar.github.io/">
+                <a href="https://schedulingseminar.com/">
                     <img src="./images/person_placeholder.png" height="200" width="150" alt="person_photo"/><br>
                     Name Surname<br>Affiliation</a>
             </td>
 
             <!--Person-->
             <td>
-                <a href="https://schedseminar.github.io/">
+                <a href="https://schedulingseminar.com/">
                     <img src="./images/person_placeholder.png" height="200" width="150" alt="person_photo"/><br>
                     Name Surname<br>Affiliation</a>
             </td>
 
             <!--Person-->
             <td>
-                <a href="https://schedseminar.github.io/">
+                <a href="https://schedulingseminar.com/">
                     <img src="./images/person_placeholder.png" height="200" width="150" alt="person_photo"/><br>
                     Name Surname<br>Affiliation</a>
             </td>
 
             <!--Person-->
             <td>
-                <a href="https://schedseminar.github.io/">
+                <a href="https://schedulingseminar.com/">
                     <img src="./images/person_placeholder.png" height="200" width="150" alt="person_photo"/><br>
                     Name Surname<br>Affiliation</a>
             </td>
 
             <!--Person-->
             <td>
-                <a href="https://schedseminar.github.io/">
+                <a href="https://schedulingseminar.com/">
                     <img src="./images/person_placeholder.png" height="200" width="150" alt="person_photo"/><br>
                     Name Surname<br>Affiliation</a>
             </td>
