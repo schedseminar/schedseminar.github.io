@@ -54,12 +54,16 @@
         <!--Data--->
         <tr class="europe">
             <td class="presenter_image_container">
-                <a href="https://www.cwi.nl/people/jan-karel-lenstra">
-                    <img class="double_presenter" src="./images/jan_karel_lenstra.jpg" alt="person_photo"/>
-                </a><br/>
-                <a href="https://people.orie.cornell.edu/shmoys/">
-                    <img class="double_presenter" src="./images/david_schmoys.jpg" alt="person_photo"/>
-                </a><br/>
+                <div class="double_image_container">
+                    <a href="https://www.cwi.nl/people/jan-karel-lenstra">
+                        <img class="double_presenter" src="./images/jan_karel_lenstra.jpg" alt="person_photo"/>
+                    </a><br/>
+                </div>
+                <div class="double_image_container">
+                    <a href="https://people.orie.cornell.edu/shmoys/">
+                        <img class="double_presenter" src="./images/david_schmoys.jpg" alt="person_photo"/>
+                    </a><br/>
+                </div>
             </td>
             <td class="information_upcoming_container">
                 <b>[Presenters] </b> <br>
@@ -127,9 +131,11 @@
         <!--Data--->
         <tr class="america">
             <td class="presenter_image_container">
-                <a href="https://schedseminar.github.io/">
-                    <img class="single_presenter" src="./images/mor_harchol-balter.jpg" alt="person_photo"/>
-                </a><br/>
+                <div class="single_image_container">
+                    <a href="https://schedseminar.github.io/">
+                        <img class="single_presenter" src="./images/mor_harchol-balter.jpg" alt="person_photo"/>
+                    </a><br/>
+                </div>
             </td>
             <td class="information_upcoming_container">
                 <b>[Presenter] </b> <br>
@@ -199,9 +205,11 @@
         <!--Data--->
         <tr class="asia">
             <td class="presenter_image_container">
-                <a href="https://schedseminar.github.io/">
-                    <img class="single_presenter" src="./images/lixin_tang.png" alt="person_photo"/>
-                </a><br/>
+                <div class="single_image_container">
+                    <a href="https://schedseminar.github.io/">
+                        <img class="single_presenter" src="./images/lixin_tang.png" alt="person_photo"/>
+                    </a><br/>
+                </div>
             </td>
             <td class="information_upcoming_container">
                 <b>[Presenter] </b> <br>
@@ -257,10 +265,12 @@
         <!--Photo and video-->
         <tr class="europe">
             <td class="presenter_image_container">
-                <a href="https://schedseminar.github.io/">
-                    <img class="single_presenter_finished" src="./images/person_placeholder_200x320.png"
-                         alt="person_photo"/>
-                </a><br/>
+                <div class="single_image_container">
+                    <a href="https://schedseminar.github.io/">
+                        <img class="single_presenter_finished" src="./images/person_placeholder_200x320.png"
+                             alt="person_photo"/>
+                    </a><br/>
+                </div>
             </td>
             <td colspan="2">
                 <div class="resizable_youtube">
@@ -304,10 +314,16 @@
         <!--Photo and video-->
         <tr class="asia">
             <td class="presenter_image_container">
-                <a href="https://schedseminar.github.io/">
-                    <img class="double_presenter" src="./images/person_placeholder_200x320.png" alt="person_photo"/>
-                    <img class="double_presenter" src="./images/person_placeholder_200x320.png" alt="person_photo"/>
-                </a><br/>
+                <div class="double_image_container">
+                    <a href="https://schedseminar.github.io/">
+                        <img class="double_presenter" src="./images/person_placeholder_200x320.png" alt="person_photo"/>
+                        <br/></a>
+                </div>
+                <div class="double_image_container">
+                    <a href="https://schedseminar.github.io/">
+                        <img class="double_presenter" src="./images/person_placeholder_200x320.png" alt="person_photo"/>
+                        <br/></a>
+                </div>
             </td>
             <td colspan="2">
                 <div class="resizable_youtube">
@@ -353,10 +369,12 @@
         <!--Photo and video-->
         <tr class="america">
             <td class="presenter_image_container">
-                <a href="https://schedseminar.github.io/">
-                    <img class="single_presenter_finished" src="./images/person_placeholder_200x320.png"
-                         alt="person_photo"/>
-                </a><br/>
+                <div class="single_image_container">
+                    <a href="https://schedseminar.github.io/">
+                        <img class="single_presenter_finished" src="./images/person_placeholder_200x320.png"
+                             alt="person_photo"/>
+                    </a><br/>
+                </div>
             </td>
             <td colspan="2">
                 <div class="resizable_youtube">
