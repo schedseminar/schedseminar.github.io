@@ -44,7 +44,7 @@
     <table>
         <tbody>
         <!--Dual talk-------------------------------------------------------------------------------------------------->
-        <table>
+        <table style="padding-bottom: 12px;" class="europe">
             <!--Title/Abstract--->
             <tr class="europe">
                 <td colspan="3">
@@ -53,7 +53,7 @@
             </tr>
 
             <!--Data--->
-            <tr class="europe">
+            <tr>
                 <td class="presenter_image_container">
                     <div class="double_image_container">
                         <a href="https://www.cwi.nl/people/jan-karel-lenstra">
@@ -103,13 +103,13 @@
             </tr>
         </table>
 
+        <!--Spacing--->
+        <table style="margin: 0 0 0 0 !important;">
+            <td colspan="100%"></td>
+        </table>
+
         <!--Single talk------------------------------------------------------------------------------------------------>
-        <table>
-            <!--Spacing--->
-            <tr style="margin: 0 0 0 0 !important">
-                <td colspan="100%"></td>
-            </tr>
-            <!--<tr class="america"><td colspan="100%"><hr style="border-bottom:2px solid white !important;"/></td></tr>-->
+        <table style="padding-bottom: 12px;" class="america">
 
             <!--Title/Abstract-->
             <tr class="america">
@@ -196,13 +196,13 @@
             <!--        </tr>-->
         </table>
 
-        <!--Single talk------------------------------------------------------------------------------------------------>
-        <table>
-            <!--Spacing--->
-            <tr style="margin: 0 0 0 0 !important">
-                <td colspan="100%"></td>
-            </tr>
+        <!--Spacing--->
+        <table style="margin: 0 0 0 0 !important;">
+            <td colspan="100%"></td>
+        </table>
 
+        <!--Single talk------------------------------------------------------------------------------------------------>
+        <table style="padding-bottom: 12px;" class="asia">
             <!--Title/Abstract-->
             <tr class="asia">
                 <td colspan="3">
@@ -272,7 +272,7 @@
         <tbody>
 
         <!--Single talk------------------------------------------------------------------------------------------------>
-        <table>
+        <table style="padding-bottom: 12px;" class="europe">
             <!--Photo and video-->
             <tr class="europe">
                 <td class="presenter_image_container">
@@ -316,13 +316,13 @@
             </tr>
         </table>
 
-        <!--Dual talk-------------------------------------------------------------------------------------------------->
-        <table>
-            <!--Spacing--->
-            <tr style="margin: 0 0 0 0 !important">
-                <td colspan="100%"></td>
-            </tr>
+        <!--Spacing--->
+        <table style="margin: 0 0 0 0 !important;">
+            <td colspan="100%"></td>
+        </table>
 
+        <!--Dual talk-------------------------------------------------------------------------------------------------->
+        <table style="padding-bottom: 12px;" class="asia">
             <!--Photo and video-->
             <tr class="asia">
                 <td class="presenter_image_container">
@@ -374,13 +374,13 @@
             </tr>
         </table>
 
-        <!--Single talk------------------------------------------------------------------------------------------------>
-        <table>
-            <!--Spacing--->
-            <tr style="margin: 0 0 0 0 !important">
-                <td colspan="100%"></td>
-            </tr>
+        <!--Spacing--->
+        <table style="margin: 0 0 0 0 !important;">
+            <td colspan="100%"></td>
+        </table>
 
+        <!--Single talk------------------------------------------------------------------------------------------------>
+        <table style="padding-bottom: 12px;" class="america">
             <!--Photo and video-->
             <tr class="america">
                 <td class="presenter_image_container">
