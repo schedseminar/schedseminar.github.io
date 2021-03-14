@@ -218,7 +218,7 @@
             <tr class="asia">
                 <td class="presenter_image_container">
                     <div class="single_image_container">
-                        <a href="http://lixintang.weebly.com/">
+                        <a href="">
                             <img class="single_presenter" src="./images/person_placeholder_200x320.png"
                                  alt="person_photo"/>
                         </a><br/>
