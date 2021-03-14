@@ -481,19 +481,54 @@
     <table class="people_table">
         <tbody>
         <tr>
+            <!--Alessandro Agnetis-->
+            <td>
+                <a href="https://www3.diism.unisi.it/~agnetis/">
+                    <img src="./images/alessandro_agnetis.jpg" height="200" width="150" alt="person_photo"/><br>
+                    Alessandro Agnetis<br>
+                    University of Siena</a>
+            </td>
+
+            <!--M. Selim Akturk-->
+            <td>
+                <a href="//akturk.bilkent.edu.tr">
+                    <img src="./images/Akturk.jpg" height="200" width="150" alt="person_photo"/><br>
+                    M. Selim Akturk<br>
+                    Bilkent University</a>
+            </td>
+
+            <!--Nicholas G. Hall-->
+            <td>
+                <a href="https://fisher.osu.edu/people/hall.33">
+                    <img src="./images/nicholas_g_hall.jpg" height="200" width="150" alt="person_photo"/><br>
+                    Nicholas G. Hall<br>
+                    The Ohio State <br/> University</a>
+            </td>
+
             <!--Sigrid Knust-->
             <td>
                 <a href="https://www.informatik.uni-osnabrueck.de/knust/">
                     <img src="./images/sknust.jpg" height="200" width="150" alt="person_photo"/><br>
-                    Sigrid Knust<br>University of <br/>  Osnabrück</a>
+                    Sigrid Knust<br>
+                    University of <br/>  Osnabrück</a>
             </td>
 
             <!--Rubén Ruiz García-->
             <td>
                 <a href="http://soa.iti.es/rruiz">
                     <img src="./images/Rubén_Ruiz_1.jpg" height="200" width="150" alt="person_photo"/><br>
-                    Rubén Ruiz<br>Universitat Politècnica <br/> de València</a>
+                    Rubén Ruiz<br>
+                    Universitat Politècnica <br/> de València</a>
             </td>
+
+            <!--Dvir Shabtay-->
+            <td>
+                <a href="https://in.bgu.ac.il/en/engn/iem/pages/staff/Dvir-Shabtay.aspx ">
+                    <img src="./images/dvir-web.png" height="200" width="150" alt="person_photo"/><br>
+                    Dvir Shabtay<br>
+                    Ben Gurion University <br/> of the Negev</a>
+            </td>
+
 
 <!--            &lt;!&ndash;Person&ndash;&gt;-->
 <!--            <td>-->
