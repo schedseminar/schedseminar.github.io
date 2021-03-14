@@ -69,7 +69,7 @@
                 <td class="information_upcoming_container">
                     <b>[Presenters] </b> <br>
                     <a href="https://www.cwi.nl/people/jan-karel-lenstra">Jan Karel Lenstra</a> (CWI)<br>
-                    <a href="https://people.orie.cornell.edu/shmoys/">David Shmoys</a> ()<br><br/>
+                    <a href="https://people.orie.cornell.edu/shmoys/">David Shmoys</a> (Cornell University)<br><br/>
                     <b>[Panelists]</b> <br>
                     <!--<a href="">Name Surname</a> (Affiliation)<br>-->
                     <a href="">Name Surname</a> (Affiliation)<br/><br/>
@@ -481,61 +481,27 @@
     <table class="people_table">
         <tbody>
         <tr>
-            <!--Person-->
+            <!--Sigrid Knust-->
             <td>
-                <a href="https://schedulingseminar.com/">
-                    <img src="./images/person_placeholder.png" height="200" width="150" alt="person_photo"/><br>
-                    Name Surname<br>Affiliation</a>
+                <a href="https://www.informatik.uni-osnabrueck.de/knust/">
+                    <img src="./images/sknust.jpg" height="200" width="150" alt="person_photo"/><br>
+                    Sigrid Knust<br>University of <br/>  Osnabrück</a>
             </td>
 
-            <!--Person-->
+            <!--Rubén Ruiz García-->
             <td>
-                <a href="https://schedulingseminar.com/">
-                    <img src="./images/person_placeholder.png" height="200" width="150" alt="person_photo"/><br>
-                    Name Surname<br>Affiliation</a>
+                <a href="http://soa.iti.es/rruiz">
+                    <img src="./images/Rubén_Ruiz_1.jpg" height="200" width="150" alt="person_photo"/><br>
+                    Rubén Ruiz<br>Universitat Politècnica <br/> de València</a>
             </td>
 
-            <!--Person-->
-            <td>
-                <a href="https://schedulingseminar.com/">
-                    <img src="./images/person_placeholder.png" height="200" width="150" alt="person_photo"/><br>
-                    Name Surname<br>Affiliation</a>
-            </td>
+<!--            &lt;!&ndash;Person&ndash;&gt;-->
+<!--            <td>-->
+<!--                <a href="https://schedulingseminar.com/">-->
+<!--                    <img src="./images/person_placeholder.png" height="200" width="150" alt="person_photo"/><br>-->
+<!--                    Name Surname<br>Affiliation</a>-->
+<!--            </td>-->
 
-            <!--Person-->
-            <td>
-                <a href="https://schedulingseminar.com/">
-                    <img src="./images/person_placeholder.png" height="200" width="150" alt="person_photo"/><br>
-                    Name Surname<br>Affiliation</a>
-            </td>
-
-            <!--Person-->
-            <td>
-                <a href="https://schedulingseminar.com/">
-                    <img src="./images/person_placeholder.png" height="200" width="150" alt="person_photo"/><br>
-                    Name Surname<br>Affiliation</a>
-            </td>
-
-            <!--Person-->
-            <td>
-                <a href="https://schedulingseminar.com/">
-                    <img src="./images/person_placeholder.png" height="200" width="150" alt="person_photo"/><br>
-                    Name Surname<br>Affiliation</a>
-            </td>
-
-            <!--Person-->
-            <td>
-                <a href="https://schedulingseminar.com/">
-                    <img src="./images/person_placeholder.png" height="200" width="150" alt="person_photo"/><br>
-                    Name Surname<br>Affiliation</a>
-            </td>
-
-            <!--Person-->
-            <td>
-                <a href="https://schedulingseminar.com/">
-                    <img src="./images/person_placeholder.png" height="200" width="150" alt="person_photo"/><br>
-                    Name Surname<br>Affiliation</a>
-            </td>
         </tr>
         </tbody>
     </table>
