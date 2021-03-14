@@ -451,21 +451,24 @@
             <td>
                 <a href="https://rtime.ciirc.cvut.cz/~hanzalek/">
                     <img src="./images/Zdenek.jpg" height="200px" width="150px" alt="person_photo"/><br>
-                    Zdeněk Hanzálek<br>CTU in Prague</a>
+                    Zdeněk Hanzálek<br>
+                    CTU in Prague</a>
             </td>
 
             <!--Person-->
             <td>
                 <a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">
                     <img src="./images/mpinedo.jpg" height="200px" width="150px" alt="person_photo"/><br>
-                    Michael Pinedo<br>New York University </a>
+                    Michael Pinedo<br>
+                    New York University </a>
             </td>
 
             <!--Person-->
             <td>
                 <a href="http://www.acem.sjtu.edu.cn/en/faculty/wanguohua.html">
                     <img src="./images/guohua_wan.jpg" height="200px" width="150px" alt="person_photo"/><br>
-                    Guohua Wan<br>Shanghai Jiao Tong</a>
+                    Guohua Wan<br>
+                    Shanghai Jiao Tong</a>
             </td>
         </tr>
         </tbody>
@@ -518,15 +521,23 @@
                 <a href="http://soa.iti.es/rruiz">
                     <img src="./images/Rubén_Ruiz_1.jpg" height="200" width="150" alt="person_photo"/><br>
                     Rubén Ruiz<br>
-                    Universitat Politècnica <br/> de València</a>
+                    Univ. Politècnica <br/> de València</a>
             </td>
 
             <!--Dvir Shabtay-->
             <td>
-                <a href="https://in.bgu.ac.il/en/engn/iem/pages/staff/Dvir-Shabtay.aspx ">
+                <a href="https://in.bgu.ac.il/en/engn/iem/pages/staff/Dvir-Shabtay.aspx">
                     <img src="./images/dvir-web.png" height="200" width="150" alt="person_photo"/><br>
                     Dvir Shabtay<br>
-                    Ben Gurion University <br/> of the Negev</a>
+                    Ben Gurion Univ. <br/> of the Negev</a>
+            </td>
+
+            <!--Roman Słowiński-->
+            <td>
+                <a href="http://idss.cs.put.poznan.pl/site/rslowinski.html">
+                    <img src="./images/R.Slowinski 4,5x6,5.jpg" height="200" width="150" alt="person_photo"/><br>
+                    Roman Słowiński<br>
+                    Poznań Univ. Tech.</a>
             </td>
 
 
