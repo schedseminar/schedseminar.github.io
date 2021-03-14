@@ -243,11 +243,11 @@
                         </tr>
                         <tr class="europe">
                             <td>Prague</td>
-                            <td>Apr 28, 14:00 Wed</td>
+                            <td>Apr 28, 15:00 Wed</td>
                         </tr>
                         <tr class="america">
                             <td>New York</td>
-                            <td>Apr 28, 08:00 Wed</td>
+                            <td>Apr 28, 09:00 Wed</td>
                         </tr>
                         <tr class="asia">
                             <td>Shanghai</td>
