@@ -28,7 +28,7 @@
 <hr>
 <h2 id="join_us">Join us online</h2>
 <p style="text-align:center;">
-    <a href="https://youtu.be/add-link" class="button3">Youtube Live Stream</a>
+    <a href="https://www.youtube.com/channel/UCUoCNnaAfw5NAntItILFn4A/live" class="button3">Youtube Live Stream</a>
 
     <!--TODO MB will be used in future-->
     <!--<a href="zoom_information.html" class="button3">Zoom Conference</a>-->
