@@ -505,7 +505,7 @@
                 <a href="https://scholar.google.com/citations?hl=en&user=AWOfe_QAAAAJ&view_op=list_works&sortby=pubdate">
                     <img src="./images/ZL-Chen.JPG" height="200" width="150" alt="person_photo"/><br>
                     Zhi-Long Chen<br>
-                    University of <br/> Maryland</a>
+                    Uni of Maryland</a>
             </td>
 
             <!--Nicholas G. Hall-->
@@ -513,7 +513,7 @@
                 <a href="https://fisher.osu.edu/people/hall.33">
                     <img src="./images/nicholas_g_hall.jpg" height="200" width="150" alt="person_photo"/><br>
                     Nicholas G. Hall<br>
-                    The Ohio State <br/> University</a>
+                    The Ohio State Uni</a>
             </td>
 
             <!--Sigrid Knust-->
@@ -521,7 +521,7 @@
                 <a href="https://www.informatik.uni-osnabrueck.de/knust/">
                     <img src="./images/sknust.jpg" height="200" width="150" alt="person_photo"/><br>
                     Sigrid Knust<br>
-                    University of <br/>  Osnabrück</a>
+                    Uni of Osnabrück</a>
             </td>
 
             <!--Mikhail Kovalyov-->
@@ -545,7 +545,7 @@
                 <a href="http://soa.iti.es/rruiz">
                     <img src="./images/Rubén_Ruiz_1.jpg" height="200" width="150" alt="person_photo"/><br>
                     Rubén Ruiz<br>
-                    Univ. Politècnica <br/> de València</a>
+                    UP València</a>
             </td>
 
             <!--Dvir Shabtay-->
@@ -553,7 +553,7 @@
                 <a href="https://in.bgu.ac.il/en/engn/iem/pages/staff/Dvir-Shabtay.aspx">
                     <img src="./images/dvir-web.png" height="200" width="150" alt="person_photo"/><br>
                     Dvir Shabtay<br>
-                    Ben Gurion Univ. <br/> of the Negev</a>
+                    Ben Gurion Uni</a>
             </td>
 
             <!--Roman Słowiński-->
@@ -561,7 +561,7 @@
                 <a href="http://idss.cs.put.poznan.pl/site/rslowinski.html">
                     <img src="./images/R.Slowinski 4,5x6,5.jpg" height="200" width="150" alt="person_photo"/><br>
                     Roman Słowiński<br>
-                    Poznań Univ. Tech.</a>
+                    Poznań Uni Tech.</a>
             </td>
 
             <!--Mario Vanhoucke-->
