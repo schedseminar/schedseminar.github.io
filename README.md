@@ -574,6 +574,14 @@
                     Ghent University</a>
             </td>
 
+            <!--Yakov Zinder-->
+            <td>
+                <a href="https://profiles.uts.edu.au/Yakov.Zinder">
+                    <img src="./images/Yakov-Zinder.jpg" height="200" width="150" alt="person_photo"/><br>
+                    Yakov Zinder<br>
+                    UT Sydney</a>
+            </td>
+
 <!--            &lt;!&ndash;Person&ndash;&gt;-->
 <!--            <td>-->
 <!--                <a href="https://schedulingseminar.com/">-->
