@@ -83,7 +83,7 @@
                         <tbody>
                         <tr class="utc">
                             <td>UTC</td>
-                            <td>Mar 31, 14:00 Wed</td>
+                            <td>Mar 31, 13:00 Wed</td>
                         </tr>
                         <tr class="europe">
                             <td>Prague</td>
@@ -95,7 +95,7 @@
                         </tr>
                         <tr class="asia">
                             <td>Shanghai</td>
-                            <td>Mar 31, 22:00 Wed</td>
+                            <td>Mar 31, 21:00 Wed</td>
                         </tr>
                         </tbody>
                     </table>
@@ -161,7 +161,7 @@
                         <tbody>
                         <tr class="utc">
                             <td>UTC</td>
-                            <td>Apr 14, 14:00 Wed</td>
+                            <td>Apr 14, 13:00 Wed</td>
                         </tr>
                         <tr class="europe">
                             <td>Prague</td>
@@ -173,7 +173,7 @@
                         </tr>
                         <tr class="asia">
                             <td>Shanghai</td>
-                            <td>Apr 14, 22:00 Thu</td>
+                            <td>Apr 14, 21:00 Thu</td>
                         </tr>
                         </tbody>
                     </table>
@@ -226,7 +226,7 @@
                 </td>
                 <td class="information_upcoming_container">
                     <b>[Presenter] </b> <br>
-                    <a href="http://lixintang.weebly.com/">Lixin Tang</a> (Northeastern Univ., Shenyang)<br><br/>
+                    <a href="">Lixin Tang</a> (Northeastern Univ., Shenyang)<br><br/>
                     <b>[Panelists]</b> <br>
                     <!--                <a href="">Name Surname</a> (Affiliation)<br>-->
                     <a href="">Name Surname</a> (Affiliation)<br/><br/>
@@ -275,162 +275,162 @@
     <table class="past_talk_table">
         <tbody>
 
-        <!--Single talk------------------------------------------------------------------------------------------------>
-        <table style="padding-bottom: 12px;" class="europe">
-            <!--Photo and video-->
-            <tr class="europe">
-                <td class="presenter_image_container">
-                    <div class="single_image_container">
-                        <a href="https://schedulingseminar.com/">
-                            <img class="single_presenter_finished" src="./images/person_placeholder_200x320.png"
-                                 alt="person_photo"/>
-                        </a><br/>
-                    </div>
-                </td>
-                <td colspan="2">
-                    <div class="resizable_youtube">
-                        <iframe width="400" height="250" src="https://www.youtube.com/embed/SC5CX8drAtU" frameborder="0"
-                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                                allowfullscreen></iframe>
-                    </div>
-                </td>
-            </tr>
+<!--        &lt;!&ndash;Single talk&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&ndash;&gt;-->
+<!--        <table style="padding-bottom: 12px;" class="europe">-->
+<!--            &lt;!&ndash;Photo and video&ndash;&gt;-->
+<!--            <tr class="europe">-->
+<!--                <td class="presenter_image_container">-->
+<!--                    <div class="single_image_container">-->
+<!--                        <a href="https://schedulingseminar.com/">-->
+<!--                            <img class="single_presenter_finished" src="./images/person_placeholder_200x320.png"-->
+<!--                                 alt="person_photo"/>-->
+<!--                        </a><br/>-->
+<!--                    </div>-->
+<!--                </td>-->
+<!--                <td colspan="2">-->
+<!--                    <div class="resizable_youtube">-->
+<!--                        <iframe width="400" height="250" src="https://www.youtube.com/embed/SC5CX8drAtU" frameborder="0"-->
+<!--                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"-->
+<!--                                allowfullscreen></iframe>-->
+<!--                    </div>-->
+<!--                </td>-->
+<!--            </tr>-->
 
-            <!--Text description-->
-            <tr class="europe">
-                <td class="presenter_past_info_container">
-                    <b>[Presenter]</b><br/>
-                    <a href="">Name Surname</a><br/>
-                    (Affiliation)<br/>
-                    <br/>
-                </td>
-                <td>
-                    <table class="panelists_past_container">
-                        <tr>
-                            <td colspan="2"><b>[Panelists]</b> <br></td>
-                            <td><b>[Invited by]</b> <br></td>
-                        </tr>
-                        <tr>
-                            <td><a href="">Name Surname</a><br/>(Affiliation)<br></td>
-                            <td><a href="">Name Surname</a><br/>(Affiliation)</td>
-                            <td><a href="">Name Surname</a><br/> (Affiliation)</td>
-                        </tr>
-                    </table>
-                </td>
-            </tr>
-        </table>
+<!--            &lt;!&ndash;Text description&ndash;&gt;-->
+<!--            <tr class="europe">-->
+<!--                <td class="presenter_past_info_container">-->
+<!--                    <b>[Presenter]</b><br/>-->
+<!--                    <a href="">Name Surname</a><br/>-->
+<!--                    (Affiliation)<br/>-->
+<!--                    <br/>-->
+<!--                </td>-->
+<!--                <td>-->
+<!--                    <table class="panelists_past_container">-->
+<!--                        <tr>-->
+<!--                            <td colspan="2"><b>[Panelists]</b> <br></td>-->
+<!--                            <td><b>[Invited by]</b> <br></td>-->
+<!--                        </tr>-->
+<!--                        <tr>-->
+<!--                            <td><a href="">Name Surname</a><br/>(Affiliation)<br></td>-->
+<!--                            <td><a href="">Name Surname</a><br/>(Affiliation)</td>-->
+<!--                            <td><a href="">Name Surname</a><br/> (Affiliation)</td>-->
+<!--                        </tr>-->
+<!--                    </table>-->
+<!--                </td>-->
+<!--            </tr>-->
+<!--        </table>-->
 
-        <!--Spacing--->
-        <table style="margin: 0 0 0 0 !important;">
-            <tr>
-                <td colspan="100%"></td>
-            </tr>
-        </table>
+<!--        &lt;!&ndash;Spacing-&ndash;&gt;-->
+<!--        <table style="margin: 0 0 0 0 !important;">-->
+<!--            <tr>-->
+<!--                <td colspan="100%"></td>-->
+<!--            </tr>-->
+<!--        </table>-->
 
-        <!--Dual talk-------------------------------------------------------------------------------------------------->
-        <table style="padding-bottom: 12px;" class="asia">
-            <!--Photo and video-->
-            <tr class="asia">
-                <td class="presenter_image_container">
-                    <div class="double_image_container">
-                        <a href="https://schedulingseminar.com/">
-                            <img class="double_presenter" src="./images/person_placeholder_200x320.png"
-                                 alt="person_photo"/>
-                            <br/></a>
-                    </div>
-                    <div class="double_image_container">
-                        <a href="https://schedulingseminar.com/">
-                            <img class="double_presenter" src="./images/person_placeholder_200x320.png"
-                                 alt="person_photo"/>
-                            <br/></a>
-                    </div>
-                </td>
-                <td colspan="2">
-                    <div class="resizable_youtube">
-                        <iframe width="400" height="250" src="https://www.youtube.com/embed/SC5CX8drAtU" frameborder="0"
-                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                                allowfullscreen></iframe>
-                    </div>
-                </td>
-            </tr>
+<!--        &lt;!&ndash;Dual talk&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&ndash;&gt;-->
+<!--        <table style="padding-bottom: 12px;" class="asia">-->
+<!--            &lt;!&ndash;Photo and video&ndash;&gt;-->
+<!--            <tr class="asia">-->
+<!--                <td class="presenter_image_container">-->
+<!--                    <div class="double_image_container">-->
+<!--                        <a href="https://schedulingseminar.com/">-->
+<!--                            <img class="double_presenter" src="./images/person_placeholder_200x320.png"-->
+<!--                                 alt="person_photo"/>-->
+<!--                            <br/></a>-->
+<!--                    </div>-->
+<!--                    <div class="double_image_container">-->
+<!--                        <a href="https://schedulingseminar.com/">-->
+<!--                            <img class="double_presenter" src="./images/person_placeholder_200x320.png"-->
+<!--                                 alt="person_photo"/>-->
+<!--                            <br/></a>-->
+<!--                    </div>-->
+<!--                </td>-->
+<!--                <td colspan="2">-->
+<!--                    <div class="resizable_youtube">-->
+<!--                        <iframe width="400" height="250" src="https://www.youtube.com/embed/SC5CX8drAtU" frameborder="0"-->
+<!--                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"-->
+<!--                                allowfullscreen></iframe>-->
+<!--                    </div>-->
+<!--                </td>-->
+<!--            </tr>-->
 
-            <!--Text description-->
-            <tr class="asia">
-                <td class="presenter_past_info_container">
-                    <b>[Presenters]</b><br/>
-                    <a href="">Name Surname</a><br/>
-                    (Affiliation)<br/>
-                    <a href="">Name Surname</a><br/>
-                    (Affiliation)<br/>
-                    <br/>
-                </td>
-                <td>
-                    <table class="panelists_past_container">
-                        <tr>
-                            <td colspan="2"><b>[Panelists]</b> <br></td>
-                            <td><b>[Invited by]</b> <br></td>
-                        </tr>
-                        <tr>
-                            <td><a href="">Name Surname</a><br/>(Affiliation)<br></td>
-                            <td><a href="">Name Surname</a><br/>(Affiliation)</td>
-                            <td><a href="">Name Surname</a><br/> (Affiliation)</td>
-                        </tr>
-                    </table>
-                </td>
-            </tr>
-        </table>
+<!--            &lt;!&ndash;Text description&ndash;&gt;-->
+<!--            <tr class="asia">-->
+<!--                <td class="presenter_past_info_container">-->
+<!--                    <b>[Presenters]</b><br/>-->
+<!--                    <a href="">Name Surname</a><br/>-->
+<!--                    (Affiliation)<br/>-->
+<!--                    <a href="">Name Surname</a><br/>-->
+<!--                    (Affiliation)<br/>-->
+<!--                    <br/>-->
+<!--                </td>-->
+<!--                <td>-->
+<!--                    <table class="panelists_past_container">-->
+<!--                        <tr>-->
+<!--                            <td colspan="2"><b>[Panelists]</b> <br></td>-->
+<!--                            <td><b>[Invited by]</b> <br></td>-->
+<!--                        </tr>-->
+<!--                        <tr>-->
+<!--                            <td><a href="">Name Surname</a><br/>(Affiliation)<br></td>-->
+<!--                            <td><a href="">Name Surname</a><br/>(Affiliation)</td>-->
+<!--                            <td><a href="">Name Surname</a><br/> (Affiliation)</td>-->
+<!--                        </tr>-->
+<!--                    </table>-->
+<!--                </td>-->
+<!--            </tr>-->
+<!--        </table>-->
 
-        <!--Spacing--->
-        <table style="margin: 0 0 0 0 !important;">
-            <tr>
-                <td colspan="100%"></td>
-            </tr>
-        </table>
+<!--        &lt;!&ndash;Spacing-&ndash;&gt;-->
+<!--        <table style="margin: 0 0 0 0 !important;">-->
+<!--            <tr>-->
+<!--                <td colspan="100%"></td>-->
+<!--            </tr>-->
+<!--        </table>-->
 
-        <!--Single talk------------------------------------------------------------------------------------------------>
-        <table style="padding-bottom: 12px;" class="america">
-            <!--Photo and video-->
-            <tr class="america">
-                <td class="presenter_image_container">
-                    <div class="single_image_container">
-                        <a href="https://schedulingseminar.com/">
-                            <img class="single_presenter_finished" src="./images/person_placeholder_200x320.png"
-                                 alt="person_photo"/>
-                        </a><br/>
-                    </div>
-                </td>
-                <td colspan="2">
-                    <div class="resizable_youtube">
-                        <iframe width="400" height="250" src="https://www.youtube.com/embed/SC5CX8drAtU" frameborder="0"
-                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                                allowfullscreen></iframe>
-                    </div>
-                </td>
-            </tr>
+<!--        &lt;!&ndash;Single talk&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&ndash;&gt;-->
+<!--        <table style="padding-bottom: 12px;" class="america">-->
+<!--            &lt;!&ndash;Photo and video&ndash;&gt;-->
+<!--            <tr class="america">-->
+<!--                <td class="presenter_image_container">-->
+<!--                    <div class="single_image_container">-->
+<!--                        <a href="https://schedulingseminar.com/">-->
+<!--                            <img class="single_presenter_finished" src="./images/person_placeholder_200x320.png"-->
+<!--                                 alt="person_photo"/>-->
+<!--                        </a><br/>-->
+<!--                    </div>-->
+<!--                </td>-->
+<!--                <td colspan="2">-->
+<!--                    <div class="resizable_youtube">-->
+<!--                        <iframe width="400" height="250" src="https://www.youtube.com/embed/SC5CX8drAtU" frameborder="0"-->
+<!--                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"-->
+<!--                                allowfullscreen></iframe>-->
+<!--                    </div>-->
+<!--                </td>-->
+<!--            </tr>-->
 
-            <!--Text description-->
-            <tr class="america">
-                <td class="presenter_past_info_container">
-                    <b>[Presenter]</b><br/>
-                    <a href="">Name Surname</a><br/>
-                    (Affiliation)<br/>
-                    <br/>
-                </td>
-                <td>
-                    <table class="panelists_past_container">
-                        <tr>
-                            <td colspan="2"><b>[Panelists]</b> <br></td>
-                            <td><b>[Invited by]</b> <br></td>
-                        </tr>
-                        <tr>
-                            <td><a href="">Name Surname</a><br/>(Affiliation)<br></td>
-                            <td><a href="">Name Surname</a><br/>(Affiliation)</td>
-                            <td><a href="">Name Surname</a><br/> (Affiliation)</td>
-                        </tr>
-                    </table>
-                </td>
-            </tr>
-        </table>
+<!--            &lt;!&ndash;Text description&ndash;&gt;-->
+<!--            <tr class="america">-->
+<!--                <td class="presenter_past_info_container">-->
+<!--                    <b>[Presenter]</b><br/>-->
+<!--                    <a href="">Name Surname</a><br/>-->
+<!--                    (Affiliation)<br/>-->
+<!--                    <br/>-->
+<!--                </td>-->
+<!--                <td>-->
+<!--                    <table class="panelists_past_container">-->
+<!--                        <tr>-->
+<!--                            <td colspan="2"><b>[Panelists]</b> <br></td>-->
+<!--                            <td><b>[Invited by]</b> <br></td>-->
+<!--                        </tr>-->
+<!--                        <tr>-->
+<!--                            <td><a href="">Name Surname</a><br/>(Affiliation)<br></td>-->
+<!--                            <td><a href="">Name Surname</a><br/>(Affiliation)</td>-->
+<!--                            <td><a href="">Name Surname</a><br/> (Affiliation)</td>-->
+<!--                        </tr>-->
+<!--                    </table>-->
+<!--                </td>-->
+<!--            </tr>-->
+<!--        </table>-->
 
         </tbody>
     </table>
