@@ -500,6 +500,14 @@
                     Bilkent University</a>
             </td>
 
+            <!--Zhi-Long Chen-->
+            <td>
+                <a href="https://scholar.google.com/citations?hl=en&user=AWOfe_QAAAAJ&view_op=list_works&sortby=pubdate">
+                    <img src="./images/ZL-Chen.JPG" height="200" width="150" alt="person_photo"/><br>
+                    Zhi-Long Chen<br>
+                    University of <br/> Maryland</a>
+            </td>
+
             <!--Nicholas G. Hall-->
             <td>
                 <a href="https://fisher.osu.edu/people/hall.33">
@@ -514,6 +522,22 @@
                     <img src="./images/sknust.jpg" height="200" width="150" alt="person_photo"/><br>
                     Sigrid Knust<br>
                     University of <br/>  Osnabrück</a>
+            </td>
+
+            <!--Mikhail Kovalyov-->
+            <td>
+                <a href="http://uiip.bas-net.by/eng/contacts.php">
+                    <img src="./images/Mikhail_Kovalyov.jpg" height="200" width="150" alt="person_photo"/><br>
+                    Mikhail Kovalyov<br>
+                    UIIP NAS Belarus</a>
+            </td>
+
+            <!--Rhonda Righter-->
+            <td>
+                <a href="https://rrighter.ieor.berkeley.edu/">
+                    <img src="./images/rhonda-righter-2015_0.png" height="200" width="150" alt="person_photo"/><br>
+                    Rhonda Righter<br>
+                    UC Berkeley</a>
             </td>
 
             <!--Rubén Ruiz García-->
@@ -540,6 +564,13 @@
                     Poznań Univ. Tech.</a>
             </td>
 
+            <!--Mario Vanhoucke-->
+            <td>
+                <a href="https://www.or-as.be">
+                    <img src="./images/Mario_Vanhoucke_Pasfoto.jpg" height="200" width="150" alt="person_photo"/><br>
+                    Mario Vanhoucke<br>
+                    Ghent University</a>
+            </td>
 
 <!--            &lt;!&ndash;Person&ndash;&gt;-->
 <!--            <td>-->
