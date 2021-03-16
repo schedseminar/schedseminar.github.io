@@ -534,6 +534,14 @@
                     UIIP NAS Belarus</a>
             </td>
 
+            <!--Marc E. Posner-->
+            <td>
+                <a href="">
+                    <img src="./images/MPosner.jpg" height="200" width="150" alt="person_photo"/><br>
+                    Marc Posner<br>
+                    Ohio State Uni</a>
+            </td>
+
             <!--Rhonda Righter-->
             <td>
                 <a href="https://rrighter.ieor.berkeley.edu/">
