@@ -211,7 +211,7 @@
             <!--Title/Abstract-->
             <tr class="asia">
                 <td colspan="3">
-                    <h2 class="talk_title"><b>Some interesting scheduling topic</b><br></h2>
+                    <h2 class="talk_title"><b>Scheduling Applications in the Process Industries</b><br></h2>
                 </td>
             </tr>
 
