@@ -49,6 +49,13 @@
             <tr class="europe">
                 <td colspan="3">
                     <h2 class="talk_title"><b>Elements of Scheduling</b><br></h2>
+                    <input type="checkbox" id="my_checkbox_1" style="display:none;">
+                    <label for="my_checkbox_1" class="label_abstract"><a>Abstract</a></label>
+                    <div class="hidden">
+                        <hr style="border-top: 1px solid black;">
+                    During the 1970’s, the area of scheduling developed from a hodge-podge of isolated results into a unified theory. Over the past decades, it has grown to a mature and lively area, which is a meeting point of operations research, mathematics and computer science, and at the same time a sound basis for the allocation of scarce resources to activities over time in many practical situations. We will sketch the early development of scheduling theory, and also discuss the integration of ideas from online analysis, stochastic models, and machine learning in response to the needs of a changing society.
+                        <hr style="border-top: 1px solid black;">
+                    </div>
                 </td>
             </tr>
 
@@ -118,8 +125,8 @@
             <tr class="america">
                 <td colspan="3">
                     <h2 class="talk_title"><b>Recent Breakthroughs in Stochastic Scheduling Analysis</b><br></h2>
-                    <input type="checkbox" id="my_checkbox" style="display:none;">
-                    <label for="my_checkbox" class="label_abstract"><a>Abstract</a></label>
+                    <input type="checkbox" id="my_checkbox_2" style="display:none;">
+                    <label for="my_checkbox_2" class="label_abstract"><a>Abstract</a></label>
                     <div class="hidden">
                         <hr style="border-top: 1px solid black;">
                         The talk would start with a little motivation on where stochastic scheduling comes up, showing
@@ -588,6 +595,14 @@
                     <img src="./images/Rubén_Ruiz_1.jpg" height="200" width="150" alt="person_photo"/><br>
                     Rubén Ruiz<br>
                     UP València</a>
+            </td>
+
+            <!--Andrea Schaerf-->
+            <td>
+                <a href="http://www.dpia.uniud.it/schaerf/">
+                    <img src="./images/Andrea.jpg" height="200" width="150" alt="person_photo"/><br>
+                    Andrea Schaerf<br>
+                    University of Udine</a>
             </td>
 
             <!--Dvir Shabtay-->
