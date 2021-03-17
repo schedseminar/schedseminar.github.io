@@ -8,9 +8,9 @@
             Objective of a virtual seminar on scheduling research and applications is to discuss both the field's newest
             advancements and survey traditional areas. Seminars take place typically on every second Wednesday through
             three different time zones
-            (<span class="europe">Europe</span>,
-            <span class="america">America</span>, and
-            <span class="asia">Asia & Oceania</span>).
+            (<span class="europe">Europe, the Middle East & Africa</span>,
+            <span class="america">North America & South America</span>, and
+            <span class="asia">Asia, Australia & Oceania</span>).
             <br/>
             &nbsp;
             <div style="text-align:right;">
@@ -72,9 +72,9 @@
                     (CWI)<br>
                     <a href="https://people.orie.cornell.edu/shmoys/">David Shmoys</a> <br>
                     (Cornell University)<br><br/>
-                    <b>[Panelists]</b> <br>
+<!--                    <b>[Panelists]</b> <br>-->
                     <!--<a href="">Name Surname</a> (Affiliation)<br>-->
-                    <a href="">Name Surname</a> (Affiliation)<br/><br/>
+<!--                    <a href="">Name Surname</a> (Affiliation)<br/><br/>-->
                     <b>[Invited by]</b> <br>
                     <a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a><br>
                     (New York University)
@@ -150,9 +150,9 @@
                     <b>[Presenter] </b> <br>
                     <a href="http://www.cs.cmu.edu/~harchol/">Mor Harchol-Balter</a><br>
                     (CMU)<br><br/>
-                    <b>[Panelists]</b> <br>
+<!--                    <b>[Panelists]</b> <br>-->
                     <!--                <a href="">Name Surname</a> (Affiliation)<br>-->
-                    <a href="">Name Surname</a> (Affiliation)<br/><br/>
+<!--                    <a href="">Name Surname</a> (Affiliation)<br/><br/>-->
                     <b>[Invited by]</b> <br>
                     <a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a> <br/>
                     (New York University)
@@ -229,9 +229,9 @@
                     <b>[Presenter] </b> <br>
                     <a href="">Lixin Tang</a><br>
                     (Northeastern Uni, Shenyang)<br><br/>
-                    <b>[Panelists]</b> <br>
+<!--                    <b>[Panelists]</b> <br>-->
                     <!--                <a href="">Name Surname</a> (Affiliation)<br>-->
-                    <a href="">Name Surname</a> (Affiliation)<br/><br/>
+<!--                    <a href="">Name Surname</a> (Affiliation)<br/><br/>-->
                     <b>[Invited by]</b> <br>
                     <a href="http://www.acem.sjtu.edu.cn/en/faculty/wanguohua.html">Guohua Wan</a> <br>
                     (Shanghai Jiao Tong)
@@ -510,14 +510,6 @@
                     LAAS - CNRS</a>
             </td>
 
-            <!--Greet Vanden Berghe-->
-            <td>
-                <a href="https://www.kuleuven.be/wieiswie/nl/person/00053376">
-                    <img src="./images/greet_vanden_berghe.jpg" height="200" width="150" alt="person_photo"/><br>
-                    Greet Berghe<br>
-                    KU Leuven</a>
-            </td>
-
             <!--Edmund Burke-->
             <td>
                 <a href="https://le.ac.uk/about/senior-management/profiles/deputy-vice-chancellor">
@@ -644,6 +636,14 @@
                     <img src="./images/mark_uetz.jpg" height="200" width="150" alt="person_photo"/><br>
                     Marc Uetz<br>
                     Uni of Twente</a>
+            </td>
+
+            <!--Greet Vanden Berghe-->
+            <td>
+                <a href="https://www.kuleuven.be/wieiswie/nl/person/00053376">
+                    <img src="./images/greet_vanden_berghe.jpg" height="200" width="150" alt="person_photo"/><br>
+                    G. Vanden Berghe<br>
+                    KU Leuven</a>
             </td>
 
             <!--Mario Vanhoucke-->
