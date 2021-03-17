@@ -117,7 +117,7 @@
             <!--Title/Abstract-->
             <tr class="america">
                 <td colspan="3">
-                    <h2 class="talk_title"><b>Recent breakthroughs in stochastic scheduling analysis</b><br></h2>
+                    <h2 class="talk_title"><b>Recent Breakthroughs in Stochastic Scheduling Analysis</b><br></h2>
                     <input type="checkbox" id="my_checkbox" style="display:none;">
                     <label for="my_checkbox" class="label_abstract"><a>Abstract</a></label>
                     <div class="hidden">
@@ -502,6 +502,30 @@
                     Bilkent University</a>
             </td>
 
+            <!--Christian Artigues-->
+            <td>
+                <a href="https://homepages.laas.fr/artigues/drupal/node/11">
+                    <img src="./images/christian_artigues.jpg" height="200" width="150" alt="person_photo"/><br>
+                    Christian Artigues<br>
+                    LAAS - CNRS</a>
+            </td>
+
+            <!--Greet Vanden Berghe-->
+            <td>
+                <a href="https://www.kuleuven.be/wieiswie/nl/person/00053376">
+                    <img src="./images/greet_vanden_berghe.jpg" height="200" width="150" alt="person_photo"/><br>
+                    Greet Berghe<br>
+                    KU Leuven</a>
+            </td>
+
+            <!--Edmund Burke-->
+            <td>
+                <a href="https://le.ac.uk/about/senior-management/profiles/deputy-vice-chancellor">
+                    <img src="./images/Prof_Burke.jpg" height="200" width="150" alt="person_photo"/><br>
+                    Edmund Burke<br>
+                    Uni of Leicester</a>
+            </td>
+
             <!--Zhi-Long Chen-->
             <td>
                 <a href="https://scholar.google.com/citations?hl=en&user=AWOfe_QAAAAJ&view_op=list_works&sortby=pubdate">
@@ -516,6 +540,14 @@
                     <img src="./images/nicholas_g_hall.jpg" height="200" width="150" alt="person_photo"/><br>
                     Nicholas G. Hall<br>
                     The Ohio State Uni</a>
+            </td>
+
+            <!--Claire Hanen-->
+            <td>
+                <a href="https://ufr-segmi.parisnanterre.fr/organisation-et-contacts/espace-reserve-enseignants/site-des-enseignants/les-enseignants-de-segmi/hanen-claire/hanen-claire-93518.kjsp">
+                    <img src="./images/claire_hanen.jpg" height="200" width="150" alt="person_photo"/><br>
+                    Claire Hanen<br>
+                    Sorbonne Uni</a>
             </td>
 
             <!--Sigrid Knust-->
@@ -534,12 +566,20 @@
                     UIIP NAS Belarus</a>
             </td>
 
+            <!--Erwin Pesch-->
+            <td>
+                <a href="https://www.wiwi.uni-siegen.de/mis/team/">
+                    <img src="./images/SA-2018-Erwin.jpg" height="200" width="150" alt="person_photo"/><br>
+                    Erwin Pesch<br>
+                    Uni of Siegen</a>
+            </td>
+
             <!--Marc E. Posner-->
             <td>
                 <a href="">
                     <img src="./images/MPosner.jpg" height="200" width="150" alt="person_photo"/><br>
                     Marc Posner<br>
-                    Ohio State Uni</a>
+                    The Ohio State Uni</a>
             </td>
 
             <!--Rhonda Righter-->
@@ -572,6 +612,38 @@
                     <img src="./images/R.Slowinski 4,5x6,5.jpg" height="200" width="150" alt="person_photo"/><br>
                     Roman Słowiński<br>
                     Poznań Uni Tech.</a>
+            </td>
+
+            <!--Stephen F. Smith-->
+            <td>
+                <a href="https://www.ri.cmu.edu/ri-faculty/stephen-smith/">
+                    <img src="./images/smith_steve_2014.jpg" height="200" width="150" alt="person_photo"/><br>
+                    Stephen Smith<br>
+                    CMU</a>
+            </td>
+
+            <!--Přemysl Šůcha-->
+            <td>
+                <a href="http://people.ciirc.cvut.cz/~suchap/">
+                    <img src="./images/Premysl_Sucha.jpg" height="200" width="150" alt="person_photo"/><br>
+                    Přemysl Šůcha<br>
+                    CTU in Prague</a>
+            </td>
+
+            <!--Vincent T'kindt-->
+            <td>
+                <a href="https://www.univ-tours.fr/annuaire/m-vincent-tkindt">
+                    <img src="./images/VTkindt-head.png" height="200" width="150" alt="person_photo"/><br>
+                    Vincent T'kindt<br>
+                    Uni de Tours</a>
+            </td>
+
+            <!--Marc Uetz-->
+            <td>
+                <a href="https://people.utwente.nl/m.uetz">
+                    <img src="./images/mark_uetz.jpg" height="200" width="150" alt="person_photo"/><br>
+                    Marc Uetz<br>
+                    Uni of Twente</a>
             </td>
 
             <!--Mario Vanhoucke-->
