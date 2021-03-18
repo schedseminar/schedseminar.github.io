@@ -227,7 +227,7 @@
                 <td class="presenter_image_container">
                     <div class="single_image_container">
                         <a href="">
-                            <img class="single_presenter" src="./images/person_placeholder_200x320.png"
+                            <img class="single_presenter" src="./images/person_placeholder.png"
                                  alt="person_photo"/>
                         </a><br/>
                     </div>
@@ -291,7 +291,7 @@
 <!--                <td class="presenter_image_container">-->
 <!--                    <div class="single_image_container">-->
 <!--                        <a href="https://schedulingseminar.com/">-->
-<!--                            <img class="single_presenter_finished" src="./images/person_placeholder_200x320.png"-->
+<!--                            <img class="single_presenter_finished" src="./images/person_placeholder.png"-->
 <!--                                 alt="person_photo"/>-->
 <!--                        </a><br/>-->
 <!--                    </div>-->
@@ -343,13 +343,13 @@
 <!--                <td class="presenter_image_container">-->
 <!--                    <div class="double_image_container">-->
 <!--                        <a href="https://schedulingseminar.com/">-->
-<!--                            <img class="double_presenter" src="./images/person_placeholder_200x320.png"-->
+<!--                            <img class="double_presenter" src="./images/person_placeholder.png"-->
 <!--                                 alt="person_photo"/>-->
 <!--                            <br/></a>-->
 <!--                    </div>-->
 <!--                    <div class="double_image_container">-->
 <!--                        <a href="https://schedulingseminar.com/">-->
-<!--                            <img class="double_presenter" src="./images/person_placeholder_200x320.png"-->
+<!--                            <img class="double_presenter" src="./images/person_placeholder.png"-->
 <!--                                 alt="person_photo"/>-->
 <!--                            <br/></a>-->
 <!--                    </div>-->
@@ -403,7 +403,7 @@
 <!--                <td class="presenter_image_container">-->
 <!--                    <div class="single_image_container">-->
 <!--                        <a href="https://schedulingseminar.com/">-->
-<!--                            <img class="single_presenter_finished" src="./images/person_placeholder_200x320.png"-->
+<!--                            <img class="single_presenter_finished" src="./images/person_placeholder.png"-->
 <!--                                 alt="person_photo"/>-->
 <!--                        </a><br/>-->
 <!--                    </div>-->
