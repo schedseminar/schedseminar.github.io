@@ -735,6 +735,14 @@
 <hr>
 <footer>
     <p style="text-align:center">
+        Subscribe to our <a href="https://list.iid.ciirc.cvut.cz/mailman3/lists/schedulingseminar.rtime.felk.cvut.cz/">
+        <b>mailing list</b></a> and <a href="https://www.youtube.com/channel/UCUoCNnaAfw5NAntItILFn4A">
+        <b>youtube channel</b></a>
+        to never miss new interesting seminars.
+        <br/>
+    </p>
+    <hr>
+    <p style="text-align:center">
         <a href="https://schedseminar.github.io">schedulingseminar.com</a> is maintained by
         <a href="https://iid.ciirc.cvut.cz/">CTU in Prague</a>.
     </p>
