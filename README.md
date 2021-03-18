@@ -557,6 +557,14 @@
                     Uni of Osnabrück</a>
             </td>
 
+            <!--Rainer Kolisch-->
+            <td>
+                <a href="https://www.professors.wi.tum.de/om/team/prof-dr-rainer-kolisch/">
+                    <img src="./images/Kolisch_Rainer.jpg" height="200" width="150" alt="person_photo"/><br>
+                    Rainer Kolisch<br>
+                    TU Munich</a>
+            </td>
+
             <!--Mikhail Kovalyov-->
             <td>
                 <a href="http://uiip.bas-net.by/eng/contacts.php">
