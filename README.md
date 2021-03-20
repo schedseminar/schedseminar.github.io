@@ -591,6 +591,14 @@
                     UIIP NAS Belarus</a>
             </td>
 
+            <!--KANGBOK LEE-->
+            <td>
+                <a href="https://sites.google.com/site/kangbokstudy/">
+                    <img src="./images/kangbok_lee.jpg" height="200" width="150" alt="person_photo"/><br>
+                    Kangbok Lee<br>
+                    POSTECH</a>
+            </td>
+
             <!--Reza Tavakkoli-Moghaddam-->
 <!--            <td>-->
 <!--                <a href="https://scholar.google.com/citations?user=gqVUx4cAAAAJ&hl=en">-->
