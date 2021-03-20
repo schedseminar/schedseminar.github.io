@@ -218,7 +218,25 @@
             <!--Title/Abstract-->
             <tr class="asia">
                 <td colspan="3">
-                    <h2 class="talk_title"><b>Scheduling Applications in the Process Industries</b><br></h2>
+                    <h2 class="talk_title"><b>Data Analytics and Optimization for Production, Logistics and Energy Scheduling</b><br></h2>
+                    <input type="checkbox" id="my_checkbox_3" style="display:none;">
+                    <label for="my_checkbox_3" class="label_abstract"><a>Abstract</a></label>
+                    <div class="hidden">
+                        <hr style="border-top: 1px solid black;">
+                        This talk discusses some interesting topics on scheduling and data analytics of production,
+                        logistics and energy in the steel industry, including: 1) production batching and scheduling in
+                        steelmaking/continuous casting, and hot/cold rolling operations; 2) logistics scheduling in
+                        storage/stowage, shuffling, transportation and (un)loading operations; 3) energy optimization
+                        including energy allocation, coordinated planning and scheduling of production and energy; 4)
+                        data based analytics, including dynamic analytics of BOF steelmaking process based on
+                        multi-stage modeling; temperature prediction of blast furnace; temperature prediction of molten
+                        iron in transportation process; energy analytics for estimation, prediction of generation and
+                        consumption, diagnosis and benchmarking; temperature prediction of reheat furnace based on
+                        mechanism and data; strip quality analytics of continuous annealing based on multi-objective
+                        ensemble learning; process monitoring and diagnosis of continuous annealing based on mechanism
+                        and data.
+                        <hr style="border-top: 1px solid black;">
+                    </div>
                 </td>
             </tr>
 
@@ -227,7 +245,7 @@
                 <td class="presenter_image_container">
                     <div class="single_image_container">
                         <a href="">
-                            <img class="single_presenter" src="./images/person_placeholder.png"
+                            <img class="single_presenter" src="./images/lixin_tang.jpg"
                                  alt="person_photo"/>
                         </a><br/>
                     </div>
