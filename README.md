@@ -599,14 +599,6 @@
                     POSTECH</a>
             </td>
 
-            <!--Reza Tavakkoli-Moghaddam-->
-<!--            <td>-->
-<!--                <a href="https://scholar.google.com/citations?user=gqVUx4cAAAAJ&hl=en">-->
-<!--                    <img src="./images/reza_moghaddam.jpg" height="200" width="150" alt="person_photo"/><br>-->
-<!--                    Reza Tavakkoli-Moghaddam<br>-->
-<!--                    Uni of Tehran</a>-->
-<!--            </td>-->
-
             <!--Erwin Pesch-->
             <td>
                 <a href="https://www.wiwi.uni-siegen.de/mis/team/">
@@ -685,6 +677,14 @@
                     <img src="./images/Premysl_Sucha.jpg" height="200" width="150" alt="person_photo"/><br>
                     Přemysl Šůcha<br>
                     CTU in Prague</a>
+            </td>
+
+            <!--Reza Tavakkoli-Moghaddam-->
+            <td>
+                <a href="https://scholar.google.com/citations?user=gqVUx4cAAAAJ&hl=en">
+                    <img src="./images/reza_moghaddam.jpg" height="200" width="150" alt="person_photo"/><br>
+                    Reza Tavakkoli<br>
+                    Uni of Tehran</a>
             </td>
 
             <!--Vincent T'kindt-->
