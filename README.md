@@ -655,6 +655,14 @@
                     CMU</a>
             </td>
 
+            <!--Clifford Stein-->
+            <td>
+                <a href="https://www.ieor.columbia.edu/faculty/clifford-stein">
+                    <img src="./images/Clifford_Stein_web.png" height="200" width="150" alt="person_photo"/><br>
+                    Clifford Stein<br>
+                    Columbia Uni</a>
+            </td>
+
             <!--Přemysl Šůcha-->
             <td>
                 <a href="http://people.ciirc.cvut.cz/~suchap/">
