@@ -237,6 +237,22 @@
                         and data.
                         <hr style="border-top: 1px solid black;">
                     </div>
+
+                    <input type="checkbox" id="my_checkbox_4" style="display:none;">
+                    <label for="my_checkbox_4" class="label_abstract"><a>Biography</a></label>
+                    <div class="hidden">
+                        <hr style="border-top: 1px solid black;">
+                        Professor Lixin Tang is the Vice President of Northeastern University, China, a member of
+                        Chinese Academy of Engineering, the Director of Key Laboratory of Data Analytics and
+                        Optimization for Smart Industry, Ministry of Education, China, the Head of Centre for Artificial
+                        Intelligence and Data Science, and the Chair Professor of Centre for Industrial Intelligence
+                        and Systems Optimization. He is also a member of the discipline review group of the State
+                        Council for Control Science & Engineering, a member of review group of National Natural Science
+                        Foundation, the Vice President of Operations Research Society of China (ORSC), and the Founding
+                        Director of Data Analytics and Optimization Society for Smart Industry for ORSC.
+                        <hr style="border-top: 1px solid black;">
+                    </div>
+
                 </td>
             </tr>
 
