@@ -252,7 +252,7 @@
                 </td>
                 <td class="information_upcoming_container">
                     <b>[Presenter] </b> <br>
-                    <a href="">Lixin Tang</a><br>
+                    <a href="https://scholar.google.com/citations?user=qCz1I68AAAAJ&hl=en">Lixin Tang</a><br>
                     (Northeastern Uni, Shenyang)<br><br/>
 <!--                    <b>[Panelists]</b> <br>-->
                     <!--                <a href="">Name Surname</a> (Affiliation)<br>-->
