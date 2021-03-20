@@ -666,7 +666,7 @@
             <!--Stephen F. Smith-->
             <td>
                 <a href="https://www.ri.cmu.edu/ri-faculty/stephen-smith/">
-                    <img src="./images/smith_steve_2014.jpg" height="200" width="150" alt="person_photo"/><br>
+                    <img src="./images/smith_steve.jpg" height="200" width="150" alt="person_photo"/><br>
                     Stephen Smith<br>
                     CMU</a>
             </td>
