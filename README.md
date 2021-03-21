@@ -781,7 +781,7 @@
     <h2>Feedback form</h2>
     <div class="resizable_feedback">
         <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfRk8Nv2J7RvGk-z7Gl5KLWMO5hoZC1Sd-ZFDvgzI97mZe6nw/viewform?embedded=true"
-                width="100%" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading…
+                width="100%" height="430" frameborder="0" marginheight="0" marginwidth="0">Loading…
         </iframe>
     </div>
 </div>
