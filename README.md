@@ -302,6 +302,82 @@
             </tr>
         </table>
 
+        <!--Spacing--->
+        <table style="margin: 0 0 0 0 !important;">
+            <tr>
+                <td colspan="100%"></td>
+            </tr>
+        </table>
+
+        <!--Single talk------------------------------------------------------------------------------------------------>
+        <table style="padding-bottom: 12px;" class="europe">
+            <!--Title/Abstract-->
+            <tr class="europe">
+                <td colspan="3">
+                    <h2 class="talk_title"><b>Efficient algorithms and provably good solutions for NP-hard scheduling problems</b><br></h2>
+                    <input type="checkbox" id="my_checkbox_5" style="display:none;">
+                    <label for="my_checkbox_5" class="label_abstract"><a>Abstract</a></label>
+                    <div class="hidden">
+                        <hr style="border-top: 1px solid black;">
+                        Machine scheduling problems are among the first optimization problems for which approximation
+                        algorithms have been analyzed. An approximation algorithm is a polynomial-time algorithm which
+                        always finds a feasible solution whose objective function value is within an a priori known
+                        factor (performance ratio) of the optimum solution value. In this talk we focus on identical
+                        parallel machine scheduling with total weighted completion time objective. We present, among
+                        other things, a refined analysis of the performance ratio for the weighted shortest processing
+                        time first (WSPT) rule. This is joint work with Sven Jäger.
+                        <hr style="border-top: 1px solid black;">
+                    </div>
+
+                </td>
+            </tr>
+
+            <!--Data--->
+            <tr class="europe">
+                <td class="presenter_image_container">
+                    <div class="single_image_container">
+                        <a href="https://www.coga.tu-berlin.de/v_menue/mitarbeitende/prof_dr_martin_skutella/prof_dr_martin_skutella/parameter/en/">
+                            <img class="single_presenter" src="./images/skutella.jpg"
+                                 alt="person_photo"/>
+                        </a><br/>
+                    </div>
+                </td>
+                <td class="information_upcoming_container">
+                    <b>[Presenter] </b> <br>
+                    <a href="https://www.coga.tu-berlin.de/v_menue/mitarbeitende/prof_dr_martin_skutella/prof_dr_martin_skutella/parameter/en/">Martin Skutella</a><br>
+                    (TU Berlin)<br><br/>
+                    <!--                    <b>[Panelists]</b> <br>-->
+                    <!--                <a href="">Name Surname</a> (Affiliation)<br>-->
+                    <!--                    <a href="">Name Surname</a> (Affiliation)<br/><br/>-->
+                    <b>[Invited by]</b> <br>
+                    <a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a> <br>
+                    (CTU in Prague)
+                </td>
+                <td class="time_zones_container">
+                    <table class="time_table">
+                        <tbody>
+                        <tr class="utc">
+                            <td>UTC</td>
+                            <td>May 12, 13:00 Wed</td>
+                        </tr>
+                        <tr class="europe">
+                            <td>Prague</td>
+                            <td>May 12, 15:00 Wed</td>
+                        </tr>
+                        <tr class="america">
+                            <td>New York</td>
+                            <td>May 12, 09:00 Wed</td>
+                        </tr>
+                        <tr class="asia">
+                            <td>Shanghai</td>
+                            <td>May 12, 21:00 Wed</td>
+                        </tr>
+                        </tbody>
+                    </table>
+                </td>
+            </tr>
+        </table>
+
         </tbody>
     </table>
 </div>
