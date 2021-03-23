@@ -386,7 +386,7 @@
 <!--            </tr>-->
 <!--        </table>-->
 
-<!--        &lt;!&ndash;Single talk&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&ndash;&gt;-->
+        <!--Single talk------------------------------------------------------------------------------------------------>
 <!--        <table style="padding-bottom: 12px;" class="america">-->
 <!--            &lt;!&ndash;Title/Abstract&ndash;&gt;-->
 <!--            <tr class="europe">-->
@@ -408,14 +408,14 @@
 <!--                <td class="presenter_image_container">-->
 <!--                    <div class="single_image_container">-->
 <!--                        <a href="https://www.coga.tu-berlin.de/v_menue/mitarbeitende/prof_dr_martin_skutella/prof_dr_martin_skutella/parameter/en/">-->
-<!--                            <img class="single_presenter" src="./images/skutella.jpg"-->
+<!--                            <img class="single_presenter" src="./images/Mike_carter.jpg"-->
 <!--                                 alt="person_photo"/>-->
 <!--                        </a><br/>-->
 <!--                    </div>-->
 <!--                </td>-->
 <!--                <td class="information_upcoming_container">-->
 <!--                    <b>[Presenter] </b> <br>-->
-<!--                    <a href="https://www.coga.tu-berlin.de/v_menue/mitarbeitende/prof_dr_martin_skutella/prof_dr_martin_skutella/parameter/en/">Martin Skutella</a><br>-->
+<!--                    <a href="https://www.coga.tu-berlin.de/v_menue/mitarbeitende/prof_dr_martin_skutella/prof_dr_martin_skutella/parameter/en/">Mike Carter</a><br>-->
 <!--                    (TU Berlin)<br><br/>-->
 <!--                    &lt;!&ndash;                    <b>[Panelists]</b> <br>&ndash;&gt;-->
 <!--                    &lt;!&ndash;                <a href="">Name Surname</a> (Affiliation)<br>&ndash;&gt;-->
@@ -779,14 +779,13 @@
                     The Ohio State Uni</a>
             </td>
 
-            <!--TODO ADD PHOTO-->
             <!--Chris Potts-->
-<!--            <td>-->
-<!--                <a href="https://www.southampton.ac.uk/maths/about/staff/cnp1.page">-->
-<!--                    <img src="./images/" height="200" width="150" alt="person_photo"/><br>-->
-<!--                    Chris Potts<br>-->
-<!--                    Uni of Southhampton</a>-->
-<!--            </td>-->
+            <td>
+                <a href="https://www.southampton.ac.uk/maths/about/staff/cnp1.page">
+                    <img src="./images/chris_potts.JPG" height="200" width="150" alt="person_photo"/><br>
+                    Chris Potts<br>
+                    Uni of Southhampton</a>
+            </td>
 
             <!--Rhonda Righter-->
             <td>
