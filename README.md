@@ -407,7 +407,7 @@
 <!--            <tr class="america">-->
 <!--                <td class="presenter_image_container">-->
 <!--                    <div class="single_image_container">-->
-<!--                        <a href="https://www.coga.tu-berlin.de/v_menue/mitarbeitende/prof_dr_martin_skutella/prof_dr_martin_skutella/parameter/en/">-->
+<!--                        <a href="https://www.mie.utoronto.ca/faculty_staff/carter/">-->
 <!--                            <img class="single_presenter" src="./images/Mike_carter.jpg"-->
 <!--                                 alt="person_photo"/>-->
 <!--                        </a><br/>-->
@@ -415,7 +415,7 @@
 <!--                </td>-->
 <!--                <td class="information_upcoming_container">-->
 <!--                    <b>[Presenter] </b> <br>-->
-<!--                    <a href="https://www.coga.tu-berlin.de/v_menue/mitarbeitende/prof_dr_martin_skutella/prof_dr_martin_skutella/parameter/en/">Mike Carter</a><br>-->
+<!--                    <a href="https://www.mie.utoronto.ca/faculty_staff/carter/">Mike Carter</a><br>-->
 <!--                    (TU Berlin)<br><br/>-->
 <!--                    &lt;!&ndash;                    <b>[Panelists]</b> <br>&ndash;&gt;-->
 <!--                    &lt;!&ndash;                <a href="">Name Surname</a> (Affiliation)<br>&ndash;&gt;-->
