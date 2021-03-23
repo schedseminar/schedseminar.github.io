@@ -378,6 +378,78 @@
             </tr>
         </table>
 
+        <!--TODO UPCOMING-->
+        <!--Spacing--->
+<!--        <table style="margin: 0 0 0 0 !important;">-->
+<!--            <tr>-->
+<!--                <td colspan="100%"></td>-->
+<!--            </tr>-->
+<!--        </table>-->
+
+<!--        &lt;!&ndash;Single talk&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&ndash;&gt;-->
+<!--        <table style="padding-bottom: 12px;" class="america">-->
+<!--            &lt;!&ndash;Title/Abstract&ndash;&gt;-->
+<!--            <tr class="europe">-->
+<!--                <td colspan="3">-->
+<!--                    <h2 class="talk_title"><b>Challenges in Healthcare Scheduling Applications</b><br></h2>-->
+<!--                    <input type="checkbox" id="my_checkbox_x" style="display:none;">-->
+<!--                    <label for="my_checkbox_x" class="label_abstract"><a>Abstract</a></label>-->
+<!--                    <div class="hidden">-->
+<!--                        <hr style="border-top: 1px solid black;">-->
+<!--                        TODO-->
+<!--                        <hr style="border-top: 1px solid black;">-->
+<!--                    </div>-->
+
+<!--                </td>-->
+<!--            </tr>-->
+
+<!--            &lt;!&ndash;Data-&ndash;&gt;-->
+<!--            <tr class="america">-->
+<!--                <td class="presenter_image_container">-->
+<!--                    <div class="single_image_container">-->
+<!--                        <a href="https://www.coga.tu-berlin.de/v_menue/mitarbeitende/prof_dr_martin_skutella/prof_dr_martin_skutella/parameter/en/">-->
+<!--                            <img class="single_presenter" src="./images/skutella.jpg"-->
+<!--                                 alt="person_photo"/>-->
+<!--                        </a><br/>-->
+<!--                    </div>-->
+<!--                </td>-->
+<!--                <td class="information_upcoming_container">-->
+<!--                    <b>[Presenter] </b> <br>-->
+<!--                    <a href="https://www.coga.tu-berlin.de/v_menue/mitarbeitende/prof_dr_martin_skutella/prof_dr_martin_skutella/parameter/en/">Martin Skutella</a><br>-->
+<!--                    (TU Berlin)<br><br/>-->
+<!--                    &lt;!&ndash;                    <b>[Panelists]</b> <br>&ndash;&gt;-->
+<!--                    &lt;!&ndash;                <a href="">Name Surname</a> (Affiliation)<br>&ndash;&gt;-->
+<!--                    &lt;!&ndash;                    <a href="">Name Surname</a> (Affiliation)<br/><br/>&ndash;&gt;-->
+<!--                    <b>[Invited by]</b> <br>-->
+<!--                    <a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a> <br/>-->
+<!--                    (New York University)-->
+<!--                </td>-->
+<!--                <td class="time_zones_container">-->
+<!--                    <table class="time_table">-->
+<!--                        <tbody>-->
+<!--                        <tr class="utc">-->
+<!--                            <td>UTC</td>-->
+<!--                            <td>Jun 23, 13:00 Wed</td>-->
+<!--                        </tr>-->
+<!--                        <tr class="europe">-->
+<!--                            <td>Prague</td>-->
+<!--                            <td>Jun 23, 15:00 Wed</td>-->
+<!--                        </tr>-->
+<!--                        <tr class="america">-->
+<!--                            <td>New York</td>-->
+<!--                            <td>Jun 23, 09:00 Wed</td>-->
+<!--                        </tr>-->
+<!--                        <tr class="asia">-->
+<!--                            <td>Shanghai</td>-->
+<!--                            <td>Jun 23, 21:00 Wed</td>-->
+<!--                        </tr>-->
+<!--                        </tbody>-->
+<!--                    </table>-->
+<!--                </td>-->
+<!--            </tr>-->
+<!--        </table>-->
+        <!--TODO UPCOMING-->
+
         </tbody>
     </table>
 </div>
@@ -706,6 +778,15 @@
                     Marc Posner<br>
                     The Ohio State Uni</a>
             </td>
+
+            <!--TODO ADD PHOTO-->
+            <!--Chris Potts-->
+<!--            <td>-->
+<!--                <a href="https://www.southampton.ac.uk/maths/about/staff/cnp1.page">-->
+<!--                    <img src="./images/" height="200" width="150" alt="person_photo"/><br>-->
+<!--                    Chris Potts<br>-->
+<!--                    Uni of Southhampton</a>-->
+<!--            </td>-->
 
             <!--Rhonda Righter-->
             <td>
