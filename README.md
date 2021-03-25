@@ -53,7 +53,13 @@
                     <label for="my_checkbox_1" class="label_abstract"><a>Abstract</a></label>
                     <div class="hidden">
                         <hr style="border-top: 1px solid black;">
-                    During the 1970’s, the area of scheduling developed from a hodge-podge of isolated results into a unified theory. Over the past decades, it has grown to a mature and lively area, which is a meeting point of operations research, mathematics and computer science, and at the same time a sound basis for the allocation of scarce resources to activities over time in many practical situations. We will sketch the early development of scheduling theory, and also discuss the integration of ideas from online analysis, stochastic models, and machine learning in response to the needs of a changing society.
+                        During the 1970’s, the area of scheduling developed from a hodge-podge of isolated results into
+                        a unified theory. Over the past decades, it has grown to a mature and lively area, which is a
+                        meeting point of operations research, mathematics and computer science, and at the same time a
+                        sound basis for the allocation of scarce resources to activities over time in many practical
+                        situations. We will sketch the early development of scheduling theory, and also discuss the
+                        integration of ideas from online analysis, stochastic models, and machine learning in response
+                        to the needs of a changing society.
                         <hr style="border-top: 1px solid black;">
                     </div>
                 </td>
@@ -79,9 +85,9 @@
                     (CWI)<br>
                     <a href="https://people.orie.cornell.edu/shmoys/">David Shmoys</a> <br>
                     (Cornell University)<br><br/>
-<!--                    <b>[Panelists]</b> <br>-->
+                    <!--                    <b>[Panelists]</b> <br>-->
                     <!--<a href="">Name Surname</a> (Affiliation)<br>-->
-<!--                    <a href="">Name Surname</a> (Affiliation)<br/><br/>-->
+                    <!--                    <a href="">Name Surname</a> (Affiliation)<br/><br/>-->
                     <b>[Invited by]</b> <br>
                     <a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a><br>
                     (New York University)
@@ -129,8 +135,16 @@
                     <label for="my_checkbox_2" class="label_abstract"><a>Abstract</a></label>
                     <div class="hidden">
                         <hr style="border-top: 1px solid black;">
-                        This talk considers stochastic scheduling, where job sizes and arrival times are drawn from a distribution. As empirical job size variability has skyrocketed, stochastic scheduling research has grown increasingly important.  What scheduling policies should we use to keep response times low?  How should we schedule when job sizes are unknown or only partially known? What scheduling policies should we use in a multi-server (M/G/k) setting, as compared with a single-server (M/G/1) setting?  How can we analyze the response times of scheduling policies in single-server and multi-server settings?  In this talk, we discuss recent breakthroughs over the last 3 years in the area of stochastic scheduling. These include:
-                        (1) The SOAP scheduling framework, which greatly expands the class of scheduling policies whose response times we can now analyze in the M/G/1 setting.
+                        This talk considers stochastic scheduling, where job sizes and arrival times are drawn from a
+                        distribution. As empirical job size variability has skyrocketed, stochastic scheduling research
+                        has grown increasingly important. What scheduling policies should we use to keep response times
+                        low? How should we schedule when job sizes are unknown or only partially known? What scheduling
+                        policies should we use in a multi-server (M/G/k) setting, as compared with a single-server
+                        (M/G/1) setting? How can we analyze the response times of scheduling policies in single-server
+                        and multi-server settings? In this talk, we discuss recent breakthroughs over the last 3 years
+                        in the area of stochastic scheduling. These include:
+                        (1) The SOAP scheduling framework, which greatly expands the class of scheduling policies whose
+                        response times we can now analyze in the M/G/1 setting.
                         (2) The first response time analysis of common scheduling policies in the M/G/k.
                         (3) Asymptotically optimal scheduling in the M/G/k.
 
@@ -153,9 +167,9 @@
                     <b>[Presenter] </b> <br>
                     <a href="http://www.cs.cmu.edu/~harchol/">Mor Harchol-Balter</a><br>
                     (CMU)<br><br/>
-<!--                    <b>[Panelists]</b> <br>-->
+                    <!--                    <b>[Panelists]</b> <br>-->
                     <!--                <a href="">Name Surname</a> (Affiliation)<br>-->
-<!--                    <a href="">Name Surname</a> (Affiliation)<br/><br/>-->
+                    <!--                    <a href="">Name Surname</a> (Affiliation)<br/><br/>-->
                     <b>[Invited by]</b> <br>
                     <a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a> <br/>
                     (New York University)
@@ -214,7 +228,8 @@
             <!--Title/Abstract-->
             <tr class="asia">
                 <td colspan="3">
-                    <h2 class="talk_title"><b>Data Analytics and Optimization for Production, Logistics and Energy Scheduling</b><br></h2>
+                    <h2 class="talk_title"><b>Data Analytics and Optimization for Production, Logistics and Energy
+                        Scheduling</b><br></h2>
                     <input type="checkbox" id="my_checkbox_3" style="display:none;">
                     <label for="my_checkbox_3" class="label_abstract"><a>Abstract</a></label>
                     <div class="hidden">
@@ -266,9 +281,9 @@
                     <b>[Presenter] </b> <br>
                     <a href="https://scholar.google.com/citations?user=qCz1I68AAAAJ&hl=en">Lixin Tang</a><br>
                     (Northeastern Uni, Shenyang)<br><br/>
-<!--                    <b>[Panelists]</b> <br>-->
+                    <!--                    <b>[Panelists]</b> <br>-->
                     <!--                <a href="">Name Surname</a> (Affiliation)<br>-->
-<!--                    <a href="">Name Surname</a> (Affiliation)<br/><br/>-->
+                    <!--                    <a href="">Name Surname</a> (Affiliation)<br/><br/>-->
                     <b>[Invited by]</b> <br>
                     <a href="http://www.acem.sjtu.edu.cn/en/faculty/wanguohua.html">Guohua Wan</a> <br>
                     (Shanghai Jiao Tong)
@@ -310,7 +325,8 @@
             <!--Title/Abstract-->
             <tr class="europe">
                 <td colspan="3">
-                    <h2 class="talk_title"><b>Efficient algorithms and provably good solutions for NP-hard scheduling problems</b><br></h2>
+                    <h2 class="talk_title"><b>Efficient algorithms and provably good solutions for NP-hard scheduling
+                        problems</b><br></h2>
                     <input type="checkbox" id="my_checkbox_5" style="display:none;">
                     <label for="my_checkbox_5" class="label_abstract"><a>Abstract</a></label>
                     <div class="hidden">
@@ -340,7 +356,8 @@
                 </td>
                 <td class="information_upcoming_container">
                     <b>[Presenter] </b> <br>
-                    <a href="https://www.coga.tu-berlin.de/v_menue/mitarbeitende/prof_dr_martin_skutella/prof_dr_martin_skutella/parameter/en/">Martin Skutella</a><br>
+                    <a href="https://www.coga.tu-berlin.de/v_menue/mitarbeitende/prof_dr_martin_skutella/prof_dr_martin_skutella/parameter/en/">Martin
+                        Skutella</a><br>
                     (TU Berlin)<br><br/>
                     <!--                    <b>[Panelists]</b> <br>-->
                     <!--                <a href="">Name Surname</a> (Affiliation)<br>-->
@@ -376,74 +393,74 @@
 
         <!--TODO UPCOMING-->
         <!--Spacing--->
-<!--        <table style="margin: 0 0 0 0 !important;">-->
-<!--            <tr>-->
-<!--                <td colspan="100%"></td>-->
-<!--            </tr>-->
-<!--        </table>-->
+        <!--        <table style="margin: 0 0 0 0 !important;">-->
+        <!--            <tr>-->
+        <!--                <td colspan="100%"></td>-->
+        <!--            </tr>-->
+        <!--        </table>-->
 
         <!--Single talk------------------------------------------------------------------------------------------------>
-<!--        <table style="padding-bottom: 12px;" class="america">-->
-<!--            &lt;!&ndash;Title/Abstract&ndash;&gt;-->
-<!--            <tr class="europe">-->
-<!--                <td colspan="3">-->
-<!--                    <h2 class="talk_title"><b>Challenges in Healthcare Scheduling Applications</b><br></h2>-->
-<!--                    <input type="checkbox" id="my_checkbox_x" style="display:none;">-->
-<!--                    <label for="my_checkbox_x" class="label_abstract"><a>Abstract</a></label>-->
-<!--                    <div class="hidden">-->
-<!--                        <hr style="border-top: 1px solid black;">-->
-<!--                        TODO-->
-<!--                        <hr style="border-top: 1px solid black;">-->
-<!--                    </div>-->
+        <!--        <table style="padding-bottom: 12px;" class="america">-->
+        <!--            &lt;!&ndash;Title/Abstract&ndash;&gt;-->
+        <!--            <tr class="europe">-->
+        <!--                <td colspan="3">-->
+        <!--                    <h2 class="talk_title"><b>Challenges in Healthcare Scheduling Applications</b><br></h2>-->
+        <!--                    <input type="checkbox" id="my_checkbox_x" style="display:none;">-->
+        <!--                    <label for="my_checkbox_x" class="label_abstract"><a>Abstract</a></label>-->
+        <!--                    <div class="hidden">-->
+        <!--                        <hr style="border-top: 1px solid black;">-->
+        <!--                        TODO-->
+        <!--                        <hr style="border-top: 1px solid black;">-->
+        <!--                    </div>-->
 
-<!--                </td>-->
-<!--            </tr>-->
+        <!--                </td>-->
+        <!--            </tr>-->
 
-<!--            &lt;!&ndash;Data-&ndash;&gt;-->
-<!--            <tr class="america">-->
-<!--                <td class="presenter_image_container">-->
-<!--                    <div class="single_image_container">-->
-<!--                        <a href="https://www.mie.utoronto.ca/faculty_staff/carter/">-->
-<!--                            <img class="single_presenter" src="./images/Mike_carter.jpg"-->
-<!--                                 alt="person_photo"/>-->
-<!--                        </a><br/>-->
-<!--                    </div>-->
-<!--                </td>-->
-<!--                <td class="information_upcoming_container">-->
-<!--                    <b>[Presenter] </b> <br>-->
-<!--                    <a href="https://www.mie.utoronto.ca/faculty_staff/carter/">Mike Carter</a><br>-->
-<!--                    (TU Berlin)<br><br/>-->
-<!--                    &lt;!&ndash;                    <b>[Panelists]</b> <br>&ndash;&gt;-->
-<!--                    &lt;!&ndash;                <a href="">Name Surname</a> (Affiliation)<br>&ndash;&gt;-->
-<!--                    &lt;!&ndash;                    <a href="">Name Surname</a> (Affiliation)<br/><br/>&ndash;&gt;-->
-<!--                    <b>[Invited by]</b> <br>-->
-<!--                    <a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a> <br/>-->
-<!--                    (New York University)-->
-<!--                </td>-->
-<!--                <td class="time_zones_container">-->
-<!--                    <table class="time_table">-->
-<!--                        <tbody>-->
-<!--                        <tr class="utc">-->
-<!--                            <td>UTC</td>-->
-<!--                            <td>Jun 23, 13:00 Wed</td>-->
-<!--                        </tr>-->
-<!--                        <tr class="europe">-->
-<!--                            <td>Prague</td>-->
-<!--                            <td>Jun 23, 15:00 Wed</td>-->
-<!--                        </tr>-->
-<!--                        <tr class="america">-->
-<!--                            <td>New York</td>-->
-<!--                            <td>Jun 23, 09:00 Wed</td>-->
-<!--                        </tr>-->
-<!--                        <tr class="asia">-->
-<!--                            <td>Shanghai</td>-->
-<!--                            <td>Jun 23, 21:00 Wed</td>-->
-<!--                        </tr>-->
-<!--                        </tbody>-->
-<!--                    </table>-->
-<!--                </td>-->
-<!--            </tr>-->
-<!--        </table>-->
+        <!--            &lt;!&ndash;Data-&ndash;&gt;-->
+        <!--            <tr class="america">-->
+        <!--                <td class="presenter_image_container">-->
+        <!--                    <div class="single_image_container">-->
+        <!--                        <a href="https://www.mie.utoronto.ca/faculty_staff/carter/">-->
+        <!--                            <img class="single_presenter" src="./images/Mike_carter.jpg"-->
+        <!--                                 alt="person_photo"/>-->
+        <!--                        </a><br/>-->
+        <!--                    </div>-->
+        <!--                </td>-->
+        <!--                <td class="information_upcoming_container">-->
+        <!--                    <b>[Presenter] </b> <br>-->
+        <!--                    <a href="https://www.mie.utoronto.ca/faculty_staff/carter/">Mike Carter</a><br>-->
+        <!--                    (TU Berlin)<br><br/>-->
+        <!--                    &lt;!&ndash;                    <b>[Panelists]</b> <br>&ndash;&gt;-->
+        <!--                    &lt;!&ndash;                <a href="">Name Surname</a> (Affiliation)<br>&ndash;&gt;-->
+        <!--                    &lt;!&ndash;                    <a href="">Name Surname</a> (Affiliation)<br/><br/>&ndash;&gt;-->
+        <!--                    <b>[Invited by]</b> <br>-->
+        <!--                    <a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a> <br/>-->
+        <!--                    (New York University)-->
+        <!--                </td>-->
+        <!--                <td class="time_zones_container">-->
+        <!--                    <table class="time_table">-->
+        <!--                        <tbody>-->
+        <!--                        <tr class="utc">-->
+        <!--                            <td>UTC</td>-->
+        <!--                            <td>Jun 23, 13:00 Wed</td>-->
+        <!--                        </tr>-->
+        <!--                        <tr class="europe">-->
+        <!--                            <td>Prague</td>-->
+        <!--                            <td>Jun 23, 15:00 Wed</td>-->
+        <!--                        </tr>-->
+        <!--                        <tr class="america">-->
+        <!--                            <td>New York</td>-->
+        <!--                            <td>Jun 23, 09:00 Wed</td>-->
+        <!--                        </tr>-->
+        <!--                        <tr class="asia">-->
+        <!--                            <td>Shanghai</td>-->
+        <!--                            <td>Jun 23, 21:00 Wed</td>-->
+        <!--                        </tr>-->
+        <!--                        </tbody>-->
+        <!--                    </table>-->
+        <!--                </td>-->
+        <!--            </tr>-->
+        <!--        </table>-->
         <!--TODO UPCOMING-->
 
         </tbody>
@@ -462,162 +479,162 @@
     <table class="past_talk_table">
         <tbody>
 
-<!--        &lt;!&ndash;Single talk&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&ndash;&gt;-->
-<!--        <table style="padding-bottom: 12px;" class="europe">-->
-<!--            &lt;!&ndash;Photo and video&ndash;&gt;-->
-<!--            <tr class="europe">-->
-<!--                <td class="presenter_image_container">-->
-<!--                    <div class="single_image_container">-->
-<!--                        <a href="https://schedulingseminar.com/">-->
-<!--                            <img class="single_presenter_finished" src="./images/person_placeholder.png"-->
-<!--                                 alt="person_photo"/>-->
-<!--                        </a><br/>-->
-<!--                    </div>-->
-<!--                </td>-->
-<!--                <td colspan="2">-->
-<!--                    <div class="resizable_youtube">-->
-<!--                        <iframe width="400" height="250" src="https://www.youtube.com/embed/SC5CX8drAtU" frameborder="0"-->
-<!--                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"-->
-<!--                                allowfullscreen></iframe>-->
-<!--                    </div>-->
-<!--                </td>-->
-<!--            </tr>-->
+        <!--        &lt;!&ndash;Single talk&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&ndash;&gt;-->
+        <!--        <table style="padding-bottom: 12px;" class="europe">-->
+        <!--            &lt;!&ndash;Photo and video&ndash;&gt;-->
+        <!--            <tr class="europe">-->
+        <!--                <td class="presenter_image_container">-->
+        <!--                    <div class="single_image_container">-->
+        <!--                        <a href="https://schedulingseminar.com/">-->
+        <!--                            <img class="single_presenter_finished" src="./images/person_placeholder.png"-->
+        <!--                                 alt="person_photo"/>-->
+        <!--                        </a><br/>-->
+        <!--                    </div>-->
+        <!--                </td>-->
+        <!--                <td colspan="2">-->
+        <!--                    <div class="resizable_youtube">-->
+        <!--                        <iframe width="400" height="250" src="https://www.youtube.com/embed/SC5CX8drAtU" frameborder="0"-->
+        <!--                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"-->
+        <!--                                allowfullscreen></iframe>-->
+        <!--                    </div>-->
+        <!--                </td>-->
+        <!--            </tr>-->
 
-<!--            &lt;!&ndash;Text description&ndash;&gt;-->
-<!--            <tr class="europe">-->
-<!--                <td class="presenter_past_info_container">-->
-<!--                    <b>[Presenter]</b><br/>-->
-<!--                    <a href="">Name Surname</a><br/>-->
-<!--                    (Affiliation)<br/>-->
-<!--                    <br/>-->
-<!--                </td>-->
-<!--                <td>-->
-<!--                    <table class="panelists_past_container">-->
-<!--                        <tr>-->
-<!--                            <td colspan="2"><b>[Panelists]</b> <br></td>-->
-<!--                            <td><b>[Invited by]</b> <br></td>-->
-<!--                        </tr>-->
-<!--                        <tr>-->
-<!--                            <td><a href="">Name Surname</a><br/>(Affiliation)<br></td>-->
-<!--                            <td><a href="">Name Surname</a><br/>(Affiliation)</td>-->
-<!--                            <td><a href="">Name Surname</a><br/> (Affiliation)</td>-->
-<!--                        </tr>-->
-<!--                    </table>-->
-<!--                </td>-->
-<!--            </tr>-->
-<!--        </table>-->
+        <!--            &lt;!&ndash;Text description&ndash;&gt;-->
+        <!--            <tr class="europe">-->
+        <!--                <td class="presenter_past_info_container">-->
+        <!--                    <b>[Presenter]</b><br/>-->
+        <!--                    <a href="">Name Surname</a><br/>-->
+        <!--                    (Affiliation)<br/>-->
+        <!--                    <br/>-->
+        <!--                </td>-->
+        <!--                <td>-->
+        <!--                    <table class="panelists_past_container">-->
+        <!--                        <tr>-->
+        <!--                            <td colspan="2"><b>[Panelists]</b> <br></td>-->
+        <!--                            <td><b>[Invited by]</b> <br></td>-->
+        <!--                        </tr>-->
+        <!--                        <tr>-->
+        <!--                            <td><a href="">Name Surname</a><br/>(Affiliation)<br></td>-->
+        <!--                            <td><a href="">Name Surname</a><br/>(Affiliation)</td>-->
+        <!--                            <td><a href="">Name Surname</a><br/> (Affiliation)</td>-->
+        <!--                        </tr>-->
+        <!--                    </table>-->
+        <!--                </td>-->
+        <!--            </tr>-->
+        <!--        </table>-->
 
-<!--        &lt;!&ndash;Spacing-&ndash;&gt;-->
-<!--        <table style="margin: 0 0 0 0 !important;">-->
-<!--            <tr>-->
-<!--                <td colspan="100%"></td>-->
-<!--            </tr>-->
-<!--        </table>-->
+        <!--        &lt;!&ndash;Spacing-&ndash;&gt;-->
+        <!--        <table style="margin: 0 0 0 0 !important;">-->
+        <!--            <tr>-->
+        <!--                <td colspan="100%"></td>-->
+        <!--            </tr>-->
+        <!--        </table>-->
 
-<!--        &lt;!&ndash;Dual talk&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&ndash;&gt;-->
-<!--        <table style="padding-bottom: 12px;" class="asia">-->
-<!--            &lt;!&ndash;Photo and video&ndash;&gt;-->
-<!--            <tr class="asia">-->
-<!--                <td class="presenter_image_container">-->
-<!--                    <div class="double_image_container">-->
-<!--                        <a href="https://schedulingseminar.com/">-->
-<!--                            <img class="double_presenter" src="./images/person_placeholder.png"-->
-<!--                                 alt="person_photo"/>-->
-<!--                            <br/></a>-->
-<!--                    </div>-->
-<!--                    <div class="double_image_container">-->
-<!--                        <a href="https://schedulingseminar.com/">-->
-<!--                            <img class="double_presenter" src="./images/person_placeholder.png"-->
-<!--                                 alt="person_photo"/>-->
-<!--                            <br/></a>-->
-<!--                    </div>-->
-<!--                </td>-->
-<!--                <td colspan="2">-->
-<!--                    <div class="resizable_youtube">-->
-<!--                        <iframe width="400" height="250" src="https://www.youtube.com/embed/SC5CX8drAtU" frameborder="0"-->
-<!--                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"-->
-<!--                                allowfullscreen></iframe>-->
-<!--                    </div>-->
-<!--                </td>-->
-<!--            </tr>-->
+        <!--        &lt;!&ndash;Dual talk&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&ndash;&gt;-->
+        <!--        <table style="padding-bottom: 12px;" class="asia">-->
+        <!--            &lt;!&ndash;Photo and video&ndash;&gt;-->
+        <!--            <tr class="asia">-->
+        <!--                <td class="presenter_image_container">-->
+        <!--                    <div class="double_image_container">-->
+        <!--                        <a href="https://schedulingseminar.com/">-->
+        <!--                            <img class="double_presenter" src="./images/person_placeholder.png"-->
+        <!--                                 alt="person_photo"/>-->
+        <!--                            <br/></a>-->
+        <!--                    </div>-->
+        <!--                    <div class="double_image_container">-->
+        <!--                        <a href="https://schedulingseminar.com/">-->
+        <!--                            <img class="double_presenter" src="./images/person_placeholder.png"-->
+        <!--                                 alt="person_photo"/>-->
+        <!--                            <br/></a>-->
+        <!--                    </div>-->
+        <!--                </td>-->
+        <!--                <td colspan="2">-->
+        <!--                    <div class="resizable_youtube">-->
+        <!--                        <iframe width="400" height="250" src="https://www.youtube.com/embed/SC5CX8drAtU" frameborder="0"-->
+        <!--                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"-->
+        <!--                                allowfullscreen></iframe>-->
+        <!--                    </div>-->
+        <!--                </td>-->
+        <!--            </tr>-->
 
-<!--            &lt;!&ndash;Text description&ndash;&gt;-->
-<!--            <tr class="asia">-->
-<!--                <td class="presenter_past_info_container">-->
-<!--                    <b>[Presenters]</b><br/>-->
-<!--                    <a href="">Name Surname</a><br/>-->
-<!--                    (Affiliation)<br/>-->
-<!--                    <a href="">Name Surname</a><br/>-->
-<!--                    (Affiliation)<br/>-->
-<!--                    <br/>-->
-<!--                </td>-->
-<!--                <td>-->
-<!--                    <table class="panelists_past_container">-->
-<!--                        <tr>-->
-<!--                            <td colspan="2"><b>[Panelists]</b> <br></td>-->
-<!--                            <td><b>[Invited by]</b> <br></td>-->
-<!--                        </tr>-->
-<!--                        <tr>-->
-<!--                            <td><a href="">Name Surname</a><br/>(Affiliation)<br></td>-->
-<!--                            <td><a href="">Name Surname</a><br/>(Affiliation)</td>-->
-<!--                            <td><a href="">Name Surname</a><br/> (Affiliation)</td>-->
-<!--                        </tr>-->
-<!--                    </table>-->
-<!--                </td>-->
-<!--            </tr>-->
-<!--        </table>-->
+        <!--            &lt;!&ndash;Text description&ndash;&gt;-->
+        <!--            <tr class="asia">-->
+        <!--                <td class="presenter_past_info_container">-->
+        <!--                    <b>[Presenters]</b><br/>-->
+        <!--                    <a href="">Name Surname</a><br/>-->
+        <!--                    (Affiliation)<br/>-->
+        <!--                    <a href="">Name Surname</a><br/>-->
+        <!--                    (Affiliation)<br/>-->
+        <!--                    <br/>-->
+        <!--                </td>-->
+        <!--                <td>-->
+        <!--                    <table class="panelists_past_container">-->
+        <!--                        <tr>-->
+        <!--                            <td colspan="2"><b>[Panelists]</b> <br></td>-->
+        <!--                            <td><b>[Invited by]</b> <br></td>-->
+        <!--                        </tr>-->
+        <!--                        <tr>-->
+        <!--                            <td><a href="">Name Surname</a><br/>(Affiliation)<br></td>-->
+        <!--                            <td><a href="">Name Surname</a><br/>(Affiliation)</td>-->
+        <!--                            <td><a href="">Name Surname</a><br/> (Affiliation)</td>-->
+        <!--                        </tr>-->
+        <!--                    </table>-->
+        <!--                </td>-->
+        <!--            </tr>-->
+        <!--        </table>-->
 
-<!--        &lt;!&ndash;Spacing-&ndash;&gt;-->
-<!--        <table style="margin: 0 0 0 0 !important;">-->
-<!--            <tr>-->
-<!--                <td colspan="100%"></td>-->
-<!--            </tr>-->
-<!--        </table>-->
+        <!--        &lt;!&ndash;Spacing-&ndash;&gt;-->
+        <!--        <table style="margin: 0 0 0 0 !important;">-->
+        <!--            <tr>-->
+        <!--                <td colspan="100%"></td>-->
+        <!--            </tr>-->
+        <!--        </table>-->
 
-<!--        &lt;!&ndash;Single talk&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&ndash;&gt;-->
-<!--        <table style="padding-bottom: 12px;" class="america">-->
-<!--            &lt;!&ndash;Photo and video&ndash;&gt;-->
-<!--            <tr class="america">-->
-<!--                <td class="presenter_image_container">-->
-<!--                    <div class="single_image_container">-->
-<!--                        <a href="https://schedulingseminar.com/">-->
-<!--                            <img class="single_presenter_finished" src="./images/person_placeholder.png"-->
-<!--                                 alt="person_photo"/>-->
-<!--                        </a><br/>-->
-<!--                    </div>-->
-<!--                </td>-->
-<!--                <td colspan="2">-->
-<!--                    <div class="resizable_youtube">-->
-<!--                        <iframe width="400" height="250" src="https://www.youtube.com/embed/SC5CX8drAtU" frameborder="0"-->
-<!--                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"-->
-<!--                                allowfullscreen></iframe>-->
-<!--                    </div>-->
-<!--                </td>-->
-<!--            </tr>-->
+        <!--        &lt;!&ndash;Single talk&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&ndash;&gt;-->
+        <!--        <table style="padding-bottom: 12px;" class="america">-->
+        <!--            &lt;!&ndash;Photo and video&ndash;&gt;-->
+        <!--            <tr class="america">-->
+        <!--                <td class="presenter_image_container">-->
+        <!--                    <div class="single_image_container">-->
+        <!--                        <a href="https://schedulingseminar.com/">-->
+        <!--                            <img class="single_presenter_finished" src="./images/person_placeholder.png"-->
+        <!--                                 alt="person_photo"/>-->
+        <!--                        </a><br/>-->
+        <!--                    </div>-->
+        <!--                </td>-->
+        <!--                <td colspan="2">-->
+        <!--                    <div class="resizable_youtube">-->
+        <!--                        <iframe width="400" height="250" src="https://www.youtube.com/embed/SC5CX8drAtU" frameborder="0"-->
+        <!--                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"-->
+        <!--                                allowfullscreen></iframe>-->
+        <!--                    </div>-->
+        <!--                </td>-->
+        <!--            </tr>-->
 
-<!--            &lt;!&ndash;Text description&ndash;&gt;-->
-<!--            <tr class="america">-->
-<!--                <td class="presenter_past_info_container">-->
-<!--                    <b>[Presenter]</b><br/>-->
-<!--                    <a href="">Name Surname</a><br/>-->
-<!--                    (Affiliation)<br/>-->
-<!--                    <br/>-->
-<!--                </td>-->
-<!--                <td>-->
-<!--                    <table class="panelists_past_container">-->
-<!--                        <tr>-->
-<!--                            <td colspan="2"><b>[Panelists]</b> <br></td>-->
-<!--                            <td><b>[Invited by]</b> <br></td>-->
-<!--                        </tr>-->
-<!--                        <tr>-->
-<!--                            <td><a href="">Name Surname</a><br/>(Affiliation)<br></td>-->
-<!--                            <td><a href="">Name Surname</a><br/>(Affiliation)</td>-->
-<!--                            <td><a href="">Name Surname</a><br/> (Affiliation)</td>-->
-<!--                        </tr>-->
-<!--                    </table>-->
-<!--                </td>-->
-<!--            </tr>-->
-<!--        </table>-->
+        <!--            &lt;!&ndash;Text description&ndash;&gt;-->
+        <!--            <tr class="america">-->
+        <!--                <td class="presenter_past_info_container">-->
+        <!--                    <b>[Presenter]</b><br/>-->
+        <!--                    <a href="">Name Surname</a><br/>-->
+        <!--                    (Affiliation)<br/>-->
+        <!--                    <br/>-->
+        <!--                </td>-->
+        <!--                <td>-->
+        <!--                    <table class="panelists_past_container">-->
+        <!--                        <tr>-->
+        <!--                            <td colspan="2"><b>[Panelists]</b> <br></td>-->
+        <!--                            <td><b>[Invited by]</b> <br></td>-->
+        <!--                        </tr>-->
+        <!--                        <tr>-->
+        <!--                            <td><a href="">Name Surname</a><br/>(Affiliation)<br></td>-->
+        <!--                            <td><a href="">Name Surname</a><br/>(Affiliation)</td>-->
+        <!--                            <td><a href="">Name Surname</a><br/> (Affiliation)</td>-->
+        <!--                        </tr>-->
+        <!--                    </table>-->
+        <!--                </td>-->
+        <!--            </tr>-->
+        <!--        </table>-->
 
         </tbody>
     </table>
@@ -895,12 +912,12 @@
                     UT Sydney</a>
             </td>
 
-<!--            &lt;!&ndash;Person&ndash;&gt;-->
-<!--            <td>-->
-<!--                <a href="https://schedulingseminar.com/">-->
-<!--                    <img src="./images/person_placeholder.png" height="200" width="150" alt="person_photo"/><br>-->
-<!--                    Name Surname<br>Affiliation</a>-->
-<!--            </td>-->
+            <!--            &lt;!&ndash;Person&ndash;&gt;-->
+            <!--            <td>-->
+            <!--                <a href="https://schedulingseminar.com/">-->
+            <!--                    <img src="./images/person_placeholder.png" height="200" width="150" alt="person_photo"/><br>-->
+            <!--                    Name Surname<br>Affiliation</a>-->
+            <!--            </td>-->
 
         </tr>
         </tbody>
