@@ -728,6 +728,14 @@
                     Uni of Maryland</a>
             </td>
 
+            <!--Liang Gao-->
+            <td>
+                <a href="https://scholar.google.com/citations?user=NqIi8_8AAAAJ&hl=en">
+                    <img src="./images/liang_gao.jpg" height="200" width="150" alt="person_photo"/><br>
+                    Liang Gao<br>
+                    HUST, Wuhan</a>
+            </td>
+
             <!--Nicholas G. Hall-->
             <td>
                 <a href="https://fisher.osu.edu/people/hall.33">
@@ -776,6 +784,31 @@
                     POSTECH</a>
             </td>
 
+            <!--Chung-Lun Li-->
+            <td>
+                <a href="https://lms.polyu.edu.hk/people/academic-staff/prof-chung-lun-li/">
+                    <img src="./images/chung-lun_li.jpg" height="200" width="150" alt="person_photo"/><br>
+                    Chung-Lun Li<br>
+                    Hong Kong PolyU</a>
+            </td>
+
+            <!--Bertrand Lin-->
+            <td>
+                <a href="https://www.iim.nctu.edu.tw/en/teacher/Lin-Bertrand%20M.T.">
+                    <img src="./images/bertrand_lin.jpg" height="200" width="150" alt="person_photo"/><br>
+                    Bertrand Lin<br>
+                    NCTU, Taiwan</a>
+            </td>
+
+            <!--TODO-->
+            <!--            &lt;!&ndash;Xiwen Lun&ndash;&gt;-->
+            <!--            <td>-->
+            <!--                <a href="https://www.iim.nctu.edu.tw/en/teacher/Lin-Bertrand%20M.T.">-->
+            <!--                    <img src="./images/bertrand_lin.jpg" height="200" width="150" alt="person_photo"/><br>-->
+            <!--                    Xiwen Lu<br>-->
+            <!--                    East China U. of Sci. & Tech</a>-->
+            <!--            </td>-->
+
             <!--Erwin Pesch-->
             <td>
                 <a href="https://www.wiwi.uni-siegen.de/mis/team/">
@@ -797,7 +830,15 @@
                 <a href="https://www.southampton.ac.uk/maths/about/staff/cnp1.page">
                     <img src="./images/chris_potts.JPG" height="200" width="150" alt="person_photo"/><br>
                     Chris Potts<br>
-                    Uni of Southhampton</a>
+                    Southhampton Uni</a>
+            </td>
+
+            <!-- Xiangtong Qi-->
+            <td>
+                <a href="https://seng.ust.hk/about/people/faculty/xiangtong-qi">
+                    <img src="./images/xiangtong_qi.jpg" height="200" width="150" alt="person_photo"/><br>
+                    Xiangtong Qi<br>
+                    HKUST</a>
             </td>
 
             <!--Rhonda Righter-->
@@ -821,7 +862,7 @@
                 <a href="http://www.dpia.uniud.it/schaerf/">
                     <img src="./images/Andrea.jpg" height="200" width="150" alt="person_photo"/><br>
                     Andrea Schaerf<br>
-                    University of Udine</a>
+                    Uni of Udine</a>
             </td>
 
             <!--Dvir Shabtay-->
@@ -862,6 +903,14 @@
                     <img src="./images/Premysl_Sucha.jpg" height="200" width="150" alt="person_photo"/><br>
                     Přemysl Šůcha<br>
                     CTU in Prague</a>
+            </td>
+
+            <!--Li-Xin Tang-->
+            <td>
+                <a href="https://scholar.google.com/citations?user=qCz1I68AAAAJ&hl=en">
+                    <img src="./images/lixin_tang.jpg" height="200" width="150" alt="person_photo"/><br>
+                    Li-Xin Tang<br>
+                    NEU, Shenyang</a>
             </td>
 
             <!--Reza Tavakkoli-Moghaddam-->
