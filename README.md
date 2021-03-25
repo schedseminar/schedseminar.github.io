@@ -124,21 +124,17 @@
             <!--Title/Abstract-->
             <tr class="america">
                 <td colspan="3">
-                    <h2 class="talk_title"><b>Recent Breakthroughs in Stochastic Scheduling Analysis</b><br></h2>
+                    <h2 class="talk_title"><b>Recent Breakthroughs in Stochastic Scheduling Theory</b><br></h2>
                     <input type="checkbox" id="my_checkbox_2" style="display:none;">
                     <label for="my_checkbox_2" class="label_abstract"><a>Abstract</a></label>
                     <div class="hidden">
                         <hr style="border-top: 1px solid black;">
-                        The talk would start with a little motivation on where stochastic scheduling comes up, showing
-                        some
-                        workloads at Google from 2020.
-                        I would then discuss the SOAP scheduling framework from 2018, which allows the first mean
-                        response
-                        time analysis of a wide class of scheduling policies in the M/G/1 setting, including Gittins and
-                        SERPT in the M/G/1.
-                        Finally, I would move on to talking about scheduling in multi-server systems, presenting the
-                        first
-                        stochastic response time analysis for SRPT in the M/G/k (2018) and Gittins in the M/G/k (2021).
+                        This talk considers stochastic scheduling, where job sizes and arrival times are drawn from a distribution. As empirical job size variability has skyrocketed, stochastic scheduling research has grown increasingly important.  What scheduling policies should we use to keep response times low?  How should we schedule when job sizes are unknown or only partially known? What scheduling policies should we use in a multi-server (M/G/k) setting, as compared with a single-server (M/G/1) setting?  How can we analyze the response times of scheduling policies in single-server and multi-server settings?  In this talk, we discuss recent breakthroughs over the last 3 years in the area of stochastic scheduling. These include:
+                        (1) The SOAP scheduling framework, which greatly expands the class of scheduling policies whose response times we can now analyze in the M/G/1 setting.
+                        (2) The first response time analysis of common scheduling policies in the M/G/k.
+                        (3) Asymptotically optimal scheduling in the M/G/k.
+
+                        Joint work with: Ziv Scully, Isaac Grosof
                         <hr style="border-top: 1px solid black;">
                     </div>
                 </td>
@@ -149,7 +145,7 @@
                 <td class="presenter_image_container">
                     <div class="single_image_container">
                         <a href="http://www.cs.cmu.edu/~harchol/">
-                            <img class="single_presenter" src="./images/mor_harchol-balter.jpg" alt="person_photo"/>
+                            <img class="single_presenter" src="./images/harchol_balter.jpg" alt="person_photo"/>
                         </a><br/>
                     </div>
                 </td>
