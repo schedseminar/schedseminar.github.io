@@ -325,8 +325,8 @@
             <!--Title/Abstract-->
             <tr class="europe">
                 <td colspan="3">
-                    <h2 class="talk_title"><b>Efficient algorithms and provably good solutions for NP-hard scheduling
-                        problems</b><br></h2>
+                    <h2 class="talk_title"><b>Efficient Algorithms and Provably Good Solutions for NP-hard Scheduling
+                        Problems</b><br></h2>
                     <input type="checkbox" id="my_checkbox_5" style="display:none;">
                     <label for="my_checkbox_5" class="label_abstract"><a>Abstract</a></label>
                     <div class="hidden">
@@ -403,7 +403,7 @@
             <!--Title/Abstract-->
             <tr class="europe">
                 <td colspan="3">
-                    <h2 class="talk_title"><b>On the state of the art in proactive/reactive project scheduling
+                    <h2 class="talk_title"><b>On the State of the Art in Proactive/Reactive Project Scheduling
                     </b><br></h2>
                     <input type="checkbox" id="my_checkbox_6" style="display:none;">
                     <label for="my_checkbox_6" class="label_abstract"><a>Abstract</a></label>
