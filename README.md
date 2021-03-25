@@ -712,6 +712,14 @@
                     LAAS - CNRS</a>
             </td>
 
+            <!--Sanjoy Baruah-->
+            <td>
+                <a href="https://engineering.wustl.edu/faculty/Sanjoy-Baruah.html ">
+                    <img src="./images/sanjoy_baruah.jpg" height="200" width="150" alt="person_photo"/><br>
+                    Sanjoy Baruah<br>
+                    Washington U, STL</a>
+            </td>
+
             <!--Edmund Burke-->
             <td>
                 <a href="https://le.ac.uk/about/senior-management/profiles/deputy-vice-chancellor">
