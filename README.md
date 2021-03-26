@@ -997,6 +997,14 @@
                     CTU in Prague</a>
             </td>
 
+            <!--Vincent T'kindt-->
+            <td>
+                <a href="https://www.univ-tours.fr/annuaire/m-vincent-tkindt">
+                    <img src="./images/VTkindt-head.png" height="200" width="150" alt="person_photo"/><br>
+                    Vincent T'kindt<br>
+                    Uni de Tours</a>
+            </td>
+
             <!--Li-Xin Tang-->
             <td>
                 <a href="https://scholar.google.com/citations?user=qCz1I68AAAAJ&hl=en">
@@ -1011,14 +1019,6 @@
                     <img src="./images/reza_moghaddam.jpg" height="200" width="150" alt="person_photo"/><br>
                     Reza Tavakkoli<br>
                     Uni of Tehran</a>
-            </td>
-
-            <!--Vincent T'kindt-->
-            <td>
-                <a href="https://www.univ-tours.fr/annuaire/m-vincent-tkindt">
-                    <img src="./images/VTkindt-head.png" height="200" width="150" alt="person_photo"/><br>
-                    Vincent T'kindt<br>
-                    Uni de Tours</a>
             </td>
 
             <!--Marc Uetz-->
