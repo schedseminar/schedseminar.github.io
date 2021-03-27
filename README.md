@@ -901,6 +901,14 @@
             <!--                    East China U. of Sci. & Tech</a>-->
             <!--            </td>-->
 
+            <!--Hirofumi Matsuo-->
+            <td>
+                <a href="https://scholar.google.com/citations?user=VQwcdN4AAAAJ&hl=en">
+                    <img src="./images/hirofumi_matsuo.jpg" height="200" width="150" alt="person_photo"/><br>
+                    Hirofumi Matsuo<br>
+                    TIU, Tokyo</a>
+            </td>
+
             <!--Erwin Pesch-->
             <td>
                 <a href="https://www.wiwi.uni-siegen.de/mis/team/">
