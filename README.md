@@ -736,7 +736,7 @@
         <tbody>
         <tr>
             <!--Person-->
-            <td class="europe">
+            <td class="europe" style="margin: 0px 10px 0px 0px;">
                 <a href="https://rtime.ciirc.cvut.cz/~hanzalek/">
                     <img src="./images/Zdenek.jpg" height="200px" width="150px" alt="person_photo"/><br>
                     Zdeněk Hanzálek<br>
@@ -744,7 +744,7 @@
             </td>
 
             <!--Person-->
-            <td class="america">
+            <td class="america" style="margin: 0px 10px 0px 0px;">
                 <a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">
                     <img src="./images/mpinedo.jpg" height="200px" width="150px" alt="person_photo"/><br>
                     Michael Pinedo<br>
