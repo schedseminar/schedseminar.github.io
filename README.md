@@ -44,78 +44,78 @@
     <table>
         <tbody>
         <!--Dual talk-------------------------------------------------------------------------------------------------->
-<!--        <table style="padding-bottom: 12px;" class="europe">-->
-<!--            &lt;!&ndash;Title/Abstract-&ndash;&gt;-->
-<!--            <tr class="europe">-->
-<!--                <td colspan="3">-->
-<!--                    <h2 class="talk_title"><b>Elements of Scheduling</b><br></h2>-->
-<!--                    <input type="checkbox" id="my_checkbox_1" style="display:none;">-->
-<!--                    <label for="my_checkbox_1" class="label_abstract"><a>Abstract</a></label>-->
-<!--                    <div class="hidden">-->
-<!--                        <hr style="border-top: 1px solid black;">-->
-<!--                        During the 1970’s, the area of scheduling developed from a hodge-podge of isolated results into-->
-<!--                        a unified theory. Over the past decades, it has grown to a mature and lively area, which is a-->
-<!--                        meeting point of operations research, mathematics and computer science, and at the same time a-->
-<!--                        sound basis for the allocation of scarce resources to activities over time in many practical-->
-<!--                        situations. We will sketch the early development of scheduling theory, and also discuss the-->
-<!--                        integration of ideas from online analysis, stochastic models, and machine learning in response-->
-<!--                        to the needs of a changing society.-->
-<!--                        <hr style="border-top: 1px solid black;">-->
-<!--                    </div>-->
-<!--                </td>-->
-<!--            </tr>-->
+        <!--        <table style="padding-bottom: 12px;" class="europe">-->
+        <!--            &lt;!&ndash;Title/Abstract-&ndash;&gt;-->
+        <!--            <tr class="europe">-->
+        <!--                <td colspan="3">-->
+        <!--                    <h2 class="talk_title"><b>Elements of Scheduling</b><br></h2>-->
+        <!--                    <input type="checkbox" id="abstract_id_1" style="display:none;">-->
+        <!--                    <label for="abstract_id_1" class="label_abstract"><a>Abstract</a></label>-->
+        <!--                    <div class="hidden">-->
+        <!--                        <hr style="border-top: 1px solid black;">-->
+        <!--                        During the 1970’s, the area of scheduling developed from a hodge-podge of isolated results into-->
+        <!--                        a unified theory. Over the past decades, it has grown to a mature and lively area, which is a-->
+        <!--                        meeting point of operations research, mathematics and computer science, and at the same time a-->
+        <!--                        sound basis for the allocation of scarce resources to activities over time in many practical-->
+        <!--                        situations. We will sketch the early development of scheduling theory, and also discuss the-->
+        <!--                        integration of ideas from online analysis, stochastic models, and machine learning in response-->
+        <!--                        to the needs of a changing society.-->
+        <!--                        <hr style="border-top: 1px solid black;">-->
+        <!--                    </div>-->
+        <!--                </td>-->
+        <!--            </tr>-->
 
-<!--            &lt;!&ndash;Data-&ndash;&gt;-->
-<!--            <tr>-->
-<!--                <td class="presenter_image_container">-->
-<!--                    <div class="double_image_container">-->
-<!--                        <a href="https://www.cwi.nl/people/jan-karel-lenstra">-->
-<!--                            <img class="double_presenter" src="./images/jan_karel_lenstra.jpg" alt="person_photo"/>-->
-<!--                        </a><br/>-->
-<!--                    </div>-->
-<!--                    <div class="double_image_container">-->
-<!--                        <a href="https://people.orie.cornell.edu/shmoys/">-->
-<!--                            <img class="double_presenter" src="./images/david_schmoys.jpg" alt="person_photo"/>-->
-<!--                        </a><br/>-->
-<!--                    </div>-->
-<!--                </td>-->
-<!--                <td class="information_upcoming_container">-->
-<!--                    <b>[Presenters] </b> <br>-->
-<!--                    <a href="https://www.cwi.nl/people/jan-karel-lenstra">Jan Karel Lenstra</a><br>-->
-<!--                    (CWI)<br>-->
-<!--                    <a href="https://people.orie.cornell.edu/shmoys/">David Shmoys</a> <br>-->
-<!--                    (Cornell University)<br><br/>-->
-<!--                    &lt;!&ndash;                    <b>[Panelists]</b> <br>&ndash;&gt;-->
-<!--                    &lt;!&ndash;<a href="">Name Surname</a> (Affiliation)<br>&ndash;&gt;-->
-<!--                    &lt;!&ndash;                    <a href="">Name Surname</a> (Affiliation)<br/><br/>&ndash;&gt;-->
-<!--                    <b>[Invited by]</b> <br>-->
-<!--                    <a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a><br>-->
-<!--                    (New York University)-->
-<!--                </td>-->
-<!--                <td class="time_zones_container">-->
-<!--                    <table class="time_table">-->
-<!--                        <tbody>-->
-<!--                        <tr class="utc">-->
-<!--                            <td>UTC</td>-->
-<!--                            <td>Mar 31, 13:00 Wed</td>-->
-<!--                        </tr>-->
-<!--                        <tr class="europe">-->
-<!--                            <td>Prague</td>-->
-<!--                            <td>Mar 31, 15:00 Wed</td>-->
-<!--                        </tr>-->
-<!--                        <tr class="america">-->
-<!--                            <td>New York</td>-->
-<!--                            <td>Mar 31, 09:00 Wed</td>-->
-<!--                        </tr>-->
-<!--                        <tr class="asia">-->
-<!--                            <td>Shanghai</td>-->
-<!--                            <td>Mar 31, 21:00 Wed</td>-->
-<!--                        </tr>-->
-<!--                        </tbody>-->
-<!--                    </table>-->
-<!--                </td>-->
-<!--            </tr>-->
-<!--        </table>-->
+        <!--            &lt;!&ndash;Data-&ndash;&gt;-->
+        <!--            <tr>-->
+        <!--                <td class="presenter_image_container">-->
+        <!--                    <div class="double_image_container">-->
+        <!--                        <a href="https://www.cwi.nl/people/jan-karel-lenstra">-->
+        <!--                            <img class="double_presenter" src="./images/jan_karel_lenstra.jpg" alt="person_photo"/>-->
+        <!--                        </a><br/>-->
+        <!--                    </div>-->
+        <!--                    <div class="double_image_container">-->
+        <!--                        <a href="https://people.orie.cornell.edu/shmoys/">-->
+        <!--                            <img class="double_presenter" src="./images/david_schmoys.jpg" alt="person_photo"/>-->
+        <!--                        </a><br/>-->
+        <!--                    </div>-->
+        <!--                </td>-->
+        <!--                <td class="information_upcoming_container">-->
+        <!--                    <b>[Presenters] </b> <br>-->
+        <!--                    <a href="https://www.cwi.nl/people/jan-karel-lenstra">Jan Karel Lenstra</a><br>-->
+        <!--                    (CWI)<br>-->
+        <!--                    <a href="https://people.orie.cornell.edu/shmoys/">David Shmoys</a> <br>-->
+        <!--                    (Cornell University)<br><br/>-->
+        <!--                    &lt;!&ndash;                    <b>[Panelists]</b> <br>&ndash;&gt;-->
+        <!--                    &lt;!&ndash;<a href="">Name Surname</a> (Affiliation)<br>&ndash;&gt;-->
+        <!--                    &lt;!&ndash;                    <a href="">Name Surname</a> (Affiliation)<br/><br/>&ndash;&gt;-->
+        <!--                    <b>[Invited by]</b> <br>-->
+        <!--                    <a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a><br>-->
+        <!--                    (New York University)-->
+        <!--                </td>-->
+        <!--                <td class="time_zones_container">-->
+        <!--                    <table class="time_table">-->
+        <!--                        <tbody>-->
+        <!--                        <tr class="utc">-->
+        <!--                            <td>UTC</td>-->
+        <!--                            <td>Mar 31, 13:00 Wed</td>-->
+        <!--                        </tr>-->
+        <!--                        <tr class="europe">-->
+        <!--                            <td>Prague</td>-->
+        <!--                            <td>Mar 31, 15:00 Wed</td>-->
+        <!--                        </tr>-->
+        <!--                        <tr class="america">-->
+        <!--                            <td>New York</td>-->
+        <!--                            <td>Mar 31, 09:00 Wed</td>-->
+        <!--                        </tr>-->
+        <!--                        <tr class="asia">-->
+        <!--                            <td>Shanghai</td>-->
+        <!--                            <td>Mar 31, 21:00 Wed</td>-->
+        <!--                        </tr>-->
+        <!--                        </tbody>-->
+        <!--                    </table>-->
+        <!--                </td>-->
+        <!--            </tr>-->
+        <!--        </table>-->
 
         <!--Single talk------------------------------------------------------------------------------------------------>
         <table style="padding-bottom: 12px;" class="america">
@@ -124,8 +124,8 @@
             <tr class="america">
                 <td colspan="3">
                     <h2 class="talk_title"><b>Recent Breakthroughs in Stochastic Scheduling Theory</b><br></h2>
-                    <input type="checkbox" id="my_checkbox_2" style="display:none;">
-                    <label for="my_checkbox_2" class="label_abstract"><a>Abstract</a></label>
+                    <input type="checkbox" id="abstract_id_2" style="display:none;">
+                    <label for="abstract_id_2" class="label_abstract"><a>Abstract</a></label>
                     <div class="hidden">
                         <hr style="border-top: 1px solid black;">
                         This talk considers stochastic scheduling, where job sizes and arrival times are drawn from a
@@ -223,8 +223,8 @@
                 <td colspan="3">
                     <h2 class="talk_title"><b>Data Analytics and Optimization for Production, Logistics and Energy
                         Scheduling</b><br></h2>
-                    <input type="checkbox" id="my_checkbox_3" style="display:none;">
-                    <label for="my_checkbox_3" class="label_abstract"><a>Abstract</a></label>
+                    <input type="checkbox" id="abstract_id_3" style="display:none;">
+                    <label for="abstract_id_3" class="label_abstract"><a>Abstract</a></label>
                     <div class="hidden">
                         <hr style="border-top: 1px solid black;">
                         This talk discusses some interesting topics on scheduling and data analytics of production,
@@ -242,8 +242,8 @@
                         <hr style="border-top: 1px solid black;">
                     </div>
 
-                    <input type="checkbox" id="my_checkbox_4" style="display:none;">
-                    <label for="my_checkbox_4" class="label_abstract"><a>Biography</a></label>
+                    <input type="checkbox" id="abstract_id_4" style="display:none;">
+                    <label for="abstract_id_4" class="label_abstract"><a>Biography</a></label>
                     <div class="hidden">
                         <hr style="border-top: 1px solid black;">
                         Professor Lixin Tang is the Vice President of Northeastern University, China, a member of
@@ -320,8 +320,8 @@
                 <td colspan="3">
                     <h2 class="talk_title"><b>Efficient Algorithms and Provably Good Solutions for NP-hard Scheduling
                         Problems</b><br></h2>
-                    <input type="checkbox" id="my_checkbox_5" style="display:none;">
-                    <label for="my_checkbox_5" class="label_abstract"><a>Abstract</a></label>
+                    <input type="checkbox" id="abstract_id_5" style="display:none;">
+                    <label for="abstract_id_5" class="label_abstract"><a>Abstract</a></label>
                     <div class="hidden">
                         <hr style="border-top: 1px solid black;">
                         Machine scheduling problems are among the first optimization problems for which approximation
@@ -398,8 +398,8 @@
                 <td colspan="3">
                     <h2 class="talk_title"><b>On the State of the Art in Proactive/Reactive Project Scheduling
                     </b><br></h2>
-                    <input type="checkbox" id="my_checkbox_6" style="display:none;">
-                    <label for="my_checkbox_6" class="label_abstract"><a>Abstract</a></label>
+                    <input type="checkbox" id="abstract_id_6" style="display:none;">
+                    <label for="abstract_id_6" class="label_abstract"><a>Abstract</a></label>
                     <div class="hidden">
                         <hr style="border-top: 1px solid black;">
                         The majority of publications in the extensive literature on resource-constrained project
@@ -482,8 +482,8 @@
         <!--            <tr class="europe">-->
         <!--                <td colspan="3">-->
         <!--                    <h2 class="talk_title"><b>Challenges in Healthcare Scheduling Applications</b><br></h2>-->
-        <!--                    <input type="checkbox" id="my_checkbox_x" style="display:none;">-->
-        <!--                    <label for="my_checkbox_x" class="label_abstract"><a>Abstract</a></label>-->
+        <!--                    <input type="checkbox" id="abstract_id_x" style="display:none;">-->
+        <!--                    <label for="abstract_id_x" class="label_abstract"><a>Abstract</a></label>-->
         <!--                    <div class="hidden">-->
         <!--                        <hr style="border-top: 1px solid black;">-->
         <!--                        TODO-->
@@ -613,8 +613,8 @@
             <tr class="europe">
                 <td colspan="3">
                     <h2 class="talk_title"><b>Elements of Scheduling</b><br></h2>
-                    <input type="checkbox" id="my_checkbox_1" style="display:none;">
-                    <label for="my_checkbox_1" class="label_abstract"><a>Abstract</a></label>
+                    <input type="checkbox" id="abstract_id_1" style="display:none;">
+                    <label for="abstract_id_1" class="label_abstract"><a>Abstract</a></label>
                     <div class="hidden">
                         <hr style="border-top: 1px solid black;">
                         During the 1970’s, the area of scheduling developed from a hodge-podge of isolated results into
@@ -626,6 +626,10 @@
                         to the needs of a changing society.
                         <hr style="border-top: 1px solid black;">
                     </div>
+                    <a href="/presentations/SchedulingSeminar_ElementsofScheduling-JKLDBS.pdf" class="label_abstract"
+                       download>
+                        Download PDF
+                    </a>
                 </td>
             </tr>
 
@@ -669,7 +673,8 @@
                                 <a href="https://people.orie.cornell.edu/shmoys/">David Shmoys</a> <br>
                                 (Cornell University)<br></td>
                             <td><a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a><br>
-                                (New York University)</td>
+                                (New York University)
+                            </td>
                         </tr>
                     </table>
                 </td>
