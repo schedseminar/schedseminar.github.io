@@ -144,6 +144,9 @@
                         Joint work with: Ziv Scully, Isaac Grosof
                         <hr style="border-top: 1px solid black;">
                     </div>
+                    <a href="/presentations/SchedulingSeminar_HarcholBalter.pdf" class="label_abstract" download>
+                        Download PDF
+                    </a>
                 </td>
             </tr>
 
