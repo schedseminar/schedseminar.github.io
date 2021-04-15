@@ -509,86 +509,6 @@
         <!--            </tr>-->
         <!--        </table>-->
 
-        <!--Dual talk-------------------------------------------------------------------------------------------------->
-        <table style="padding-bottom: 12px;" class="europe">
-            <tr class="europe">
-                <td colspan="3">
-                    <h2 class="talk_title"><b>Elements of Scheduling</b><br></h2>
-                    <input type="checkbox" id="abstract_id_1" style="display:none;">
-                    <label for="abstract_id_1" class="label_abstract"><a>Abstract</a></label>
-                    <div class="hidden">
-                        <hr style="border-top: 1px solid black;">
-                        During the 1970’s, the area of scheduling developed from a hodge-podge of isolated results into
-                        a unified theory. Over the past decades, it has grown to a mature and lively area, which is a
-                        meeting point of operations research, mathematics and computer science, and at the same time a
-                        sound basis for the allocation of scarce resources to activities over time in many practical
-                        situations. We will sketch the early development of scheduling theory, and also discuss the
-                        integration of ideas from online analysis, stochastic models, and machine learning in response
-                        to the needs of a changing society.
-                        <hr style="border-top: 1px solid black;">
-                    </div>
-                    <a href="/presentations/SchedulingSeminar_ElementsofScheduling-JKLDBS.pdf" class="label_abstract"
-                       download>
-                        Download PDF
-                    </a>
-                </td>
-            </tr>
-
-            <!--Photo and video-->
-            <tr>
-                <td class="presenter_image_container">
-                    <div class="double_image_container">
-                        <a href="https://www.cwi.nl/people/jan-karel-lenstra">
-                            <img class="double_presenter" src="./images/jan_karel_lenstra.jpg" alt="person_photo"/>
-                        </a><br/>
-                    </div>
-                    <div class="double_image_container">
-                        <a href="https://people.orie.cornell.edu/shmoys/">
-                            <img class="double_presenter" src="./images/david_schmoys.jpg" alt="person_photo"/>
-                        </a><br/>
-                    </div>
-                </td>
-                <td colspan="2">
-                    <div class="resizable_youtube_double">
-                        <iframe width="400" height="250" src="https://www.youtube.com/embed/dSX3rmXSLlo"
-                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                                allowfullscreen></iframe>
-                    </div>
-                </td>
-            </tr>
-
-            <!--Text description-->
-            <tr>
-                <td class="presenter_past_info_container">
-                </td>
-                <td>
-                    <table class="panelists_past_container_double">
-                        <tr>
-                            <td colspan="2"><b>[Presenters]</b> <br></td>
-                            <td><b>[Invited by]</b> <br></td>
-                        </tr>
-                        <tr>
-                            <td><a href="https://www.cwi.nl/people/jan-karel-lenstra">Jan Karel Lenstra</a><br>
-                                (CWI)<br></td>
-                            <td>
-                                <a href="https://people.orie.cornell.edu/shmoys/">David Shmoys</a> <br>
-                                (Cornell University)<br></td>
-                            <td><a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a><br>
-                                (New York University)
-                            </td>
-                        </tr>
-                    </table>
-                </td>
-            </tr>
-        </table>
-
-        <!--Spacing--->
-        <table style="margin: 0 0 0 0 !important;">
-            <tr>
-                <td colspan="100%"></td>
-            </tr>
-        </table>
-
         <!--Single talk------------------------------------------------------------------------------------------------>
         <table style="padding-bottom: 12px;" class="america">
             <!--Title/Abstract-->
@@ -673,6 +593,85 @@
             </tr>
         </table>
 
+        <!--Dual talk-------------------------------------------------------------------------------------------------->
+        <table style="padding-bottom: 12px;" class="europe">
+            <tr class="europe">
+                <td colspan="3">
+                    <h2 class="talk_title"><b>Elements of Scheduling</b><br></h2>
+                    <input type="checkbox" id="abstract_id_1" style="display:none;">
+                    <label for="abstract_id_1" class="label_abstract"><a>Abstract</a></label>
+                    <div class="hidden">
+                        <hr style="border-top: 1px solid black;">
+                        During the 1970’s, the area of scheduling developed from a hodge-podge of isolated results into
+                        a unified theory. Over the past decades, it has grown to a mature and lively area, which is a
+                        meeting point of operations research, mathematics and computer science, and at the same time a
+                        sound basis for the allocation of scarce resources to activities over time in many practical
+                        situations. We will sketch the early development of scheduling theory, and also discuss the
+                        integration of ideas from online analysis, stochastic models, and machine learning in response
+                        to the needs of a changing society.
+                        <hr style="border-top: 1px solid black;">
+                    </div>
+                    <a href="/presentations/SchedulingSeminar_ElementsofScheduling-JKLDBS.pdf" class="label_abstract"
+                       download>
+                        Download PDF
+                    </a>
+                </td>
+            </tr>
+
+            <!--Photo and video-->
+            <tr>
+                <td class="presenter_image_container">
+                    <div class="double_image_container">
+                        <a href="https://www.cwi.nl/people/jan-karel-lenstra">
+                            <img class="double_presenter" src="./images/jan_karel_lenstra.jpg" alt="person_photo"/>
+                        </a><br/>
+                    </div>
+                    <div class="double_image_container">
+                        <a href="https://people.orie.cornell.edu/shmoys/">
+                            <img class="double_presenter" src="./images/david_schmoys.jpg" alt="person_photo"/>
+                        </a><br/>
+                    </div>
+                </td>
+                <td colspan="2">
+                    <div class="resizable_youtube_double">
+                        <iframe width="400" height="250" src="https://www.youtube.com/embed/dSX3rmXSLlo"
+                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                                allowfullscreen></iframe>
+                    </div>
+                </td>
+            </tr>
+
+            <!--Text description-->
+            <tr>
+                <td class="presenter_past_info_container">
+                </td>
+                <td>
+                    <table class="panelists_past_container_double">
+                        <tr>
+                            <td colspan="2"><b>[Presenters]</b> <br></td>
+                            <td><b>[Invited by]</b> <br></td>
+                        </tr>
+                        <tr>
+                            <td><a href="https://www.cwi.nl/people/jan-karel-lenstra">Jan Karel Lenstra</a><br>
+                                (CWI)<br></td>
+                            <td>
+                                <a href="https://people.orie.cornell.edu/shmoys/">David Shmoys</a> <br>
+                                (Cornell University)<br></td>
+                            <td><a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a><br>
+                                (New York University)
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+
+        <!--Spacing--->
+        <table style="margin: 0 0 0 0 !important;">
+            <tr>
+                <td colspan="100%"></td>
+            </tr>
+        </table>
 
         <!--        &lt;!&ndash;Single talk&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&ndash;&gt;-->
         <!--        <table style="padding-bottom: 12px;" class="america">-->
