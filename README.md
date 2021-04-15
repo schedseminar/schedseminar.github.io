@@ -118,108 +118,6 @@
         <!--        </table>-->
 
         <!--Single talk------------------------------------------------------------------------------------------------>
-        <table style="padding-bottom: 12px;" class="america">
-
-            <!--Title/Abstract-->
-            <tr class="america">
-                <td colspan="3">
-                    <h2 class="talk_title"><b>Recent Breakthroughs in Stochastic Scheduling Theory</b><br></h2>
-                    <input type="checkbox" id="abstract_id_2" style="display:none;">
-                    <label for="abstract_id_2" class="label_abstract"><a>Abstract</a></label>
-                    <div class="hidden">
-                        <hr style="border-top: 1px solid black;">
-                        This talk considers stochastic scheduling, where job sizes and arrival times are drawn from a
-                        distribution. As empirical job size variability has skyrocketed, stochastic scheduling research
-                        has grown increasingly important. What scheduling policies should we use to keep response times
-                        low? How should we schedule when job sizes are unknown or only partially known? What scheduling
-                        policies should we use in a multi-server (M/G/k) setting, as compared with a single-server
-                        (M/G/1) setting? How can we analyze the response times of scheduling policies in single-server
-                        and multi-server settings? In this talk, we discuss recent breakthroughs over the last 3 years
-                        in the area of stochastic scheduling. These include:
-                        (1) The SOAP scheduling framework, which greatly expands the class of scheduling policies whose
-                        response times we can now analyze in the M/G/1 setting.
-                        (2) The first response time analysis of common scheduling policies in the M/G/k.
-                        (3) Asymptotically optimal scheduling in the M/G/k.
-
-                        Joint work with: Ziv Scully, Isaac Grosof
-                        <hr style="border-top: 1px solid black;">
-                    </div>
-                    <a href="/presentations/SchedulingSeminar_HarcholBalter.pdf" class="label_abstract" download>
-                        Download PDF
-                    </a>
-                </td>
-            </tr>
-
-            <!--Data--->
-            <tr class="america">
-                <td class="presenter_image_container">
-                    <div class="single_image_container">
-                        <a href="http://www.cs.cmu.edu/~harchol/">
-                            <img class="single_presenter" src="./images/harchol_balter.jpg" alt="person_photo"/>
-                        </a><br/>
-                    </div>
-                </td>
-                <td class="information_upcoming_container">
-                    <b>[Presenter] </b> <br>
-                    <a href="http://www.cs.cmu.edu/~harchol/">Mor Harchol-Balter</a><br>
-                    (CMU)<br><br/>
-                    <!--                    <b>[Panelists]</b> <br>-->
-                    <!--                <a href="">Name Surname</a> (Affiliation)<br>-->
-                    <!--                    <a href="">Name Surname</a> (Affiliation)<br/><br/>-->
-                    <b>[Invited by]</b> <br>
-                    <a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a> <br/>
-                    (New York University)
-                </td>
-                <td class="time_zones_container">
-                    <table class="time_table">
-                        <tbody>
-                        <tr class="utc">
-                            <td>UTC</td>
-                            <td>Apr 14, 13:00 Wed</td>
-                        </tr>
-                        <tr class="europe">
-                            <td>Prague</td>
-                            <td>Apr 14, 15:00 Wed</td>
-                        </tr>
-                        <tr class="america">
-                            <td>New York</td>
-                            <td>Apr 14, 09:00 Wed</td>
-                        </tr>
-                        <tr class="asia">
-                            <td>Shanghai</td>
-                            <td>Apr 14, 21:00 Thu</td>
-                        </tr>
-                        </tbody>
-                    </table>
-                </td>
-            </tr>
-
-            <!--Bibliongraphy--->
-            <!--        Bibliography hidden for now-->
-            <!--        <tr class="america">-->
-            <!--            <td colspan="3">-->
-            <!--                <input type="checkbox" id="person" style="display:none;">-->
-            <!--                <label for="person" class="label_abstract"><a>Bibliography</a></label>-->
-            <!--                <div class="hidden">-->
-            <!--                    <hr style="border-top: 1px solid black;">-->
-            <!--                    Ref 1: Some article name...<br/>-->
-            <!--                    Ref 2: Some article name...<br/>-->
-            <!--                    Ref 3: Some article name...<br/>-->
-            <!--                    Ref 4: Some article name...<br/>-->
-            <!--                    <hr style="border-top: 1px solid black;">-->
-            <!--                </div>-->
-            <!--            </td>-->
-            <!--        </tr>-->
-        </table>
-
-        <!--Spacing--->
-        <table style="margin: 0 0 0 0 !important;">
-            <tr>
-                <td colspan="100%"></td>
-            </tr>
-        </table>
-
-        <!--Single talk------------------------------------------------------------------------------------------------>
         <table style="padding-bottom: 12px;" class="asia">
             <!--Title/Abstract-->
             <tr class="asia">
@@ -651,8 +549,8 @@
                     </div>
                 </td>
                 <td colspan="2">
-                    <div class="resizable_youtube">
-                        <iframe width="400" height="250" src="https://www.youtube.com/embed/dSX3rmXSLlo" frameborder="0"
+                    <div class="resizable_youtube_double">
+                        <iframe width="400" height="250" src="https://www.youtube.com/embed/dSX3rmXSLlo"
                                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                                 allowfullscreen></iframe>
                     </div>
@@ -664,7 +562,7 @@
                 <td class="presenter_past_info_container">
                 </td>
                 <td>
-                    <table class="panelists_past_container">
+                    <table class="panelists_past_container_double">
                         <tr>
                             <td colspan="2"><b>[Presenters]</b> <br></td>
                             <td><b>[Invited by]</b> <br></td>
@@ -684,12 +582,97 @@
             </tr>
         </table>
 
-        <!--        &lt;!&ndash;Spacing-&ndash;&gt;-->
-        <!--        <table style="margin: 0 0 0 0 !important;">-->
-        <!--            <tr>-->
-        <!--                <td colspan="100%"></td>-->
-        <!--            </tr>-->
-        <!--        </table>-->
+        <!--Spacing--->
+        <table style="margin: 0 0 0 0 !important;">
+            <tr>
+                <td colspan="100%"></td>
+            </tr>
+        </table>
+
+        <!--Single talk------------------------------------------------------------------------------------------------>
+        <table style="padding-bottom: 12px;" class="america">
+            <!--Title/Abstract-->
+            <tr class="america">
+                <td colspan="3">
+                    <h2 class="talk_title"><b>Recent Breakthroughs in Stochastic Scheduling Theory</b><br></h2>
+                    <input type="checkbox" id="abstract_id_2" style="display:none;">
+                    <label for="abstract_id_2" class="label_abstract"><a>Abstract</a></label>
+                    <div class="hidden">
+                        <hr style="border-top: 1px solid black;">
+                        This talk considers stochastic scheduling, where job sizes and arrival times are drawn from a
+                        distribution. As empirical job size variability has skyrocketed, stochastic scheduling research
+                        has grown increasingly important. What scheduling policies should we use to keep response times
+                        low? How should we schedule when job sizes are unknown or only partially known? What scheduling
+                        policies should we use in a multi-server (M/G/k) setting, as compared with a single-server
+                        (M/G/1) setting? How can we analyze the response times of scheduling policies in single-server
+                        and multi-server settings? In this talk, we discuss recent breakthroughs over the last 3 years
+                        in the area of stochastic scheduling. These include:
+                        (1) The SOAP scheduling framework, which greatly expands the class of scheduling policies whose
+                        response times we can now analyze in the M/G/1 setting.
+                        (2) The first response time analysis of common scheduling policies in the M/G/k.
+                        (3) Asymptotically optimal scheduling in the M/G/k.
+
+                        Joint work with: Ziv Scully, Isaac Grosof
+                        <hr style="border-top: 1px solid black;">
+                    </div>
+                    <a href="/presentations/SchedulingSeminar_HarcholBalter.pdf" class="label_abstract" download>
+                        Download PDF
+                    </a>
+                </td>
+            </tr>
+
+            <!--Photo and video-->
+            <tr>
+                <td class="presenter_image_container">
+                    <div class="single_image_container">
+                        <a href="http://www.cs.cmu.edu/~harchol/">
+                            <img class="single_presenter" src="./images/harchol_balter.jpg" alt="person_photo"/>
+                        </a><br/>
+                    </div>
+                </td>
+
+                <td colspan="2">
+                    <div class="resizable_youtube_single">
+                        <iframe width="400" height="250" src="https://www.youtube.com/embed/Fwa4y3R0-wo"
+                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                                allowfullscreen></iframe>
+                    </div>
+                </td>
+            </tr>
+
+            <!--Text description-->
+            <tr>
+                <td class="presenter_past_info_container">
+                </td>
+                <td>
+                    <table class="panelists_past_container_single">
+                        <tr>
+                            <td colspan="2"><b>[Presenter]</b> <br></td>
+                            <td><b>[Invited by]</b> <br></td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="http://www.cs.cmu.edu/~harchol/">Mor Harchol-Balter</a><br>
+                                (CMU)<br>
+                            </td>
+                            <td></td>
+                            <td>
+                                <a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a><br>
+                                (New York University)
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+
+        <!--Spacing--->
+        <table style="margin: 0 0 0 0 !important;">
+            <tr>
+                <td colspan="100%"></td>
+            </tr>
+        </table>
+
 
         <!--        &lt;!&ndash;Single talk&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&ndash;&gt;-->
         <!--        <table style="padding-bottom: 12px;" class="america">-->
@@ -752,7 +735,7 @@
         <tbody>
         <tr>
             <!--Person-->
-            <td class="europe" style="margin: 0px 10px 0px 0px;">
+            <td class="europe" style="margin: 0 10px 0 0;">
                 <a href="https://rtime.ciirc.cvut.cz/~hanzalek/">
                     <img src="./images/Zdenek.jpg" height="200px" width="150px" alt="person_photo"/><br>
                     Zdeněk Hanzálek<br>
@@ -760,7 +743,7 @@
             </td>
 
             <!--Person-->
-            <td class="america" style="margin: 0px 10px 0px 0px;">
+            <td class="america" style="margin: 0 10px 0 0;">
                 <a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">
                     <img src="./images/mpinedo.jpg" height="200px" width="150px" alt="person_photo"/><br>
                     Michael Pinedo<br>

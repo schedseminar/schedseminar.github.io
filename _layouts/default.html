@@ -195,10 +195,18 @@
             padding-left: 25px !important;
         }
 
-        .panelists_past_container {
+        .panelists_past_container_double {
             width: 65%;
             margin-left: -6px;
             margin-top: -100px !important;
+            border-collapse: separate;
+            overflow: hidden !important;
+        }
+
+        .panelists_past_container_single {
+            width: 65%;
+            margin-left: -6px;
+            margin-top: -50px !important;
             border-collapse: separate;
             overflow: hidden !important;
         }
@@ -317,7 +325,7 @@
 
         /*-----------------------------------------*/
         /*Resizable embeds*/
-        .resizable_youtube {
+        .resizable_youtube_double {
             position: relative;
             display: block;
             width: 95%; /* width of iframe wrapper */
@@ -326,6 +334,17 @@
             padding: 0 0 0; /* 16:9 ratio */
             overflow: hidden;
             margin-top: -116px !important;
+        }
+
+        .resizable_youtube_single {
+            position: relative;
+            display: block;
+            width: 95%; /* width of iframe wrapper */
+            height: 100%;
+            margin: auto;
+            padding: 0 0 0; /* 16:9 ratio */
+            overflow: hidden;
+            margin-top: -40px !important;
         }
 
         .resizable_calendar {
