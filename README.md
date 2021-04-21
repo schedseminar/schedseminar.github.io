@@ -165,7 +165,7 @@
             <tr class="asia">
                 <td class="presenter_image_container">
                     <div class="single_image_container">
-                        <a href="https://scholar.google.com/citations?user=qCz1I68AAAAJ&hl=en">
+                        <a href="http://dao.neu.edu.cn/">
                             <img class="single_presenter" src="./images/lixin_tang.jpg"
                                  alt="person_photo"/>
                         </a><br/>
