@@ -173,7 +173,7 @@
                 </td>
                 <td class="information_upcoming_container">
                     <b>[Presenter] </b> <br>
-                    <a href="https://scholar.google.com/citations?user=qCz1I68AAAAJ&hl=en">Lixin Tang</a><br>
+                    <a href="http://dao.neu.edu.cn/">Lixin Tang</a><br>
                     (Northeastern Uni, Shenyang)<br><br/>
                     <!--                    <b>[Panelists]</b> <br>-->
                     <!--                <a href="">Name Surname</a> (Affiliation)<br>-->
@@ -1013,7 +1013,7 @@
 
             <!--Li-Xin Tang-->
             <td>
-                <a href="https://scholar.google.com/citations?user=qCz1I68AAAAJ&hl=en">
+                <a href="http://dao.neu.edu.cn/">
                     <img src="./images/lixin_tang.jpg" height="200" width="150" alt="person_photo"/><br>
                     Li-Xin Tang<br>
                     NEU, Shenyang</a>
