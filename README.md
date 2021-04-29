@@ -403,7 +403,7 @@
         <!--                        uncertainties and briefly review recent approaches.-->
         <!--                        <hr style="border-top: 1px solid black;">-->
         <!--                    </div>-->
-
+        <!--                    Keywords: Healthcare scheduling applications-->
         <!--                </td>-->
         <!--            </tr>-->
 
@@ -467,7 +467,6 @@
         <!--                    <h2 class="talk_title"><b>Educational Timetabling: Problems, Benchmarks, Algorithms, and Practical Issues</b><br></h2>-->
         <!--                    <input type="checkbox" id="abstract_id_9" style="display:none;">-->
         <!--                    <label for="abstract_id_9" class="label_abstract"><a>Abstract</a></label>-->
-        <!--                    &lt;!&ndash;Keywords: Timetabling, Scheduling, Optimization, Metaheuristics, Local Search&ndash;&gt;-->
         <!--                    <div class="hidden">-->
         <!--                        <hr style="border-top: 1px solid black;">-->
         <!--                        Educational timetabling problems consist in scheduling a-->
@@ -480,6 +479,7 @@
         <!--                        actual solution of timetabling problems.-->
         <!--                        <hr style="border-top: 1px solid black;">-->
         <!--                    </div>-->
+        <!--                    Keywords: Timetabling, Scheduling, Optimization, Metaheuristics, Local Search-->
 
         <!--                </td>-->
         <!--            </tr>-->
