@@ -118,103 +118,6 @@
         <!--        </table>-->
 
         <!--Single talk------------------------------------------------------------------------------------------------>
-        <table style="padding-bottom: 12px;" class="asia">
-            <!--Title/Abstract-->
-            <tr class="asia">
-                <td colspan="3">
-                    <h2 class="talk_title"><b>Data Analytics and Optimization for Production, Logistics and Energy
-                        Scheduling</b><br></h2>
-                    <input type="checkbox" id="abstract_id_3" style="display:none;">
-                    <label for="abstract_id_3" class="label_abstract"><a>Abstract</a></label>
-                    <div class="hidden">
-                        <hr style="border-top: 1px solid black;">
-                        This talk discusses some interesting topics on scheduling and data analytics of production,
-                        logistics and energy in the steel industry, including: 1) production batching and scheduling in
-                        steelmaking/continuous casting, and hot/cold rolling operations; 2) logistics scheduling in
-                        storage/stowage, shuffling, transportation and (un)loading operations; 3) energy optimization
-                        including energy allocation, coordinated planning and scheduling of production and energy; 4)
-                        data based analytics, including dynamic analytics of BOF steelmaking process based on
-                        multi-stage modeling; temperature prediction of blast furnace; temperature prediction of molten
-                        iron in transportation process; energy analytics for estimation, prediction of generation and
-                        consumption, diagnosis and benchmarking; temperature prediction of reheat furnace based on
-                        mechanism and data; strip quality analytics of continuous annealing based on multi-objective
-                        ensemble learning; process monitoring and diagnosis of continuous annealing based on mechanism
-                        and data.
-                        <hr style="border-top: 1px solid black;">
-                    </div>
-
-                    <input type="checkbox" id="abstract_id_4" style="display:none;">
-                    <label for="abstract_id_4" class="label_abstract"><a>Biography</a></label>
-                    <div class="hidden">
-                        <hr style="border-top: 1px solid black;">
-                        Professor Lixin Tang is the Vice President of Northeastern University, China, a member of
-                        Chinese Academy of Engineering, the Director of Key Laboratory of Data Analytics and
-                        Optimization for Smart Industry, Ministry of Education, China, the Head of Centre for Artificial
-                        Intelligence and Data Science, and the Chair Professor of Centre for Industrial Intelligence
-                        and Systems Optimization. He is also a member of the discipline review group of the State
-                        Council for Control Science & Engineering, a member of review group of National Natural Science
-                        Foundation, the Vice President of Operations Research Society of China (ORSC), and the Founding
-                        Director of Data Analytics and Optimization Society for Smart Industry for ORSC.
-                        <hr style="border-top: 1px solid black;">
-                    </div>
-
-                </td>
-            </tr>
-
-            <!--Data--->
-            <tr class="asia">
-                <td class="presenter_image_container">
-                    <div class="single_image_container">
-                        <a href="http://dao.neu.edu.cn/">
-                            <img class="single_presenter" src="./images/lixin_tang.jpg"
-                                 alt="person_photo"/>
-                        </a><br/>
-                    </div>
-                </td>
-                <td class="information_upcoming_container">
-                    <b>[Presenter] </b> <br>
-                    <a href="http://dao.neu.edu.cn/">Lixin Tang</a><br>
-                    (Northeastern Uni, Shenyang)<br><br/>
-                    <!--                    <b>[Panelists]</b> <br>-->
-                    <!--                <a href="">Name Surname</a> (Affiliation)<br>-->
-                    <!--                    <a href="">Name Surname</a> (Affiliation)<br/><br/>-->
-                    <b>[Invited by]</b> <br>
-                    <a href="http://www.acem.sjtu.edu.cn/en/faculty/wanguohua.html">Guohua Wan</a> <br>
-                    (Shanghai Jiao Tong)
-                </td>
-                <td class="time_zones_container">
-                    <table class="time_table">
-                        <tbody>
-                        <tr class="utc">
-                            <td>UTC</td>
-                            <td>Apr 28, 13:00 Wed</td>
-                        </tr>
-                        <tr class="europe">
-                            <td>Prague</td>
-                            <td>Apr 28, 15:00 Wed</td>
-                        </tr>
-                        <tr class="america">
-                            <td>New York</td>
-                            <td>Apr 28, 09:00 Wed</td>
-                        </tr>
-                        <tr class="asia">
-                            <td>Shanghai</td>
-                            <td>Apr 28, 21:00 Wed</td>
-                        </tr>
-                        </tbody>
-                    </table>
-                </td>
-            </tr>
-        </table>
-
-        <!--Spacing--->
-        <table style="margin: 0 0 0 0 !important;">
-            <tr>
-                <td colspan="100%"></td>
-            </tr>
-        </table>
-
-        <!--Single talk------------------------------------------------------------------------------------------------>
         <table style="padding-bottom: 12px;" class="europe">
             <!--Title/Abstract-->
             <tr class="europe">
@@ -543,58 +446,103 @@
     <h2>Past talks</h2>
     <table class="past_talk_table">
         <tbody>
+        <!--Single talk------------------------------------------------------------------------------------------------>
+        <table style="padding-bottom: 12px;" class="asia">
+            <!--Title/Abstract-->
+            <tr class="asia">
+                <td colspan="3">
+                    <h2 class="talk_title"><b>Data Analytics and Optimization for Production, Logistics and Energy
+                        Scheduling</b><br></h2>
+                    <input type="checkbox" id="abstract_id_3" style="display:none;">
+                    <label for="abstract_id_3" class="label_abstract"><a>Abstract</a></label>
+                    <div class="hidden">
+                        <hr style="border-top: 1px solid black;">
+                        This talk discusses some interesting topics on scheduling and data analytics of production,
+                        logistics and energy in the steel industry, including: 1) production batching and scheduling in
+                        steelmaking/continuous casting, and hot/cold rolling operations; 2) logistics scheduling in
+                        storage/stowage, shuffling, transportation and (un)loading operations; 3) energy optimization
+                        including energy allocation, coordinated planning and scheduling of production and energy; 4)
+                        data based analytics, including dynamic analytics of BOF steelmaking process based on
+                        multi-stage modeling; temperature prediction of blast furnace; temperature prediction of molten
+                        iron in transportation process; energy analytics for estimation, prediction of generation and
+                        consumption, diagnosis and benchmarking; temperature prediction of reheat furnace based on
+                        mechanism and data; strip quality analytics of continuous annealing based on multi-objective
+                        ensemble learning; process monitoring and diagnosis of continuous annealing based on mechanism
+                        and data.
+                        <hr style="border-top: 1px solid black;">
+                    </div>
+                    <a href="" class="label_abstract" download>
+                        Download PDF
+                    </a>
 
-        <!--        &lt;!&ndash;Single talk&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&ndash;&gt;-->
-        <!--        <table style="padding-bottom: 12px;" class="europe">-->
-        <!--            &lt;!&ndash;Photo and video&ndash;&gt;-->
-        <!--            <tr class="europe">-->
-        <!--                <td class="presenter_image_container">-->
-        <!--                    <div class="single_image_container">-->
-        <!--                        <a href="https://schedulingseminar.com/">-->
-        <!--                            <img class="single_presenter_finished" src="./images/person_placeholder.png"-->
-        <!--                                 alt="person_photo"/>-->
-        <!--                        </a><br/>-->
-        <!--                    </div>-->
-        <!--                </td>-->
-        <!--                <td colspan="2">-->
-        <!--                    <div class="resizable_youtube">-->
-        <!--                        <iframe width="400" height="250" src="https://www.youtube.com/embed/SC5CX8drAtU" frameborder="0"-->
-        <!--                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"-->
-        <!--                                allowfullscreen></iframe>-->
-        <!--                    </div>-->
-        <!--                </td>-->
-        <!--            </tr>-->
+                    <input type="checkbox" id="abstract_id_4" style="display:none;">
+                    <label for="abstract_id_4" class="label_abstract"><a>Biography</a></label>
+                    <div class="hidden">
+                        <hr style="border-top: 1px solid black;">
+                        Professor Lixin Tang is the Vice President of Northeastern University, China, a member of
+                        Chinese Academy of Engineering, the Director of Key Laboratory of Data Analytics and
+                        Optimization for Smart Industry, Ministry of Education, China, the Head of Centre for Artificial
+                        Intelligence and Data Science, and the Chair Professor of Centre for Industrial Intelligence
+                        and Systems Optimization. He is also a member of the discipline review group of the State
+                        Council for Control Science & Engineering, a member of review group of National Natural Science
+                        Foundation, the Vice President of Operations Research Society of China (ORSC), and the Founding
+                        Director of Data Analytics and Optimization Society for Smart Industry for ORSC.
+                        <hr style="border-top: 1px solid black;">
+                    </div>
 
-        <!--            &lt;!&ndash;Text description&ndash;&gt;-->
-        <!--            <tr class="europe">-->
-        <!--                <td class="presenter_past_info_container">-->
-        <!--                    <b>[Presenter]</b><br/>-->
-        <!--                    <a href="">Name Surname</a><br/>-->
-        <!--                    (Affiliation)<br/>-->
-        <!--                    <br/>-->
-        <!--                </td>-->
-        <!--                <td>-->
-        <!--                    <table class="panelists_past_container">-->
-        <!--                        <tr>-->
-        <!--                            <td colspan="2"><b>[Panelists]</b> <br></td>-->
-        <!--                            <td><b>[Invited by]</b> <br></td>-->
-        <!--                        </tr>-->
-        <!--                        <tr>-->
-        <!--                            <td><a href="">Name Surname</a><br/>(Affiliation)<br></td>-->
-        <!--                            <td><a href="">Name Surname</a><br/>(Affiliation)</td>-->
-        <!--                            <td><a href="">Name Surname</a><br/> (Affiliation)</td>-->
-        <!--                        </tr>-->
-        <!--                    </table>-->
-        <!--                </td>-->
-        <!--            </tr>-->
-        <!--        </table>-->
+                </td>
+            </tr>
 
-        <!--        &lt;!&ndash;Spacing-&ndash;&gt;-->
-        <!--        <table style="margin: 0 0 0 0 !important;">-->
-        <!--            <tr>-->
-        <!--                <td colspan="100%"></td>-->
-        <!--            </tr>-->
-        <!--        </table>-->
+            <!--Photo and video-->
+            <tr class="asia">
+                <td class="presenter_image_container">
+                    <div class="single_image_container">
+                        <a href="http://dao.neu.edu.cn/">
+                            <img class="single_presenter" src="./images/lixin_tang.jpg"
+                                 alt="person_photo"/>
+                        </a><br/>
+                    </div>
+                </td>
+                <td colspan="2">
+                    <div class="resizable_youtube_single">
+                        <iframe width="400" height="250" src="https://youtu.be/E9m0AZqJRTw"
+                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                                allowfullscreen></iframe>
+                    </div>
+                </td>
+            </tr>
+
+            <tr>
+                <td class="presenter_past_info_container"></td>
+                <td>
+                    <table class="panelists_past_container_single">
+                        <tr>
+                            <td colspan="2"><b>[Presenter]</b> <br></td>
+                            <td><b>[Invited by]</b> <br></td>
+                        </tr>
+                        <tr>
+                            <!--                    Only this gets edited-->
+                            <td>
+                                <a href="http://dao.neu.edu.cn/">Lixin Tang</a><br>
+                                (North. Uni, Shenyang)<br>
+                            </td>
+                            <td></td>
+                            <td>
+                                <a href="http://www.acem.sjtu.edu.cn/en/faculty/wanguohua.html">Guohua Wan</a><br>
+                                (Shanghai Jiao Tong)
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+
+        <!--Spacing--->
+        <table style="margin: 0 0 0 0 !important;">
+            <tr>
+                <td colspan="100%"></td>
+            </tr>
+        </table>
 
         <!--Single talk------------------------------------------------------------------------------------------------>
         <table style="padding-bottom: 12px;" class="america">
@@ -759,51 +707,6 @@
                 <td colspan="100%"></td>
             </tr>
         </table>
-
-        <!--        &lt;!&ndash;Single talk&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&ndash;&gt;-->
-        <!--        <table style="padding-bottom: 12px;" class="america">-->
-        <!--            &lt;!&ndash;Photo and video&ndash;&gt;-->
-        <!--            <tr class="america">-->
-        <!--                <td class="presenter_image_container">-->
-        <!--                    <div class="single_image_container">-->
-        <!--                        <a href="https://schedulingseminar.com/">-->
-        <!--                            <img class="single_presenter_finished" src="./images/person_placeholder.png"-->
-        <!--                                 alt="person_photo"/>-->
-        <!--                        </a><br/>-->
-        <!--                    </div>-->
-        <!--                </td>-->
-        <!--                <td colspan="2">-->
-        <!--                    <div class="resizable_youtube">-->
-        <!--                        <iframe width="400" height="250" src="https://www.youtube.com/embed/SC5CX8drAtU" frameborder="0"-->
-        <!--                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"-->
-        <!--                                allowfullscreen></iframe>-->
-        <!--                    </div>-->
-        <!--                </td>-->
-        <!--            </tr>-->
-
-        <!--            &lt;!&ndash;Text description&ndash;&gt;-->
-        <!--            <tr class="america">-->
-        <!--                <td class="presenter_past_info_container">-->
-        <!--                    <b>[Presenter]</b><br/>-->
-        <!--                    <a href="">Name Surname</a><br/>-->
-        <!--                    (Affiliation)<br/>-->
-        <!--                    <br/>-->
-        <!--                </td>-->
-        <!--                <td>-->
-        <!--                    <table class="panelists_past_container">-->
-        <!--                        <tr>-->
-        <!--                            <td colspan="2"><b>[Panelists]</b> <br></td>-->
-        <!--                            <td><b>[Invited by]</b> <br></td>-->
-        <!--                        </tr>-->
-        <!--                        <tr>-->
-        <!--                            <td><a href="">Name Surname</a><br/>(Affiliation)<br></td>-->
-        <!--                            <td><a href="">Name Surname</a><br/>(Affiliation)</td>-->
-        <!--                            <td><a href="">Name Surname</a><br/> (Affiliation)</td>-->
-        <!--                        </tr>-->
-        <!--                    </table>-->
-        <!--                </td>-->
-        <!--            </tr>-->
-        <!--        </table>-->
 
         </tbody>
     </table>
