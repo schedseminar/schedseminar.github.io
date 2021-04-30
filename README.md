@@ -306,7 +306,9 @@
         <!--                        uncertainties and briefly review recent approaches.-->
         <!--                        <hr style="border-top: 1px solid black;">-->
         <!--                    </div>-->
-        <!--                    Keywords: Healthcare scheduling applications-->
+        <!--        Keywords: healthcare scheduling applications, diagnostic imaging, cancer treatment (chemotherapy and radiation),-->
+        <!--        nurse/physician scheduling, surgical scheduling, 911 call centres, home-->
+        <!--        care routing, medical resident scheduling and primary care appointments-->
         <!--                </td>-->
         <!--            </tr>-->
 
