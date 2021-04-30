@@ -507,7 +507,7 @@
                 </td>
                 <td colspan="2">
                     <div class="resizable_youtube_single">
-                        <iframe width="400" height="250" src="https://youtu.be/E9m0AZqJRTw"
+                        <iframe width="400" height="250" src="https://www.youtube.com/embed/E9m0AZqJRTw"
                                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                                 allowfullscreen></iframe>
                     </div>
