@@ -394,7 +394,7 @@
         <!--                <td class="presenter_image_container">-->
         <!--                    <div class="single_image_container">-->
         <!--                        <a href="http://www.dpia.uniud.it/schaerf/">-->
-        <!--                            <img class="single_presenter" src="./images/Andrea.jpg"-->
+        <!--                            <img class="single_presenter" src="./images/schaerf.jpg"-->
         <!--                                 alt="person_photo"/>-->
         <!--                        </a><br/>-->
         <!--                    </div>-->
