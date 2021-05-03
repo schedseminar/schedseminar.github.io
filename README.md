@@ -272,166 +272,163 @@
         </table>
 
 
-        <!--TODO UPCOMING 23.6.-->
         <!--Spacing--->
-        <!--        <table style="margin: 0 0 0 0 !important;">-->
-        <!--            <tr>-->
-        <!--                <td colspan="100%"></td>-->
-        <!--            </tr>-->
-        <!--        </table>-->
+        <table style="margin: 0 0 0 0 !important;">
+            <tr>
+                <td colspan="100%"></td>
+            </tr>
+        </table>
 
         <!--Single talk------------------------------------------------------------------------------------------------>
-        <!--        <table style="padding-bottom: 12px;" class="america">-->
-        <!--            &lt;!&ndash;Title/Abstract&ndash;&gt;-->
-        <!--            <tr class="america">-->
-        <!--                <td colspan="3">-->
-        <!--                    <h2 class="talk_title"><b>Challenges in Healthcare Scheduling Applications</b><br></h2>-->
-        <!--                    <input type="checkbox" id="abstract_id_8" style="display:none;">-->
-        <!--                    <label for="abstract_id_8" class="label_abstract"><a>Abstract</a></label>-->
-        <!--                    <div class="hidden">-->
-        <!--                        <hr style="border-top: 1px solid black;">-->
-        <!--                        In the immortal words of Monty Python, “… and now for something completely different!”-->
-        <!--                        Over the past three decades, I have spent much of my time working on practical healthcare-->
-        <!--                        applications.-->
-        <!--                        Typically, the projects are done with healthcare collaborators. Virtually all of the scheduling-->
-        <!--                        problems are-->
-        <!--                        highly stochastic, and scheduling approaches focus on managing variability. In this talk, I will-->
-        <!--                        describe-->
-        <!--                        several healthcare applications including: diagnostic imaging, cancer treatment (chemotherapy-->
-        <!--                        and radiation),-->
-        <!--                        nurse/physician scheduling, surgical scheduling, 911 call centres, home care routing, medical-->
-        <!--                        resident-->
-        <!--                        scheduling and primary care appointments (e.g. advanced access). In each case, I will describe-->
-        <!--                        the underlying-->
-        <!--                        uncertainties and briefly review recent approaches.-->
-        <!--                        <hr style="border-top: 1px solid black;">-->
-        <!--                    </div>-->
-        <!--        Keywords: healthcare scheduling applications, diagnostic imaging, cancer treatment (chemotherapy and radiation),-->
-        <!--        nurse/physician scheduling, surgical scheduling, 911 call centres, home-->
-        <!--        care routing, medical resident scheduling and primary care appointments-->
-        <!--                </td>-->
-        <!--            </tr>-->
+        <table style="padding-bottom: 12px;" class="america">
+            <!--Title/Abstract-->
+            <tr class="america">
+                <td colspan="3">
+                    <h2 class="talk_title"><b>Challenges in Healthcare Scheduling Applications</b><br></h2>
+                    <input type="checkbox" id="abstract_id_8" style="display:none;">
+                    <label for="abstract_id_8" class="label_abstract"><a>Abstract</a></label>
+                    <div class="hidden">
+                        <hr style="border-top: 1px solid black;">
+                        In the immortal words of Monty Python, “… and now for something completely different!”
+                        Over the past three decades, I have spent much of my time working on practical healthcare
+                        applications.
+                        Typically, the projects are done with healthcare collaborators. Virtually all of the scheduling
+                        problems are
+                        highly stochastic, and scheduling approaches focus on managing variability. In this talk, I will
+                        describe
+                        several healthcare applications including: diagnostic imaging, cancer treatment (chemotherapy
+                        and radiation),
+                        nurse/physician scheduling, surgical scheduling, 911 call centres, home care routing, medical
+                        resident
+                        scheduling and primary care appointments (e.g. advanced access). In each case, I will describe
+                        the underlying
+                        uncertainties and briefly review recent approaches.
+                        <hr style="border-top: 1px solid black;">
+                    </div>
+                    <!--Keywords: healthcare scheduling applications, diagnostic imaging, cancer treatment (chemotherapy and-->
+                    <!--radiation),-->
+                    <!--nurse/physician scheduling, surgical scheduling, 911 call centres, home-->
+                    <!--care routing, medical resident scheduling and primary care appointments-->
+                </td>
+            </tr>
 
-        <!--            &lt;!&ndash;Data-&ndash;&gt;-->
-        <!--            <tr class="america">-->
-        <!--                <td class="presenter_image_container">-->
-        <!--                    <div class="single_image_container">-->
-        <!--                        <a href="https://che.utoronto.ca/professor-michael-w-carter/">-->
-        <!--                            <img class="single_presenter" src="./images/Mike_carter.jpg"-->
-        <!--                                 alt="person_photo"/>-->
-        <!--                        </a><br/>-->
-        <!--                    </div>-->
-        <!--                </td>-->
-        <!--                <td class="information_upcoming_container">-->
-        <!--                    <b>[Presenter] </b> <br>-->
-        <!--                    <a href="https://che.utoronto.ca/professor-michael-w-carter/">Mike Carter</a><br>-->
-        <!--                    (Uni of Toronto)<br><br/>-->
-        <!--                    <b>[Invited by]</b> <br>-->
-        <!--                    <a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a> <br/>-->
-        <!--                    (New York University)-->
-        <!--                </td>-->
-        <!--                <td class="time_zones_container">-->
-        <!--                    <table class="time_table">-->
-        <!--                        <tbody>-->
-        <!--                        <tr class="utc">-->
-        <!--                            <td>UTC</td>-->
-        <!--                            <td>Jun 23, 13:00 Wed</td>-->
-        <!--                        </tr>-->
-        <!--                        <tr class="europe">-->
-        <!--                            <td>Prague</td>-->
-        <!--                            <td>Jun 23, 15:00 Wed</td>-->
-        <!--                        </tr>-->
-        <!--                        <tr class="america">-->
-        <!--                            <td>New York</td>-->
-        <!--                            <td>Jun 23, 09:00 Wed</td>-->
-        <!--                        </tr>-->
-        <!--                        <tr class="asia">-->
-        <!--                            <td>Shanghai</td>-->
-        <!--                            <td>Jun 23, 21:00 Wed</td>-->
-        <!--                        </tr>-->
-        <!--                        </tbody>-->
-        <!--                    </table>-->
-        <!--                </td>-->
-        <!--            </tr>-->
-        <!--        </table>-->
-        <!--TODO UPCOMING-->
+            <!--Data--->
+            <tr class="america">
+                <td class="presenter_image_container">
+                    <div class="single_image_container">
+                        <a href="https://che.utoronto.ca/professor-michael-w-carter/">
+                            <img class="single_presenter" src="./images/CarterM_photo.jpg"
+                                 alt="person_photo"/>
+                        </a><br/>
+                    </div>
+                </td>
+                <td class="information_upcoming_container">
+                    <b>[Presenter] </b> <br>
+                    <a href="https://che.utoronto.ca/professor-michael-w-carter/">Mike Carter</a><br>
+                    (Uni of Toronto)<br><br/>
+                    <b>[Invited by]</b> <br>
+                    <a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a> <br/>
+                    (New York University)
+                </td>
+                <td class="time_zones_container">
+                    <table class="time_table">
+                        <tbody>
+                        <tr class="utc">
+                            <td>UTC</td>
+                            <td>Jun 23, 13:00 Wed</td>
+                        </tr>
+                        <tr class="europe">
+                            <td>Prague</td>
+                            <td>Jun 23, 15:00 Wed</td>
+                        </tr>
+                        <tr class="america">
+                            <td>New York</td>
+                            <td>Jun 23, 09:00 Wed</td>
+                        </tr>
+                        <tr class="asia">
+                            <td>Shanghai</td>
+                            <td>Jun 23, 21:00 Wed</td>
+                        </tr>
+                        </tbody>
+                    </table>
+                </td>
+            </tr>
+        </table>
 
-        <!--TODO UPCOMING 7.7.-->
-        <!--Spacing-->
-        <!--        <table style="margin: 0 0 0 0 !important;">-->
-        <!--            <tr>-->
-        <!--                <td colspan="100%"></td>-->
-        <!--            </tr>-->
-        <!--        </table>-->
+        <!--Spacing--->
+        <table style="margin: 0 0 0 0 !important;">
+            <tr>
+                <td colspan="100%"></td>
+            </tr>
+        </table>
 
         <!--Single talk------------------------------------------------------------------------------------------------>
-        <!--        <table style="padding-bottom: 12px;" class="europe">-->
-        <!--            &lt;!&ndash;Title/Abstract&ndash;&gt;-->
-        <!--            <tr>-->
-        <!--                <td colspan="3">-->
-        <!--                    <h2 class="talk_title"><b>Educational Timetabling: Problems, Benchmarks, Algorithms, and Practical Issues</b><br></h2>-->
-        <!--                    <input type="checkbox" id="abstract_id_9" style="display:none;">-->
-        <!--                    <label for="abstract_id_9" class="label_abstract"><a>Abstract</a></label>-->
-        <!--                    <div class="hidden">-->
-        <!--                        <hr style="border-top: 1px solid black;">-->
-        <!--                        Educational timetabling problems consist in scheduling a-->
-        <!--                        sequence of events (lectures, seminars, or exams) involving teachers and-->
-        <!--                        students in a prefixed period of time, satisfying a set of constraints-->
-        <!--                        of various types.  In this talk, we critically review different-->
-        <!--                        formulations, public datasets, and search methods. In particular, we-->
-        <!--                        illustrate local search methods, their parameter tuning procedure, and-->
-        <!--                        their results. Finally, we discuss practical issues involved in the-->
-        <!--                        actual solution of timetabling problems.-->
-        <!--                        <hr style="border-top: 1px solid black;">-->
-        <!--                    </div>-->
-        <!--                    Keywords: Timetabling, Scheduling, Optimization, Metaheuristics, Local Search-->
+        <table style="padding-bottom: 12px;" class="europe">
+            <!--Title/Abstract-->
+            <tr>
+                <td colspan="3">
+                    <h2 class="talk_title"><b>Educational Timetabling: Problems, Benchmarks, Algorithms, and Practical
+                        Issues</b><br></h2>
+                    <input type="checkbox" id="abstract_id_9" style="display:none;">
+                    <label for="abstract_id_9" class="label_abstract"><a>Abstract</a></label>
+                    <div class="hidden">
+                        <hr style="border-top: 1px solid black;">
+                        Educational timetabling problems consist in scheduling a
+                        sequence of events (lectures, seminars, or exams) involving teachers and
+                        students in a prefixed period of time, satisfying a set of constraints
+                        of various types. In this talk, we critically review different
+                        formulations, public datasets, and search methods. In particular, we
+                        illustrate local search methods, their parameter tuning procedure, and
+                        their results. Finally, we discuss practical issues involved in the
+                        actual solution of timetabling problems.
+                        <hr style="border-top: 1px solid black;">
+                    </div>
+                    <!--Keywords: Timetabling, Scheduling, Optimization, Metaheuristics, Local Search-->
+                </td>
+            </tr>
 
-        <!--                </td>-->
-        <!--            </tr>-->
-
-        <!--            &lt;!&ndash;Data-&ndash;&gt;-->
-        <!--            <tr>-->
-        <!--                <td class="presenter_image_container">-->
-        <!--                    <div class="single_image_container">-->
-        <!--                        <a href="http://www.dpia.uniud.it/schaerf/">-->
-        <!--                            <img class="single_presenter" src="./images/schaerf.jpg"-->
-        <!--                                 alt="person_photo"/>-->
-        <!--                        </a><br/>-->
-        <!--                    </div>-->
-        <!--                </td>-->
-        <!--                <td class="information_upcoming_container">-->
-        <!--                    <b>[Presenter] </b> <br>-->
-        <!--                    <a href="http://www.dpia.uniud.it/schaerf/">Andrea Schaerf</a><br>-->
-        <!--                    (Uni of Udine)<br><br/>-->
-        <!--                    <b>[Invited by]</b> <br>-->
-        <!--                    <a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a> <br>-->
-        <!--                    (CTU in Prague)-->
-        <!--                </td>-->
-        <!--                <td class="time_zones_container">-->
-        <!--                    <table class="time_table">-->
-        <!--                        <tbody>-->
-        <!--                        <tr class="utc">-->
-        <!--                            <td>UTC</td>-->
-        <!--                            <td>Jul 7, 13:00 Wed</td>-->
-        <!--                        </tr>-->
-        <!--                        <tr class="europe">-->
-        <!--                            <td>Prague</td>-->
-        <!--                            <td>Jul 7, 15:00 Wed</td>-->
-        <!--                        </tr>-->
-        <!--                        <tr class="america">-->
-        <!--                            <td>New York</td>-->
-        <!--                            <td>Jul 7, 09:00 Wed</td>-->
-        <!--                        </tr>-->
-        <!--                        <tr class="asia">-->
-        <!--                            <td>Shanghai</td>-->
-        <!--                            <td>Jul 7, 21:00 Wed</td>-->
-        <!--                        </tr>-->
-        <!--                        </tbody>-->
-        <!--                    </table>-->
-        <!--                </td>-->
-        <!--            </tr>-->
-        <!--        </table>-->
-        <!--TODO UPCOMING-->
+            <!--Data--->
+            <tr>
+                <td class="presenter_image_container">
+                    <div class="single_image_container">
+                        <a href="http://www.dpia.uniud.it/schaerf/">
+                            <img class="single_presenter" src="./images/schaerf.jpg"
+                                 alt="person_photo"/>
+                        </a><br/>
+                    </div>
+                </td>
+                <td class="information_upcoming_container">
+                    <b>[Presenter] </b> <br>
+                    <a href="http://www.dpia.uniud.it/schaerf/">Andrea Schaerf</a><br>
+                    (Uni of Udine)<br><br/>
+                    <b>[Invited by]</b> <br>
+                    <a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a> <br>
+                    (CTU in Prague)
+                </td>
+                <td class="time_zones_container">
+                    <table class="time_table">
+                        <tbody>
+                        <tr class="utc">
+                            <td>UTC</td>
+                            <td>Jul 7, 13:00 Wed</td>
+                        </tr>
+                        <tr class="europe">
+                            <td>Prague</td>
+                            <td>Jul 7, 15:00 Wed</td>
+                        </tr>
+                        <tr class="america">
+                            <td>New York</td>
+                            <td>Jul 7, 09:00 Wed</td>
+                        </tr>
+                        <tr class="asia">
+                            <td>Shanghai</td>
+                            <td>Jul 7, 21:00 Wed</td>
+                        </tr>
+                        </tbody>
+                    </table>
+                </td>
+            </tr>
+        </table>
 
         </tbody>
     </table>
