@@ -271,6 +271,93 @@
             </tr>
         </table>
 
+        <!--Spacing--->
+        <table style="margin: 0 0 0 0 !important;">
+            <tr>
+                <td colspan="100%"></td>
+            </tr>
+        </table>
+
+        <!--Single talk------------------------------------------------------------------------------------------------>
+        <table style="padding-bottom: 12px;" class="asia">
+            <!--Title/Abstract-->
+            <tr>
+                <td colspan="3">
+                    <h2 class="talk_title"><b>Updated complexity results in single-machine primary-secondary sched.
+                        for min. two regular criteria</b><br></h2>
+                    <input type="checkbox" id="abstract_id_7" style="display:none;">
+                    <label for="abstract_id_7" class="label_abstract"><a>Abstract</a></label>
+                    <div class="hidden">
+                        <hr style="border-top: 1px solid black;">
+                        In the primary-secondary scheduling problem, we have a primary scheduling criterion and a
+                        secondary scheduling criterion. The goal of the problem is to find a schedule which minimizes
+                        the second criterion, subject to the restriction that the primary criterion is minimized. Lee
+                        and Vairaktarakis [LV1993] presented a comprehensive review for the computational complexity of
+                        the single-machine primary-secondary scheduling problems, where all the jobs are released at
+                        time zero. When both of the two criteria are regular, more than twenty problems were posed as
+                        open in [LV1993]. This talk will report the research progress of these open problems.
+                        <hr style="border-top: 1px solid black;">
+                    </div>
+                    <!--Keywords: Single-machine scheduling; Promary-secondary criteria; Computational complexity.-->
+
+                    <input type="checkbox" id="bio_id_7" style="display:none;">
+                    <label for="bio_id_7" class="label_abstract"><a>Biography</a></label>
+                    <div class="hidden">
+                        <hr style="border-top: 1px solid black;">
+                        Jinjiang Yuan (J.J. Yuan) is a Professor in the School of Mathematics and Statistics, Zhengzhou
+                        University, Zhengzhou, Henan, The People's Republic of China. He received his doctorate in
+                        science from Sichuan University in 1995. His principal research interests include Scheduling,
+                        Graph Theory, and Combinatorial Optimization. He has published more than 200 papers in
+                        Mathematical Programming, European Journal of Operational Research, Journal of Scheduling,
+                        Journal of Graph Theory, Operations Research Letters, and other journals. He has presided over 8
+                        projects of National Natural Science Foundation of China.
+                        <hr style="border-top: 1px solid black;">
+                    </div>
+                </td>
+            </tr>
+
+            <!--Data--->
+            <tr>
+                <td class="presenter_image_container">
+                    <div class="single_image_container">
+                        <a href="https://www.researchgate.net/profile/Jinjiang-Yuan">
+                            <img class="single_presenter" src="./images/Jinjiang_Yuan.jpg"
+                                 alt="person_photo"/>
+                        </a><br/>
+                    </div>
+                </td>
+                <td class="information_upcoming_container">
+                    <b>[Presenter] </b> <br>
+                    <a href="https://www.researchgate.net/profile/Jinjiang-Yuan">Jinjiang Yuan</a><br>
+                    (Zhengzhou Univ.)<br><br/>
+                    <b>[Invited by]</b> <br>
+                    <a href="http://www.acem.sjtu.edu.cn/en/faculty/wanguohua.html">Guohua Wan</a><br>
+                    (Shanghai Jiao Tong)
+                </td>
+                <td class="time_zones_container">
+                    <table class="time_table">
+                        <tbody>
+                        <tr class="utc">
+                            <td>UTC</td>
+                            <td>Jun 9, 13:00 Wed</td>
+                        </tr>
+                        <tr class="europe">
+                            <td>Prague</td>
+                            <td>Jun 9, 15:00 Wed</td>
+                        </tr>
+                        <tr class="america">
+                            <td>New York</td>
+                            <td>Jun 9, 09:00 Wed</td>
+                        </tr>
+                        <tr class="asia">
+                            <td>Shanghai</td>
+                            <td>Jun 9, 21:00 Wed</td>
+                        </tr>
+                        </tbody>
+                    </table>
+                </td>
+            </tr>
+        </table>
 
         <!--Spacing--->
         <table style="margin: 0 0 0 0 !important;">
