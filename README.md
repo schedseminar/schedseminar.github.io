@@ -137,7 +137,9 @@
                         time first (WSPT) rule. This is joint work with Sven Jäger.
                         <hr style="border-top: 1px solid black;">
                     </div>
-
+                    <a href="./presentations/SchedulingSeminar_MartinSkutella.pdf" class="label_abstract" download>
+                        Download PDF
+                    </a>
                 </td>
             </tr>
 
