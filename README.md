@@ -1,7 +1,8 @@
 <!--Header-->
 <table class="header_table">
     <tr>
-        <td class="header_image"><img src="./images/gantt-fabrio-merica.png" height="200px" width="600px" alt="logo"/>
+        <td class="header_image">
+            <img src="./images/gantt-fabrio-merica.png" height="200px" width="600px" alt="logo"/>
         </td>
         <td class="header_paragraph">
             <h1>Scheduling seminar</h1>
@@ -14,6 +15,7 @@
             <br/>
             &nbsp;
             <div style="text-align:right;">
+                <a href="https://list.iid.ciirc.cvut.cz/mailman3/lists/schedulingseminar.rtime.felk.cvut.cz/" class="button3" style="font-weight: bold">Newsletter</a>
                 <a href='#PC_co-chairs' class="button3">PC co-chairs</a>
                 <a href='#Program_committee' class="button3">Program committee</a>
                 <a href='#Calendar' class="button3">Calendar</a>
@@ -33,7 +35,6 @@
     <!--TODO MB will be used in future-->
     <!--<a href="zoom_information.html" class="button3">Zoom Conference</a>-->
 </p>
-
 
 <!--------------------------------------------------------------------------------------------------------------------->
 <!--Talks-->
@@ -1188,7 +1189,7 @@
 <!--Footer-->
 &nbsp;
 <hr>
-<footer>
+<footer id="Subscribe">
     <p style="text-align:center">
         Subscribe to our <a href="https://list.iid.ciirc.cvut.cz/mailman3/lists/schedulingseminar.rtime.felk.cvut.cz/">
         <b>mailing list</b></a> and <a href="https://www.youtube.com/channel/UCUoCNnaAfw5NAntItILFn4A">
