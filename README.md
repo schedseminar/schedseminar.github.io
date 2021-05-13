@@ -122,86 +122,6 @@
             <!--Title/Abstract-->
             <tr class="europe">
                 <td colspan="3">
-                    <h2 class="talk_title"><b>Efficient Algorithms and Provably Good Solutions for NP-hard Scheduling
-                        Problems</b><br></h2>
-                    <input type="checkbox" id="abstract_id_5" style="display:none;">
-                    <label for="abstract_id_5" class="label_abstract"><a>Abstract</a></label>
-                    <div class="hidden">
-                        <hr style="border-top: 1px solid black;">
-                        Machine scheduling problems are among the first optimization problems for which approximation
-                        algorithms have been analyzed. An approximation algorithm is a polynomial-time algorithm which
-                        always finds a feasible solution whose objective function value is within an a priori known
-                        factor (performance ratio) of the optimum solution value. In this talk we focus on identical
-                        parallel machine scheduling with total weighted completion time objective. We present, among
-                        other things, a refined analysis of the performance ratio for the weighted shortest processing
-                        time first (WSPT) rule. This is joint work with Sven Jäger.
-                        <hr style="border-top: 1px solid black;">
-                    </div>
-                    <a href="./presentations/SchedulingSeminar_MartinSkutella.pdf" class="label_abstract" download>
-                        Download PDF
-                    </a>
-                </td>
-            </tr>
-
-            <!--Data--->
-            <tr class="europe">
-                <td class="presenter_image_container">
-                    <div class="single_image_container">
-                        <a href="https://www.coga.tu-berlin.de/v_menue/mitarbeitende/prof_dr_martin_skutella/prof_dr_martin_skutella/parameter/en/">
-                            <img class="single_presenter" src="./images/skutella.jpg"
-                                 alt="person_photo"/>
-                        </a><br/>
-                    </div>
-                </td>
-                <td class="information_upcoming_container">
-                    <b>[Presenter] </b> <br>
-                    <a href="https://www.coga.tu-berlin.de/v_menue/mitarbeitende/prof_dr_martin_skutella/prof_dr_martin_skutella/parameter/en/">Martin
-                        Skutella</a><br>
-                    (TU Berlin)<br><br/>
-                    <!--                    <b>[Panelists]</b> <br>-->
-                    <!--                <a href="">Name Surname</a> (Affiliation)<br>-->
-                    <!--                    <a href="">Name Surname</a> (Affiliation)<br/><br/>-->
-                    <b>[Invited by]</b> <br>
-                    <a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a> <br>
-                    (CTU in Prague)
-                </td>
-                <td class="time_zones_container">
-                    <table class="time_table">
-                        <tbody>
-                        <tr class="utc">
-                            <td>UTC</td>
-                            <td>May 12, 13:00 Wed</td>
-                        </tr>
-                        <tr class="europe">
-                            <td>Prague</td>
-                            <td>May 12, 15:00 Wed</td>
-                        </tr>
-                        <tr class="america">
-                            <td>New York</td>
-                            <td>May 12, 09:00 Wed</td>
-                        </tr>
-                        <tr class="asia">
-                            <td>Shanghai</td>
-                            <td>May 12, 21:00 Wed</td>
-                        </tr>
-                        </tbody>
-                    </table>
-                </td>
-            </tr>
-        </table>
-
-        <!--Spacing--->
-        <table style="margin: 0 0 0 0 !important;">
-            <tr>
-                <td colspan="100%"></td>
-            </tr>
-        </table>
-
-        <!--Single talk------------------------------------------------------------------------------------------------>
-        <table style="padding-bottom: 12px;" class="europe">
-            <!--Title/Abstract-->
-            <tr class="europe">
-                <td colspan="3">
                     <h2 class="talk_title"><b>On the State of the Art in Proactive/Reactive Project Scheduling
                     </b><br></h2>
                     <input type="checkbox" id="abstract_id_6" style="display:none;">
@@ -534,267 +454,350 @@
     <h2>Past talks</h2>
     <table class="past_talk_table">
         <tbody>
-        <!--Single talk------------------------------------------------------------------------------------------------>
-        <table style="padding-bottom: 12px;" class="asia">
-            <!--Title/Abstract-->
-            <tr class="asia">
-                <td colspan="3">
-                    <h2 class="talk_title"><b>Data Analytics and Optimization for Production, Logistics and Energy
-                        Scheduling</b><br></h2>
-                    <input type="checkbox" id="abstract_id_3" style="display:none;">
-                    <label for="abstract_id_3" class="label_abstract"><a>Abstract</a></label>
-                    <div class="hidden">
-                        <hr style="border-top: 1px solid black;">
-                        This talk discusses some interesting topics on scheduling and data analytics of production,
-                        logistics and energy in the steel industry, including: 1) production batching and scheduling in
-                        steelmaking/continuous casting, and hot/cold rolling operations; 2) logistics scheduling in
-                        storage/stowage, shuffling, transportation and (un)loading operations; 3) energy optimization
-                        including energy allocation, coordinated planning and scheduling of production and energy; 4)
-                        data based analytics, including dynamic analytics of BOF steelmaking process based on
-                        multi-stage modeling; temperature prediction of blast furnace; temperature prediction of molten
-                        iron in transportation process; energy analytics for estimation, prediction of generation and
-                        consumption, diagnosis and benchmarking; temperature prediction of reheat furnace based on
-                        mechanism and data; strip quality analytics of continuous annealing based on multi-objective
-                        ensemble learning; process monitoring and diagnosis of continuous annealing based on mechanism
-                        and data.
-                        <hr style="border-top: 1px solid black;">
-                    </div>
-                    <a href="./presentations/SchedulingSeminar_LixinTang.pdf" class="label_abstract" download>
-                        Download PDF
-                    </a>
 
-                    <input type="checkbox" id="abstract_id_4" style="display:none;">
-                    <label for="abstract_id_4" class="label_abstract"><a>Biography</a></label>
-                    <div class="hidden">
-                        <hr style="border-top: 1px solid black;">
-                        Professor Lixin Tang is the Vice President of Northeastern University, China, a member of
-                        Chinese Academy of Engineering, the Director of Key Laboratory of Data Analytics and
-                        Optimization for Smart Industry, Ministry of Education, China, the Head of Centre for Artificial
-                        Intelligence and Data Science, and the Chair Professor of Centre for Industrial Intelligence
-                        and Systems Optimization. He is also a member of the discipline review group of the State
-                        Council for Control Science & Engineering, a member of review group of National Natural Science
-                        Foundation, the Vice President of Operations Research Society of China (ORSC), and the Founding
-                        Director of Data Analytics and Optimization Society for Smart Industry for ORSC.
-                        <hr style="border-top: 1px solid black;">
-                    </div>
+            <!--Single talk------------------------------------------------------------------------------------------------>
+            <table style="padding-bottom: 12px;" class="europe">
+                <!--Title/Abstract-->
+                <tr>
+                    <td colspan="3">
+                        <h2 class="talk_title"><b>Efficient Algorithms and Provably Good Solutions for NP-hard Scheduling
+                            Problems</b><br></h2>
+                        <input type="checkbox" id="abstract_id_5" style="display:none;">
+                        <label for="abstract_id_5" class="label_abstract"><a>Abstract</a></label>
+                        <div class="hidden">
+                            <hr style="border-top: 1px solid black;">
+                            Machine scheduling problems are among the first optimization problems for which approximation
+                            algorithms have been analyzed. An approximation algorithm is a polynomial-time algorithm which
+                            always finds a feasible solution whose objective function value is within an a priori known
+                            factor (performance ratio) of the optimum solution value. In this talk we focus on identical
+                            parallel machine scheduling with total weighted completion time objective. We present, among
+                            other things, a refined analysis of the performance ratio for the weighted shortest processing
+                            time first (WSPT) rule. This is joint work with Sven Jäger.
+                            <hr style="border-top: 1px solid black;">
+                        </div>
+                        <a href="./presentations/SchedulingSeminar_MartinSkutella.pdf" class="label_abstract" download>
+                            Download PDF
+                        </a>
+                    </td>
+                </tr>
 
-                </td>
-            </tr>
+                <!--Photo and video-->
+                <tr>
+                    <!--Can be copied whole-->
+                    <td class="presenter_image_container">
+                        <div class="single_image_container">
+                            <a href="https://www.coga.tu-berlin.de/v_menue/mitarbeitende/prof_dr_martin_skutella/prof_dr_martin_skutella/parameter/en/">
+                                <img class="single_presenter" src="./images/skutella.jpg"
+                                     alt="person_photo"/>
+                            </a><br/>
+                        </div>
+                    </td>
 
-            <!--Photo and video-->
-            <tr class="asia">
-                <td class="presenter_image_container">
-                    <div class="single_image_container">
-                        <a href="http://dao.neu.edu.cn/">
-                            <img class="single_presenter" src="./images/lixin_tang.jpg"
-                                 alt="person_photo"/>
-                        </a><br/>
-                    </div>
-                </td>
-                <td colspan="2">
-                    <div class="resizable_youtube_single">
-                        <iframe width="400" height="250" src="https://www.youtube.com/embed/E9m0AZqJRTw"
-                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                                allowfullscreen></iframe>
-                    </div>
-                </td>
-            </tr>
+                    <!--Just add link-->
+                    <td colspan="2">
+                        <div class="resizable_youtube_single">
+                            <iframe width="400" height="250" src="https://www.youtube.com/embed/4JQ2nSHiwlc"
+                                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                                    allowfullscreen></iframe>
+                        </div>
+                    </td>
+                </tr>
 
-            <tr>
-                <td class="presenter_past_info_container"></td>
-                <td>
-                    <table class="panelists_past_container_single">
-                        <tr>
-                            <td colspan="2"><b>[Presenter]</b> <br></td>
-                            <td><b>[Invited by]</b> <br></td>
-                        </tr>
-                        <tr>
-                            <!--                    Only this gets edited-->
-                            <td>
-                                <a href="http://dao.neu.edu.cn/">Lixin Tang</a><br>
-                                (North. Uni, Shenyang)<br>
-                            </td>
-                            <td></td>
-                            <td>
-                                <a href="http://www.acem.sjtu.edu.cn/en/faculty/wanguohua.html">Guohua Wan</a><br>
-                                (Shanghai Jiao Tong)
-                            </td>
-                        </tr>
-                    </table>
-                </td>
-            </tr>
-        </table>
+                <!--Text description-->
+                <tr>
+                    <td class="presenter_past_info_container"></td>
+                    <td>
+                        <table class="panelists_past_container_single">
+                            <tr>
+                                <td colspan="2"><b>[Presenter]</b> <br></td>
+                                <td><b>[Invited by]</b> <br></td>
+                            </tr>
+                            <tr>
+                                <!--Only this gets edited-->
+                                <td>
+                                    <a href="https://www.coga.tu-berlin.de/v_menue/mitarbeitende/prof_dr_martin_skutella/prof_dr_martin_skutella/parameter/en/">Martin
+                                        Skutella</a><br>
+                                    (TU Berlin)<br><br/>
+                                </td>
+                                <td></td>
+                                <td>
+                                    <a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a> <br>
+                                    (CTU in Prague)
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+            </table>
 
-        <!--Spacing--->
-        <table style="margin: 0 0 0 0 !important;">
-            <tr>
-                <td colspan="100%"></td>
-            </tr>
-        </table>
+            <!--Spacing--->
+            <table style="margin: 0 0 0 0 !important;">
+                <tr>
+                    <td colspan="100%"></td>
+                </tr>
+            </table>
 
-        <!--Single talk------------------------------------------------------------------------------------------------>
-        <table style="padding-bottom: 12px;" class="america">
-            <!--Title/Abstract-->
-            <tr class="america">
-                <td colspan="3">
-                    <h2 class="talk_title"><b>Recent Breakthroughs in Stochastic Scheduling Theory</b><br></h2>
-                    <input type="checkbox" id="abstract_id_2" style="display:none;">
-                    <label for="abstract_id_2" class="label_abstract"><a>Abstract</a></label>
-                    <div class="hidden">
-                        <hr style="border-top: 1px solid black;">
-                        This talk considers stochastic scheduling, where job sizes and arrival times are drawn from a
-                        distribution. As empirical job size variability has skyrocketed, stochastic scheduling research
-                        has grown increasingly important. What scheduling policies should we use to keep response times
-                        low? How should we schedule when job sizes are unknown or only partially known? What scheduling
-                        policies should we use in a multi-server (M/G/k) setting, as compared with a single-server
-                        (M/G/1) setting? How can we analyze the response times of scheduling policies in single-server
-                        and multi-server settings? In this talk, we discuss recent breakthroughs over the last 3 years
-                        in the area of stochastic scheduling. These include:
-                        (1) The SOAP scheduling framework, which greatly expands the class of scheduling policies whose
-                        response times we can now analyze in the M/G/1 setting.
-                        (2) The first response time analysis of common scheduling policies in the M/G/k.
-                        (3) Asymptotically optimal scheduling in the M/G/k.
+            <!--Single talk------------------------------------------------------------------------------------------------>
+            <table style="padding-bottom: 12px;" class="asia">
+                <!--Title/Abstract-->
+                <tr class="asia">
+                    <td colspan="3">
+                        <h2 class="talk_title"><b>Data Analytics and Optimization for Production, Logistics and Energy
+                            Scheduling</b><br></h2>
+                        <input type="checkbox" id="abstract_id_3" style="display:none;">
+                        <label for="abstract_id_3" class="label_abstract"><a>Abstract</a></label>
+                        <div class="hidden">
+                            <hr style="border-top: 1px solid black;">
+                            This talk discusses some interesting topics on scheduling and data analytics of production,
+                            logistics and energy in the steel industry, including: 1) production batching and scheduling in
+                            steelmaking/continuous casting, and hot/cold rolling operations; 2) logistics scheduling in
+                            storage/stowage, shuffling, transportation and (un)loading operations; 3) energy optimization
+                            including energy allocation, coordinated planning and scheduling of production and energy; 4)
+                            data based analytics, including dynamic analytics of BOF steelmaking process based on
+                            multi-stage modeling; temperature prediction of blast furnace; temperature prediction of molten
+                            iron in transportation process; energy analytics for estimation, prediction of generation and
+                            consumption, diagnosis and benchmarking; temperature prediction of reheat furnace based on
+                            mechanism and data; strip quality analytics of continuous annealing based on multi-objective
+                            ensemble learning; process monitoring and diagnosis of continuous annealing based on mechanism
+                            and data.
+                            <hr style="border-top: 1px solid black;">
+                        </div>
+                        <a href="./presentations/SchedulingSeminar_LixinTang.pdf" class="label_abstract" download>
+                            Download PDF
+                        </a>
 
-                        Joint work with: Ziv Scully, Isaac Grosof
-                        <hr style="border-top: 1px solid black;">
-                    </div>
-                    <a href="/presentations/SchedulingSeminar_HarcholBalter.pdf" class="label_abstract" download>
-                        Download PDF
-                    </a>
-                </td>
-            </tr>
+                        <input type="checkbox" id="abstract_id_4" style="display:none;">
+                        <label for="abstract_id_4" class="label_abstract"><a>Biography</a></label>
+                        <div class="hidden">
+                            <hr style="border-top: 1px solid black;">
+                            Professor Lixin Tang is the Vice President of Northeastern University, China, a member of
+                            Chinese Academy of Engineering, the Director of Key Laboratory of Data Analytics and
+                            Optimization for Smart Industry, Ministry of Education, China, the Head of Centre for Artificial
+                            Intelligence and Data Science, and the Chair Professor of Centre for Industrial Intelligence
+                            and Systems Optimization. He is also a member of the discipline review group of the State
+                            Council for Control Science & Engineering, a member of review group of National Natural Science
+                            Foundation, the Vice President of Operations Research Society of China (ORSC), and the Founding
+                            Director of Data Analytics and Optimization Society for Smart Industry for ORSC.
+                            <hr style="border-top: 1px solid black;">
+                        </div>
 
-            <!--Photo and video-->
-            <tr>
-                <td class="presenter_image_container">
-                    <div class="single_image_container">
-                        <a href="http://www.cs.cmu.edu/~harchol/">
-                            <img class="single_presenter" src="./images/harchol_balter.jpg" alt="person_photo"/>
-                        </a><br/>
-                    </div>
-                </td>
+                    </td>
+                </tr>
 
-                <td colspan="2">
-                    <div class="resizable_youtube_single">
-                        <iframe width="400" height="250" src="https://www.youtube.com/embed/Fwa4y3R0-wo"
-                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                                allowfullscreen></iframe>
-                    </div>
-                </td>
-            </tr>
+                <!--Photo and video-->
+                <tr class="asia">
+                    <td class="presenter_image_container">
+                        <div class="single_image_container">
+                            <a href="http://dao.neu.edu.cn/">
+                                <img class="single_presenter" src="./images/lixin_tang.jpg"
+                                     alt="person_photo"/>
+                            </a><br/>
+                        </div>
+                    </td>
+                    <td colspan="2">
+                        <div class="resizable_youtube_single">
+                            <iframe width="400" height="250" src="https://www.youtube.com/embed/E9m0AZqJRTw"
+                                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                                    allowfullscreen></iframe>
+                        </div>
+                    </td>
+                </tr>
 
-            <!--Text description-->
-            <tr>
-                <td class="presenter_past_info_container">
-                </td>
-                <td>
-                    <table class="panelists_past_container_single">
-                        <tr>
-                            <td colspan="2"><b>[Presenter]</b> <br></td>
-                            <td><b>[Invited by]</b> <br></td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <a href="http://www.cs.cmu.edu/~harchol/">Mor Harchol-Balter</a><br>
-                                (CMU)<br>
-                            </td>
-                            <td></td>
-                            <td>
-                                <a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a><br>
-                                (New York University)
-                            </td>
-                        </tr>
-                    </table>
-                </td>
-            </tr>
-        </table>
+                <tr>
+                    <td class="presenter_past_info_container"></td>
+                    <td>
+                        <table class="panelists_past_container_single">
+                            <tr>
+                                <td colspan="2"><b>[Presenter]</b> <br></td>
+                                <td><b>[Invited by]</b> <br></td>
+                            </tr>
+                            <tr>
+                                <!--                    Only this gets edited-->
+                                <td>
+                                    <a href="http://dao.neu.edu.cn/">Lixin Tang</a><br>
+                                    (North. Uni, Shenyang)<br>
+                                </td>
+                                <td></td>
+                                <td>
+                                    <a href="http://www.acem.sjtu.edu.cn/en/faculty/wanguohua.html">Guohua Wan</a><br>
+                                    (Shanghai Jiao Tong)
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+            </table>
 
-        <!--Spacing--->
-        <table style="margin: 0 0 0 0 !important;">
-            <tr>
-                <td colspan="100%"></td>
-            </tr>
-        </table>
+            <!--Spacing--->
+            <table style="margin: 0 0 0 0 !important;">
+                <tr>
+                    <td colspan="100%"></td>
+                </tr>
+            </table>
 
-        <!--Dual talk-------------------------------------------------------------------------------------------------->
-        <table style="padding-bottom: 12px;" class="europe">
-            <tr class="europe">
-                <td colspan="3">
-                    <h2 class="talk_title"><b>Elements of Scheduling</b><br></h2>
-                    <input type="checkbox" id="abstract_id_1" style="display:none;">
-                    <label for="abstract_id_1" class="label_abstract"><a>Abstract</a></label>
-                    <div class="hidden">
-                        <hr style="border-top: 1px solid black;">
-                        During the 1970’s, the area of scheduling developed from a hodge-podge of isolated results into
-                        a unified theory. Over the past decades, it has grown to a mature and lively area, which is a
-                        meeting point of operations research, mathematics and computer science, and at the same time a
-                        sound basis for the allocation of scarce resources to activities over time in many practical
-                        situations. We will sketch the early development of scheduling theory, and also discuss the
-                        integration of ideas from online analysis, stochastic models, and machine learning in response
-                        to the needs of a changing society.
-                        <hr style="border-top: 1px solid black;">
-                    </div>
-                    <a href="/presentations/SchedulingSeminar_ElementsofScheduling-JKLDBS.pdf" class="label_abstract"
-                       download>
-                        Download PDF
-                    </a>
-                </td>
-            </tr>
+            <!--Single talk------------------------------------------------------------------------------------------------>
+            <table style="padding-bottom: 12px;" class="america">
+                <!--Title/Abstract-->
+                <tr class="america">
+                    <td colspan="3">
+                        <h2 class="talk_title"><b>Recent Breakthroughs in Stochastic Scheduling Theory</b><br></h2>
+                        <input type="checkbox" id="abstract_id_2" style="display:none;">
+                        <label for="abstract_id_2" class="label_abstract"><a>Abstract</a></label>
+                        <div class="hidden">
+                            <hr style="border-top: 1px solid black;">
+                            This talk considers stochastic scheduling, where job sizes and arrival times are drawn from a
+                            distribution. As empirical job size variability has skyrocketed, stochastic scheduling research
+                            has grown increasingly important. What scheduling policies should we use to keep response times
+                            low? How should we schedule when job sizes are unknown or only partially known? What scheduling
+                            policies should we use in a multi-server (M/G/k) setting, as compared with a single-server
+                            (M/G/1) setting? How can we analyze the response times of scheduling policies in single-server
+                            and multi-server settings? In this talk, we discuss recent breakthroughs over the last 3 years
+                            in the area of stochastic scheduling. These include:
+                            (1) The SOAP scheduling framework, which greatly expands the class of scheduling policies whose
+                            response times we can now analyze in the M/G/1 setting.
+                            (2) The first response time analysis of common scheduling policies in the M/G/k.
+                            (3) Asymptotically optimal scheduling in the M/G/k.
 
-            <!--Photo and video-->
-            <tr>
-                <td class="presenter_image_container">
-                    <div class="double_image_container">
-                        <a href="https://www.cwi.nl/people/jan-karel-lenstra">
-                            <img class="double_presenter" src="./images/jan_karel_lenstra.jpg" alt="person_photo"/>
-                        </a><br/>
-                    </div>
-                    <div class="double_image_container">
-                        <a href="https://people.orie.cornell.edu/shmoys/">
-                            <img class="double_presenter" src="./images/david_schmoys.jpg" alt="person_photo"/>
-                        </a><br/>
-                    </div>
-                </td>
-                <td colspan="2">
-                    <div class="resizable_youtube_double">
-                        <iframe width="400" height="250" src="https://www.youtube.com/embed/dSX3rmXSLlo"
-                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                                allowfullscreen></iframe>
-                    </div>
-                </td>
-            </tr>
+                            Joint work with: Ziv Scully, Isaac Grosof
+                            <hr style="border-top: 1px solid black;">
+                        </div>
+                        <a href="/presentations/SchedulingSeminar_HarcholBalter.pdf" class="label_abstract" download>
+                            Download PDF
+                        </a>
+                    </td>
+                </tr>
 
-            <!--Text description-->
-            <tr>
-                <td class="presenter_past_info_container">
-                </td>
-                <td>
-                    <table class="panelists_past_container_double">
-                        <tr>
-                            <td colspan="2"><b>[Presenters]</b> <br></td>
-                            <td><b>[Invited by]</b> <br></td>
-                        </tr>
-                        <tr>
-                            <td><a href="https://www.cwi.nl/people/jan-karel-lenstra">Jan Karel Lenstra</a><br>
-                                (CWI)<br></td>
-                            <td>
-                                <a href="https://people.orie.cornell.edu/shmoys/">David Shmoys</a> <br>
-                                (Cornell University)<br></td>
-                            <td><a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a><br>
-                                (New York University)
-                            </td>
-                        </tr>
-                    </table>
-                </td>
-            </tr>
-        </table>
+                <!--Photo and video-->
+                <tr>
+                    <td class="presenter_image_container">
+                        <div class="single_image_container">
+                            <a href="http://www.cs.cmu.edu/~harchol/">
+                                <img class="single_presenter" src="./images/harchol_balter.jpg" alt="person_photo"/>
+                            </a><br/>
+                        </div>
+                    </td>
 
-        <!--Spacing--->
-        <table style="margin: 0 0 0 0 !important;">
-            <tr>
-                <td colspan="100%"></td>
-            </tr>
-        </table>
+                    <td colspan="2">
+                        <div class="resizable_youtube_single">
+                            <iframe width="400" height="250" src="https://www.youtube.com/embed/Fwa4y3R0-wo"
+                                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                                    allowfullscreen></iframe>
+                        </div>
+                    </td>
+                </tr>
+
+                <!--Text description-->
+                <tr>
+                    <td class="presenter_past_info_container">
+                    </td>
+                    <td>
+                        <table class="panelists_past_container_single">
+                            <tr>
+                                <td colspan="2"><b>[Presenter]</b> <br></td>
+                                <td><b>[Invited by]</b> <br></td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <a href="http://www.cs.cmu.edu/~harchol/">Mor Harchol-Balter</a><br>
+                                    (CMU)<br>
+                                </td>
+                                <td></td>
+                                <td>
+                                    <a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a><br>
+                                    (New York University)
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+            </table>
+
+            <!--Spacing--->
+            <table style="margin: 0 0 0 0 !important;">
+                <tr>
+                    <td colspan="100%"></td>
+                </tr>
+            </table>
+
+            <!--Dual talk-------------------------------------------------------------------------------------------------->
+            <table style="padding-bottom: 12px;" class="europe">
+                <tr class="europe">
+                    <td colspan="3">
+                        <h2 class="talk_title"><b>Elements of Scheduling</b><br></h2>
+                        <input type="checkbox" id="abstract_id_1" style="display:none;">
+                        <label for="abstract_id_1" class="label_abstract"><a>Abstract</a></label>
+                        <div class="hidden">
+                            <hr style="border-top: 1px solid black;">
+                            During the 1970’s, the area of scheduling developed from a hodge-podge of isolated results into
+                            a unified theory. Over the past decades, it has grown to a mature and lively area, which is a
+                            meeting point of operations research, mathematics and computer science, and at the same time a
+                            sound basis for the allocation of scarce resources to activities over time in many practical
+                            situations. We will sketch the early development of scheduling theory, and also discuss the
+                            integration of ideas from online analysis, stochastic models, and machine learning in response
+                            to the needs of a changing society.
+                            <hr style="border-top: 1px solid black;">
+                        </div>
+                        <a href="/presentations/SchedulingSeminar_ElementsofScheduling-JKLDBS.pdf" class="label_abstract"
+                           download>
+                            Download PDF
+                        </a>
+                    </td>
+                </tr>
+
+                <!--Photo and video-->
+                <tr>
+                    <td class="presenter_image_container">
+                        <div class="double_image_container">
+                            <a href="https://www.cwi.nl/people/jan-karel-lenstra">
+                                <img class="double_presenter" src="./images/jan_karel_lenstra.jpg" alt="person_photo"/>
+                            </a><br/>
+                        </div>
+                        <div class="double_image_container">
+                            <a href="https://people.orie.cornell.edu/shmoys/">
+                                <img class="double_presenter" src="./images/david_schmoys.jpg" alt="person_photo"/>
+                            </a><br/>
+                        </div>
+                    </td>
+                    <td colspan="2">
+                        <div class="resizable_youtube_double">
+                            <iframe width="400" height="250" src="https://www.youtube.com/embed/dSX3rmXSLlo"
+                                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                                    allowfullscreen></iframe>
+                        </div>
+                    </td>
+                </tr>
+
+                <!--Text description-->
+                <tr>
+                    <td class="presenter_past_info_container">
+                    </td>
+                    <td>
+                        <table class="panelists_past_container_double">
+                            <tr>
+                                <td colspan="2"><b>[Presenters]</b> <br></td>
+                                <td><b>[Invited by]</b> <br></td>
+                            </tr>
+                            <tr>
+                                <td><a href="https://www.cwi.nl/people/jan-karel-lenstra">Jan Karel Lenstra</a><br>
+                                    (CWI)<br></td>
+                                <td>
+                                    <a href="https://people.orie.cornell.edu/shmoys/">David Shmoys</a> <br>
+                                    (Cornell University)<br></td>
+                                <td><a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a><br>
+                                    (New York University)
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+            </table>
+
+            <!--Spacing--->
+            <table style="margin: 0 0 0 0 !important;">
+                <tr>
+                    <td colspan="100%"></td>
+                </tr>
+            </table>
 
         </tbody>
     </table>
