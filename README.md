@@ -517,7 +517,7 @@
                                 <td>
                                     <a href="https://www.coga.tu-berlin.de/v_menue/mitarbeitende/prof_dr_martin_skutella/prof_dr_martin_skutella/parameter/en/">Martin
                                         Skutella</a><br>
-                                    (TU Berlin)<br><br/>
+                                    (TU Berlin)<br>
                                 </td>
                                 <td></td>
                                 <td>
