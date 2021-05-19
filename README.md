@@ -14,32 +14,35 @@
             <span class="asia">Asia, Australia & Oceania</span>).
             <br/>
             &nbsp;
-            <div style="text-align:right;">
-                <!--<a href="https://list.iid.ciirc.cvut.cz/mailman3/lists/schedulingseminar.rtime.felk.cvut.cz/"-->
-                <!--class="button3" style="font-weight: bold">Newsletter</a>-->
-                <a href='#PC_co-chairs' class="button3">PC co-chairs</a>
-                <a href='#Program_committee' class="button3">Program committee</a>
-                <a href='#Calendar' class="button3">Calendar</a>
-                <a href='#Feedback' class="button3">Feedback</a>
+            <div>
+                <div class="inline-left">
+                    <a href='https://www.youtube.com/channel/UCUoCNnaAfw5NAntItILFn4A' style="margin-right: 5px">
+                        <img src="icons/youtube.png" height="42px" width="42px" alt="youtube"/>
+                    </a>
+
+                    <a href='https://list.iid.ciirc.cvut.cz/mailman3/lists/schedulingseminar.rtime.felk.cvut.cz/'
+                       style="margin-right: 5px">
+                        <img src="icons/email.png" height="40px" width="40px" alt="email"/>
+                    </a>
+
+                    <a href='https://twitter.com/ZHanzalek' style="margin-right: 5px">
+                        <img src="icons/twitter.png" height="40px" width="40px" alt="twitter"/>
+                    </a>
+
+                    <a href='https://www.linkedin.com/groups/9047074/' style="margin-right: 5px">
+                        <img src="icons/linkedin.png" height="40px" width="50px" alt="linkedin"/>
+                    </a>
+                </div>
+                <div class="inline-right">
+                    <!--<a href="https://list.iid.ciirc.cvut.cz/mailman3/lists/schedulingseminar.rtime.felk.cvut.cz/"-->
+                        <!--class="button3" style="font-weight: bold">Newsletter</a>-->
+                    <a href='#PC_co-chairs' class="button3">PC co-chairs</a>
+                    <a href='#Program_committee' class="button3">Program committee</a>
+                    <a href='#Calendar' class="button3">Calendar</a>
+                    <a href='#Feedback' class="button3">Feedback</a>
+                </div>
             </div>
-            <div style="text-align:right; margin-top: 20px; margin-right: 0px">
-                <a href='https://www.youtube.com/channel/UCUoCNnaAfw5NAntItILFn4A' style="margin-right: 5px">
-                    <img src="icons/youtube.png" height="52px" width="52px" alt="youtube"/>
-                </a>
 
-                <a href='https://list.iid.ciirc.cvut.cz/mailman3/lists/schedulingseminar.rtime.felk.cvut.cz/'
-                   style="margin-right: 5px">
-                    <img src="icons/email.png" height="50px" width="50px" alt="email"/>
-                </a>
-
-                <a href='https://twitter.com/ZHanzalek' style="margin-right: 5px">
-                    <img src="icons/twitter.png" height="50px" width="50px" alt="twitter"/>
-                </a>
-
-                <a href='https://www.linkedin.com/groups/9047074/' style="margin-right: 5px">
-                    <img src="icons/linkedin.png" height="50px" width="60px" alt="linkedin"/>
-                </a>
-            </div>
         </td>
     </tr>
 </table>
