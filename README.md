@@ -2,7 +2,7 @@
 <table class="header_table">
     <tr>
         <td class="header_image">
-            <img src="./images/gantt-fabrio-merica.png" height="200px" width="600px" alt="logo"/>
+            <img src="photos/gantt-fabrio-merica.png" height="200px" width="600px" alt="logo"/>
         </td>
         <td class="header_paragraph">
             <h1>Scheduling seminar</h1>
@@ -72,12 +72,12 @@
         <!--                <td class="presenter_image_container">-->
         <!--                    <div class="double_image_container">-->
         <!--                        <a href="https://www.cwi.nl/people/jan-karel-lenstra">-->
-        <!--                            <img class="double_presenter" src="./images/jan_karel_lenstra.jpg" alt="person_photo"/>-->
+        <!--                            <img class="double_presenter" src="./photos/jan_karel_lenstra.jpg" alt="person_photo"/>-->
         <!--                        </a><br/>-->
         <!--                    </div>-->
         <!--                    <div class="double_image_container">-->
         <!--                        <a href="https://people.orie.cornell.edu/shmoys/">-->
-        <!--                            <img class="double_presenter" src="./images/david_schmoys.jpg" alt="person_photo"/>-->
+        <!--                            <img class="double_presenter" src="./photos/david_schmoys.jpg" alt="person_photo"/>-->
         <!--                        </a><br/>-->
         <!--                    </div>-->
         <!--                </td>-->
@@ -154,7 +154,7 @@
                 <td class="presenter_image_container">
                     <div class="single_image_container">
                         <a href="https://www.kuleuven.be/wieiswie/en/person/00008606">
-                            <img class="single_presenter" src="./images/erik_demeulemeester.jpg"
+                            <img class="single_presenter" src="photos/erik_demeulemeester.jpg"
                                  alt="person_photo"/>
                         </a><br/>
                     </div>
@@ -245,7 +245,7 @@
                 <td class="presenter_image_container">
                     <div class="single_image_container">
                         <a href="https://www.researchgate.net/profile/Jinjiang-Yuan">
-                            <img class="single_presenter" src="./images/Jinjiang_Yuan.jpg"
+                            <img class="single_presenter" src="photos/Jinjiang_Yuan.jpg"
                                  alt="person_photo"/>
                         </a><br/>
                     </div>
@@ -328,7 +328,7 @@
                 <td class="presenter_image_container">
                     <div class="single_image_container">
                         <a href="https://che.utoronto.ca/professor-michael-w-carter/">
-                            <img class="single_presenter" src="./images/CarterM_photo.jpg"
+                            <img class="single_presenter" src="photos/CarterM_photo.jpg"
                                  alt="person_photo"/>
                         </a><br/>
                     </div>
@@ -403,7 +403,7 @@
                 <td class="presenter_image_container">
                     <div class="single_image_container">
                         <a href="http://www.dpia.uniud.it/schaerf/">
-                            <img class="single_presenter" src="./images/schaerf.jpg"
+                            <img class="single_presenter" src="photos/schaerf.jpg"
                                  alt="person_photo"/>
                         </a><br/>
                     </div>
@@ -489,7 +489,7 @@
                 <td class="presenter_image_container">
                     <div class="single_image_container">
                         <a href="https://www.coga.tu-berlin.de/v_menue/mitarbeitende/prof_dr_martin_skutella/prof_dr_martin_skutella/parameter/en/">
-                            <img class="single_presenter" src="./images/skutella.jpg"
+                            <img class="single_presenter" src="photos/skutella.jpg"
                                  alt="person_photo"/>
                         </a><br/>
                     </div>
@@ -591,7 +591,7 @@
                 <td class="presenter_image_container">
                     <div class="single_image_container">
                         <a href="http://dao.neu.edu.cn/">
-                            <img class="single_presenter" src="./images/lixin_tang.jpg"
+                            <img class="single_presenter" src="photos/lixin_tang.jpg"
                                  alt="person_photo"/>
                         </a><br/>
                     </div>
@@ -674,7 +674,7 @@
                 <td class="presenter_image_container">
                     <div class="single_image_container">
                         <a href="http://www.cs.cmu.edu/~harchol/">
-                            <img class="single_presenter" src="./images/harchol_balter.jpg" alt="person_photo"/>
+                            <img class="single_presenter" src="photos/harchol_balter.jpg" alt="person_photo"/>
                         </a><br/>
                     </div>
                 </td>
@@ -751,12 +751,12 @@
                 <td class="presenter_image_container">
                     <div class="double_image_container">
                         <a href="https://www.cwi.nl/people/jan-karel-lenstra">
-                            <img class="double_presenter" src="./images/jan_karel_lenstra.jpg" alt="person_photo"/>
+                            <img class="double_presenter" src="photos/jan_karel_lenstra.jpg" alt="person_photo"/>
                         </a><br/>
                     </div>
                     <div class="double_image_container">
                         <a href="https://people.orie.cornell.edu/shmoys/">
-                            <img class="double_presenter" src="./images/david_schmoys.jpg" alt="person_photo"/>
+                            <img class="double_presenter" src="photos/david_schmoys.jpg" alt="person_photo"/>
                         </a><br/>
                     </div>
                 </td>
@@ -819,7 +819,7 @@
             <!--Person-->
             <td class="europe" style="margin: 0 10px 0 0;">
                 <a href="https://rtime.ciirc.cvut.cz/~hanzalek/">
-                    <img src="./images/Zdenek.jpg" height="200px" width="150px" alt="person_photo"/><br>
+                    <img src="photos/Zdenek.jpg" height="200px" width="150px" alt="person_photo"/><br>
                     Zdeněk Hanzálek<br>
                     CTU in Prague</a>
             </td>
@@ -827,7 +827,7 @@
             <!--Person-->
             <td class="america" style="margin: 0 10px 0 0;">
                 <a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">
-                    <img src="./images/mpinedo.jpg" height="200px" width="150px" alt="person_photo"/><br>
+                    <img src="photos/mpinedo.jpg" height="200px" width="150px" alt="person_photo"/><br>
                     Michael Pinedo<br>
                     New York University </a>
             </td>
@@ -835,7 +835,7 @@
             <!--Person-->
             <td class="asia">
                 <a href="http://www.acem.sjtu.edu.cn/en/faculty/wanguohua.html">
-                    <img src="./images/guohua_wan.jpg" height="200px" width="150px" alt="person_photo"/><br>
+                    <img src="photos/guohua_wan.jpg" height="200px" width="150px" alt="person_photo"/><br>
                     Guohua Wan<br>
                     Shanghai Jiao Tong</a>
             </td>
@@ -856,7 +856,7 @@
             <!--Alessandro Agnetis-->
             <td>
                 <a href="https://www3.diism.unisi.it/~agnetis/">
-                    <img src="./images/alessandro_agnetis.jpg" height="200" width="150" alt="person_photo"/><br>
+                    <img src="photos/alessandro_agnetis.jpg" height="200" width="150" alt="person_photo"/><br>
                     Alessandro Agnetis<br>
                     University of Siena</a>
             </td>
@@ -864,7 +864,7 @@
             <!--M. Selim Akturk-->
             <td>
                 <a href="//akturk.bilkent.edu.tr">
-                    <img src="./images/Akturk.jpg" height="200" width="150" alt="person_photo"/><br>
+                    <img src="photos/Akturk.jpg" height="200" width="150" alt="person_photo"/><br>
                     M. Selim Akturk<br>
                     Bilkent University</a>
             </td>
@@ -872,7 +872,7 @@
             <!--Christian Artigues-->
             <td>
                 <a href="https://homepages.laas.fr/artigues/drupal/node/11">
-                    <img src="./images/christian_artigues.jpg" height="200" width="150" alt="person_photo"/><br>
+                    <img src="photos/christian_artigues.jpg" height="200" width="150" alt="person_photo"/><br>
                     Christian Artigues<br>
                     LAAS - CNRS</a>
             </td>
@@ -880,7 +880,7 @@
             <!--Sanjoy Baruah-->
             <td>
                 <a href="https://engineering.wustl.edu/faculty/Sanjoy-Baruah.html ">
-                    <img src="./images/sanjoy_baruah.jpg" height="200" width="150" alt="person_photo"/><br>
+                    <img src="photos/sanjoy_baruah.jpg" height="200" width="150" alt="person_photo"/><br>
                     Sanjoy Baruah<br>
                     Washington U, STL</a>
             </td>
@@ -888,7 +888,7 @@
             <!--Edmund Burke-->
             <td>
                 <a href="https://le.ac.uk/about/senior-management/profiles/deputy-vice-chancellor">
-                    <img src="./images/Prof_Burke.jpg" height="200" width="150" alt="person_photo"/><br>
+                    <img src="photos/Prof_Burke.jpg" height="200" width="150" alt="person_photo"/><br>
                     Edmund Burke<br>
                     Uni of Leicester</a>
             </td>
@@ -896,7 +896,7 @@
             <!--Zhi-Long Chen-->
             <td>
                 <a href="https://scholar.google.com/citations?hl=en&user=AWOfe_QAAAAJ&view_op=list_works&sortby=pubdate">
-                    <img src="./images/ZL-Chen.JPG" height="200" width="150" alt="person_photo"/><br>
+                    <img src="photos/ZL-Chen.JPG" height="200" width="150" alt="person_photo"/><br>
                     Zhi-Long Chen<br>
                     Uni of Maryland</a>
             </td>
@@ -904,7 +904,7 @@
             <!--Liang Gao-->
             <td>
                 <a href="https://scholar.google.com/citations?user=NqIi8_8AAAAJ&hl=en">
-                    <img src="./images/liang_gao.jpg" height="200" width="150" alt="person_photo"/><br>
+                    <img src="photos/liang_gao.jpg" height="200" width="150" alt="person_photo"/><br>
                     Liang Gao<br>
                     HUST, Wuhan</a>
             </td>
@@ -912,7 +912,7 @@
             <!--Nicholas G. Hall-->
             <td>
                 <a href="https://fisher.osu.edu/people/hall.33">
-                    <img src="./images/nicholas_g_hall.jpg" height="200" width="150" alt="person_photo"/><br>
+                    <img src="photos/nicholas_g_hall.jpg" height="200" width="150" alt="person_photo"/><br>
                     Nicholas G. Hall<br>
                     The Ohio State Uni</a>
             </td>
@@ -920,7 +920,7 @@
             <!--Claire Hanen-->
             <td>
                 <a href="https://ufr-segmi.parisnanterre.fr/organisation-et-contacts/espace-reserve-enseignants/site-des-enseignants/les-enseignants-de-segmi/hanen-claire/hanen-claire-93518.kjsp">
-                    <img src="./images/claire_hanen.jpg" height="200" width="150" alt="person_photo"/><br>
+                    <img src="photos/claire_hanen.jpg" height="200" width="150" alt="person_photo"/><br>
                     Claire Hanen<br>
                     Sorbonne Uni</a>
             </td>
@@ -928,7 +928,7 @@
             <!--Sigrid Knust-->
             <td>
                 <a href="https://www.informatik.uni-osnabrueck.de/knust/">
-                    <img src="./images/sknust.jpg" height="200" width="150" alt="person_photo"/><br>
+                    <img src="photos/sknust.jpg" height="200" width="150" alt="person_photo"/><br>
                     Sigrid Knust<br>
                     Uni of Osnabrück</a>
             </td>
@@ -936,7 +936,7 @@
             <!--Rainer Kolisch-->
             <td>
                 <a href="https://www.professors.wi.tum.de/om/team/prof-dr-rainer-kolisch/">
-                    <img src="./images/Kolisch_Rainer.jpg" height="200" width="150" alt="person_photo"/><br>
+                    <img src="photos/Kolisch_Rainer.jpg" height="200" width="150" alt="person_photo"/><br>
                     Rainer Kolisch<br>
                     TU Munich</a>
             </td>
@@ -944,7 +944,7 @@
             <!--Mikhail Kovalyov-->
             <td>
                 <a href="http://uiip.bas-net.by/eng/contacts.php">
-                    <img src="./images/Mikhail_Kovalyov.jpg" height="200" width="150" alt="person_photo"/><br>
+                    <img src="photos/Mikhail_Kovalyov.jpg" height="200" width="150" alt="person_photo"/><br>
                     Mikhail Kovalyov<br>
                     UIIP NAS Belarus</a>
             </td>
@@ -952,7 +952,7 @@
             <!--KANGBOK LEE-->
             <td>
                 <a href="https://sites.google.com/site/kangbokstudy/">
-                    <img src="./images/kangbok_lee.jpg" height="200" width="150" alt="person_photo"/><br>
+                    <img src="photos/kangbok_lee.jpg" height="200" width="150" alt="person_photo"/><br>
                     Kangbok Lee<br>
                     POSTECH</a>
             </td>
@@ -960,7 +960,7 @@
             <!--Chung-Lun Li-->
             <td>
                 <a href="https://lms.polyu.edu.hk/people/academic-staff/prof-chung-lun-li/">
-                    <img src="./images/chung-lun_li.jpg" height="200" width="150" alt="person_photo"/><br>
+                    <img src="photos/chung-lun_li.jpg" height="200" width="150" alt="person_photo"/><br>
                     Chung-Lun Li<br>
                     Hong Kong PolyU</a>
             </td>
@@ -968,7 +968,7 @@
             <!--Bertrand Lin-->
             <td>
                 <a href="https://www.iim.nctu.edu.tw/en/teacher/Lin-Bertrand%20M.T.">
-                    <img src="./images/bertrand_lin.jpg" height="200" width="150" alt="person_photo"/><br>
+                    <img src="photos/bertrand_lin.jpg" height="200" width="150" alt="person_photo"/><br>
                     Bertrand Lin<br>
                     NCTU, Taiwan</a>
             </td>
@@ -977,7 +977,7 @@
             <!--            &lt;!&ndash;Xiwen Lun&ndash;&gt;-->
             <!--            <td>-->
             <!--                <a href="https://www.iim.nctu.edu.tw/en/teacher/Lin-Bertrand%20M.T.">-->
-            <!--                    <img src="./images/bertrand_lin.jpg" height="200" width="150" alt="person_photo"/><br>-->
+            <!--                    <img src="./photos/bertrand_lin.jpg" height="200" width="150" alt="person_photo"/><br>-->
             <!--                    Xiwen Lu<br>-->
             <!--                    East China U. of Sci. & Tech</a>-->
             <!--            </td>-->
@@ -985,7 +985,7 @@
             <!--Hirofumi Matsuo-->
             <td>
                 <a href="https://scholar.google.com/citations?user=VQwcdN4AAAAJ&hl=en">
-                    <img src="./images/hirofumi_matsuo.jpg" height="200" width="150" alt="person_photo"/><br>
+                    <img src="photos/hirofumi_matsuo.jpg" height="200" width="150" alt="person_photo"/><br>
                     Hirofumi Matsuo<br>
                     TIU, Tokyo</a>
             </td>
@@ -993,7 +993,7 @@
             <!--Erwin Pesch-->
             <td>
                 <a href="https://www.wiwi.uni-siegen.de/mis/team/">
-                    <img src="./images/SA-2018-Erwin.jpg" height="200" width="150" alt="person_photo"/><br>
+                    <img src="photos/SA-2018-Erwin.jpg" height="200" width="150" alt="person_photo"/><br>
                     Erwin Pesch<br>
                     Uni of Siegen</a>
             </td>
@@ -1001,7 +1001,7 @@
             <!--Marc E. Posner-->
             <td>
                 <a href="">
-                    <img src="./images/MPosner.jpg" height="200" width="150" alt="person_photo"/><br>
+                    <img src="photos/MPosner.jpg" height="200" width="150" alt="person_photo"/><br>
                     Marc Posner<br>
                     The Ohio State Uni</a>
             </td>
@@ -1009,7 +1009,7 @@
             <!--Chris Potts-->
             <td>
                 <a href="https://www.southampton.ac.uk/maths/about/staff/cnp1.page">
-                    <img src="./images/chris_potts.JPG" height="200" width="150" alt="person_photo"/><br>
+                    <img src="photos/chris_potts.JPG" height="200" width="150" alt="person_photo"/><br>
                     Chris Potts<br>
                     Southhampton Uni</a>
             </td>
@@ -1017,7 +1017,7 @@
             <!-- Xiangtong Qi-->
             <td>
                 <a href="https://seng.ust.hk/about/people/faculty/xiangtong-qi">
-                    <img src="./images/xiangtong_qi.jpg" height="200" width="150" alt="person_photo"/><br>
+                    <img src="photos/xiangtong_qi.jpg" height="200" width="150" alt="person_photo"/><br>
                     Xiangtong Qi<br>
                     HKUST</a>
             </td>
@@ -1025,7 +1025,7 @@
             <!--Rhonda Righter-->
             <td>
                 <a href="https://rrighter.ieor.berkeley.edu/">
-                    <img src="./images/rhonda-righter-2015_0.png" height="200" width="150" alt="person_photo"/><br>
+                    <img src="photos/rhonda-righter-2015_0.png" height="200" width="150" alt="person_photo"/><br>
                     Rhonda Righter<br>
                     UC Berkeley</a>
             </td>
@@ -1033,7 +1033,7 @@
             <!--Rubén Ruiz García-->
             <td>
                 <a href="http://soa.iti.es/rruiz">
-                    <img src="./images/Rubén_Ruiz_1.jpg" height="200" width="150" alt="person_photo"/><br>
+                    <img src="photos/Rubén_Ruiz_1.jpg" height="200" width="150" alt="person_photo"/><br>
                     Rubén Ruiz<br>
                     UP València</a>
             </td>
@@ -1041,7 +1041,7 @@
             <!--Andrea Schaerf-->
             <td>
                 <a href="http://www.dpia.uniud.it/schaerf/">
-                    <img src="./images/Andrea.jpg" height="200" width="150" alt="person_photo"/><br>
+                    <img src="photos/Andrea.jpg" height="200" width="150" alt="person_photo"/><br>
                     Andrea Schaerf<br>
                     Uni of Udine</a>
             </td>
@@ -1049,7 +1049,7 @@
             <!--Dvir Shabtay-->
             <td>
                 <a href="https://in.bgu.ac.il/en/engn/iem/pages/staff/Dvir-Shabtay.aspx">
-                    <img src="./images/dvir-web.png" height="200" width="150" alt="person_photo"/><br>
+                    <img src="photos/dvir-web.png" height="200" width="150" alt="person_photo"/><br>
                     Dvir Shabtay<br>
                     Ben Gurion Uni</a>
             </td>
@@ -1057,7 +1057,7 @@
             <!--Roman Słowiński-->
             <td>
                 <a href="http://idss.cs.put.poznan.pl/site/rslowinski.html">
-                    <img src="./images/R.Slowinski 4,5x6,5.jpg" height="200" width="150" alt="person_photo"/><br>
+                    <img src="photos/R.Slowinski 4,5x6,5.jpg" height="200" width="150" alt="person_photo"/><br>
                     Roman Słowiński<br>
                     Poznań Uni Tech.</a>
             </td>
@@ -1065,7 +1065,7 @@
             <!--Stephen F. Smith-->
             <td>
                 <a href="https://www.ri.cmu.edu/ri-faculty/stephen-smith/">
-                    <img src="./images/smith_steve.jpg" height="200" width="150" alt="person_photo"/><br>
+                    <img src="photos/smith_steve.jpg" height="200" width="150" alt="person_photo"/><br>
                     Stephen Smith<br>
                     CMU</a>
             </td>
@@ -1073,7 +1073,7 @@
             <!--Clifford Stein-->
             <td>
                 <a href="https://www.ieor.columbia.edu/faculty/clifford-stein">
-                    <img src="./images/Clifford_Stein_web.png" height="200" width="150" alt="person_photo"/><br>
+                    <img src="photos/Clifford_Stein_web.png" height="200" width="150" alt="person_photo"/><br>
                     Clifford Stein<br>
                     Columbia Uni</a>
             </td>
@@ -1081,7 +1081,7 @@
             <!--Přemysl Šůcha-->
             <td>
                 <a href="http://people.ciirc.cvut.cz/~suchap/">
-                    <img src="./images/Premysl_Sucha.jpg" height="200" width="150" alt="person_photo"/><br>
+                    <img src="photos/Premysl_Sucha.jpg" height="200" width="150" alt="person_photo"/><br>
                     Přemysl Šůcha<br>
                     CTU in Prague</a>
             </td>
@@ -1089,7 +1089,7 @@
             <!--Vincent T'kindt-->
             <td>
                 <a href="https://www.univ-tours.fr/annuaire/m-vincent-tkindt">
-                    <img src="./images/VTkindt-head.png" height="200" width="150" alt="person_photo"/><br>
+                    <img src="photos/VTkindt-head.png" height="200" width="150" alt="person_photo"/><br>
                     Vincent T'kindt<br>
                     Uni de Tours</a>
             </td>
@@ -1097,7 +1097,7 @@
             <!--Li-Xin Tang-->
             <td>
                 <a href="http://dao.neu.edu.cn/">
-                    <img src="./images/lixin_tang.jpg" height="200" width="150" alt="person_photo"/><br>
+                    <img src="photos/lixin_tang.jpg" height="200" width="150" alt="person_photo"/><br>
                     Li-Xin Tang<br>
                     NEU, Shenyang</a>
             </td>
@@ -1105,7 +1105,7 @@
             <!--Reza Tavakkoli-Moghaddam-->
             <td>
                 <a href="https://scholar.google.com/citations?user=gqVUx4cAAAAJ&hl=en">
-                    <img src="./images/reza_moghaddam.jpg" height="200" width="150" alt="person_photo"/><br>
+                    <img src="photos/reza_moghaddam.jpg" height="200" width="150" alt="person_photo"/><br>
                     Reza Tavakkoli<br>
                     Uni of Tehran</a>
             </td>
@@ -1113,7 +1113,7 @@
             <!--Marc Uetz-->
             <td>
                 <a href="https://people.utwente.nl/m.uetz">
-                    <img src="./images/mark_uetz.jpg" height="200" width="150" alt="person_photo"/><br>
+                    <img src="photos/mark_uetz.jpg" height="200" width="150" alt="person_photo"/><br>
                     Marc Uetz<br>
                     Uni of Twente</a>
             </td>
@@ -1121,7 +1121,7 @@
             <!--Greet Vanden Berghe-->
             <td>
                 <a href="https://www.kuleuven.be/wieiswie/nl/person/00053376">
-                    <img src="./images/greet_vanden_berghe.jpg" height="200" width="150" alt="person_photo"/><br>
+                    <img src="photos/greet_vanden_berghe.jpg" height="200" width="150" alt="person_photo"/><br>
                     G. Vanden Berghe<br>
                     KU Leuven</a>
             </td>
@@ -1129,7 +1129,7 @@
             <!--Mario Vanhoucke-->
             <td>
                 <a href="https://www.or-as.be">
-                    <img src="./images/Mario_Vanhoucke_Pasfoto.jpg" height="200" width="150" alt="person_photo"/><br>
+                    <img src="photos/Mario_Vanhoucke_Pasfoto.jpg" height="200" width="150" alt="person_photo"/><br>
                     Mario Vanhoucke<br>
                     Ghent University</a>
             </td>
@@ -1137,7 +1137,7 @@
             <!--Yakov Zinder-->
             <td>
                 <a href="https://profiles.uts.edu.au/Yakov.Zinder">
-                    <img src="./images/Yakov-Zinder.jpg" height="200" width="150" alt="person_photo"/><br>
+                    <img src="photos/Yakov-Zinder.jpg" height="200" width="150" alt="person_photo"/><br>
                     Yakov Zinder<br>
                     UT Sydney</a>
             </td>
@@ -1145,7 +1145,7 @@
             <!--            &lt;!&ndash;Person&ndash;&gt;-->
             <!--            <td>-->
             <!--                <a href="https://schedulingseminar.com/">-->
-            <!--                    <img src="./images/person_placeholder.png" height="200" width="150" alt="person_photo"/><br>-->
+            <!--                    <img src="./photos/person_placeholder.png" height="200" width="150" alt="person_photo"/><br>-->
             <!--                    Name Surname<br>Affiliation</a>-->
             <!--            </td>-->
 
