@@ -15,20 +15,29 @@
             <br/>
             &nbsp;
             <div style="text-align:right;">
-                <a href="https://list.iid.ciirc.cvut.cz/mailman3/lists/schedulingseminar.rtime.felk.cvut.cz/"
-                   class="button3" style="font-weight: bold">Newsletter</a>
+                <!--<a href="https://list.iid.ciirc.cvut.cz/mailman3/lists/schedulingseminar.rtime.felk.cvut.cz/"-->
+                <!--class="button3" style="font-weight: bold">Newsletter</a>-->
                 <a href='#PC_co-chairs' class="button3">PC co-chairs</a>
                 <a href='#Program_committee' class="button3">Program committee</a>
                 <a href='#Calendar' class="button3">Calendar</a>
                 <a href='#Feedback' class="button3">Feedback</a>
             </div>
-            <div style="text-align:right; margin-top: 20px; margin-right: 10px">
-                <a href='https://www.linkedin.com/groups/9047074/'>
-                    <img src="icons/linkedin.png" height="50px" width="60px" alt="linkedin"/>
+            <div style="text-align:right; margin-top: 20px; margin-right: 0px">
+                <a href='https://www.youtube.com/channel/UCUoCNnaAfw5NAntItILFn4A' style="margin-right: 5px">
+                    <img src="icons/youtube.png" height="52px" width="52px" alt="youtube"/>
                 </a>
 
-                <a href='https://twitter.com/ZHanzalek'>
+                <a href='https://list.iid.ciirc.cvut.cz/mailman3/lists/schedulingseminar.rtime.felk.cvut.cz/'
+                   style="margin-right: 5px">
+                    <img src="icons/email.png" height="50px" width="50px" alt="email"/>
+                </a>
+
+                <a href='https://twitter.com/ZHanzalek' style="margin-right: 5px">
                     <img src="icons/twitter.png" height="50px" width="50px" alt="twitter"/>
+                </a>
+
+                <a href='https://www.linkedin.com/groups/9047074/' style="margin-right: 5px">
+                    <img src="icons/linkedin.png" height="50px" width="60px" alt="linkedin"/>
                 </a>
             </div>
         </td>
@@ -1200,23 +1209,35 @@
 &nbsp;
 <hr>
 <footer id="Subscribe">
-    <p style="text-align:center">
-        Subscribe to our <a href="https://list.iid.ciirc.cvut.cz/mailman3/lists/schedulingseminar.rtime.felk.cvut.cz/">
-        <b>mailing list</b></a> and <a href="https://www.youtube.com/channel/UCUoCNnaAfw5NAntItILFn4A">
-        <b>youtube channel</b></a>
-        to never miss new interesting seminars.
-        <br/>
-        <div style="text-align:center; margin-top: 10px">
-            <a href='https://www.linkedin.com/groups/9047074/'>
-                <img src="icons/linkedin.png" height="45px" width="55px" alt="linkedin"/>
-            </a>
+    <!--    <p style="text-align:center">-->
+    <!--        Subscribe to our <a href="https://list.iid.ciirc.cvut.cz/mailman3/lists/schedulingseminar.rtime.felk.cvut.cz/">-->
+    <!--        <b>mailing list</b></a> and <a href="https://www.youtube.com/channel/UCUoCNnaAfw5NAntItILFn4A">-->
+    <!--        <b>youtube channel</b></a>-->
+    <!--        to never miss new interesting seminars.-->
+    <!--        <br/>-->
+    <!--    </p>-->
+    <!--    <hr>-->
 
-            <a href='https://twitter.com/ZHanzalek'>
-                <img src="icons/twitter.png" height="45px" width="45px" alt="twitter"/>
-            </a>
-        </div>
-    </p>
+    <div style="text-align:center; margin-top: 10px">
+        <a href='https://www.youtube.com/channel/UCUoCNnaAfw5NAntItILFn4A' style="margin-right: 5px">
+            <img src="icons/youtube.png" height="47px" width="47px" alt="youtube"/>
+        </a>
+
+        <a href='https://list.iid.ciirc.cvut.cz/mailman3/lists/schedulingseminar.rtime.felk.cvut.cz/'
+           style="margin-right: 5px">
+            <img src="icons/email.png" height="45px" width="45px" alt="email"/>
+        </a>
+
+        <a href='https://www.linkedin.com/groups/9047074/'>
+            <img src="icons/linkedin.png" height="45px" width="55px" alt="linkedin"/>
+        </a>
+
+        <a href='https://twitter.com/ZHanzalek'>
+            <img src="icons/twitter.png" height="45px" width="45px" alt="twitter"/>
+        </a>
+    </div>
     <hr>
+
     <p style="text-align:center">
         <a href="https://schedseminar.github.io">schedulingseminar.com</a> is maintained by
         <a href="https://iid.ciirc.cvut.cz/">CTU in Prague</a>.
