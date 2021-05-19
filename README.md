@@ -2,7 +2,7 @@
 <table class="header_table">
     <tr>
         <td class="header_image">
-            <img src="photos/gantt-fabrio-merica.png" height="200px" width="600px" alt="logo"/>
+            <img src="icons/gantt-fabrio-merica.png" height="200px" width="600px" alt="logo"/>
         </td>
         <td class="header_paragraph">
             <h1>Scheduling seminar</h1>
@@ -21,6 +21,15 @@
                 <a href='#Program_committee' class="button3">Program committee</a>
                 <a href='#Calendar' class="button3">Calendar</a>
                 <a href='#Feedback' class="button3">Feedback</a>
+            </div>
+            <div style="text-align:right; margin-top: 20px; margin-right: 10px">
+                <a href='https://www.linkedin.com/groups/9047074/'>
+                    <img src="icons/linkedin.png" height="50px" width="60px" alt="linkedin"/>
+                </a>
+
+                <a href='https://twitter.com/ZHanzalek'>
+                    <img src="icons/twitter.png" height="50px" width="50px" alt="twitter"/>
+                </a>
             </div>
         </td>
     </tr>
@@ -1197,6 +1206,15 @@
         <b>youtube channel</b></a>
         to never miss new interesting seminars.
         <br/>
+        <div style="text-align:center; margin-top: 10px">
+            <a href='https://www.linkedin.com/groups/9047074/'>
+                <img src="icons/linkedin.png" height="45px" width="55px" alt="linkedin"/>
+            </a>
+
+            <a href='https://twitter.com/ZHanzalek'>
+                <img src="icons/twitter.png" height="45px" width="45px" alt="twitter"/>
+            </a>
+        </div>
     </p>
     <hr>
     <p style="text-align:center">
