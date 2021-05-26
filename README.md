@@ -166,6 +166,9 @@
                         future research.
                         <hr style="border-top: 1px solid black;">
                     </div>
+                    <a href="./presentations/SchedulingSeminar_ErikDemeulemeester.pdf" class="label_abstract" download>
+                        Download PDF
+                    </a>
 
                 </td>
             </tr>
