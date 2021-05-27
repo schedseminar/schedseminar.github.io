@@ -141,92 +141,6 @@
         <!--        </table>-->
 
         <!--Single talk------------------------------------------------------------------------------------------------>
-        <table style="padding-bottom: 12px;" class="europe">
-            <!--Title/Abstract-->
-            <tr class="europe">
-                <td colspan="3">
-                    <h2 class="talk_title"><b>On the State of the Art in Proactive/Reactive Project Scheduling
-                    </b><br></h2>
-                    <input type="checkbox" id="abstract_id_6" style="display:none;">
-                    <label for="abstract_id_6" class="label_abstract"><a>Abstract</a></label>
-                    <div class="hidden">
-                        <hr style="border-top: 1px solid black;">
-                        The majority of publications in the extensive literature on resource-constrained project
-                        scheduling focus on a static deterministic setting for which a so-called baseline schedule is
-                        computed prior to project execution. In the real world, however, a project may be subject to
-                        considerable uncertainty. During the actual execution of a project, the baseline schedule may
-                        indeed suffer from disruptive events, causing the actually realized activity start times to
-                        deviate from the predicted baseline start times. This presentation focuses on robust project
-                        scheduling, in particular the development of effective and efficient proactive and reactive
-                        scheduling procedures. Proactive scheduling aims at generating robust baseline schedules that
-                        carry sufficient protection against possible schedule disruptions that may occur during project
-                        execution. Reactive scheduling procedures aim at repairing the baseline schedule when the
-                        built-in protection fails during the execution of the project. We discuss the fundamentals of
-                        state of the art proactive/reactive project scheduling approaches and discuss key directions for
-                        future research.
-                        <hr style="border-top: 1px solid black;">
-                    </div>
-                    <a href="./presentations/SchedulingSeminar_ErikDemeulemeester.pdf" class="label_abstract" download>
-                        Download PDF
-                    </a>
-
-                </td>
-            </tr>
-
-            <!--Data--->
-            <tr class="europe">
-                <td class="presenter_image_container">
-                    <div class="single_image_container">
-                        <a href="https://www.kuleuven.be/wieiswie/en/person/00008606">
-                            <img class="single_presenter" src="photos/erik_demeulemeester.jpg"
-                                 alt="person_photo"/>
-                        </a><br/>
-                    </div>
-                </td>
-                <td class="information_upcoming_container">
-                    <b>[Presenter] </b> <br>
-                    <a href="https://www.kuleuven.be/wieiswie/en/person/00008606">Erik Demeulemeester</a><br>
-                    (FEB-KBI, KU Leuven)<br><br/>
-                    <!--                    <b>[Panelists]</b> <br>-->
-                    <!--                <a href="">Name Surname</a> (Affiliation)<br>-->
-                    <!--                    <a href="">Name Surname</a> (Affiliation)<br/><br/>-->
-                    <b>[Invited by]</b> <br>
-                    <a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a> <br>
-                    (CTU in Prague)
-                </td>
-                <td class="time_zones_container">
-                    <table class="time_table">
-                        <tbody>
-                        <tr class="utc">
-                            <td>UTC</td>
-                            <td>May 26, 13:00 Wed</td>
-                        </tr>
-                        <tr class="europe">
-                            <td>Prague</td>
-                            <td>May 26, 15:00 Wed</td>
-                        </tr>
-                        <tr class="america">
-                            <td>New York</td>
-                            <td>May 26, 09:00 Wed</td>
-                        </tr>
-                        <tr class="asia">
-                            <td>Shanghai</td>
-                            <td>May 26, 21:00 Wed</td>
-                        </tr>
-                        </tbody>
-                    </table>
-                </td>
-            </tr>
-        </table>
-
-        <!--Spacing--->
-        <table style="margin: 0 0 0 0 !important;">
-            <tr>
-                <td colspan="100%"></td>
-            </tr>
-        </table>
-
-        <!--Single talk------------------------------------------------------------------------------------------------>
         <table style="padding-bottom: 12px;" class="asia">
             <!--Title/Abstract-->
             <tr>
@@ -480,6 +394,91 @@
     <h2>Past talks</h2>
     <table class="past_talk_table">
         <tbody>
+
+        <!--Single talk------------------------------------------------------------------------------------------------>
+        <table style="padding-bottom: 12px;" class="europe">
+            <!--Title/Abstract-->
+            <tr>
+                <td colspan="3">
+                    <h2 class="talk_title"><b>On the State of the Art in Proactive/Reactive Project Scheduling
+                    </b><br></h2>
+                    <input type="checkbox" id="abstract_id_6" style="display:none;">
+                    <label for="abstract_id_6" class="label_abstract"><a>Abstract</a></label>
+                    <div class="hidden">
+                        <hr style="border-top: 1px solid black;">
+                        The majority of publications in the extensive literature on resource-constrained project
+                        scheduling focus on a static deterministic setting for which a so-called baseline schedule is
+                        computed prior to project execution. In the real world, however, a project may be subject to
+                        considerable uncertainty. During the actual execution of a project, the baseline schedule may
+                        indeed suffer from disruptive events, causing the actually realized activity start times to
+                        deviate from the predicted baseline start times. This presentation focuses on robust project
+                        scheduling, in particular the development of effective and efficient proactive and reactive
+                        scheduling procedures. Proactive scheduling aims at generating robust baseline schedules that
+                        carry sufficient protection against possible schedule disruptions that may occur during project
+                        execution. Reactive scheduling procedures aim at repairing the baseline schedule when the
+                        built-in protection fails during the execution of the project. We discuss the fundamentals of
+                        state of the art proactive/reactive project scheduling approaches and discuss key directions for
+                        future research.
+                        <hr style="border-top: 1px solid black;">
+                    </div>
+                    <a href="./presentations/SchedulingSeminar_ErikDemeulemeester.pdf" class="label_abstract" download>
+                        Download PDF
+                    </a>
+
+                </td>
+            </tr>
+
+            <!--Photo and video-->
+            <tr>
+                <td class="presenter_image_container">
+                    <div class="single_image_container">
+                        <a href="https://www.kuleuven.be/wieiswie/en/person/00008606">
+                            <img class="single_presenter" src="photos/erik_demeulemeester.jpg"
+                                 alt="person_photo"/>
+                        </a><br/>
+                    </div>
+                </td>
+
+                <td colspan="2">
+                    <div class="resizable_youtube_single">
+                        <iframe width="400" height="250" src="https://www.youtube.com/embed/yUfvCgNTe08"
+                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                                allowfullscreen></iframe>
+                    </div>
+                </td>
+            </tr>
+
+            <!--Text description-->
+            <tr>
+                <td class="presenter_past_info_container"></td>
+                <td>
+                    <table class="panelists_past_container_single">
+                        <tr>
+                            <td colspan="2"><b>[Presenter]</b> <br></td>
+                            <td><b>[Invited by]</b> <br></td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.kuleuven.be/wieiswie/en/person/00008606">Erik Demeulemeester</a><br>
+                                (FEB-KBI, KU Leuven)<br/>
+                            </td>
+                            <td></td>
+                            <td>
+                                <a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a> <br>
+                                (CTU in Prague)
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+
+        <!--Spacing--->
+        <table style="margin: 0 0 0 0 !important;">
+            <tr>
+                <td colspan="100%"></td>
+            </tr>
+        </table>
 
         <!--Single talk------------------------------------------------------------------------------------------------>
         <table style="padding-bottom: 12px;" class="europe">
