@@ -175,6 +175,9 @@
                         projects of National Natural Science Foundation of China.
                         <hr style="border-top: 1px solid black;">
                     </div>
+                    <a href="./presentations/SchedulingSeminar_JinjiangYuan.pdf" class="label_abstract" download>
+                        Download PDF
+                    </a>
                 </td>
             </tr>
 
