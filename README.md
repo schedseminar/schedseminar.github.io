@@ -166,6 +166,9 @@
                         uncertainties and briefly review recent approaches.
                         <hr style="border-top: 1px solid black;">
                     </div>
+                    <a href="./presentations/SchedulingSeminar_MichaelCarter.pdf" class="label_abstract" download>
+                        Download PDF
+                    </a>
                     <!--Keywords: healthcare scheduling applications, diagnostic imaging, cancer treatment (chemotherapy and-->
                     <!--radiation),-->
                     <!--nurse/physician scheduling, surgical scheduling, 911 call centres, home-->
