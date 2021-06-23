@@ -188,7 +188,7 @@
                 </td>
                 <td class="information_upcoming_container">
                     <b>[Presenter] </b> <br>
-                    <a href="https://che.utoronto.ca/professor-michael-w-carter/">Mike Carter</a><br>
+                    <a href="https://che.utoronto.ca/professor-michael-w-carter/">Michael Carter</a><br>
                     (Uni of Toronto)<br><br/>
                     <b>[Invited by]</b> <br>
                     <a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a> <br/>
