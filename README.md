@@ -141,92 +141,6 @@
         <!--        </table>-->
 
         <!--Single talk------------------------------------------------------------------------------------------------>
-        <table style="padding-bottom: 12px;" class="america">
-            <!--Title/Abstract-->
-            <tr class="america">
-                <td colspan="3">
-                    <h2 class="talk_title"><b>Challenges in Healthcare Scheduling Applications</b><br></h2>
-                    <input type="checkbox" id="abstract_id_8" style="display:none;">
-                    <label for="abstract_id_8" class="label_abstract"><a>Abstract</a></label>
-                    <div class="hidden">
-                        <hr style="border-top: 1px solid black;">
-                        In the immortal words of Monty Python, “… and now for something completely different!”
-                        Over the past three decades, I have spent much of my time working on practical healthcare
-                        applications.
-                        Typically, the projects are done with healthcare collaborators. Virtually all of the scheduling
-                        problems are
-                        highly stochastic, and scheduling approaches focus on managing variability. In this talk, I will
-                        describe
-                        several healthcare applications including: diagnostic imaging, cancer treatment (chemotherapy
-                        and radiation),
-                        nurse/physician scheduling, surgical scheduling, 911 call centres, home care routing, medical
-                        resident
-                        scheduling and primary care appointments (e.g. advanced access). In each case, I will describe
-                        the underlying
-                        uncertainties and briefly review recent approaches.
-                        <hr style="border-top: 1px solid black;">
-                    </div>
-                    <a href="./presentations/SchedulingSeminar_MichaelCarter.pdf" class="label_abstract" download>
-                        Download PDF
-                    </a>
-                    <!--Keywords: healthcare scheduling applications, diagnostic imaging, cancer treatment (chemotherapy and-->
-                    <!--radiation),-->
-                    <!--nurse/physician scheduling, surgical scheduling, 911 call centres, home-->
-                    <!--care routing, medical resident scheduling and primary care appointments-->
-                </td>
-            </tr>
-
-            <!--Data--->
-            <tr class="america">
-                <td class="presenter_image_container">
-                    <div class="single_image_container">
-                        <a href="https://che.utoronto.ca/professor-michael-w-carter/">
-                            <img class="single_presenter" src="photos/CarterM_photo.jpg"
-                                 alt="person_photo"/>
-                        </a><br/>
-                    </div>
-                </td>
-                <td class="information_upcoming_container">
-                    <b>[Presenter] </b> <br>
-                    <a href="https://che.utoronto.ca/professor-michael-w-carter/">Michael Carter</a><br>
-                    (Uni of Toronto)<br><br/>
-                    <b>[Invited by]</b> <br>
-                    <a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a> <br/>
-                    (New York University)
-                </td>
-                <td class="time_zones_container">
-                    <table class="time_table">
-                        <tbody>
-                        <tr class="utc">
-                            <td>UTC</td>
-                            <td>Jun 23, 13:00 Wed</td>
-                        </tr>
-                        <tr class="europe">
-                            <td>Prague</td>
-                            <td>Jun 23, 15:00 Wed</td>
-                        </tr>
-                        <tr class="america">
-                            <td>New York</td>
-                            <td>Jun 23, 09:00 Wed</td>
-                        </tr>
-                        <tr class="asia">
-                            <td>Shanghai</td>
-                            <td>Jun 23, 21:00 Wed</td>
-                        </tr>
-                        </tbody>
-                    </table>
-                </td>
-            </tr>
-        </table>
-
-        <!--Spacing--->
-        <table style="margin: 0 0 0 0 !important;">
-            <tr>
-                <td colspan="100%"></td>
-            </tr>
-        </table>
-
-        <!--Single talk------------------------------------------------------------------------------------------------>
         <table style="padding-bottom: 12px;" class="europe">
             <!--Title/Abstract-->
             <tr>
@@ -309,6 +223,94 @@
     <h2>Past talks</h2>
     <table class="past_talk_table">
         <tbody>
+
+        <!--Single talk------------------------------------------------------------------------------------------------>
+        <table style="padding-bottom: 12px;" class="america">
+            <!--Title/Abstract-->
+            <tr>
+                <td colspan="3">
+                    <h2 class="talk_title"><b>Challenges in Healthcare Scheduling Applications</b><br></h2>
+                    <input type="checkbox" id="abstract_id_8" style="display:none;">
+                    <label for="abstract_id_8" class="label_abstract"><a>Abstract</a></label>
+                    <div class="hidden">
+                        <hr style="border-top: 1px solid black;">
+                        In the immortal words of Monty Python, “… and now for something completely different!”
+                        Over the past three decades, I have spent much of my time working on practical healthcare
+                        applications.
+                        Typically, the projects are done with healthcare collaborators. Virtually all of the scheduling
+                        problems are
+                        highly stochastic, and scheduling approaches focus on managing variability. In this talk, I will
+                        describe
+                        several healthcare applications including: diagnostic imaging, cancer treatment (chemotherapy
+                        and radiation),
+                        nurse/physician scheduling, surgical scheduling, 911 call centres, home care routing, medical
+                        resident
+                        scheduling and primary care appointments (e.g. advanced access). In each case, I will describe
+                        the underlying
+                        uncertainties and briefly review recent approaches.
+                        <hr style="border-top: 1px solid black;">
+                    </div>
+                    <a href="./presentations/SchedulingSeminar_MichaelCarter.pdf" class="label_abstract" download>
+                        Download PDF
+                    </a>
+                    <!--Keywords: healthcare scheduling applications, diagnostic imaging, cancer treatment (chemotherapy and-->
+                    <!--radiation),-->
+                    <!--nurse/physician scheduling, surgical scheduling, 911 call centres, home-->
+                    <!--care routing, medical resident scheduling and primary care appointments-->
+                </td>
+            </tr>
+
+            <!--Photo and video-->
+            <tr>
+                <td class="presenter_image_container">
+                    <div class="single_image_container">
+                        <a href="https://che.utoronto.ca/professor-michael-w-carter/">
+                            <img class="single_presenter" src="photos/CarterM_photo.jpg"
+                                 alt="person_photo"/>
+                        </a><br/>
+                    </div>
+                </td>
+
+                <td colspan="2">
+                    <div class="resizable_youtube_single">
+                        <iframe width="400" height="250" src="https://www.youtube.com/embed/QtjRK465S28"
+                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                                allowfullscreen></iframe>
+                    </div>
+                </td>
+            </tr>
+
+            <!--Text description-->
+            <tr>
+                <td class="presenter_past_info_container"></td>
+                <td>
+                    <table class="panelists_past_container_single">
+                        <tr>
+                            <td colspan="2"><b>[Presenter]</b> <br></td>
+                            <td><b>[Invited by]</b> <br></td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://che.utoronto.ca/professor-michael-w-carter/">Michael Carter</a><br>
+                                (Uni of Toronto)<br>
+                            </td>
+                            <td></td>
+                            <td>
+                                <a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a> <br/>
+                                (New York University)
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+
+        <!--Spacing--->
+        <table style="margin: 0 0 0 0 !important;">
+            <tr>
+                <td colspan="100%"></td>
+            </tr>
+        </table>
 
         <!--Single talk------------------------------------------------------------------------------------------------>
         <table style="padding-bottom: 12px;" class="asia">
