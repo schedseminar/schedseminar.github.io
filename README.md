@@ -161,6 +161,9 @@
                         actual solution of timetabling problems.
                         <hr style="border-top: 1px solid black;">
                     </div>
+                    <a href="presentations/SchedulingSeminar_AndreaSchaerf.pdf" class="label_abstract" download>
+                        Download PDF
+                    </a>
                     <!--Keywords: Timetabling, Scheduling, Optimization, Metaheuristics, Local Search-->
                 </td>
             </tr>
