@@ -35,7 +35,7 @@
                 </div>
                 <div class="inline-right">
                     <!--<a href="https://list.iid.ciirc.cvut.cz/mailman3/lists/schedulingseminar.rtime.felk.cvut.cz/"-->
-                        <!--class="button3" style="font-weight: bold">Newsletter</a>-->
+                    <!--class="button3" style="font-weight: bold">Newsletter</a>-->
                     <a href='#PC_co-chairs' class="button3">PC co-chairs</a>
                     <a href='#Program_committee' class="button3">Program committee</a>
                     <a href='#Calendar' class="button3">Calendar</a>
@@ -50,6 +50,12 @@
 
 <!--Buttons-->
 <hr>
+
+<!--If any problem should occur-->
+<!--<h2>Due to unforeseen technical problems, problem reason... <a-->
+<!--        href="https://cesnet.zoom.us/j/98579414742?pwd=enQxM2wveUowQ3BZenB1QURKVStadz09">https://cesnet.zoom.us/j/98579414742?pwd=enQxM2wveUowQ3BZenB1QURKVStadz09</a>-->
+<!--</h2>-->
+
 <h2 id="join_us">Join us online</h2>
 <p style="text-align:center;">
     <a href="https://www.youtube.com/channel/UCUoCNnaAfw5NAntItILFn4A/live" class="button3">Youtube Live Stream</a>
@@ -66,6 +72,15 @@
 
     <table>
         <tbody>
+        <i>Currently, new talks are being planned, and the seminar will start again in September 2021. Consider
+            subscribing to the mailing list
+            <a href='https://list.iid.ciirc.cvut.cz/mailman3/lists/schedulingseminar.rtime.felk.cvut.cz/'
+               style="margin-left: 5px; margin-right: 5px">
+                <img src="icons/email.png" height="25px" width="25px" alt="email"/>
+            </a> and Youtube channel <a href='https://www.youtube.com/channel/UCUoCNnaAfw5NAntItILFn4A'
+                                        style="margin-left: 5px; margin-right: 5px">
+                <img src="icons/youtube.png" height="25px" width="25px" alt="youtube"/>
+            </a> to never miss out on new upcoming seminars.</i>
         <!--Dual talk-------------------------------------------------------------------------------------------------->
         <!--        <table style="padding-bottom: 12px;" class="europe">-->
         <!--            &lt;!&ndash;Title/Abstract-&ndash;&gt;-->
@@ -141,6 +156,92 @@
         <!--        </table>-->
 
         <!--Single talk------------------------------------------------------------------------------------------------>
+        <!--        <table style="padding-bottom: 12px;" class="europe">-->
+        <!--            &lt;!&ndash;Title/Abstract&ndash;&gt;-->
+        <!--            <tr>-->
+        <!--                <td colspan="3">-->
+        <!--                    <h2 class="talk_title"><b>Educational Timetabling: Problems, Benchmarks, Algorithms, and Practical-->
+        <!--                        Issues</b><br></h2>-->
+        <!--                    <input type="checkbox" id="abstract_id_9" style="display:none;">-->
+        <!--                    <label for="abstract_id_9" class="label_abstract"><a>Abstract</a></label>-->
+        <!--                    <div class="hidden">-->
+        <!--                        <hr style="border-top: 1px solid black;">-->
+        <!--                        Educational timetabling problems consist in scheduling a-->
+        <!--                        sequence of events (lectures, seminars, or exams) involving teachers and-->
+        <!--                        students in a prefixed period of time, satisfying a set of constraints-->
+        <!--                        of various types. In this talk, we critically review different-->
+        <!--                        formulations, public datasets, and search methods. In particular, we-->
+        <!--                        illustrate local search methods, their parameter tuning procedure, and-->
+        <!--                        their results. Finally, we discuss practical issues involved in the-->
+        <!--                        actual solution of timetabling problems.-->
+        <!--                        <hr style="border-top: 1px solid black;">-->
+        <!--                    </div>-->
+        <!--                    <a href="presentations/SchedulingSeminar_AndreaSchaerf.pdf" class="label_abstract" download>-->
+        <!--                        Download PDF-->
+        <!--                    </a>-->
+        <!--                    &lt;!&ndash;Keywords: Timetabling, Scheduling, Optimization, Metaheuristics, Local Search&ndash;&gt;-->
+        <!--                </td>-->
+        <!--            </tr>-->
+
+        <!--            &lt;!&ndash;Data-&ndash;&gt;-->
+        <!--            <tr>-->
+        <!--                <td class="presenter_image_container">-->
+        <!--                    <div class="single_image_container">-->
+        <!--                        <a href="http://www.dpia.uniud.it/schaerf/">-->
+        <!--                            <img class="single_presenter" src="photos/schaerf.jpg"-->
+        <!--                                 alt="person_photo"/>-->
+        <!--                        </a><br/>-->
+        <!--                    </div>-->
+        <!--                </td>-->
+        <!--                <td class="information_upcoming_container">-->
+        <!--                    <b>[Presenter] </b> <br>-->
+        <!--                    <a href="http://www.dpia.uniud.it/schaerf/">Andrea Schaerf</a><br>-->
+        <!--                    (Uni of Udine)<br><br/>-->
+        <!--                    <b>[Invited by]</b> <br>-->
+        <!--                    <a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a> <br>-->
+        <!--                    (CTU in Prague)-->
+        <!--                </td>-->
+        <!--                <td class="time_zones_container">-->
+        <!--                    <table class="time_table">-->
+        <!--                        <tbody>-->
+        <!--                        <tr class="utc">-->
+        <!--                            <td>UTC</td>-->
+        <!--                            <td>Jul 7, 13:00 Wed</td>-->
+        <!--                        </tr>-->
+        <!--                        <tr class="europe">-->
+        <!--                            <td>Prague</td>-->
+        <!--                            <td>Jul 7, 15:00 Wed</td>-->
+        <!--                        </tr>-->
+        <!--                        <tr class="america">-->
+        <!--                            <td>New York</td>-->
+        <!--                            <td>Jul 7, 09:00 Wed</td>-->
+        <!--                        </tr>-->
+        <!--                        <tr class="asia">-->
+        <!--                            <td>Shanghai</td>-->
+        <!--                            <td>Jul 7, 21:00 Wed</td>-->
+        <!--                        </tr>-->
+        <!--                        </tbody>-->
+        <!--                    </table>-->
+        <!--                </td>-->
+        <!--            </tr>-->
+        <!--        </table>-->
+
+        </tbody>
+    </table>
+</div>
+
+<!--Separate upcoming and past talks if different resolution results in one column only-->
+<div class="additional_divider">
+    &nbsp;
+    <hr/>
+</div>
+
+<!--Past talks-->
+<div class="column">
+    <h2>Past talks</h2>
+    <table class="past_talk_table">
+        <tbody>
+
         <table style="padding-bottom: 12px;" class="europe">
             <!--Title/Abstract-->
             <tr>
@@ -168,7 +269,7 @@
                 </td>
             </tr>
 
-            <!--Data--->
+            <!--Photo and video-->
             <tr>
                 <td class="presenter_image_container">
                     <div class="single_image_container">
@@ -178,54 +279,47 @@
                         </a><br/>
                     </div>
                 </td>
-                <td class="information_upcoming_container">
-                    <b>[Presenter] </b> <br>
-                    <a href="http://www.dpia.uniud.it/schaerf/">Andrea Schaerf</a><br>
-                    (Uni of Udine)<br><br/>
-                    <b>[Invited by]</b> <br>
-                    <a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a> <br>
-                    (CTU in Prague)
+
+                <td colspan="2">
+                    <div class="resizable_youtube_single">
+                        <iframe width="400" height="250" src="https://www.youtube.com/embed/GLZ_X1i51Vk"
+                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                                allowfullscreen></iframe>
+                    </div>
                 </td>
-                <td class="time_zones_container">
-                    <table class="time_table">
-                        <tbody>
-                        <tr class="utc">
-                            <td>UTC</td>
-                            <td>Jul 7, 13:00 Wed</td>
+            </tr>
+
+            <!--Text description-->
+            <tr>
+                <td class="presenter_past_info_container"></td>
+                <td>
+                    <table class="panelists_past_container_single">
+                        <tr>
+                            <td colspan="2"><b>[Presenter]</b> <br></td>
+                            <td><b>[Invited by]</b> <br></td>
                         </tr>
-                        <tr class="europe">
-                            <td>Prague</td>
-                            <td>Jul 7, 15:00 Wed</td>
+                        <tr>
+                            <td>
+                                <a href="http://www.dpia.uniud.it/schaerf/">Andrea Schaerf</a><br>
+                                (Uni of Udine)<br>
+                            </td>
+                            <td></td>
+                            <td>
+                                <a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a> <br>
+                                (CTU in Prague)
+                            </td>
                         </tr>
-                        <tr class="america">
-                            <td>New York</td>
-                            <td>Jul 7, 09:00 Wed</td>
-                        </tr>
-                        <tr class="asia">
-                            <td>Shanghai</td>
-                            <td>Jul 7, 21:00 Wed</td>
-                        </tr>
-                        </tbody>
                     </table>
                 </td>
             </tr>
         </table>
 
-        </tbody>
-    </table>
-</div>
-
-<!--Separate upcoming and past talks if different resolution results in one column only-->
-<div class="additional_divider">
-    &nbsp;
-    <hr/>
-</div>
-
-<!--Past talks-->
-<div class="column">
-    <h2>Past talks</h2>
-    <table class="past_talk_table">
-        <tbody>
+        <!--Spacing--->
+        <table style="margin: 0 0 0 0 !important;">
+            <tr>
+                <td colspan="100%"></td>
+            </tr>
+        </table>
 
         <!--Single talk------------------------------------------------------------------------------------------------>
         <table style="padding-bottom: 12px;" class="america">
@@ -473,7 +567,8 @@
                         </tr>
                         <tr>
                             <td>
-                                <a href="https://www.kuleuven.be/wieiswie/en/person/00008606">Erik Demeulemeester</a><br>
+                                <a href="https://www.kuleuven.be/wieiswie/en/person/00008606">Erik
+                                    Demeulemeester</a><br>
                                 (FEB-KBI, KU Leuven)<br/>
                             </td>
                             <td></td>
