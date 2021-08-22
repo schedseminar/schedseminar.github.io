@@ -72,6 +72,7 @@
 
     <table>
         <tbody>
+        <!--Pause-->
         <i>Currently, new talks are being planned, and the seminar will start again in September 2021. Consider
             subscribing to the mailing list
             <a href='https://list.iid.ciirc.cvut.cz/mailman3/lists/schedulingseminar.rtime.felk.cvut.cz/'
@@ -81,6 +82,98 @@
                                         style="margin-left: 5px; margin-right: 5px">
                 <img src="icons/youtube.png" height="25px" width="25px" alt="youtube"/>
             </a> to never miss out on new upcoming seminars.</i>
+
+        <!--Spacing--->
+        <table style="margin: 30px 0 0 0 !important;">
+            <tr>
+                <td colspan="100%"></td>
+            </tr>
+        </table>
+
+        <!--Single talk------------------------------------------------------------------------------------------------>
+        <table style="padding-bottom: 12px;" class="america">
+            <!--Title/Abstract-->
+            <tr>
+                <td colspan="3">
+                    <h2 class="talk_title"><b>Dynamic Opponent Choice in Tournaments</b><br></h2>
+                    <input type="checkbox" id="abstract_id_10" style="display:none;">
+                    <label for="abstract_id_10" class="label_abstract"><a>Abstract</a></label>
+                    <div class="hidden">
+                        <hr style="border-top: 1px solid black;">
+                        We propose an alternative design for tournaments that use a preliminary stage, followed by
+                        several rounds of single elimination play. Most U.S. major sports, for example, are organized in
+                        this way. However, the conventional ``bracket'' design of these tournaments suffers from several
+                        deficiencies. First, top ranked players randomly incur unfortunate matchups against other
+                        players, which introduces an unnecessary element of luck. Second, as documented in the
+                        tournament design literature, various reasonable criteria such as stronger ranked players having
+                        a higher probability of winning, are not satisfied. Third, the probability that the top two
+                        players meet is not maximized. Fourth, there is the widely observed issue of shirking at the
+                        preliminary stage, where a player loses deliberately to obtain an easier path through the
+                        tournament. Finally, the use of a conventional fixed bracket fails to allow players to consider
+                        information that develops during the tournament, such as injuries to other players. To address
+                        all these issues, we allow higher ranked players at the single elimination stage to choose their
+                        next opponent at each round. We allow each player's ranking either to remain static, or to
+                        improve from beating a higher ranked player. Using data from 1,902 men's professional tennis
+                        tournaments from 2001--2016, we demonstrate the reasonableness of the results obtained. We also
+                        perform sensitivity analysis for the effect of increasing irregularity in the pairwise win
+                        probability matrix on three traditional performance measures. Finally, we show that our opponent
+                        choice design reduces shirking, and could have eliminated it in some notorious situations. In
+                        summary, compared with the conventional design, the opponent choice design provides higher
+                        probabilities that the best player wins and also that the two best players meet, reduces
+                        shirking, and performs well for preservation of ranking.
+                        <hr style="border-top: 1px solid black;">
+                    </div>
+<!--                    <a href="" class="label_abstract" download>-->
+<!--                        Download PDF-->
+<!--                    </a>-->
+                    <!--Keywords: multiple round sports tournament, choice of opponent, performance criteria, professional tennis-->
+                </td>
+            </tr>
+
+            <!--Data--->
+            <tr>
+                <td class="presenter_image_container">
+                    <div class="single_image_container">
+                        <a href="">
+                            <img class="single_presenter" src="photos/nicholas_hall.JPG"
+                                 alt="person_photo"/>
+                        </a><br/>
+                    </div>
+                </td>
+                <td class="information_upcoming_container">
+                    <b>[Presenter] </b> <br>
+                    <a href="">Nicholas G. Hall</a><br>
+                    (The Ohio State Uni)<br><br/>
+                    <b>[Invited by]</b> <br>
+                    <a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a> <br>
+                    (CTU in Prague)
+                </td>
+                <td class="time_zones_container">
+                    <table class="time_table">
+                        <tbody>
+                        <tr class="utc">
+                            <td>UTC</td>
+                            <td>Sep 15, 13:00 Wed</td>
+                        </tr>
+                        <tr class="europe">
+                            <td>Prague</td>
+                            <td>Sep 15, 15:00 Wed</td>
+                        </tr>
+                        <tr class="america">
+                            <td>New York</td>
+                            <td>Sep 15, 09:00 Wed</td>
+                        </tr>
+                        <tr class="asia">
+                            <td>Shanghai</td>
+                            <td>Sep 15, 21:00 Wed</td>
+                        </tr>
+                        </tbody>
+                    </table>
+                </td>
+            </tr>
+        </table>
+
+
         <!--Dual talk-------------------------------------------------------------------------------------------------->
         <!--        <table style="padding-bottom: 12px;" class="europe">-->
         <!--            &lt;!&ndash;Title/Abstract-&ndash;&gt;-->
@@ -148,77 +241,6 @@
         <!--                        <tr class="asia">-->
         <!--                            <td>Shanghai</td>-->
         <!--                            <td>Mar 31, 21:00 Wed</td>-->
-        <!--                        </tr>-->
-        <!--                        </tbody>-->
-        <!--                    </table>-->
-        <!--                </td>-->
-        <!--            </tr>-->
-        <!--        </table>-->
-
-        <!--Single talk------------------------------------------------------------------------------------------------>
-        <!--        <table style="padding-bottom: 12px;" class="europe">-->
-        <!--            &lt;!&ndash;Title/Abstract&ndash;&gt;-->
-        <!--            <tr>-->
-        <!--                <td colspan="3">-->
-        <!--                    <h2 class="talk_title"><b>Educational Timetabling: Problems, Benchmarks, Algorithms, and Practical-->
-        <!--                        Issues</b><br></h2>-->
-        <!--                    <input type="checkbox" id="abstract_id_9" style="display:none;">-->
-        <!--                    <label for="abstract_id_9" class="label_abstract"><a>Abstract</a></label>-->
-        <!--                    <div class="hidden">-->
-        <!--                        <hr style="border-top: 1px solid black;">-->
-        <!--                        Educational timetabling problems consist in scheduling a-->
-        <!--                        sequence of events (lectures, seminars, or exams) involving teachers and-->
-        <!--                        students in a prefixed period of time, satisfying a set of constraints-->
-        <!--                        of various types. In this talk, we critically review different-->
-        <!--                        formulations, public datasets, and search methods. In particular, we-->
-        <!--                        illustrate local search methods, their parameter tuning procedure, and-->
-        <!--                        their results. Finally, we discuss practical issues involved in the-->
-        <!--                        actual solution of timetabling problems.-->
-        <!--                        <hr style="border-top: 1px solid black;">-->
-        <!--                    </div>-->
-        <!--                    <a href="presentations/SchedulingSeminar_AndreaSchaerf.pdf" class="label_abstract" download>-->
-        <!--                        Download PDF-->
-        <!--                    </a>-->
-        <!--                    &lt;!&ndash;Keywords: Timetabling, Scheduling, Optimization, Metaheuristics, Local Search&ndash;&gt;-->
-        <!--                </td>-->
-        <!--            </tr>-->
-
-        <!--            &lt;!&ndash;Data-&ndash;&gt;-->
-        <!--            <tr>-->
-        <!--                <td class="presenter_image_container">-->
-        <!--                    <div class="single_image_container">-->
-        <!--                        <a href="http://www.dpia.uniud.it/schaerf/">-->
-        <!--                            <img class="single_presenter" src="photos/schaerf.jpg"-->
-        <!--                                 alt="person_photo"/>-->
-        <!--                        </a><br/>-->
-        <!--                    </div>-->
-        <!--                </td>-->
-        <!--                <td class="information_upcoming_container">-->
-        <!--                    <b>[Presenter] </b> <br>-->
-        <!--                    <a href="http://www.dpia.uniud.it/schaerf/">Andrea Schaerf</a><br>-->
-        <!--                    (Uni of Udine)<br><br/>-->
-        <!--                    <b>[Invited by]</b> <br>-->
-        <!--                    <a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a> <br>-->
-        <!--                    (CTU in Prague)-->
-        <!--                </td>-->
-        <!--                <td class="time_zones_container">-->
-        <!--                    <table class="time_table">-->
-        <!--                        <tbody>-->
-        <!--                        <tr class="utc">-->
-        <!--                            <td>UTC</td>-->
-        <!--                            <td>Jul 7, 13:00 Wed</td>-->
-        <!--                        </tr>-->
-        <!--                        <tr class="europe">-->
-        <!--                            <td>Prague</td>-->
-        <!--                            <td>Jul 7, 15:00 Wed</td>-->
-        <!--                        </tr>-->
-        <!--                        <tr class="america">-->
-        <!--                            <td>New York</td>-->
-        <!--                            <td>Jul 7, 09:00 Wed</td>-->
-        <!--                        </tr>-->
-        <!--                        <tr class="asia">-->
-        <!--                            <td>Shanghai</td>-->
-        <!--                            <td>Jul 7, 21:00 Wed</td>-->
         <!--                        </tr>-->
         <!--                        </tbody>-->
         <!--                    </table>-->
