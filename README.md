@@ -102,7 +102,7 @@
                         <hr style="border-top: 1px solid black;">
                         We propose an alternative design for tournaments that use a preliminary stage, followed by
                         several rounds of single elimination play. Most U.S. major sports, for example, are organized in
-                        this way. However, the conventional ``bracket'' design of these tournaments suffers from several
+                        this way. However, the conventional "bracket" design of these tournaments suffers from several
                         deficiencies. First, top ranked players randomly incur unfortunate matchups against other
                         players, which introduces an unnecessary element of luck. Second, as documented in the
                         tournament design literature, various reasonable criteria such as stronger ranked players having
@@ -114,7 +114,7 @@
                         all these issues, we allow higher ranked players at the single elimination stage to choose their
                         next opponent at each round. We allow each player's ranking either to remain static, or to
                         improve from beating a higher ranked player. Using data from 1,902 men's professional tennis
-                        tournaments from 2001--2016, we demonstrate the reasonableness of the results obtained. We also
+                        tournaments from 2001-2016, we demonstrate the reasonableness of the results obtained. We also
                         perform sensitivity analysis for the effect of increasing irregularity in the pairwise win
                         probability matrix on three traditional performance measures. Finally, we show that our opponent
                         choice design reduces shirking, and could have eliminated it in some notorious situations. In
