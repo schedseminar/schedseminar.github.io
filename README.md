@@ -73,22 +73,22 @@
     <table>
         <tbody>
         <!--Pause-->
-        <i>Currently, new talks are being planned, and the seminar will start again in September 2021. Consider
-            subscribing to the mailing list
-            <a href='https://list.iid.ciirc.cvut.cz/mailman3/lists/schedulingseminar.rtime.felk.cvut.cz/'
-               style="margin-left: 5px; margin-right: 5px">
-                <img src="icons/email.png" height="25px" width="25px" alt="email"/>
-            </a> and Youtube channel <a href='https://www.youtube.com/channel/UCUoCNnaAfw5NAntItILFn4A'
-                                        style="margin-left: 5px; margin-right: 5px">
-                <img src="icons/youtube.png" height="25px" width="25px" alt="youtube"/>
-            </a> to never miss out on new upcoming seminars.</i>
+        <!--        <i>Currently, new talks are being planned, and the seminar will start again in September 2021. Consider-->
+        <!--            subscribing to the mailing list-->
+        <!--            <a href='https://list.iid.ciirc.cvut.cz/mailman3/lists/schedulingseminar.rtime.felk.cvut.cz/'-->
+        <!--               style="margin-left: 5px; margin-right: 5px">-->
+        <!--                <img src="icons/email.png" height="25px" width="25px" alt="email"/>-->
+        <!--            </a> and Youtube channel <a href='https://www.youtube.com/channel/UCUoCNnaAfw5NAntItILFn4A'-->
+        <!--                                        style="margin-left: 5px; margin-right: 5px">-->
+        <!--                <img src="icons/youtube.png" height="25px" width="25px" alt="youtube"/>-->
+        <!--            </a> to never miss out on new upcoming seminars.</i>-->
 
-        <!--Spacing--->
-        <table style="margin: 30px 0 0 0 !important;">
-            <tr>
-                <td colspan="100%"></td>
-            </tr>
-        </table>
+        <!--        &lt;!&ndash;Spacing-&ndash;&gt;-->
+        <!--        <table style="margin: 30px 0 0 0 !important;">-->
+        <!--            <tr>-->
+        <!--                <td colspan="100%"></td>-->
+        <!--            </tr>-->
+        <!--        </table>-->
 
         <!--Single talk------------------------------------------------------------------------------------------------>
         <table style="padding-bottom: 12px;" class="america">
@@ -123,9 +123,9 @@
                         shirking, and performs well for preservation of ranking.
                         <hr style="border-top: 1px solid black;">
                     </div>
-<!--                    <a href="" class="label_abstract" download>-->
-<!--                        Download PDF-->
-<!--                    </a>-->
+                    <!--                    <a href="" class="label_abstract" download>-->
+                    <!--                        Download PDF-->
+                    <!--                    </a>-->
                     <!--Keywords: multiple round sports tournament, choice of opponent, performance criteria, professional tennis-->
                 </td>
             </tr>
