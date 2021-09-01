@@ -164,7 +164,7 @@
         </table>
 
         <!--Spacing--->
-        <table style="margin: 30px 0 0 0 !important;">
+        <table style="margin: 0 0 0 0 !important;">
             <tr>
                 <td colspan="100%"></td>
             </tr>
