@@ -91,85 +91,6 @@
         <!--        </table>-->
 
         <!--Single talk------------------------------------------------------------------------------------------------>
-        <table style="padding-bottom: 12px;" class="europe">
-            <!--Title/Abstract-->
-            <tr>
-                <td colspan="3">
-                    <h2 class="talk_title"><b>The Benefit of Preemption</b><br></h2>
-                    <input type="checkbox" id="abstract_id_11" style="display:none;">
-                    <label for="abstract_id_11" class="label_abstract"><a>Abstract</a></label>
-                    <div class="hidden">
-                        <hr style="border-top: 1px solid black;">
-                        Given an input of a scheduling problem, any non-preemptive solution for it can be used as a
-                        preemptive solution. Thus, the optimal cost of a preemptive solution is not larger than that of
-                        an optimal non-preemptive solution. As preemption comes at a cost in real-life applications, it
-                        is of interest to find the worst-case ratio between the two costs. For a given problem, the
-                        supremum ratio over all possible inputs of the ratio between the two costs (of an optimal
-                        solution without preemption and an optimal solution that possibly uses preemption) is called the
-                        power or benefit of preemption. While many scheduling variants can be studied with respect to
-                        this measure, we will focus on the cases of a single machine, parallel identical machines, and
-                        uniformly related machines, and we will discuss the objectives of makespan and total (weighted)
-                        completion time. We will exhibit how one can benefit from preemption, and we will analyze the
-                        resulting worst case ratios for several basic models.
-                        <hr style="border-top: 1px solid black;">
-                    </div>
-                    <!--                    <a href="" class="label_abstract" download>-->
-                    <!--                        Download PDF-->
-                    <!--                    </a>-->
-                    <!--Keywords: preemptive scheduling, uniformly related machines, total completion time, makespan-->
-                </td>
-            </tr>
-
-            <!--Data--->
-            <tr>
-                <td class="presenter_image_container">
-                    <div class="single_image_container">
-                        <a href="">
-                            <img class="single_presenter" src="photos/Leah_Epstein.jpg"
-                                 alt="person_photo"/>
-                        </a><br/>
-                    </div>
-                </td>
-                <td class="information_upcoming_container">
-                    <b>[Presenter] </b> <br>
-                    <a href="http://math.haifa.ac.il/lea/">Leah Epstein</a><br>
-                    (University of Haifa)<br><br/>
-                    <b>[Invited by]</b> <br>
-                    <a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a> <br>
-                    (CTU in Prague)
-                </td>
-                <td class="time_zones_container">
-                    <table class="time_table">
-                        <tbody>
-                        <tr class="utc">
-                            <td>UTC</td>
-                            <td>Sep 29, 13:00 Wed</td>
-                        </tr>
-                        <tr class="europe">
-                            <td>Prague</td>
-                            <td>Sep 29, 15:00 Wed</td>
-                        </tr>
-                        <tr class="america">
-                            <td>New York</td>
-                            <td>Sep 29, 09:00 Wed</td>
-                        </tr>
-                        <tr class="asia">
-                            <td>Shanghai</td>
-                            <td>Sep 29, 21:00 Wed</td>
-                        </tr>
-                        </tbody>
-                    </table>
-                </td>
-            </tr>
-        </table>
-
-        <!--Spacing--->
-        <table style="margin: 0 0 0 0 !important;">
-            <tr>
-                <td colspan="100%"></td>
-            </tr>
-        </table>
-
         <table style="padding-bottom: 12px;" class="america">
             <!--Title/Abstract-->
             <tr>
@@ -245,6 +166,85 @@
                         <tr class="asia">
                             <td>Shanghai</td>
                             <td>Sep 15, 21:00 Wed</td>
+                        </tr>
+                        </tbody>
+                    </table>
+                </td>
+            </tr>
+        </table>
+
+        <!--Spacing--->
+        <table style="margin: 0 0 0 0 !important;">
+            <tr>
+                <td colspan="100%"></td>
+            </tr>
+        </table>
+
+        <table style="padding-bottom: 12px;" class="europe">
+            <!--Title/Abstract-->
+            <tr>
+                <td colspan="3">
+                    <h2 class="talk_title"><b>The Benefit of Preemption</b><br></h2>
+                    <input type="checkbox" id="abstract_id_11" style="display:none;">
+                    <label for="abstract_id_11" class="label_abstract"><a>Abstract</a></label>
+                    <div class="hidden">
+                        <hr style="border-top: 1px solid black;">
+                        Given an input of a scheduling problem, any non-preemptive solution for it can be used as a
+                        preemptive solution. Thus, the optimal cost of a preemptive solution is not larger than that of
+                        an optimal non-preemptive solution. As preemption comes at a cost in real-life applications, it
+                        is of interest to find the worst-case ratio between the two costs. For a given problem, the
+                        supremum ratio over all possible inputs of the ratio between the two costs (of an optimal
+                        solution without preemption and an optimal solution that possibly uses preemption) is called the
+                        power or benefit of preemption. While many scheduling variants can be studied with respect to
+                        this measure, we will focus on the cases of a single machine, parallel identical machines, and
+                        uniformly related machines, and we will discuss the objectives of makespan and total (weighted)
+                        completion time. We will exhibit how one can benefit from preemption, and we will analyze the
+                        resulting worst case ratios for several basic models.
+                        <hr style="border-top: 1px solid black;">
+                    </div>
+                    <!--                    <a href="" class="label_abstract" download>-->
+                    <!--                        Download PDF-->
+                    <!--                    </a>-->
+                    <!--Keywords: preemptive scheduling, uniformly related machines, total completion time, makespan-->
+                </td>
+            </tr>
+
+            <!--Data--->
+            <tr>
+                <td class="presenter_image_container">
+                    <div class="single_image_container">
+                        <a href="">
+                            <img class="single_presenter" src="photos/Leah_Epstein.jpg"
+                                 alt="person_photo"/>
+                        </a><br/>
+                    </div>
+                </td>
+                <td class="information_upcoming_container">
+                    <b>[Presenter] </b> <br>
+                    <a href="http://math.haifa.ac.il/lea/">Leah Epstein</a><br>
+                    (University of Haifa)<br><br/>
+                    <b>[Invited by]</b> <br>
+                    <a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a> <br>
+                    (CTU in Prague)
+                </td>
+                <td class="time_zones_container">
+                    <table class="time_table">
+                        <tbody>
+                        <tr class="utc">
+                            <td>UTC</td>
+                            <td>Sep 29, 13:00 Wed</td>
+                        </tr>
+                        <tr class="europe">
+                            <td>Prague</td>
+                            <td>Sep 29, 15:00 Wed</td>
+                        </tr>
+                        <tr class="america">
+                            <td>New York</td>
+                            <td>Sep 29, 09:00 Wed</td>
+                        </tr>
+                        <tr class="asia">
+                            <td>Shanghai</td>
+                            <td>Sep 29, 21:00 Wed</td>
                         </tr>
                         </tbody>
                     </table>
