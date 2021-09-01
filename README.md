@@ -338,7 +338,7 @@
 </div>
 
 <!--Past talks-->
-<div class="column">
+<div class="column column_right">
     <h2>Past talks</h2>
     <table class="past_talk_table">
         <tbody>
@@ -1037,6 +1037,8 @@
         </tbody>
     </table>
 </div>
+
+<!--Clear both columns-->
 <div style="clear: both"></div>
 
 
