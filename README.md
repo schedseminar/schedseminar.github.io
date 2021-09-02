@@ -225,8 +225,8 @@
                     <a href="http://math.haifa.ac.il/lea/">Leah Epstein</a><br>
                     (University of Haifa)<br><br/>
                     <b>[Invited by]</b> <br>
-                    <a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a> <br>
-                    (CTU in Prague)
+                    <a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Shabtay Dvir</a> <br>
+                    (Ben Gurion Uni)
                 </td>
                 <td class="time_zones_container">
                     <table class="time_table">
@@ -310,8 +310,8 @@
                         Della Croce</a><br>
                     (DIGEP - Polito.it)<br><br/>
                     <b>[Invited by]</b> <br>
-                    <a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a> <br>
-                    (CTU in Prague)
+                    <a href="https://www.univ-tours.fr/annuaire/m-vincent-tkindt">T’kindt Vincent</a> <br>
+                    (Uni de Tours)
                 </td>
                 <td class="time_zones_container">
                     <table class="time_table">
