@@ -225,7 +225,7 @@
                     <a href="http://math.haifa.ac.il/lea/">Leah Epstein</a><br>
                     (University of Haifa)<br><br/>
                     <b>[Invited by]</b> <br>
-                    <a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Shabtay Dvir</a> <br>
+                    <a href="https://in.bgu.ac.il/en/engn/iem/pages/staff/Dvir-Shabtay.aspx">Shabtay Dvir</a> <br>
                     (Ben Gurion Uni)
                 </td>
                 <td class="time_zones_container">
