@@ -214,7 +214,7 @@
             <tr>
                 <td class="presenter_image_container">
                     <div class="single_image_container">
-                        <a href="">
+                        <a href="http://math.haifa.ac.il/lea/">
                             <img class="single_presenter" src="photos/Leah_Epstein.jpg"
                                  alt="person_photo"/>
                         </a><br/>
@@ -298,7 +298,7 @@
             <tr>
                 <td class="presenter_image_container">
                     <div class="single_image_container">
-                        <a href="">
+                        <a href="https://www.digep.polito.it/en/personale/scheda/(nominativo)/federico.dellacroce">
                             <img class="single_presenter" src="photos/federico_della_croce.jpg"
                                  alt="person_photo"/>
                         </a><br/>
