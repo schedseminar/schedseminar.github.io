@@ -215,7 +215,7 @@
                 <td class="presenter_image_container">
                     <div class="single_image_container">
                         <a href="http://math.haifa.ac.il/lea/">
-                            <img class="single_presenter" src="photos/Leah_Epstein.jpg"
+                            <img class="single_presenter" src="photos/Leah_Epstein_2.jpg"
                                  alt="person_photo"/>
                         </a><br/>
                     </div>
