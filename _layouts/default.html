@@ -144,6 +144,11 @@
             text-align: center;
         }
 
+        .external_headings {
+            color: var(--element_color) !important;
+            text-align: center;
+        }
+
 
         /*-----------------------------------------*/
         /*Buttons*/
@@ -189,6 +194,29 @@
             overflow-x: hidden;
             height: 100em;
         }
+
+        @media (min-width: 42em) {
+            .sixth_column {
+                width: 15%;
+                float: left;
+            }
+
+            .join_us_column {
+                width: 40%;
+                float: left;
+            }
+        }
+
+        @media (max-width: 42em) {
+            .sixth_column {
+                width: 100%;
+            }
+
+            .join_us_column {
+                width: 100%;
+            }
+        }
+
 
         /*Put the talks columns under each other if display too small*/
         @media screen and (max-width: 80em) {

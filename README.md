@@ -15,24 +15,24 @@
             <br/>
             &nbsp;
             <div>
-                <div class="inline-left">
-                    <a href='https://www.youtube.com/channel/UCUoCNnaAfw5NAntItILFn4A' style="margin-right: 5px">
-                        <img src="icons/youtube.png" height="42px" width="42px" alt="youtube"/>
-                    </a>
+<!--                <div class="inline-left">-->
+<!--                    <a href='https://www.youtube.com/channel/UCUoCNnaAfw5NAntItILFn4A' style="margin-right: 5px">-->
+<!--                        <img src="icons/youtube.png" height="42px" width="42px" alt="youtube"/>-->
+<!--                    </a>-->
 
-                    <a href='https://list.iid.ciirc.cvut.cz/mailman3/lists/schedulingseminar.rtime.felk.cvut.cz/'
-                       style="margin-right: 5px">
-                        <img src="icons/email.png" height="40px" width="40px" alt="email"/>
-                    </a>
+<!--                    <a href='https://list.iid.ciirc.cvut.cz/mailman3/lists/schedulingseminar.rtime.felk.cvut.cz/'-->
+<!--                       style="margin-right: 5px">-->
+<!--                        <img src="icons/email.png" height="40px" width="40px" alt="email"/>-->
+<!--                    </a>-->
 
-                    <a href='https://twitter.com/ZHanzalek' style="margin-right: 5px">
-                        <img src="icons/twitter.png" height="40px" width="40px" alt="twitter"/>
-                    </a>
+<!--                    <a href='https://twitter.com/ZHanzalek' style="margin-right: 5px">-->
+<!--                        <img src="icons/twitter.png" height="40px" width="40px" alt="twitter"/>-->
+<!--                    </a>-->
 
-                    <a href='https://www.linkedin.com/groups/9047074/' style="margin-right: 5px">
-                        <img src="icons/linkedin.png" height="40px" width="50px" alt="linkedin"/>
-                    </a>
-                </div>
+<!--                    <a href='https://www.linkedin.com/groups/9047074/' style="margin-right: 5px">-->
+<!--                        <img src="icons/linkedin.png" height="40px" width="50px" alt="linkedin"/>-->
+<!--                    </a>-->
+<!--                </div>-->
                 <div class="inline-right">
                     <!--<a href="https://list.iid.ciirc.cvut.cz/mailman3/lists/schedulingseminar.rtime.felk.cvut.cz/"-->
                     <!--class="button3" style="font-weight: bold">Newsletter</a>-->
@@ -56,13 +56,55 @@
 <!--        href="https://cesnet.zoom.us/j/98579414742?pwd=enQxM2wveUowQ3BZenB1QURKVStadz09">https://cesnet.zoom.us/j/98579414742?pwd=enQxM2wveUowQ3BZenB1QURKVStadz09</a>-->
 <!--</h2>-->
 
-<h2 id="join_us">Join us online</h2>
-<p style="text-align:center;">
-    <a href="https://www.youtube.com/channel/UCUoCNnaAfw5NAntItILFn4A/live" class="button3">Youtube Live Stream</a>
 
-    <!--TODO MB will be used in future-->
-    <!--<a href="zoom_information.html" class="button3">Zoom Conference</a>-->
-</p>
+<div class="sixth_column">
+    <h3 class="external_headings">Youtube channel</h3>
+    <p style="text-align:center;">
+        <a href='https://www.youtube.com/channel/UCUoCNnaAfw5NAntItILFn4A' style="margin-right: 5px">
+            <img src="icons/youtube.png" height="42px" width="42px" alt="youtube"/>
+        </a>
+    </p>
+</div>
+
+<div class="sixth_column">
+    <h3 class="external_headings">Mailing list</h3>
+    <p style="text-align:center;">
+        <a href='https://list.iid.ciirc.cvut.cz/mailman3/lists/schedulingseminar.rtime.felk.cvut.cz/'
+           style="margin-right: 5px">
+            <img src="icons/email.png" height="40px" width="40px" alt="email"/>
+        </a>
+    </p>
+</div>
+
+<div class="join_us_column">
+    <h2 id="join_us">Join us online</h2>
+    <p style="text-align:center;">
+        <a href="https://www.youtube.com/channel/UCUoCNnaAfw5NAntItILFn4A/live" class="button3">Youtube Live Stream</a>
+        <!--TODO MB will be used in future-->
+        <!--<a href="zoom_information.html" class="button3">Zoom Conference</a>-->
+    </p>
+</div>
+
+<div class="sixth_column">
+    <h3 class="external_headings">LinkedIn group</h3>
+    <p style="text-align:center;">
+        <a href='https://www.linkedin.com/groups/9047074/' style="margin-right: 5px">
+            <img src="icons/linkedin.png" height="40px" width="50px" alt="linkedin"/>
+        </a>
+    </p>
+</div>
+
+<div class="sixth_column">
+    <h3 class="external_headings">Twitter news</h3>
+    <p style="text-align:center;">
+        <a href='https://twitter.com/ZHanzalek' style="margin-right: 5px">
+            <img src="icons/twitter.png" height="40px" width="40px" alt="twitter"/>
+        </a>
+    </p>
+</div>
+
+<div class="clearBoth"></div>
+
 
 <!--------------------------------------------------------------------------------------------------------------------->
 <!--Talks-->
