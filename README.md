@@ -2,7 +2,7 @@
 <table class="header_table">
     <tr>
         <td class="header_image">
-            <img src="icons/gantt-fabrio-merica.png" height="200px" width="600px" alt="logo"/>
+            <img class="ignore_hover" src="icons/gantt-fabrio-merica.png" height="200px" width="600px" alt="logo"/>
         </td>
         <td class="header_paragraph">
             <h1>Scheduling seminar</h1>
@@ -15,24 +15,24 @@
             <br/>
             &nbsp;
             <div>
-<!--                <div class="inline-left">-->
-<!--                    <a href='https://www.youtube.com/channel/UCUoCNnaAfw5NAntItILFn4A' style="margin-right: 5px">-->
-<!--                        <img src="icons/youtube.png" height="42px" width="42px" alt="youtube"/>-->
-<!--                    </a>-->
+                <!--                <div class="inline-left">-->
+                <!--                    <a href='https://www.youtube.com/channel/UCUoCNnaAfw5NAntItILFn4A' style="margin-right: 5px">-->
+                <!--                        <img src="icons/youtube.png" height="42px" width="42px" alt="youtube"/>-->
+                <!--                    </a>-->
 
-<!--                    <a href='https://list.iid.ciirc.cvut.cz/mailman3/lists/schedulingseminar.rtime.felk.cvut.cz/'-->
-<!--                       style="margin-right: 5px">-->
-<!--                        <img src="icons/email.png" height="40px" width="40px" alt="email"/>-->
-<!--                    </a>-->
+                <!--                    <a href='https://list.iid.ciirc.cvut.cz/mailman3/lists/schedulingseminar.rtime.felk.cvut.cz/'-->
+                <!--                       style="margin-right: 5px">-->
+                <!--                        <img src="icons/email.png" height="40px" width="40px" alt="email"/>-->
+                <!--                    </a>-->
 
-<!--                    <a href='https://twitter.com/ZHanzalek' style="margin-right: 5px">-->
-<!--                        <img src="icons/twitter.png" height="40px" width="40px" alt="twitter"/>-->
-<!--                    </a>-->
+                <!--                    <a href='https://twitter.com/ZHanzalek' style="margin-right: 5px">-->
+                <!--                        <img src="icons/twitter.png" height="40px" width="40px" alt="twitter"/>-->
+                <!--                    </a>-->
 
-<!--                    <a href='https://www.linkedin.com/groups/9047074/' style="margin-right: 5px">-->
-<!--                        <img src="icons/linkedin.png" height="40px" width="50px" alt="linkedin"/>-->
-<!--                    </a>-->
-<!--                </div>-->
+                <!--                    <a href='https://www.linkedin.com/groups/9047074/' style="margin-right: 5px">-->
+                <!--                        <img src="icons/linkedin.png" height="40px" width="50px" alt="linkedin"/>-->
+                <!--                    </a>-->
+                <!--                </div>-->
                 <div class="inline-right">
                     <!--<a href="https://list.iid.ciirc.cvut.cz/mailman3/lists/schedulingseminar.rtime.felk.cvut.cz/"-->
                     <!--class="button3" style="font-weight: bold">Newsletter</a>-->
@@ -57,48 +57,56 @@
 <!--</h2>-->
 
 
-<div class="sixth_column">
-    <h3 class="external_headings">Youtube channel</h3>
+<div class="quarter_column_leftmost">
+    <a href="https://www.youtube.com/channel/UCUoCNnaAfw5NAntItILFn4A/live">
+        <h3 class="external_headings">Join us on Youtube</h3>
+    </a>
     <p style="text-align:center;">
-        <a href='https://www.youtube.com/channel/UCUoCNnaAfw5NAntItILFn4A' style="margin-right: 5px">
-            <img src="icons/youtube.png" height="42px" width="42px" alt="youtube"/>
+        <a href="https://www.youtube.com/channel/UCUoCNnaAfw5NAntItILFn4A/live" style="margin-right: 5px">
+            <img src="icons/youtube.png" height="63px" width="63px" alt="youtube"/>
         </a>
     </p>
 </div>
 
-<div class="sixth_column">
-    <h3 class="external_headings">Mailing list</h3>
+<div class="quarter_column">
+    <a href="https://list.iid.ciirc.cvut.cz/mailman3/lists/schedulingseminar.rtime.felk.cvut.cz/">
+        <h3 class="external_headings">Subscribe to mailing list</h3>
+    </a>
     <p style="text-align:center;">
         <a href='https://list.iid.ciirc.cvut.cz/mailman3/lists/schedulingseminar.rtime.felk.cvut.cz/'
            style="margin-right: 5px">
-            <img src="icons/email.png" height="40px" width="40px" alt="email"/>
+            <img src="icons/email.png" height="60px" width="60px" alt="email"/>
         </a>
     </p>
 </div>
 
-<div class="join_us_column">
-    <h2 id="join_us">Join us online</h2>
-    <p style="text-align:center;">
-        <a href="https://www.youtube.com/channel/UCUoCNnaAfw5NAntItILFn4A/live" class="button3">Youtube Live Stream</a>
-        <!--TODO MB will be used in future-->
-        <!--<a href="zoom_information.html" class="button3">Zoom Conference</a>-->
-    </p>
-</div>
+<!--<div class="join_us_column">-->
+<!--    <h2 id="join_us">Join us online</h2>-->
+<!--    <p style="text-align:center;">-->
+<!--        <a href="https://www.youtube.com/channel/UCUoCNnaAfw5NAntItILFn4A/live" class="button3">Youtube Live Stream</a>-->
+<!--        &lt;!&ndash;TODO MB will be used in future&ndash;&gt;-->
+<!--        &lt;!&ndash;<a href="zoom_information.html" class="button3">Zoom Conference</a>&ndash;&gt;-->
+<!--    </p>-->
+<!--</div>-->
 
-<div class="sixth_column">
-    <h3 class="external_headings">LinkedIn group</h3>
+<div class="quarter_column">
+    <a href='https://www.linkedin.com/groups/9047074/'>
+        <h3 class="external_headings">Subscribe to LinkedIn group</h3>
+    </a>
     <p style="text-align:center;">
         <a href='https://www.linkedin.com/groups/9047074/' style="margin-right: 5px">
-            <img src="icons/linkedin.png" height="40px" width="50px" alt="linkedin"/>
+            <img src="icons/linkedin.png" height="60px" width="72px" alt="linkedin"/>
         </a>
     </p>
 </div>
 
-<div class="sixth_column">
-    <h3 class="external_headings">Twitter news</h3>
+<div class="quarter_column">
+    <a href='https://twitter.com/ZHanzalek'>
+        <h3 class="external_headings">Follow us on Twitter</h3>
+    </a>
     <p style="text-align:center;">
         <a href='https://twitter.com/ZHanzalek' style="margin-right: 5px">
-            <img src="icons/twitter.png" height="40px" width="40px" alt="twitter"/>
+            <img src="icons/twitter.png" height="60px" width="60px" alt="twitter"/>
         </a>
     </p>
 </div>
