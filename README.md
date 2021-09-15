@@ -173,9 +173,9 @@
                         shirking, and performs well for preservation of ranking.
                         <hr style="border-top: 1px solid black;">
                     </div>
-                    <!--                    <a href="" class="label_abstract" download>-->
-                    <!--                        Download PDF-->
-                    <!--                    </a>-->
+                    <a href="presentations/SchedulingSeminar_NicholasHall.pdf" class="label_abstract" download>
+                        Download PDF
+                    </a>
                     <!--Keywords: multiple round sports tournament, choice of opponent, performance criteria, professional tennis-->
                 </td>
             </tr>
