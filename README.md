@@ -394,7 +394,8 @@
             <!--Title/Abstract-->
             <tr>
                 <td colspan="3">
-                    <h2 class="talk_title"><b>Dynamic Opponent Choice in Tournaments</b><br></h2>
+                    <!--REMOVE nbsp hackaround-->
+                    <h2 class="talk_title"><b>Dynamic Opponent Choice in Tournaments<span style="opacity: 0">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></b><br></h2>
                     <input type="checkbox" id="abstract_id_10" style="display:none;">
                     <label for="abstract_id_10" class="label_abstract"><a>Abstract</a></label>
                     <div class="hidden">
@@ -566,7 +567,8 @@
             <!--Title/Abstract-->
             <tr>
                 <td colspan="3">
-                    <h2 class="talk_title"><b>Challenges in Healthcare Scheduling Applications</b><br></h2>
+                    <!--REMOVE NBSP HACKAROUND-->
+                    <h2 class="talk_title"><b>Challenges in Healthcare Scheduling Applications<span style="opacity: 0">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></b><br></h2>
                     <input type="checkbox" id="abstract_id_8" style="display:none;">
                     <label for="abstract_id_8" class="label_abstract"><a>Abstract</a></label>
                     <div class="hidden">
