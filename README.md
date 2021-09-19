@@ -298,6 +298,87 @@
             </tr>
         </table>
 
+        <!--Spacing--->
+        <table style="margin: 0 0 0 0 !important;">
+            <tr>
+                <td colspan="100%"></td>
+            </tr>
+        </table>
+
+        <!--Single talk------------------------------------------------------------------------------------------------>
+        <table style="padding-bottom: 12px;" class="america">
+            <!--Title/Abstract-->
+            <tr>
+                <td colspan="3">
+                    <h2 class="talk_title"><b>Machine Learning for Scheduling</b><br></h2>
+                    <input type="checkbox" id="abstract_id_13" style="display:none;">
+                    <label for="abstract_id_13" class="label_abstract"><a>Abstract</a></label>
+                    <div class="hidden">
+                        <hr style="border-top: 1px solid black;">
+                        This talk will discuss a model for augmenting algorithms with useful
+                        predictions that go beyond worst-case bounds on the algorithm
+                        performance. The model ensures predictions are formally learnable and
+                        instance robust. Learnability guarantees that predictions can be
+                        efficiently constructed from past data. Instance robustness formally
+                        ensures a prediction is robust to modest changes in the problem input.
+                        This talk will discuss predictions that satisfy these properties for
+                        scheduling and resource augmentation. Algorithms developed break
+                        through worst-case barriers with accurate predictions and have a
+                        graceful degradation in performance when the error in the predictions
+                        grows.
+                        <hr style="border-top: 1px solid black;">
+                    </div>
+                    <!--                    <a href="" class="label_abstract" download>-->
+                    <!--                        Download PDF-->
+                    <!--                    </a>-->
+                    <!--Keywords: scheduling, learning augmented, optimization, sample complexity, robustness, error, competitive, approximation-->
+                </td>
+            </tr>
+
+            <!--Data--->
+            <tr>
+                <td class="presenter_image_container">
+                    <div class="single_image_container">
+                        <a href="http://www.andrew.cmu.edu/user/moseleyb/  ">
+                            <img class="single_presenter" src="photos/ben_mosley.jpeg"
+                                 alt="person_photo"/>
+                        </a><br/>
+                    </div>
+                </td>
+                <td class="information_upcoming_container">
+                    <b>[Presenter]</b> <br>
+                    <a href="http://www.andrew.cmu.edu/user/moseleyb/  ">Benjamin
+                        Moseley</a><br>
+                    (Carnegie Mellon)<br><br/>
+                    <b>[Invited by]</b> <br>
+                    <a href="https://www.ieor.columbia.edu/faculty/clifford-stein">Stein Clifford</a> <br>
+                    (Columbia Uni)
+                </td>
+                <td class="time_zones_container">
+                    <table class="time_table">
+                        <tbody>
+                        <tr class="utc">
+                            <td>UTC</td>
+                            <td>Oct 27, 13:00 Wed</td>
+                        </tr>
+                        <tr class="europe">
+                            <td>Prague</td>
+                            <td>Oct 27, 15:00 Wed</td>
+                        </tr>
+                        <tr class="america">
+                            <td>New York</td>
+                            <td>Oct 27, 09:00 Wed</td>
+                        </tr>
+                        <tr class="asia">
+                            <td>Shanghai</td>
+                            <td>Oct 27, 21:00 Wed</td>
+                        </tr>
+                        </tbody>
+                    </table>
+                </td>
+            </tr>
+        </table>
+
 
         <!--Dual talk-------------------------------------------------------------------------------------------------->
         <!--        <table style="padding-bottom: 12px;" class="europe">-->
@@ -395,7 +476,8 @@
             <tr>
                 <td colspan="3">
                     <!--REMOVE nbsp hackaround-->
-                    <h2 class="talk_title"><b>Dynamic Opponent Choice in Tournaments<span style="opacity: 0">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></b><br></h2>
+                    <h2 class="talk_title"><b>Dynamic Opponent Choice in Tournaments<span style="opacity: 0">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></b><br>
+                    </h2>
                     <input type="checkbox" id="abstract_id_10" style="display:none;">
                     <label for="abstract_id_10" class="label_abstract"><a>Abstract</a></label>
                     <div class="hidden">
@@ -568,7 +650,8 @@
             <tr>
                 <td colspan="3">
                     <!--REMOVE NBSP HACKAROUND-->
-                    <h2 class="talk_title"><b>Challenges in Healthcare Scheduling Applications<span style="opacity: 0">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></b><br></h2>
+                    <h2 class="talk_title"><b>Challenges in Healthcare Scheduling Applications<span style="opacity: 0">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></b><br>
+                    </h2>
                     <input type="checkbox" id="abstract_id_8" style="display:none;">
                     <label for="abstract_id_8" class="label_abstract"><a>Abstract</a></label>
                     <div class="hidden">
