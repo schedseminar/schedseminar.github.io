@@ -163,9 +163,9 @@
                         resulting worst case ratios for several basic models.
                         <hr style="border-top: 1px solid black;">
                     </div>
-                    <!--                    <a href="" class="label_abstract" download>-->
-                    <!--                        Download PDF-->
-                    <!--                    </a>-->
+                    <a href="./presentations/SchedulingSeminar_LeahEpstein.pdf" class="label_abstract" download>
+                        Download PDF
+                    </a>
                     <!--Keywords: preemptive scheduling, uniformly related machines, total completion time, makespan-->
                 </td>
             </tr>
@@ -185,7 +185,7 @@
                     <a href="http://math.haifa.ac.il/lea/">Leah Epstein</a><br>
                     (University of Haifa)<br><br/>
                     <b>[Invited by]</b> <br>
-                    <a href="https://in.bgu.ac.il/en/engn/iem/pages/staff/Dvir-Shabtay.aspx">Shabtay Dvir</a> <br>
+                    <a href="https://in.bgu.ac.il/en/engn/iem/pages/staff/Dvir-Shabtay.aspx">Dvir Shabtay</a> <br>
                     (Ben Gurion Uni)
                 </td>
                 <td class="time_zones_container">
@@ -270,7 +270,7 @@
                         Della Croce</a><br>
                     (DIGEP - Polito.it)<br><br/>
                     <b>[Invited by]</b> <br>
-                    <a href="https://www.univ-tours.fr/annuaire/m-vincent-tkindt">T’kindt Vincent</a> <br>
+                    <a href="https://www.univ-tours.fr/annuaire/m-vincent-tkindt">Vincent T’kindt</a> <br>
                     (Uni de Tours)
                 </td>
                 <td class="time_zones_container">
@@ -351,7 +351,7 @@
                         Moseley</a><br>
                     (Carnegie Mellon)<br><br/>
                     <b>[Invited by]</b> <br>
-                    <a href="https://www.ieor.columbia.edu/faculty/clifford-stein">Stein Clifford</a> <br>
+                    <a href="https://www.ieor.columbia.edu/faculty/clifford-stein">Clifford Stein</a> <br>
                     (Columbia Uni)
                 </td>
                 <td class="time_zones_container">
