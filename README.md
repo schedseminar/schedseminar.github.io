@@ -145,86 +145,6 @@
             <!--Title/Abstract-->
             <tr>
                 <td colspan="3">
-                    <h2 class="talk_title"><b>The Benefit of Preemption</b><br></h2>
-                    <input type="checkbox" id="abstract_id_11" style="display:none;">
-                    <label for="abstract_id_11" class="label_abstract"><a>Abstract</a></label>
-                    <div class="hidden">
-                        <hr style="border-top: 1px solid black;">
-                        Given an input of a scheduling problem, any non-preemptive solution for it can be used as a
-                        preemptive solution. Thus, the optimal cost of a preemptive solution is not larger than that of
-                        an optimal non-preemptive solution. As preemption comes at a cost in real-life applications, it
-                        is of interest to find the worst-case ratio between the two costs. For a given problem, the
-                        supremum ratio over all possible inputs of the ratio between the two costs (of an optimal
-                        solution without preemption and an optimal solution that possibly uses preemption) is called the
-                        power or benefit of preemption. While many scheduling variants can be studied with respect to
-                        this measure, we will focus on the cases of a single machine, parallel identical machines, and
-                        uniformly related machines, and we will discuss the objectives of makespan and total (weighted)
-                        completion time. We will exhibit how one can benefit from preemption, and we will analyze the
-                        resulting worst case ratios for several basic models.
-                        <hr style="border-top: 1px solid black;">
-                    </div>
-                    <a href="./presentations/SchedulingSeminar_LeahEpstein.pdf" class="label_abstract" download>
-                        Download PDF
-                    </a>
-                    <!--Keywords: preemptive scheduling, uniformly related machines, total completion time, makespan-->
-                </td>
-            </tr>
-
-            <!--Data--->
-            <tr>
-                <td class="presenter_image_container">
-                    <div class="single_image_container">
-                        <a href="http://math.haifa.ac.il/lea/">
-                            <img class="single_presenter" src="photos/Leah_Epstein_2.jpg"
-                                 alt="person_photo"/>
-                        </a><br/>
-                    </div>
-                </td>
-                <td class="information_upcoming_container">
-                    <b>[Presenter] </b> <br>
-                    <a href="http://math.haifa.ac.il/lea/">Leah Epstein</a><br>
-                    (University of Haifa)<br><br/>
-                    <b>[Invited by]</b> <br>
-                    <a href="https://in.bgu.ac.il/en/engn/iem/pages/staff/Dvir-Shabtay.aspx">Dvir Shabtay</a> <br>
-                    (Ben Gurion Uni)
-                </td>
-                <td class="time_zones_container">
-                    <table class="time_table">
-                        <tbody>
-                        <tr class="utc">
-                            <td>UTC</td>
-                            <td>Sep 29, 13:00 Wed</td>
-                        </tr>
-                        <tr class="europe">
-                            <td>Prague</td>
-                            <td>Sep 29, 15:00 Wed</td>
-                        </tr>
-                        <tr class="america">
-                            <td>New York</td>
-                            <td>Sep 29, 09:00 Wed</td>
-                        </tr>
-                        <tr class="asia">
-                            <td>Shanghai</td>
-                            <td>Sep 29, 21:00 Wed</td>
-                        </tr>
-                        </tbody>
-                    </table>
-                </td>
-            </tr>
-        </table>
-
-        <!--Spacing--->
-        <table style="margin: 0 0 0 0 !important;">
-            <tr>
-                <td colspan="100%"></td>
-            </tr>
-        </table>
-
-        <!--Single talk------------------------------------------------------------------------------------------------>
-        <table style="padding-bottom: 12px;" class="europe">
-            <!--Title/Abstract-->
-            <tr>
-                <td colspan="3">
                     <h2 class="talk_title"><b>The Longest Processing Time Rule for Identical Parallel Machines
                         Revisited</b><br></h2>
                     <input type="checkbox" id="abstract_id_12" style="display:none;">
@@ -469,6 +389,88 @@
     <h2>Past talks</h2>
     <table class="past_talk_table">
         <tbody>
+
+        <!--Single talk------------------------------------------------------------------------------------------------>
+        <table style="padding-bottom: 12px;" class="europe">
+            <!--Title/Abstract-->
+            <tr>
+                <td colspan="3">
+                    <h2 class="talk_title"><b>The Benefit of Preemption<span style="opacity: 0">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></b><br></h2>
+                    <input type="checkbox" id="abstract_id_11" style="display:none;">
+                    <label for="abstract_id_11" class="label_abstract"><a>Abstract</a></label>
+                    <div class="hidden">
+                        <hr style="border-top: 1px solid black;">
+                        Given an input of a scheduling problem, any non-preemptive solution for it can be used as a
+                        preemptive solution. Thus, the optimal cost of a preemptive solution is not larger than that of
+                        an optimal non-preemptive solution. As preemption comes at a cost in real-life applications, it
+                        is of interest to find the worst-case ratio between the two costs. For a given problem, the
+                        supremum ratio over all possible inputs of the ratio between the two costs (of an optimal
+                        solution without preemption and an optimal solution that possibly uses preemption) is called the
+                        power or benefit of preemption. While many scheduling variants can be studied with respect to
+                        this measure, we will focus on the cases of a single machine, parallel identical machines, and
+                        uniformly related machines, and we will discuss the objectives of makespan and total (weighted)
+                        completion time. We will exhibit how one can benefit from preemption, and we will analyze the
+                        resulting worst case ratios for several basic models.
+                        <hr style="border-top: 1px solid black;">
+                    </div>
+                    <a href="./presentations/SchedulingSeminar_LeahEpstein.pdf" class="label_abstract" download>
+                        Download PDF
+                    </a>
+                    <!--Keywords: preemptive scheduling, uniformly related machines, total completion time, makespan-->
+                </td>
+            </tr>
+
+            <!--Photo and video-->
+            <tr>
+                <td class="presenter_image_container">
+                    <div class="single_image_container">
+                        <a href="http://math.haifa.ac.il/lea/">
+                            <img class="single_presenter" src="photos/Leah_Epstein_2.jpg"
+                                 alt="person_photo"/>
+                        </a><br/>
+                    </div>
+                </td>
+
+                <td colspan="2">
+                    <div class="resizable_youtube_single">
+                        <iframe width="400" height="250" src="https://www.youtube.com/embed/Ik7106Ul9Uw"
+                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                                allowfullscreen></iframe>
+                    </div>
+                </td>
+            </tr>
+
+            <!--Text description-->
+            <tr>
+                <td class="presenter_past_info_container"></td>
+                <td>
+                    <table class="panelists_past_container_single">
+                        <tr>
+                            <td colspan="2"><b>[Presenter]</b> <br></td>
+                            <td><b>[Invited by]</b> <br></td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="http://math.haifa.ac.il/lea/">Leah Epstein</a><br>
+                                (University of Haifa)<br>
+                            </td>
+                            <td></td>
+                            <td>
+                                <a href="https://in.bgu.ac.il/en/engn/iem/pages/staff/Dvir-Shabtay.aspx">Dvir Shabtay</a> <br>
+                                (Ben Gurion Uni)
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+
+        <!--Spacing--->
+        <table style="margin: 0 0 0 0 !important;">
+            <tr>
+                <td colspan="100%"></td>
+            </tr>
+        </table>
 
         <!--Single talk------------------------------------------------------------------------------------------------>
         <table style="padding-bottom: 12px;" class="america">
