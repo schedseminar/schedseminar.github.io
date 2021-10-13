@@ -142,7 +142,7 @@
 
         <!--Single talk------------------------------------------------------------------------------------------------>
         <table style="padding-bottom: 12px;" class="europe">
-            <!--Title/Abstract-->
+            <!--Title/Abstract/PDF-->
             <tr>
                 <td colspan="3">
                     <h2 class="talk_title"><b>The Longest Processing Time Rule for Identical Parallel Machines
@@ -167,9 +167,9 @@
                         competitive with more involved approaches such as COMBINE and LDM.
                         <hr style="border-top: 1px solid black;">
                     </div>
-                    <!--                    <a href="" class="label_abstract" download>-->
-                    <!--                        Download PDF-->
-                    <!--                    </a>-->
+                    <a href="./presentations/SchedulingSeminar_FedericoDellaCroce.pdf" class="label_abstract" download>
+                        Download PDF
+                    </a>
                     <!--Keywords: identical parallel machine scheduling; LPT rule; linear programming;  approximation-->
                 </td>
             </tr>
@@ -227,7 +227,7 @@
 
         <!--Single talk------------------------------------------------------------------------------------------------>
         <table style="padding-bottom: 12px;" class="america">
-            <!--Title/Abstract-->
+            <!--Title/Abstract/PDF-->
             <tr>
                 <td colspan="3">
                     <h2 class="talk_title"><b>Machine Learning for Scheduling</b><br></h2>
@@ -395,7 +395,8 @@
             <!--Title/Abstract-->
             <tr>
                 <td colspan="3">
-                    <h2 class="talk_title"><b>The Benefit of Preemption<span style="opacity: 0">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></b><br></h2>
+                    <h2 class="talk_title"><b>The Benefit of Preemption<span style="opacity: 0">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></b><br>
+                    </h2>
                     <input type="checkbox" id="abstract_id_11" style="display:none;">
                     <label for="abstract_id_11" class="label_abstract"><a>Abstract</a></label>
                     <div class="hidden">
@@ -456,7 +457,8 @@
                             </td>
                             <td></td>
                             <td>
-                                <a href="https://in.bgu.ac.il/en/engn/iem/pages/staff/Dvir-Shabtay.aspx">Dvir Shabtay</a> <br>
+                                <a href="https://in.bgu.ac.il/en/engn/iem/pages/staff/Dvir-Shabtay.aspx">Dvir
+                                    Shabtay</a> <br>
                                 (Ben Gurion Uni)
                             </td>
                         </tr>
