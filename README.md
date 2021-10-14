@@ -140,90 +140,12 @@
         <!--            </tr>-->
         <!--        </table>-->
 
-        <!--Single talk------------------------------------------------------------------------------------------------>
-        <table style="padding-bottom: 12px;" class="europe">
-            <!--Title/Abstract/PDF-->
-            <tr>
-                <td colspan="3">
-                    <h2 class="talk_title"><b>The Longest Processing Time Rule for Identical Parallel Machines
-                        Revisited</b><br></h2>
-                    <input type="checkbox" id="abstract_id_12" style="display:none;">
-                    <label for="abstract_id_12" class="label_abstract"><a>Abstract</a></label>
-                    <div class="hidden">
-                        <hr style="border-top: 1px solid black;">
-                        We consider the P||Cmax scheduling problem where the goal is to schedule n jobs on m identical
-                        parallel machines to minimize makespan. We revisit the famous Longest Processing Time (LPT) rule
-                        proposed by Graham in 1969. LPT requires sorting jobs in non-ascending order of processing times
-                        and then assigning one job at a time to the machine whose load is smallest so far. We provide
-                        new insights into LPT and discuss the approximation ratio of a modification of LPT that improves
-                        Graham’s bound. We use linear programming to analyze the approximation ratio of our approach.
-                        This performance analysis can be seen as a valid alternative to formal proofs based on
-                        analytical derivation. Also, we derive from the proposed approach an O(n log n) time complexity
-                        heuristic called SLACK.
-                        The heuristic splits the sorted job set in tuples of m consecutive jobs (1,...,m; m+1,...,2m;
-                        etc.) and sorts the tuples in non-increasing order of the difference (SLACK) between the largest
-                        and smallest job in the tuple. Given this new ordering of the job set, list scheduling is
-                        applied. This approach strongly outperforms LPT on benchmark literature instances and is
-                        competitive with more involved approaches such as COMBINE and LDM.
-                        <hr style="border-top: 1px solid black;">
-                    </div>
-                    <a href="./presentations/SchedulingSeminar_FedericoDellaCroce.pdf" class="label_abstract" download>
-                        Download PDF
-                    </a>
-                    <!--Keywords: identical parallel machine scheduling; LPT rule; linear programming;  approximation-->
-                </td>
-            </tr>
-
-            <!--Data--->
-            <tr>
-                <td class="presenter_image_container">
-                    <div class="single_image_container">
-                        <a href="https://www.digep.polito.it/en/personale/scheda/(nominativo)/federico.dellacroce">
-                            <img class="single_presenter" src="photos/federico_della_croce.jpg"
-                                 alt="person_photo"/>
-                        </a><br/>
-                    </div>
-                </td>
-                <td class="information_upcoming_container">
-                    <b>[Presenter] </b> <br>
-                    <a href="https://www.digep.polito.it/en/personale/scheda/(nominativo)/federico.dellacroce">Federico
-                        Della Croce</a><br>
-                    (DIGEP - Polito.it)<br><br/>
-                    <b>[Invited by]</b> <br>
-                    <a href="https://www.univ-tours.fr/annuaire/m-vincent-tkindt">Vincent T’kindt</a> <br>
-                    (Uni de Tours)
-                </td>
-                <td class="time_zones_container">
-                    <table class="time_table">
-                        <tbody>
-                        <tr class="utc">
-                            <td>UTC</td>
-                            <td>Oct 13, 13:00 Wed</td>
-                        </tr>
-                        <tr class="europe">
-                            <td>Prague</td>
-                            <td>Oct 13, 15:00 Wed</td>
-                        </tr>
-                        <tr class="america">
-                            <td>New York</td>
-                            <td>Oct 13, 09:00 Wed</td>
-                        </tr>
-                        <tr class="asia">
-                            <td>Shanghai</td>
-                            <td>Oct 13, 21:00 Wed</td>
-                        </tr>
-                        </tbody>
-                    </table>
-                </td>
-            </tr>
-        </table>
-
         <!--Spacing--->
-        <table style="margin: 0 0 0 0 !important;">
-            <tr>
-                <td colspan="100%"></td>
-            </tr>
-        </table>
+<!--        <table style="margin: 0 0 0 0 !important;">-->
+<!--            <tr>-->
+<!--                <td colspan="100%"></td>-->
+<!--            </tr>-->
+<!--        </table>-->
 
         <!--Single talk------------------------------------------------------------------------------------------------>
         <table style="padding-bottom: 12px;" class="america">
@@ -389,6 +311,93 @@
     <h2>Past talks</h2>
     <table class="past_talk_table">
         <tbody>
+
+        <!--Single talk------------------------------------------------------------------------------------------------>
+        <table style="padding-bottom: 12px;" class="europe">
+            <!--Title/Abstract/PDF-->
+            <tr>
+                <td colspan="3">
+                    <h2 class="talk_title"><b>The Longest Processing Time Rule for Identical Parallel Machines
+                        Revisited</b><br></h2>
+                    <input type="checkbox" id="abstract_id_12" style="display:none;">
+                    <label for="abstract_id_12" class="label_abstract"><a>Abstract</a></label>
+                    <div class="hidden">
+                        <hr style="border-top: 1px solid black;">
+                        We consider the P||Cmax scheduling problem where the goal is to schedule n jobs on m identical
+                        parallel machines to minimize makespan. We revisit the famous Longest Processing Time (LPT) rule
+                        proposed by Graham in 1969. LPT requires sorting jobs in non-ascending order of processing times
+                        and then assigning one job at a time to the machine whose load is smallest so far. We provide
+                        new insights into LPT and discuss the approximation ratio of a modification of LPT that improves
+                        Graham’s bound. We use linear programming to analyze the approximation ratio of our approach.
+                        This performance analysis can be seen as a valid alternative to formal proofs based on
+                        analytical derivation. Also, we derive from the proposed approach an O(n log n) time complexity
+                        heuristic called SLACK.
+                        The heuristic splits the sorted job set in tuples of m consecutive jobs (1,...,m; m+1,...,2m;
+                        etc.) and sorts the tuples in non-increasing order of the difference (SLACK) between the largest
+                        and smallest job in the tuple. Given this new ordering of the job set, list scheduling is
+                        applied. This approach strongly outperforms LPT on benchmark literature instances and is
+                        competitive with more involved approaches such as COMBINE and LDM.
+                        <hr style="border-top: 1px solid black;">
+                    </div>
+                    <a href="./presentations/SchedulingSeminar_FedericoDellaCroce.pdf" class="label_abstract" download>
+                        Download PDF
+                    </a>
+                    <!--Keywords: identical parallel machine scheduling; LPT rule; linear programming;  approximation-->
+                </td>
+            </tr>
+
+            <!--Photo and video-->
+            <tr>
+                <td class="presenter_image_container">
+                    <div class="single_image_container">
+                        <a href="https://www.digep.polito.it/en/personale/scheda/(nominativo)/federico.dellacroce">
+                            <img class="single_presenter" src="photos/federico_della_croce.jpg"
+                                 alt="person_photo"/>
+                        </a><br/>
+                    </div>
+                </td>
+
+                <td colspan="2">
+                    <div class="resizable_youtube_single">
+                        <iframe width="400" height="250" src="https://www.youtube.com/embed/Lp4K6rptmfY"
+                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                                allowfullscreen></iframe>
+                    </div>
+                </td>
+            </tr>
+
+            <!--Text description-->
+            <tr>
+                <td class="presenter_past_info_container"></td>
+                <td>
+                    <table class="panelists_past_container_single">
+                        <tr>
+                            <td colspan="2"><b>[Presenter]</b> <br></td>
+                            <td><b>[Invited by]</b> <br></td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.digep.polito.it/en/personale/scheda/(nominativo)/federico.dellacroce">Federico
+                                    Della Croce</a><br>
+                                (DIGEP - Polito.it)<br>
+                            </td>
+                            <td></td>
+                            <td>
+                                <a href="https://www.univ-tours.fr/annuaire/m-vincent-tkindt">Vincent T’kindt</a><br>
+                                (Uni de Tours)
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+
+        <!--Spacing--->
+        <table style="margin: 0 0 0 0 !important;">
+            <tr>
+                <td colspan="100%"></td>
+            </tr>
+        </table>
 
         <!--Single talk------------------------------------------------------------------------------------------------>
         <table style="padding-bottom: 12px;" class="europe">
