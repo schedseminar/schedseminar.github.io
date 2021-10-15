@@ -140,21 +140,14 @@
         <!--            </tr>-->
         <!--        </table>-->
 
-        <!--Spacing--->
-<!--        <table style="margin: 0 0 0 0 !important;">-->
-<!--            <tr>-->
-<!--                <td colspan="100%"></td>-->
-<!--            </tr>-->
-<!--        </table>-->
-
         <!--Single talk------------------------------------------------------------------------------------------------>
         <table style="padding-bottom: 12px;" class="america">
             <!--Title/Abstract/PDF-->
             <tr>
                 <td colspan="3">
                     <h2 class="talk_title"><b>Machine Learning for Scheduling</b><br></h2>
-                    <input type="checkbox" id="abstract_id_13" style="display:none;">
-                    <label for="abstract_id_13" class="label_abstract"><a>Abstract</a></label>
+                    <input type="checkbox" id="abstract_id_12" style="display:none;">
+                    <label for="abstract_id_12" class="label_abstract"><a>Abstract</a></label>
                     <div class="hidden">
                         <hr style="border-top: 1px solid black;">
                         This talk will discuss a model for augmenting algorithms with useful
@@ -214,6 +207,96 @@
                         <tr class="asia">
                             <td>Shanghai</td>
                             <td>Oct 27, 21:00 Wed</td>
+                        </tr>
+                        </tbody>
+                    </table>
+                </td>
+            </tr>
+        </table>
+
+        <!--Spacing-->
+        <table style="margin: 0 0 0 0 !important;">
+            <tr>
+                <td colspan="100%"></td>
+            </tr>
+        </table>
+
+        <!--Single talk------------------------------------------------------------------------------------------------>
+        <table style="padding-bottom: 12px;" class="america">
+            <!--Title/Abstract/PDF-->
+            <tr>
+                <td colspan="3">
+                    <h2 class="talk_title"><b>Train Scheduling: Models, decomposition methods and practice</b><br></h2>
+                    <input type="checkbox" id="abstract_id_13" style="display:none;">
+                    <label for="abstract_id_13" class="label_abstract"><a>Abstract</a></label>
+                    <div class="hidden">
+                        <hr style="border-top: 1px solid black;">
+                        Train scheduling is one of the most critical planning tasks required to run a railway, with most
+                        rail operators and managers having large departments devoted to this task.
+                        Depending on the time scale, we have two main scheduling problems. At the strategic and tactical
+                        levels, the train timetabling problem consists in finding feasible, robust schedules that are
+                        usable for months or years into the future. At the operational level, we have the train
+                        re-scheduling problem, where one wants to schedule trains in real-time in order to tackle
+                        deviations from the original timetable, minimizing delays and knock-on effects.
+                        Both problems share a common core-model, which is a job-shop scheduling model with no-wait and
+                        blocking constraints. The core problem can be modeled as a disjunctive program.
+                        After an illustration of the train scheduling application, I will present a basic MILP
+                        formulation for the disjunctive program. It turns out, however, that even small to medium size
+                        real-life instances cannot be solved by simply instantiating this formulation and invoking a
+                        state-of-the-art MILP solver. Next, therefore, I will go through two recent reformulations,
+                        which allow us to significantly increase the size of tractable instances. The first is obtained
+                        from the classical Benders' reformulation by strengthening its standard constraints. The second
+                        is often referred to as "Logic Benders' Reformulation" and exploits a natural, spatial
+                        decomposition of the railway network. I will finally show the strong link between these
+                        reformulations.
+                        I will conclude the talk by presenting a practical application of the described approaches to a
+                        traffic management system controlling trains in the greater Oslo region network. The system is
+                        currently undergoing a field-test campaign at Oslo control center.
+
+                        <hr style="border-top: 1px solid black;">
+                    </div>
+                    <!--                    <a href="" class="label_abstract" download>-->
+                    <!--                        Download PDF-->
+                    <!--                    </a>-->
+                    <!--Keywords: train scheduling, job-shop scheduling, combinatorial optimization, integer programming, decomposition methods-->
+                </td>
+            </tr>
+
+            <!--Data--->
+            <tr>
+                <td class="presenter_image_container">
+                    <div class="single_image_container">
+                        <a href="https://www.mn.uio.no/math/english/people/aca/carloman/">
+                            <img class="single_presenter" src="photos/Carlo_Mannino.jpg" alt="person_photo"/>
+                        </a><br/>
+                    </div>
+                </td>
+                <td class="information_upcoming_container">
+                    <b>[Presenter]</b><br>
+                    <a href="https://www.mn.uio.no/math/english/people/aca/carloman/">Carlo Mannino</a><br>
+                    (SINTEF & Oslo Uni.)<br><br/>
+                    <b>[Invited by]</b><br>
+                    <a href="https://www3.diism.unisi.it/~agnetis/">Alessandro Agnetis</a><br>
+                    (University of Siena)
+                </td>
+                <td class="time_zones_container">
+                    <table class="time_table">
+                        <tbody>
+                        <tr class="utc">
+                            <td>UTC</td>
+                            <td>Nov 10, Wed</td>
+                        </tr>
+                        <tr class="europe">
+                            <td>Prague</td>
+                            <td>Nov 10, Wed</td>
+                        </tr>
+                        <tr class="america">
+                            <td>New York</td>
+                            <td>Nov 10, Wed</td>
+                        </tr>
+                        <tr class="asia">
+                            <td>Shanghai</td>
+                            <td>Nov 10, Wed</td>
                         </tr>
                         </tbody>
                     </table>
@@ -319,8 +402,8 @@
                 <td colspan="3">
                     <h2 class="talk_title"><b>The Longest Processing Time Rule for Identical Parallel Machines
                         Revisited</b><br></h2>
-                    <input type="checkbox" id="abstract_id_12" style="display:none;">
-                    <label for="abstract_id_12" class="label_abstract"><a>Abstract</a></label>
+                    <input type="checkbox" id="abstract_id_11" style="display:none;">
+                    <label for="abstract_id_11" class="label_abstract"><a>Abstract</a></label>
                     <div class="hidden">
                         <hr style="border-top: 1px solid black;">
                         We consider the P||Cmax scheduling problem where the goal is to schedule n jobs on m identical
@@ -406,8 +489,8 @@
                 <td colspan="3">
                     <h2 class="talk_title"><b>The Benefit of Preemption<span style="opacity: 0">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></b><br>
                     </h2>
-                    <input type="checkbox" id="abstract_id_11" style="display:none;">
-                    <label for="abstract_id_11" class="label_abstract"><a>Abstract</a></label>
+                    <input type="checkbox" id="abstract_id_10" style="display:none;">
+                    <label for="abstract_id_10" class="label_abstract"><a>Abstract</a></label>
                     <div class="hidden">
                         <hr style="border-top: 1px solid black;">
                         Given an input of a scheduling problem, any non-preemptive solution for it can be used as a
@@ -491,8 +574,8 @@
                     <!--REMOVE nbsp hackaround-->
                     <h2 class="talk_title"><b>Dynamic Opponent Choice in Tournaments<span style="opacity: 0">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></b><br>
                     </h2>
-                    <input type="checkbox" id="abstract_id_10" style="display:none;">
-                    <label for="abstract_id_10" class="label_abstract"><a>Abstract</a></label>
+                    <input type="checkbox" id="abstract_id_9" style="display:none;">
+                    <label for="abstract_id_9" class="label_abstract"><a>Abstract</a></label>
                     <div class="hidden">
                         <hr style="border-top: 1px solid black;">
                         We propose an alternative design for tournaments that use a preliminary stage, followed by
@@ -584,8 +667,8 @@
                 <td colspan="3">
                     <h2 class="talk_title"><b>Educational Timetabling: Problems, Benchmarks, Algorithms, and Practical
                         Issues</b><br></h2>
-                    <input type="checkbox" id="abstract_id_9" style="display:none;">
-                    <label for="abstract_id_9" class="label_abstract"><a>Abstract</a></label>
+                    <input type="checkbox" id="abstract_id_8" style="display:none;">
+                    <label for="abstract_id_8" class="label_abstract"><a>Abstract</a></label>
                     <div class="hidden">
                         <hr style="border-top: 1px solid black;">
                         Educational timetabling problems consist in scheduling a
@@ -665,8 +748,8 @@
                     <!--REMOVE NBSP HACKAROUND-->
                     <h2 class="talk_title"><b>Challenges in Healthcare Scheduling Applications<span style="opacity: 0">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></b><br>
                     </h2>
-                    <input type="checkbox" id="abstract_id_8" style="display:none;">
-                    <label for="abstract_id_8" class="label_abstract"><a>Abstract</a></label>
+                    <input type="checkbox" id="abstract_id_7" style="display:none;">
+                    <label for="abstract_id_7" class="label_abstract"><a>Abstract</a></label>
                     <div class="hidden">
                         <hr style="border-top: 1px solid black;">
                         In the immortal words of Monty Python, “… and now for something completely different!”
@@ -754,8 +837,8 @@
                 <td colspan="3">
                     <h2 class="talk_title"><b>Updated complexity results in single-machine primary-secondary sched.
                         for min. two regular criteria</b><br></h2>
-                    <input type="checkbox" id="abstract_id_7" style="display:none;">
-                    <label for="abstract_id_7" class="label_abstract"><a>Abstract</a></label>
+                    <input type="checkbox" id="abstract_id_6" style="display:none;">
+                    <label for="abstract_id_6" class="label_abstract"><a>Abstract</a></label>
                     <div class="hidden">
                         <hr style="border-top: 1px solid black;">
                         In the primary-secondary scheduling problem, we have a primary scheduling criterion and a
@@ -848,8 +931,8 @@
                 <td colspan="3">
                     <h2 class="talk_title"><b>On the State of the Art in Proactive/Reactive Project Scheduling
                     </b><br></h2>
-                    <input type="checkbox" id="abstract_id_6" style="display:none;">
-                    <label for="abstract_id_6" class="label_abstract"><a>Abstract</a></label>
+                    <input type="checkbox" id="abstract_id_5" style="display:none;">
+                    <label for="abstract_id_5" class="label_abstract"><a>Abstract</a></label>
                     <div class="hidden">
                         <hr style="border-top: 1px solid black;">
                         The majority of publications in the extensive literature on resource-constrained project
@@ -934,8 +1017,8 @@
                 <td colspan="3">
                     <h2 class="talk_title"><b>Efficient Algorithms and Provably Good Solutions for NP-hard Scheduling
                         Problems</b><br></h2>
-                    <input type="checkbox" id="abstract_id_5" style="display:none;">
-                    <label for="abstract_id_5" class="label_abstract"><a>Abstract</a></label>
+                    <input type="checkbox" id="abstract_id_4" style="display:none;">
+                    <label for="abstract_id_4" class="label_abstract"><a>Abstract</a></label>
                     <div class="hidden">
                         <hr style="border-top: 1px solid black;">
                         Machine scheduling problems are among the first optimization problems for which approximation
@@ -1038,8 +1121,8 @@
                         Download PDF
                     </a>
 
-                    <input type="checkbox" id="abstract_id_4" style="display:none;">
-                    <label for="abstract_id_4" class="label_abstract"><a>Biography</a></label>
+                    <input type="checkbox" id="biography_id_3" style="display:none;">
+                    <label for="biography_id_3" class="label_abstract"><a>Biography</a></label>
                     <div class="hidden">
                         <hr style="border-top: 1px solid black;">
                         Professor Lixin Tang is the Vice President of Northeastern University, China, a member of
