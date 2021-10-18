@@ -284,19 +284,19 @@
                         <tbody>
                         <tr class="utc">
                             <td>UTC</td>
-                            <td>Nov 10, Wed</td>
+                            <td>Nov 10, 14:00 Wed</td>
                         </tr>
                         <tr class="europe">
                             <td>Prague</td>
-                            <td>Nov 10, Wed</td>
+                            <td>Nov 10, 15:00 Wed</td>
                         </tr>
                         <tr class="america">
                             <td>New York</td>
-                            <td>Nov 10, Wed</td>
+                            <td>Nov 10, 09:00 Wed</td>
                         </tr>
                         <tr class="asia">
                             <td>Shanghai</td>
-                            <td>Nov 10, Wed</td>
+                            <td>Nov 10, 22:00 Wed</td>
                         </tr>
                         </tbody>
                     </table>
@@ -367,19 +367,19 @@
                         <tbody>
                         <tr class="utc">
                             <td>UTC</td>
-                            <td>Nov 24, Wed</td>
+                            <td>Nov 24, 14:00 Wed</td>
                         </tr>
                         <tr class="europe">
                             <td>Prague</td>
-                            <td>Nov 24, Wed</td>
+                            <td>Nov 24, 15:00 Wed</td>
                         </tr>
                         <tr class="america">
                             <td>New York</td>
-                            <td>Nov 24, Wed</td>
+                            <td>Nov 24, 09:00 Wed</td>
                         </tr>
                         <tr class="asia">
                             <td>Shanghai</td>
-                            <td>Nov 24, Wed</td>
+                            <td>Nov 24, 22:00 Wed</td>
                         </tr>
                         </tbody>
                     </table>
