@@ -163,9 +163,9 @@
                         grows.
                         <hr style="border-top: 1px solid black;">
                     </div>
-                    <!--                    <a href="" class="label_abstract" download>-->
-                    <!--                        Download PDF-->
-                    <!--                    </a>-->
+                    <a href="./presentations/SchedulingSeminar_BenjaminMoseley.pdf" class="label_abstract" download>
+                        Download PDF
+                    </a>
                     <!--Keywords: scheduling, learning augmented, optimization, sample complexity, robustness, error, competitive, approximation-->
                 </td>
             </tr>
