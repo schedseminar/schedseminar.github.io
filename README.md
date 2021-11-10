@@ -255,9 +255,9 @@
 
                         <hr style="border-top: 1px solid black;">
                     </div>
-                    <!--                    <a href="" class="label_abstract" download>-->
-                    <!--                        Download PDF-->
-                    <!--                    </a>-->
+                    <a href="./presentations/SchedulingSeminar_CarloMannino.pdf" class="label_abstract" download>
+                        Download PDF
+                    </a>
                     <!--Keywords: train scheduling, job-shop scheduling, combinatorial optimization, integer programming, decomposition methods-->
                 </td>
             </tr>
