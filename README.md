@@ -140,95 +140,12 @@
         <!--            </tr>-->
         <!--        </table>-->
 
-        <!--Single talk------------------------------------------------------------------------------------------------>
-        <table style="padding-bottom: 12px;" class="europe">
-            <!--Title/Abstract/PDF-->
-            <tr>
-                <td colspan="3">
-                    <h2 class="talk_title"><b>Train Scheduling: Models, decomposition methods and practice</b><br></h2>
-                    <input type="checkbox" id="abstract_id_13" style="display:none;">
-                    <label for="abstract_id_13" class="label_abstract"><a>Abstract</a></label>
-                    <div class="hidden">
-                        <hr style="border-top: 1px solid black;">
-                        Train scheduling is one of the most critical planning tasks required to run a railway, with most
-                        rail operators and managers having large departments devoted to this task.
-                        Depending on the time scale, we have two main scheduling problems. At the strategic and tactical
-                        levels, the train timetabling problem consists in finding feasible, robust schedules that are
-                        usable for months or years into the future. At the operational level, we have the train
-                        re-scheduling problem, where one wants to schedule trains in real-time in order to tackle
-                        deviations from the original timetable, minimizing delays and knock-on effects.
-                        Both problems share a common core-model, which is a job-shop scheduling model with no-wait and
-                        blocking constraints. The core problem can be modeled as a disjunctive program.
-                        After an illustration of the train scheduling application, I will present a basic MILP
-                        formulation for the disjunctive program. It turns out, however, that even small to medium size
-                        real-life instances cannot be solved by simply instantiating this formulation and invoking a
-                        state-of-the-art MILP solver. Next, therefore, I will go through two recent reformulations,
-                        which allow us to significantly increase the size of tractable instances. The first is obtained
-                        from the classical Benders' reformulation by strengthening its standard constraints. The second
-                        is often referred to as "Logic Benders' Reformulation" and exploits a natural, spatial
-                        decomposition of the railway network. I will finally show the strong link between these
-                        reformulations.
-                        I will conclude the talk by presenting a practical application of the described approaches to a
-                        traffic management system controlling trains in the greater Oslo region network. The system is
-                        currently undergoing a field-test campaign at Oslo control center.
-
-                        <hr style="border-top: 1px solid black;">
-                    </div>
-                    <a href="./presentations/SchedulingSeminar_CarloMannino.pdf" class="label_abstract" download>
-                        Download PDF
-                    </a>
-                    <!--Keywords: train scheduling, job-shop scheduling, combinatorial optimization, integer programming, decomposition methods-->
-                </td>
-            </tr>
-
-            <!--Data--->
-            <tr>
-                <td class="presenter_image_container">
-                    <div class="single_image_container">
-                        <a href="https://www.mn.uio.no/math/english/people/aca/carloman/">
-                            <img class="single_presenter" src="photos/Carlo_Mannino.jpg" alt="person_photo"/>
-                        </a><br/>
-                    </div>
-                </td>
-                <td class="information_upcoming_container">
-                    <b>[Presenter]</b><br>
-                    <a href="https://www.mn.uio.no/math/english/people/aca/carloman/">Carlo Mannino</a><br>
-                    (SINTEF & Oslo Uni.)<br><br/>
-                    <b>[Invited by]</b><br>
-                    <a href="https://www3.diism.unisi.it/~agnetis/">Alessandro Agnetis</a><br>
-                    (University of Siena)
-                </td>
-                <td class="time_zones_container">
-                    <table class="time_table">
-                        <tbody>
-                        <tr class="utc">
-                            <td>UTC</td>
-                            <td>Nov 10, 14:00 Wed</td>
-                        </tr>
-                        <tr class="europe">
-                            <td>Prague</td>
-                            <td>Nov 10, 15:00 Wed</td>
-                        </tr>
-                        <tr class="america">
-                            <td>New York</td>
-                            <td>Nov 10, 09:00 Wed</td>
-                        </tr>
-                        <tr class="asia">
-                            <td>Shanghai</td>
-                            <td>Nov 10, 22:00 Wed</td>
-                        </tr>
-                        </tbody>
-                    </table>
-                </td>
-            </tr>
-        </table>
-
-        <!--Spacing-->
-        <table style="margin: 0 0 0 0 !important;">
-            <tr>
-                <td colspan="100%"></td>
-            </tr>
-        </table>
+        <!--        &lt;!&ndash;Spacing&ndash;&gt;-->
+        <!--        <table style="margin: 0 0 0 0 !important;">-->
+        <!--            <tr>-->
+        <!--                <td colspan="100%"></td>-->
+        <!--            </tr>-->
+        <!--        </table>-->
 
         <!--Single talk------------------------------------------------------------------------------------------------>
         <table style="padding-bottom: 12px;" class="america">
@@ -398,11 +315,104 @@
         <tbody>
 
         <!--Single talk------------------------------------------------------------------------------------------------>
+        <table style="padding-bottom: 12px;" class="europe">
+            <!--Title/Abstract/PDF-->
+            <tr>
+                <td colspan="3">
+                    <h2 class="talk_title"><b>Train Scheduling: Models, decomposition methods and practice</b><br></h2>
+                    <input type="checkbox" id="abstract_id_13" style="display:none;">
+                    <label for="abstract_id_13" class="label_abstract"><a>Abstract</a></label>
+                    <div class="hidden">
+                        <hr style="border-top: 1px solid black;">
+                        Train scheduling is one of the most critical planning tasks required to run a railway, with most
+                        rail operators and managers having large departments devoted to this task.
+                        Depending on the time scale, we have two main scheduling problems. At the strategic and tactical
+                        levels, the train timetabling problem consists in finding feasible, robust schedules that are
+                        usable for months or years into the future. At the operational level, we have the train
+                        re-scheduling problem, where one wants to schedule trains in real-time in order to tackle
+                        deviations from the original timetable, minimizing delays and knock-on effects.
+                        Both problems share a common core-model, which is a job-shop scheduling model with no-wait and
+                        blocking constraints. The core problem can be modeled as a disjunctive program.
+                        After an illustration of the train scheduling application, I will present a basic MILP
+                        formulation for the disjunctive program. It turns out, however, that even small to medium size
+                        real-life instances cannot be solved by simply instantiating this formulation and invoking a
+                        state-of-the-art MILP solver. Next, therefore, I will go through two recent reformulations,
+                        which allow us to significantly increase the size of tractable instances. The first is obtained
+                        from the classical Benders' reformulation by strengthening its standard constraints. The second
+                        is often referred to as "Logic Benders' Reformulation" and exploits a natural, spatial
+                        decomposition of the railway network. I will finally show the strong link between these
+                        reformulations.
+                        I will conclude the talk by presenting a practical application of the described approaches to a
+                        traffic management system controlling trains in the greater Oslo region network. The system is
+                        currently undergoing a field-test campaign at Oslo control center.
+
+                        <hr style="border-top: 1px solid black;">
+                    </div>
+                    <a href="./presentations/SchedulingSeminar_CarloMannino.pdf" class="label_abstract" download>
+                        Download PDF
+                    </a>
+                    <!--Keywords: train scheduling, job-shop scheduling, combinatorial optimization, integer programming, decomposition methods-->
+                </td>
+            </tr>
+
+            <!--Photo and video-->
+            <tr>
+                <td class="presenter_image_container">
+                    <div class="single_image_container">
+                        <a href="https://www.mn.uio.no/math/english/people/aca/carloman/">
+                            <img class="single_presenter" src="photos/Carlo_Mannino.jpg" alt="person_photo"/>
+                        </a><br/>
+                    </div>
+                </td>
+
+                <td colspan="2">
+                    <div class="resizable_youtube_single">
+                        <iframe width="400" height="250" src="https://www.youtube.com/embed/5UUYdg0l-v0"
+                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                                allowfullscreen></iframe>
+                    </div>
+                </td>
+            </tr>
+
+            <!--Text description-->
+            <tr>
+                <td class="presenter_past_info_container"></td>
+                <td>
+                    <table class="panelists_past_container_single">
+                        <tr>
+                            <td colspan="2"><b>[Presenter]</b> <br></td>
+                            <td><b>[Invited by]</b> <br></td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.mn.uio.no/math/english/people/aca/carloman/">Carlo Mannino</a><br>
+                                (SINTEF & Oslo Uni.)<br>
+                            </td>
+                            <td></td>
+                            <td>
+                                <a href="https://www3.diism.unisi.it/~agnetis/">Alessandro Agnetis</a><br>
+                                (University of Siena)
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+
+        <!--Spacing--->
+        <table style="margin: 0 0 0 0 !important;">
+            <tr>
+                <td colspan="100%"></td>
+            </tr>
+        </table>
+
+        <!--Single talk------------------------------------------------------------------------------------------------>
         <table style="padding-bottom: 12px;" class="america">
             <!--Title/Abstract/PDF-->
             <tr>
                 <td colspan="3">
-                    <h2 class="talk_title"><b>Machine Learning for Scheduling</b><span style="opacity: 0">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><br></h2>
+                    <h2 class="talk_title"><b>Machine Learning for Scheduling</b><span style="opacity: 0">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><br>
+                    </h2>
                     <input type="checkbox" id="abstract_id_12" style="display:none;">
                     <label for="abstract_id_12" class="label_abstract"><a>Abstract</a></label>
                     <div class="hidden">
