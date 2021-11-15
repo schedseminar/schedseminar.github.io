@@ -217,99 +217,182 @@
             </tr>
         </table>
 
-<!--        &lt;!&ndash;Spacing&ndash;&gt;-->
-<!--        <table style="margin: 0 0 0 0 !important;">-->
-<!--            <tr>-->
-<!--                <td colspan="100%"></td>-->
-<!--            </tr>-->
-<!--        </table>-->
+        <!--Spacing-->
+        <table style="margin: 0 0 0 0 !important;">
+            <tr>
+                <td colspan="100%"></td>
+            </tr>
+        </table>
 
         <!--Single talk------------------------------------------------------------------------------------------------>
-<!--        <table style="padding-bottom: 12px;" class="europe">-->
-<!--            &lt;!&ndash;Title/Abstract/PDF&ndash;&gt;-->
-<!--            <tr>-->
-<!--                <td colspan="3">-->
-<!--                    <h2 class="talk_title"><b>State-of-the-art flowshop scheduling heuristics: Dos and Don'ts </b><br></h2>-->
-<!--                    <input type="checkbox" id="abstract_id_15" style="display:none;">-->
-<!--                    <label for="abstract_id_15" class="label_abstract"><a>Abstract</a></label>-->
-<!--                    <div class="hidden">-->
-<!--                        <hr style="border-top: 1px solid black;">-->
-<!--                        Many scheduling problems are simply too hard to be solved exactly, especially for instances of-->
-<!--                        medium or large size or when realistic constraints are present. As a result, the literature on-->
-<!--                        heuristics and metaheuristics for scheduling is extensive. More often than not, metaheuristics-->
-<!--                        are capable of generating solutions close to optimality or to tight lower bounds for instances-->
-<!--                        of realistic size in a matter of minutes. Metaheuristics have been refined over the years and-->
-<!--                        there are literally hundreds of papers published every year with applications to most domains in-->
-<!--                        many different journals. Most regrettably, some of these methods are complex in the sense that-->
-<!--                        they have many parameters that affect performance and hence need careful calibration.-->
-<!--                        Furthermore, many times published results are hard to reproduce due to specific speed-ups being-->
-<!--                        used or complicated software constructs. These complex methods are difficult to transfer to-->
-<!--                        industries in the case of scheduling problems. Another important concern is the recently-->
-<!--                        recognized “tsunami” of novel metaheuristics that mimic the most bizarre natural or human-->
-<!--                        processes, as for example intelligent water drops, harmony search, firefly algorithms and the-->
-<!--                        like. See K. Sörensen “Metaheuristics—The Metaphor exposed” (2015), ITOR 22(1):3-18.-->
+        <table style="padding-bottom: 12px;" class="europe">
+            <!--Title/Abstract/PDF-->
+            <tr>
+                <td colspan="3">
+                    <h2 class="talk_title"><b>Three models for scheduling under explorable uncertainty</b><br></h2>
+                    <input type="checkbox" id="abstract_id_15" style="display:none;">
+                    <label for="abstract_id_15" class="label_abstract"><a>Abstract</a></label>
+                    <div class="hidden">
+                        <hr style="border-top: 1px solid black;">
+                        We consider a single machine scheduling problem, where every job has a
+                        processing time and a priority weight and the objective is to minimize the
+                        total weighted sum of completion times.   The novelty is that the job
+                        characteristics are initially given in an imprecise manner to the algorithm.
+                        Tests can be performed for chosen jobs to learn their precise values,
+                        allowing for a better ordering of the jobs in the schedule. These tests
+                        however take some time, delaying the subsequent schedule.  The algorithm
+                        needs to produce a schedule consisting of executions of all jobs and tests of
+                        some jobs.  We will present three different models that have been studied in
+                        this context, as well as the results obtained for each of them.
 
-<!--                        In this presentation, we briefly review different flowshop problems and variants. From the basic-->
-<!--                        flowshop problem with makespan minimization to other objectives like flowtime minimization,-->
-<!--                        flowshops with sequence-dependent setup times, no-idle flowshops, all the way up to complex-->
-<!--                        hybrid flexible flowline problems. We will show how simple Iterated Greedy (IG) algorithms often-->
-<!--                        outperform much more complex approaches. IG methods are inherently simple with very few-->
-<!--                        parameters. They are easy to code and results are easy to reproduce. We will show that for all-->
-<!--                        tested problems so far they show state-of-the-art performance despite their simplicity. As a-->
-<!--                        result, we will defend the choice of simpler, yet good performing approaches over complicated-->
-<!--                        metaphor-based algorithms.-->
+                        The talk covers papers authored by Levi, Magnanti and Shaposhnik, by C.D.,
+                        Thomas Erlebach, Nicole Megow, Julie Meißner, and by Fanny Dufossé, C.D.,
+                        Noël Nadal, Denis Trystram and Óscar C. Vásquez.
+
+                        <hr style="border-top: 1px solid black;">
+                    </div>
+                    <!--                    <a href="" class="label_abstract" download>-->
+                    <!--                        Download PDF-->
+                    <!--                    </a>-->
+                    <!--Keywords: TODO-->
+                </td>
+            </tr>
+
+            <!--Data--->
+            <tr>
+                <td class="presenter_image_container">
+                    <div class="single_image_container">
+                        <a href="http://www.lip6.fr/Christoph.Durr">
+                            <img class="single_presenter" src="photos/christoph_durr.jpg" alt="person_photo"/>
+                        </a><br/>
+                    </div>
+                </td>
+                <td class="information_upcoming_container">
+                    <b>[Presenter]</b><br>
+                    <a href="http://www.lip6.fr/Christoph.Durr">Christoph Dürr</a><br>
+                    (Sorbonne Uni)<br><br/>
+                    <b>[Invited by]</b><br>
+                    <a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a><br>
+                    (CTU in Prague)
+                </td>
+                <td class="time_zones_container">
+                    <table class="time_table">
+                        <tbody>
+                        <tr class="utc">
+                            <td>UTC</td>
+                            <td>Dec 8, 14:00 Wed</td>
+                        </tr>
+                        <tr class="europe">
+                            <td>Prague</td>
+                            <td>Dec 8, 15:00 Wed</td>
+                        </tr>
+                        <tr class="america">
+                            <td>New York</td>
+                            <td>Dec 8, 09:00 Wed</td>
+                        </tr>
+                        <tr class="asia">
+                            <td>Shanghai</td>
+                            <td>Dec 8, 22:00 Wed</td>
+                        </tr>
+                        </tbody>
+                    </table>
+                </td>
+            </tr>
+        </table>
+
+        <!--Spacing-->
+        <table style="margin: 0 0 0 0 !important;">
+            <tr>
+                <td colspan="100%"></td>
+            </tr>
+        </table>
+
+        <!--Single talk------------------------------------------------------------------------------------------------>
+        <table style="padding-bottom: 12px;" class="europe">
+            <!--Title/Abstract/PDF-->
+            <tr>
+                <td colspan="3">
+                    <h2 class="talk_title"><b>State-of-the-art flowshop scheduling heuristics: Dos and Don'ts</b><br></h2>
+                    <input type="checkbox" id="abstract_id_16" style="display:none;">
+                    <label for="abstract_id_16" class="label_abstract"><a>Abstract</a></label>
+                    <div class="hidden">
+                        <hr style="border-top: 1px solid black;">
+                        Many scheduling problems are simply too hard to be solved exactly, especially for instances of
+                        medium or large size or when realistic constraints are present. As a result, the literature on
+                        heuristics and metaheuristics for scheduling is extensive. More often than not, metaheuristics
+                        are capable of generating solutions close to optimality or to tight lower bounds for instances
+                        of realistic size in a matter of minutes. Metaheuristics have been refined over the years and
+                        there are literally hundreds of papers published every year with applications to most domains in
+                        many different journals. Most regrettably, some of these methods are complex in the sense that
+                        they have many parameters that affect performance and hence need careful calibration.
+                        Furthermore, many times published results are hard to reproduce due to specific speed-ups being
+                        used or complicated software constructs. These complex methods are difficult to transfer to
+                        industries in the case of scheduling problems. Another important concern is the recently
+                        recognized “tsunami” of novel metaheuristics that mimic the most bizarre natural or human
+                        processes, as for example intelligent water drops, harmony search, firefly algorithms and the
+                        like. See K. Sörensen “Metaheuristics—The Metaphor exposed” (2015), ITOR 22(1):3-18.
+
+                        In this presentation, we briefly review different flowshop problems and variants. From the basic
+                        flowshop problem with makespan minimization to other objectives like flowtime minimization,
+                        flowshops with sequence-dependent setup times, no-idle flowshops, all the way up to complex
+                        hybrid flexible flowline problems. We will show how simple Iterated Greedy (IG) algorithms often
+                        outperform much more complex approaches. IG methods are inherently simple with very few
+                        parameters. They are easy to code and results are easy to reproduce. We will show that for all
+                        tested problems so far they show state-of-the-art performance despite their simplicity. As a
+                        result, we will defend the choice of simpler, yet good performing approaches over complicated
+                        metaphor-based algorithms.
 
 
-<!--                        <hr style="border-top: 1px solid black;">-->
-<!--                    </div>-->
-<!--                    &lt;!&ndash;                    <a href="" class="label_abstract" download>&ndash;&gt;-->
-<!--                    &lt;!&ndash;                        Download PDF&ndash;&gt;-->
-<!--                    &lt;!&ndash;                    </a>&ndash;&gt;-->
-<!--                    &lt;!&ndash;Keywords: scheduling, flowshop, heuristics, metaheuristics, iterated greedy&ndash;&gt;-->
-<!--                </td>-->
-<!--            </tr>-->
+                        <hr style="border-top: 1px solid black;">
+                    </div>
+                    <!--                    <a href="" class="label_abstract" download>-->
+                    <!--                        Download PDF-->
+                    <!--                    </a>-->
+                    <!--Keywords: scheduling, flowshop, heuristics, metaheuristics, iterated greedy-->
+                </td>
+            </tr>
 
-<!--            &lt;!&ndash;Data-&ndash;&gt;-->
-<!--            <tr>-->
-<!--                <td class="presenter_image_container">-->
-<!--                    <div class="single_image_container">-->
-<!--                        <a href="http://soa.iti.es/rruiz">-->
-<!--                            <img class="single_presenter" src="photos/ruben_ruiz.jpg" alt="person_photo"/>-->
-<!--                        </a><br/>-->
-<!--                    </div>-->
-<!--                </td>-->
-<!--                <td class="information_upcoming_container">-->
-<!--                    <b>[Presenter]</b><br>-->
-<!--                    <a href="http://soa.iti.es/rruiz">Rubén Ruiz</a><br>-->
-<!--                    (UP de València)<br><br/>-->
-<!--                    <b>[Invited by]</b><br>-->
-<!--                    <a href="https://www.kuleuven.be/wieiswie/nl/person/00053376">G. Vanden Berghe</a><br>-->
-<!--                    (KU Leuven)-->
-<!--                </td>-->
-<!--                <td class="time_zones_container">-->
-<!--                    <table class="time_table">-->
-<!--                        <tbody>-->
-<!--                        <tr class="utc">-->
-<!--                            <td>UTC</td>-->
-<!--                            <td>Dec 22, 14:00 Wed</td>-->
-<!--                        </tr>-->
-<!--                        <tr class="europe">-->
-<!--                            <td>Prague</td>-->
-<!--                            <td>Dec 22, 15:00 Wed</td>-->
-<!--                        </tr>-->
-<!--                        <tr class="america">-->
-<!--                            <td>New York</td>-->
-<!--                            <td>Dec 22, 09:00 Wed</td>-->
-<!--                        </tr>-->
-<!--                        <tr class="asia">-->
-<!--                            <td>Shanghai</td>-->
-<!--                            <td>Dec 22, 22:00 Wed</td>-->
-<!--                        </tr>-->
-<!--                        </tbody>-->
-<!--                    </table>-->
-<!--                </td>-->
-<!--            </tr>-->
-<!--        </table>-->
+            <!--Data--->
+            <tr>
+                <td class="presenter_image_container">
+                    <div class="single_image_container">
+                        <a href="http://soa.iti.es/rruiz">
+                            <img class="single_presenter" src="photos/ruben_ruiz.jpg" alt="person_photo"/>
+                        </a><br/>
+                    </div>
+                </td>
+                <td class="information_upcoming_container">
+                    <b>[Presenter]</b><br>
+                    <a href="http://soa.iti.es/rruiz">Rubén Ruiz</a><br>
+                    (UP de València)<br><br/>
+                    <b>[Invited by]</b><br>
+                    <a href="https://www.kuleuven.be/wieiswie/nl/person/00053376">G. Vanden Berghe</a><br>
+                    (KU Leuven)
+                </td>
+                <td class="time_zones_container">
+                    <table class="time_table">
+                        <tbody>
+                        <tr class="utc">
+                            <td>UTC</td>
+                            <td>Dec 22, 14:00 Wed</td>
+                        </tr>
+                        <tr class="europe">
+                            <td>Prague</td>
+                            <td>Dec 22, 15:00 Wed</td>
+                        </tr>
+                        <tr class="america">
+                            <td>New York</td>
+                            <td>Dec 22, 09:00 Wed</td>
+                        </tr>
+                        <tr class="asia">
+                            <td>Shanghai</td>
+                            <td>Dec 22, 22:00 Wed</td>
+                        </tr>
+                        </tbody>
+                    </table>
+                </td>
+            </tr>
+        </table>
 
 
         <!--Dual talk-------------------------------------------------------------------------------------------------->
