@@ -251,9 +251,9 @@
 
                         <hr style="border-top: 1px solid black;">
                     </div>
-                    <!--                    <a href="" class="label_abstract" download>-->
-                    <!--                        Download PDF-->
-                    <!--                    </a>-->
+                    <a href="./presentations/SchedulingSeminar_Michel%20Gendreau.pdf" class="label_abstract" download>
+                        Download PDF
+                    </a>
                     <!--Keywords: TODO-->
                 </td>
             </tr>
