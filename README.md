@@ -168,7 +168,7 @@
 
                         <hr style="border-top: 1px solid black;">
                     </div>
-                    <a href="./presentations/SchedulingSeminar_Michel%20Gendreau.pdf" class="label_abstract" download>
+                    <a href="./presentations/SchedulingSeminar_MichelGendreau.pdf" class="label_abstract" download>
                         Download PDF
                     </a>
                     <!--Keywords: routing, time windows, time-dependent travel times, road network, tabu search-->
