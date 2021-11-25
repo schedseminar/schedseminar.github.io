@@ -140,90 +140,6 @@
         <!--            </tr>-->
         <!--        </table>-->
 
-
-        <!--Single talk------------------------------------------------------------------------------------------------>
-        <table style="padding-bottom: 12px;" class="america">
-            <!--Title/Abstract/PDF-->
-            <tr>
-                <td colspan="3">
-                    <h2 class="talk_title"><b>Tabu search for the time-dependent vehicle routing problem with time
-                        windows on a road network</b><br></h2>
-                    <input type="checkbox" id="abstract_id_14" style="display:none;">
-                    <label for="abstract_id_14" class="label_abstract"><a>Abstract</a></label>
-                    <div class="hidden">
-                        <hr style="border-top: 1px solid black;">
-                        Travel times inside cities often vary quite a lot during a day and significantly impact the
-                        duration of delivery routes. Some authors have proposed time-dependent (TD) variants of several
-                        vehicle routing problems (VRPs), including the VRP with time windows (VRPTW). In most papers,
-                        time-dependency is defined on customer-based graphs. Thus, a major impact of travel time
-                        variations is missed: in an urban environment, not only do travel times change, but also the
-                        paths used to travel from one customer to another. To address this issue, we work directly with
-                        the road network and consider travel time (or travel speed) variations on each road segment. We
-                        present a solution approach, based on tabu search, for a TDVRPTW in which travel speeds are
-                        associated with segments in the road network. Computational results on instances with up to 200
-                        nodes and 580 arcs are reported and assessed.
-
-                        (Joint work with Maha Gmira, Andrea Lodi, and Jean-Yves Potvin)
-
-
-                        <hr style="border-top: 1px solid black;">
-                    </div>
-                    <a href="./presentations/SchedulingSeminar_MichelGendreau.pdf" class="label_abstract" download>
-                        Download PDF
-                    </a>
-                    <!--Keywords: routing, time windows, time-dependent travel times, road network, tabu search-->
-                </td>
-            </tr>
-
-            <!--Data--->
-            <tr>
-                <td class="presenter_image_container">
-                    <div class="single_image_container">
-                        <a href="https://www.polymtl.ca/expertises/en/gendreau-michel">
-                            <img class="single_presenter" src="photos/michel_gendreau.jpg" alt="person_photo"/>
-                        </a><br/>
-                    </div>
-                </td>
-                <td class="information_upcoming_container">
-                    <b>[Presenter]</b><br>
-                    <a href="https://www.polymtl.ca/expertises/en/gendreau-michel">Michel Gendreau</a><br>
-                    (Polytech Montréal)<br><br/>
-                    <b>[Invited by]</b><br>
-                    <a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a><br>
-                    (CTU in Prague)
-                </td>
-                <td class="time_zones_container">
-                    <table class="time_table">
-                        <tbody>
-                        <tr class="utc">
-                            <td>UTC</td>
-                            <td>Nov 24, 14:00 Wed</td>
-                        </tr>
-                        <tr class="europe">
-                            <td>Prague</td>
-                            <td>Nov 24, 15:00 Wed</td>
-                        </tr>
-                        <tr class="america">
-                            <td>New York</td>
-                            <td>Nov 24, 09:00 Wed</td>
-                        </tr>
-                        <tr class="asia">
-                            <td>Shanghai</td>
-                            <td>Nov 24, 22:00 Wed</td>
-                        </tr>
-                        </tbody>
-                    </table>
-                </td>
-            </tr>
-        </table>
-
-        <!--Spacing-->
-        <table style="margin: 0 0 0 0 !important;">
-            <tr>
-                <td colspan="100%"></td>
-            </tr>
-        </table>
-
         <!--Single talk------------------------------------------------------------------------------------------------>
         <table style="padding-bottom: 12px;" class="europe">
             <!--Title/Abstract/PDF-->
@@ -481,9 +397,94 @@
 
 <!--Past talks-->
 <div class="column column_right">
-    <h2>Past talks (13)</h2>
+    <h2>Past talks (14)</h2>
     <table class="past_talk_table">
         <tbody>
+
+        <!--Single talk------------------------------------------------------------------------------------------------>
+        <table style="padding-bottom: 12px;" class="america">
+            <!--Title/Abstract/PDF-->
+            <tr>
+                <td colspan="3">
+                    <h2 class="talk_title"><b>Tabu search for the time-dependent vehicle routing problem with time
+                        windows on a road network</b><br></h2>
+                    <input type="checkbox" id="abstract_id_14" style="display:none;">
+                    <label for="abstract_id_14" class="label_abstract"><a>Abstract</a></label>
+                    <div class="hidden">
+                        <hr style="border-top: 1px solid black;">
+                        Travel times inside cities often vary quite a lot during a day and significantly impact the
+                        duration of delivery routes. Some authors have proposed time-dependent (TD) variants of several
+                        vehicle routing problems (VRPs), including the VRP with time windows (VRPTW). In most papers,
+                        time-dependency is defined on customer-based graphs. Thus, a major impact of travel time
+                        variations is missed: in an urban environment, not only do travel times change, but also the
+                        paths used to travel from one customer to another. To address this issue, we work directly with
+                        the road network and consider travel time (or travel speed) variations on each road segment. We
+                        present a solution approach, based on tabu search, for a TDVRPTW in which travel speeds are
+                        associated with segments in the road network. Computational results on instances with up to 200
+                        nodes and 580 arcs are reported and assessed.
+
+                        (Joint work with Maha Gmira, Andrea Lodi, and Jean-Yves Potvin)
+
+
+                        <hr style="border-top: 1px solid black;">
+                    </div>
+                    <a href="./presentations/SchedulingSeminar_MichelGendreau.pdf" class="label_abstract" download>
+                        Download PDF
+                    </a>
+                    <!--Keywords: routing, time windows, time-dependent travel times, road network, tabu search-->
+                </td>
+            </tr>
+
+            <!--Photo and video-->
+            <tr>
+                <td class="presenter_image_container">
+                    <div class="single_image_container">
+                        <a href="https://www.polymtl.ca/expertises/en/gendreau-michel">
+                            <img class="single_presenter" src="photos/michel_gendreau.jpg" alt="person_photo"/>
+                        </a><br/>
+                    </div>
+                </td>
+
+                <td colspan="2">
+                    <div class="resizable_youtube_single">
+                        <iframe width="400" height="250" src="https://www.youtube.com/embed/B3sLk7mqfno"
+                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                                allowfullscreen></iframe>
+                    </div>
+                </td>
+            </tr>
+
+            <!--Text description-->
+            <tr>
+                <td class="presenter_past_info_container"></td>
+                <td>
+                    <table class="panelists_past_container_single">
+                        <tr>
+                            <td colspan="2"><b>[Presenter]</b> <br></td>
+                            <td><b>[Invited by]</b> <br></td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.polymtl.ca/expertises/en/gendreau-michel">Michel Gendreau</a><br>
+                                (Polytech Montréal)<br>
+                            </td>
+                            <td></td>
+                            <td>
+                                <a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a><br>
+                                (CTU in Prague) <br>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+
+        <!--Spacing--->
+        <table style="margin: 0 0 0 0 !important;">
+            <tr>
+                <td colspan="100%"></td>
+            </tr>
+        </table>
 
         <!--Single talk------------------------------------------------------------------------------------------------>
         <table style="padding-bottom: 12px;" class="europe">
