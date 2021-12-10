@@ -140,95 +140,21 @@
         <!--            </tr>-->
         <!--        </table>-->
 
-        <!--Single talk------------------------------------------------------------------------------------------------>
-        <table style="padding-bottom: 12px;" class="europe">
-            <!--Title/Abstract/PDF-->
-            <tr>
-                <td colspan="3">
-                    <h2 class="talk_title"><b>Three models for scheduling under explorable uncertainty</b><br></h2>
-                    <input type="checkbox" id="abstract_id_15" style="display:none;">
-                    <label for="abstract_id_15" class="label_abstract"><a>Abstract</a></label>
-                    <div class="hidden">
-                        <hr style="border-top: 1px solid black;">
-                        We consider a single machine scheduling problem, where every job has a
-                        processing time and a priority weight and the objective is to minimize the
-                        total weighted sum of completion times.   The novelty is that the job
-                        characteristics are initially given in an imprecise manner to the algorithm.
-                        Tests can be performed for chosen jobs to learn their precise values,
-                        allowing for a better ordering of the jobs in the schedule. These tests
-                        however take some time, delaying the subsequent schedule.  The algorithm
-                        needs to produce a schedule consisting of executions of all jobs and tests of
-                        some jobs.  We will present three different models that have been studied in
-                        this context, as well as the results obtained for each of them.
 
-                        The talk covers papers authored by Levi, Magnanti and Shaposhnik, by C.D.,
-                        Thomas Erlebach, Nicole Megow, Julie Meißner, and by Fanny Dufossé, C.D.,
-                        Noël Nadal, Denis Trystram and Óscar C. Vásquez.
-
-                        <hr style="border-top: 1px solid black;">
-                    </div>
-                    <a href="./presentations/SchedulingSeminar_ChristophDürr.pdf" class="label_abstract" download>
-                        Download PDF
-                    </a>
-                    <!--Keywords: TODO-->
-                </td>
-            </tr>
-
-            <!--Data--->
-            <tr>
-                <td class="presenter_image_container">
-                    <div class="single_image_container">
-                        <a href="http://www.lip6.fr/Christoph.Durr">
-                            <img class="single_presenter" src="photos/christoph_durr.jpg" alt="person_photo"/>
-                        </a><br/>
-                    </div>
-                </td>
-                <td class="information_upcoming_container">
-                    <b>[Presenter]</b><br>
-                    <a href="http://www.lip6.fr/Christoph.Durr">Christoph Dürr</a><br>
-                    (Sorbonne Uni)<br><br/>
-                    <b>[Invited by]</b><br>
-                    <a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a><br>
-                    (CTU in Prague)
-                </td>
-                <td class="time_zones_container">
-                    <table class="time_table">
-                        <tbody>
-                        <tr class="utc">
-                            <td>UTC</td>
-                            <td>Dec 8, 14:00 Wed</td>
-                        </tr>
-                        <tr class="europe">
-                            <td>Prague</td>
-                            <td>Dec 8, 15:00 Wed</td>
-                        </tr>
-                        <tr class="america">
-                            <td>New York</td>
-                            <td>Dec 8, 09:00 Wed</td>
-                        </tr>
-                        <tr class="asia">
-                            <td>Shanghai</td>
-                            <td>Dec 8, 22:00 Wed</td>
-                        </tr>
-                        </tbody>
-                    </table>
-                </td>
-            </tr>
-        </table>
-
-        <!--Spacing-->
-        <table style="margin: 0 0 0 0 !important;">
-            <tr>
-                <td colspan="100%"></td>
-            </tr>
-        </table>
+        <!--        &lt;!&ndash;Spacing&ndash;&gt;-->
+        <!--        <table style="margin: 0 0 0 0 !important;">-->
+        <!--            <tr>-->
+        <!--                <td colspan="100%"></td>-->
+        <!--            </tr>-->
+        <!--        </table>-->
 
         <!--Single talk------------------------------------------------------------------------------------------------>
         <table style="padding-bottom: 12px;" class="europe">
             <!--Title/Abstract/PDF-->
             <tr>
                 <td colspan="3">
-                    <h2 class="talk_title"><b>State-of-the-art flowshop scheduling heuristics: Dos and Don'ts</b><br></h2>
+                    <h2 class="talk_title"><b>State-of-the-art flowshop scheduling heuristics: Dos and Don'ts</b><br>
+                    </h2>
                     <input type="checkbox" id="abstract_id_16" style="display:none;">
                     <label for="abstract_id_16" class="label_abstract"><a>Abstract</a></label>
                     <div class="hidden">
@@ -397,9 +323,94 @@
 
 <!--Past talks-->
 <div class="column column_right">
-    <h2>Past talks (14)</h2>
+    <h2>Past talks (15)</h2>
     <table class="past_talk_table">
         <tbody>
+
+        <!--Single talk------------------------------------------------------------------------------------------------>
+        <table style="padding-bottom: 12px;" class="europe">
+            <!--Title/Abstract/PDF-->
+            <tr>
+                <td colspan="3">
+                    <h2 class="talk_title"><b>Three models for scheduling under explorable uncertainty</b><br></h2>
+                    <input type="checkbox" id="abstract_id_15" style="display:none;">
+                    <label for="abstract_id_15" class="label_abstract"><a>Abstract</a></label>
+                    <div class="hidden">
+                        <hr style="border-top: 1px solid black;">
+                        We consider a single machine scheduling problem, where every job has a
+                        processing time and a priority weight and the objective is to minimize the
+                        total weighted sum of completion times.   The novelty is that the job
+                        characteristics are initially given in an imprecise manner to the algorithm.
+                        Tests can be performed for chosen jobs to learn their precise values,
+                        allowing for a better ordering of the jobs in the schedule. These tests
+                        however take some time, delaying the subsequent schedule.  The algorithm
+                        needs to produce a schedule consisting of executions of all jobs and tests of
+                        some jobs.  We will present three different models that have been studied in
+                        this context, as well as the results obtained for each of them.
+
+                        The talk covers papers authored by Levi, Magnanti and Shaposhnik, by C.D.,
+                        Thomas Erlebach, Nicole Megow, Julie Meißner, and by Fanny Dufossé, C.D.,
+                        Noël Nadal, Denis Trystram and Óscar C. Vásquez.
+
+                        <hr style="border-top: 1px solid black;">
+                    </div>
+                    <a href="./presentations/SchedulingSeminar_ChristophDürr.pdf" class="label_abstract" download>
+                        Download PDF
+                    </a>
+                    <!--Keywords: TODO-->
+                </td>
+            </tr>
+
+            <!--Photo and video-->
+            <tr>
+                <td class="presenter_image_container">
+                    <div class="single_image_container">
+                        <a href="http://www.lip6.fr/Christoph.Durr">
+                            <img class="single_presenter" src="photos/christoph_durr.jpg" alt="person_photo"/>
+                        </a><br/>
+                    </div>
+                </td>
+
+                <td colspan="2">
+                    <div class="resizable_youtube_single">
+                        <iframe width="400" height="250" src="https://youtube.com/embed/57lVMZ1AhXQ"
+                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                                allowfullscreen></iframe>
+                    </div>
+                </td>
+            </tr>
+
+            <!--Text description-->
+            <tr>
+                <td class="presenter_past_info_container"></td>
+                <td>
+                    <table class="panelists_past_container_single">
+                        <tr>
+                            <td colspan="2"><b>[Presenter]</b> <br></td>
+                            <td><b>[Invited by]</b> <br></td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="http://www.lip6.fr/Christoph.Durr">Christoph Dürr</a><br>
+                                (Sorbonne Uni)<br>
+                            </td>
+                            <td></td>
+                            <td>
+                                <a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a><br>
+                                (CTU in Prague)
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+
+        <!--Spacing--->
+        <table style="margin: 0 0 0 0 !important;">
+            <tr>
+                <td colspan="100%"></td>
+            </tr>
+        </table>
 
         <!--Single talk------------------------------------------------------------------------------------------------>
         <table style="padding-bottom: 12px;" class="america">
