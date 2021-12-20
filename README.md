@@ -236,6 +236,74 @@
             </tr>
         </table>
 
+        <!--Spacing-->
+        <table style="margin: 0 0 0 0 !important;">
+            <tr>
+                <td colspan="100%"></td>
+            </tr>
+        </table>
+
+        <table style="padding-bottom: 12px;" class="europe">
+            <!--Title/Abstract/PDF-->
+            <tr>
+                <td colspan="3">
+                    <h2 class="talk_title"><b>Mixed-integer linear programming for resource-constrained scheduling</b><br>
+                    </h2>
+                    <input type="checkbox" id="abstract_id_17" style="display:none;">
+                    <label for="abstract_id_17" class="label_abstract"><a>Abstract</a></label>
+                    <div class="hidden">
+                        <hr style="border-top: 1px solid black;">
+                        <hr style="border-top: 1px solid black;">
+                    </div>
+<!--                    <a href="./presentations/SchedulingSeminar_RubénRuiz.pdf" class="label_abstract" download>-->
+<!--                        Download PDF-->
+<!--                    </a>-->
+                    <!--Keywords: scheduling, flowshop, heuristics, metaheuristics, iterated greedy-->
+                </td>
+            </tr>
+
+            <!--Data--->
+            <tr>
+                <td class="presenter_image_container">
+                    <div class="single_image_container">
+                        <a href="https://homepages.laas.fr/artigues/drupal/node/11">
+                            <img class="single_presenter" src="photos/christian_artigues.jpg" alt="person_photo"/>
+                        </a><br/>
+                    </div>
+                </td>
+                <td class="information_upcoming_container">
+                    <b>[Presenter]</b><br>
+                    <a href="https://homepages.laas.fr/artigues/drupal/node/11">Christian Artigues</a><br>
+                    (LAAS - CNRS)<br><br/>
+                    <b>[Invited by]</b><br>
+                    <a href="https://www.professors.wi.tum.de/om/team/prof-dr-rainer-kolisch/">Rainer Kolisch</a><br>
+                    (TU Munich)
+                </td>
+                <td class="time_zones_container">
+                    <table class="time_table">
+                        <tbody>
+                        <tr class="utc">
+                            <td>UTC</td>
+                            <td>Jan 19, 14:00 Wed</td>
+                        </tr>
+                        <tr class="europe">
+                            <td>Prague</td>
+                            <td>Jan 19, 15:00 Wed</td>
+                        </tr>
+                        <tr class="america">
+                            <td>New York</td>
+                            <td>Jan 19, 09:00 Wed</td>
+                        </tr>
+                        <tr class="asia">
+                            <td>Shanghai</td>
+                            <td>Jan 19, 22:00 Wed</td>
+                        </tr>
+                        </tbody>
+                    </table>
+                </td>
+            </tr>
+        </table>
+
 
         <!--Dual talk-------------------------------------------------------------------------------------------------->
         <!--        <table style="padding-bottom: 12px;" class="europe">-->
