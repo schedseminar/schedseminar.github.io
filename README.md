@@ -140,21 +140,13 @@
         <!--            </tr>-->
         <!--        </table>-->
 
-
-        <!--        &lt;!&ndash;Spacing&ndash;&gt;-->
-        <!--        <table style="margin: 0 0 0 0 !important;">-->
-        <!--            <tr>-->
-        <!--                <td colspan="100%"></td>-->
-        <!--            </tr>-->
-        <!--        </table>-->
-
-
         <!--Single talk------------------------------------------------------------------------------------------------>
         <table style="padding-bottom: 12px;" class="europe">
             <!--Title/Abstract/PDF-->
             <tr>
                 <td colspan="3">
-                    <h2 class="talk_title"><b>Mixed-integer linear programming for resource-constrained scheduling</b><br>
+                    <h2 class="talk_title"><b>Mixed-integer linear programming for resource-constrained
+                        scheduling</b><br>
                     </h2>
                     <input type="checkbox" id="abstract_id_17" style="display:none;">
                     <label for="abstract_id_17" class="label_abstract"><a>Abstract</a></label>
@@ -162,9 +154,9 @@
                         <hr style="border-top: 1px solid black;">
                         <hr style="border-top: 1px solid black;">
                     </div>
-<!--                    <a href="./presentations/SchedulingSeminar_RubénRuiz.pdf" class="label_abstract" download>-->
-<!--                        Download PDF-->
-<!--                    </a>-->
+                    <!--                    <a href="./presentations/SchedulingSeminar_RubénRuiz.pdf" class="label_abstract" download>-->
+                    <!--                        Download PDF-->
+                    <!--                    </a>-->
                     <!--Keywords: scheduling, flowshop, heuristics, metaheuristics, iterated greedy-->
                 </td>
             </tr>
@@ -204,6 +196,93 @@
                         <tr class="asia">
                             <td>Shanghai</td>
                             <td>Jan 19, 22:00 Wed</td>
+                        </tr>
+                        </tbody>
+                    </table>
+                </td>
+            </tr>
+        </table>
+
+        <!--Spacing-->
+        <table style="margin: 0 0 0 0 !important;">
+            <tr>
+                <td colspan="100%"></td>
+            </tr>
+        </table>
+
+        <!--Single talk------------------------------------------------------------------------------------------------>
+        <table style="padding-bottom: 12px;" class="asia">
+            <!--Title/Abstract/PDF-->
+            <tr>
+                <td colspan="3">
+                    <h2 class="talk_title"><b>Public transit planning and scheduling based on AVL data in China</b><br>
+                    </h2>
+                    <input type="checkbox" id="abstract_id_18" style="display:none;">
+                    <label for="abstract_id_18" class="label_abstract"><a>Abstract</a></label>
+                    <div class="hidden">
+                        <hr style="border-top: 1px solid black;">
+                        The public transit operations planning process commonly includes the following activities:
+                        network route design, service planning (frequency setting and timetabling) and scheduling
+                        (vehicle scheduling, crew scheduling and rostering). However, network route design is generally
+                        the only one widely recognized, whilst service planning and scheduling are often ignored in
+                        China. This leads to the lack of elaborate timetables and schedules, hence, transit operation is
+                        often in disorder with high operating costs. To raise the service level and the utilization of
+                        resources, an applied study for three cities in China has been conducted, focusing on the
+                        enhancement of the recognition and execution of public transit planning and scheduling. A
+                        comprehensive framework of public transit planning is first proposed, which is composed of three
+                        traditional Chinese items (i.e. network route design, land use for depots, and deployment of
+                        vehicles) and the following newly added items: intelligent public transit system (iPTS)
+                        planning, service planning, and scheduling. This is pioneering work in China, during which an
+                        iPTS plan is conceived and a new vehicle scheduling approach based on AVL data is developed.
+                        Experiments during actual projects show that vehicle schedules with high on-time probability and
+                        low cost were compiled, while the essential input parameters such as headways and trip times
+                        were set automatically. It is anticipated that the research fruits and practical experiences
+                        obtained would be of great benefit in improving service and management levels and resource use
+                        in public transport in China and some other developing countries.
+                        <hr style="border-top: 1px solid black;">
+                    </div>
+                    <!--                    <a href="./presentations/SchedulingSeminar_RubénRuiz.pdf" class="label_abstract" download>-->
+                    <!--                        Download PDF-->
+                    <!--                    </a>-->
+                    <!--Keywords: public transit planning, vehicle scheduling, timetabling, AVL data, public transport-->
+                </td>
+            </tr>
+
+            <!--Data--->
+            <tr>
+                <td class="presenter_image_container">
+                    <div class="single_image_container">
+                        <a href="http://english.aia.hust.edu.cn/info/1030/1279.htm">
+                            <img class="single_presenter" src="photos/yindong_shen.jpg" alt="person_photo"/>
+                        </a><br/>
+                    </div>
+                </td>
+                <td class="information_upcoming_container">
+                    <b>[Presenter]</b><br>
+                    <a href="http://english.aia.hust.edu.cn/info/1030/1279.htm">Yindong Shen</a><br>
+                    (AIA Huazhong Uni)<br><br/>
+                    <b>[Invited by]</b><br>
+                    <a href="http://www.acem.sjtu.edu.cn/en/faculty/wanguohua.html">Guohua Wan</a><br>
+                    (Shanghai Jiao Tong)
+                </td>
+                <td class="time_zones_container">
+                    <table class="time_table">
+                        <tbody>
+                        <tr class="utc">
+                            <td>UTC</td>
+                            <td>Feb 2, 14:00 Wed</td>
+                        </tr>
+                        <tr class="europe">
+                            <td>Prague</td>
+                            <td>Feb 2, 15:00 Wed</td>
+                        </tr>
+                        <tr class="america">
+                            <td>New York</td>
+                            <td>Feb 2, 09:00 Wed</td>
+                        </tr>
+                        <tr class="asia">
+                            <td>Shanghai</td>
+                            <td>Feb 2, 22:00 Wed</td>
                         </tr>
                         </tbody>
                     </table>
@@ -411,13 +490,13 @@
                         <hr style="border-top: 1px solid black;">
                         We consider a single machine scheduling problem, where every job has a
                         processing time and a priority weight and the objective is to minimize the
-                        total weighted sum of completion times.   The novelty is that the job
+                        total weighted sum of completion times. The novelty is that the job
                         characteristics are initially given in an imprecise manner to the algorithm.
                         Tests can be performed for chosen jobs to learn their precise values,
                         allowing for a better ordering of the jobs in the schedule. These tests
-                        however take some time, delaying the subsequent schedule.  The algorithm
+                        however take some time, delaying the subsequent schedule. The algorithm
                         needs to produce a schedule consisting of executions of all jobs and tests of
-                        some jobs.  We will present three different models that have been studied in
+                        some jobs. We will present three different models that have been studied in
                         this context, as well as the results obtained for each of them.
 
                         The talk covers papers authored by Levi, Magnanti and Shaposhnik, by C.D.,
