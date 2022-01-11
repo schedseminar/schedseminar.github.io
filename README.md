@@ -504,8 +504,8 @@
                     <a href="https://www.fernuni-hagen.de/ess/team/lars.moench.shtml">Lars Mönch</a><br>
                     (Uni of Hagen)<br><br/>
                     <b>[Invited by]</b><br>
-                    <a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a><br>
-                    (New York University)
+                    <a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a><br>
+                    (CTU in Prague)
                 </td>
                 <td class="time_zones_container">
                     <table class="time_table">
