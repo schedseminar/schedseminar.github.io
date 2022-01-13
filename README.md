@@ -145,13 +145,26 @@
             <!--Title/Abstract/PDF-->
             <tr>
                 <td colspan="3">
-                    <h2 class="talk_title"><b>Mixed-integer linear programming for resource-constrained
+                    <h2 class="talk_title"><b>Mixed integer linear programming for resource-constrained
                         scheduling</b><br>
                     </h2>
                     <input type="checkbox" id="abstract_id_17" style="display:none;">
                     <label for="abstract_id_17" class="label_abstract"><a>Abstract</a></label>
                     <div class="hidden">
                         <hr style="border-top: 1px solid black;">
+                        Mixed-Integer linear programming (MILP) is one of the generic modeling and algorithmic solution
+                        framework for NP-hard scheduling problems, along with Constraint Programming (CP) and SAT
+                        solvers. However, the litterature often reports poor results of MILP solvers for
+                        resource-constrained scheduling problems compared to CP or SAT-based approaches such as Lazy
+                        Clause Generation. However, even if this is partly true because of the powerful dedicated
+                        scheduling algorithms embedded in constraint propagators, MILP approaches can reach very
+                        good results in terms of primal and dual bounds if the right formulation and specialized MILP
+                        components such as valid inequalities and column generation are chosen for the problem at hand.
+                        This talk first reviews the standard MILP formulations for resource-constrained scheduling
+                        problems and a few recent advances in the field. In particular, we focus on basic polyhedral
+                        results, on the relative relaxation strength of compact and extended formulations augmented with
+                        valid inequalities. Finally, we provide examples, including industrial ones where MILP, possibly
+                        integrated in hybrid CP/SAT/MILP methods, appears as a technique of choice.
                         <hr style="border-top: 1px solid black;">
                     </div>
                     <!--                    <a href="./presentations/SchedulingSeminar_RubénRuiz.pdf" class="label_abstract" download>-->
@@ -166,7 +179,7 @@
                 <td class="presenter_image_container">
                     <div class="single_image_container">
                         <a href="https://homepages.laas.fr/artigues/drupal/node/11">
-                            <img class="single_presenter" src="photos/christian_artigues.jpg" alt="person_photo"/>
+                            <img class="single_presenter" src="photos/christian_artigues_new.jpg" alt="person_photo"/>
                         </a><br/>
                     </div>
                 </td>
@@ -2098,7 +2111,7 @@
             <!--Christian Artigues-->
             <td>
                 <a href="https://homepages.laas.fr/artigues/drupal/node/11">
-                    <img src="photos/christian_artigues.jpg" height="200" width="150" alt="person_photo"/><br>
+                    <img src="photos/christian_artigues_new.jpg" height="200" width="150" alt="person_photo"/><br>
                     Christian Artigues<br>
                     LAAS - CNRS</a>
             </td>
