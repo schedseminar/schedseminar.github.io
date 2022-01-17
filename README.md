@@ -145,26 +145,21 @@
             <!--Title/Abstract/PDF-->
             <tr>
                 <td colspan="3">
-                    <h2 class="talk_title"><b>Mixed integer linear programming for resource-constrained
-                        scheduling</b><br>
+                    <h2 class="talk_title"><b>On the Parameterized Complexity of Machine Scheduling Problems</b><br>
                     </h2>
                     <input type="checkbox" id="abstract_id_17" style="display:none;">
                     <label for="abstract_id_17" class="label_abstract"><a>Abstract</a></label>
                     <div class="hidden">
                         <hr style="border-top: 1px solid black;">
-                        Mixed-Integer linear programming (MILP) is one of the generic modeling and algorithmic solution
-                        framework for NP-hard scheduling problems, along with Constraint Programming (CP) and SAT
-                        solvers. However, the litterature often reports poor results of MILP solvers for
-                        resource-constrained scheduling problems compared to CP or SAT-based approaches such as Lazy
-                        Clause Generation. However, even if this is partly true because of the powerful dedicated
-                        scheduling algorithms embedded in constraint propagators, MILP approaches can reach very
-                        good results in terms of primal and dual bounds if the right formulation and specialized MILP
-                        components such as valid inequalities and column generation are chosen for the problem at hand.
-                        This talk first reviews the standard MILP formulations for resource-constrained scheduling
-                        problems and a few recent advances in the field. In particular, we focus on basic polyhedral
-                        results, on the relative relaxation strength of compact and extended formulations augmented with
-                        valid inequalities. Finally, we provide examples, including industrial ones where MILP, possibly
-                        integrated in hybrid CP/SAT/MILP methods, appears as a technique of choice.
+                        The main goal of parameterized complexity is to try to design algorithms that are capable of
+                        solving (in reasonable time) hard problems in cases where some predeÖned problem parameters are
+                        of limited size. This theory was developed in the early 90s, contributing to many new techniques
+                        in
+                        the area of algorithmic design ever since. In this talk we survey the main aspects of
+                        parametrized
+                        complexity, and highlight its applicability to the area of scheduling. We also discuss some
+                        challenges
+                        and open problems for future research.
                         <hr style="border-top: 1px solid black;">
                     </div>
                     <!--                    <a href="./presentations/SchedulingSeminar_RubénRuiz.pdf" class="label_abstract" download>-->
@@ -178,18 +173,18 @@
             <tr>
                 <td class="presenter_image_container">
                     <div class="single_image_container">
-                        <a href="https://homepages.laas.fr/artigues/drupal/node/11">
-                            <img class="single_presenter" src="photos/christian_artigues_new.jpg" alt="person_photo"/>
+                        <a href="https://in.bgu.ac.il/en/engn/iem/pages/staff/Dvir-Shabtay.aspx">
+                            <img class="single_presenter" src="photos/dvir-web.png" alt="person_photo"/>
                         </a><br/>
                     </div>
                 </td>
                 <td class="information_upcoming_container">
                     <b>[Presenter]</b><br>
-                    <a href="https://homepages.laas.fr/artigues/drupal/node/11">Christian Artigues</a><br>
-                    (LAAS - CNRS)<br><br/>
+                    <a href="https://in.bgu.ac.il/en/engn/iem/pages/staff/Dvir-Shabtay.aspx">Dvir Shabtay</a><br>
+                    (Ben Gurion Uni)<br><br/>
                     <b>[Invited by]</b><br>
-                    <a href="https://www.professors.wi.tum.de/om/team/prof-dr-rainer-kolisch/">Rainer Kolisch</a><br>
-                    (TU Munich)
+                    <a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a><br>
+                    (New York University)
                 </td>
                 <td class="time_zones_container">
                     <table class="time_table">
@@ -545,6 +540,88 @@
             </tr>
         </table>
 
+        <!--Spacing-->
+        <table style="margin: 0 0 0 0 !important;">
+            <tr>
+                <td colspan="100%"></td>
+            </tr>
+        </table>
+
+        <!--Single talk------------------------------------------------------------------------------------------------>
+        <table style="padding-bottom: 12px;" class="europe">
+            <!--Title/Abstract/PDF-->
+            <tr>
+                <td colspan="3">
+                    <h2 class="talk_title"><b>Mixed integer linear programming for resource-constrained
+                        scheduling</b><br>
+                    </h2>
+                    <input type="checkbox" id="abstract_id_22" style="display:none;">
+                    <label for="abstract_id_22" class="label_abstract"><a>Abstract</a></label>
+                    <div class="hidden">
+                        <hr style="border-top: 1px solid black;">
+                        Mixed-Integer linear programming (MILP) is one of the generic modeling and algorithmic solution
+                        framework for NP-hard scheduling problems, along with Constraint Programming (CP) and SAT
+                        solvers. However, the litterature often reports poor results of MILP solvers for
+                        resource-constrained scheduling problems compared to CP or SAT-based approaches such as Lazy
+                        Clause Generation. However, even if this is partly true because of the powerful dedicated
+                        scheduling algorithms embedded in constraint propagators, MILP approaches can reach very
+                        good results in terms of primal and dual bounds if the right formulation and specialized MILP
+                        components such as valid inequalities and column generation are chosen for the problem at hand.
+                        This talk first reviews the standard MILP formulations for resource-constrained scheduling
+                        problems and a few recent advances in the field. In particular, we focus on basic polyhedral
+                        results, on the relative relaxation strength of compact and extended formulations augmented with
+                        valid inequalities. Finally, we provide examples, including industrial ones where MILP, possibly
+                        integrated in hybrid CP/SAT/MILP methods, appears as a technique of choice.
+                        <hr style="border-top: 1px solid black;">
+                    </div>
+                    <!--                    <a href="./presentations/SchedulingSeminar_RubénRuiz.pdf" class="label_abstract" download>-->
+                    <!--                        Download PDF-->
+                    <!--                    </a>-->
+                    <!--Keywords: scheduling, flowshop, heuristics, metaheuristics, iterated greedy-->
+                </td>
+            </tr>
+
+            <!--Data--->
+            <tr>
+                <td class="presenter_image_container">
+                    <div class="single_image_container">
+                        <a href="https://homepages.laas.fr/artigues/drupal/node/11">
+                            <img class="single_presenter" src="photos/christian_artigues_new.jpg" alt="person_photo"/>
+                        </a><br/>
+                    </div>
+                </td>
+                <td class="information_upcoming_container">
+                    <b>[Presenter]</b><br>
+                    <a href="https://homepages.laas.fr/artigues/drupal/node/11">Christian Artigues</a><br>
+                    (LAAS - CNRS)<br><br/>
+                    <b>[Invited by]</b><br>
+                    <a href="https://www.professors.wi.tum.de/om/team/prof-dr-rainer-kolisch/">Rainer Kolisch</a><br>
+                    (TU Munich)
+                </td>
+                <td class="time_zones_container">
+                    <table class="time_table">
+                        <tbody>
+                        <tr class="utc">
+                            <td>UTC</td>
+                            <td>Mar 30, 13:00 Wed</td>
+                        </tr>
+                        <tr class="europe">
+                            <td>Prague</td>
+                            <td>Mar 30, 15:00 Wed</td>
+                        </tr>
+                        <tr class="america">
+                            <td>New York</td>
+                            <td>Mar 30, 09:00 Wed</td>
+                        </tr>
+                        <tr class="asia">
+                            <td>Shanghai</td>
+                            <td>Mar 30, 21:00 Wed</td>
+                        </tr>
+                        </tbody>
+                    </table>
+                </td>
+            </tr>
+        </table>
 
         <!--Dual talk-------------------------------------------------------------------------------------------------->
         <!--        <table style="padding-bottom: 12px;" class="europe">-->
