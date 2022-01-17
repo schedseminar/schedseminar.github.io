@@ -165,7 +165,7 @@
                     <!--                    <a href="./presentations/SchedulingSeminar_RubénRuiz.pdf" class="label_abstract" download>-->
                     <!--                        Download PDF-->
                     <!--                    </a>-->
-                    <!--Keywords: scheduling, flowshop, heuristics, metaheuristics, iterated greedy-->
+                    <!--Keywords: scheduling, NP-hard, fixed parameterized tractability (FPT), algorithmic design, optimization-->
                 </td>
             </tr>
 
