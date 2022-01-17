@@ -152,7 +152,7 @@
                     <div class="hidden">
                         <hr style="border-top: 1px solid black;">
                         The main goal of parameterized complexity is to try to design algorithms that are capable of
-                        solving (in reasonable time) hard problems in cases where some predeÖned problem parameters are
+                        solving (in reasonable time) hard problems in cases where some predefined problem parameters are
                         of limited size. This theory was developed in the early 90s, contributing to many new techniques
                         in
                         the area of algorithmic design ever since. In this talk we survey the main aspects of
