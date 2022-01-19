@@ -162,9 +162,9 @@
                         and open problems for future research.
                         <hr style="border-top: 1px solid black;">
                     </div>
-                    <!--                    <a href="./presentations/SchedulingSeminar_RubénRuiz.pdf" class="label_abstract" download>-->
-                    <!--                        Download PDF-->
-                    <!--                    </a>-->
+                    <a href="./presentations/SchedulingSeminar_DvirShabtay.pdf" class="label_abstract" download>
+                        Download PDF
+                    </a>
                     <!--Keywords: scheduling, NP-hard, fixed parameterized tractability (FPT), algorithmic design, optimization-->
                 </td>
             </tr>
