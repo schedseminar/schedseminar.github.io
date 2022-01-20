@@ -141,84 +141,6 @@
         <!--        </table>-->
 
         <!--Single talk------------------------------------------------------------------------------------------------>
-        <table style="padding-bottom: 12px;" class="europe">
-            <!--Title/Abstract/PDF-->
-            <tr>
-                <td colspan="3">
-                    <h2 class="talk_title"><b>On the Parameterized Complexity of Machine Scheduling Problems</b><br>
-                    </h2>
-                    <input type="checkbox" id="abstract_id_17" style="display:none;">
-                    <label for="abstract_id_17" class="label_abstract"><a>Abstract</a></label>
-                    <div class="hidden">
-                        <hr style="border-top: 1px solid black;">
-                        The main goal of parameterized complexity is to try to design algorithms that are capable of
-                        solving (in reasonable time) hard problems in cases where some predefined problem parameters are
-                        of limited size. This theory was developed in the early 90s, contributing to many new techniques
-                        in
-                        the area of algorithmic design ever since. In this talk we survey the main aspects of
-                        parametrized
-                        complexity, and highlight its applicability to the area of scheduling. We also discuss some
-                        challenges
-                        and open problems for future research.
-                        <hr style="border-top: 1px solid black;">
-                    </div>
-                    <a href="./presentations/SchedulingSeminar_DvirShabtay.pdf" class="label_abstract" download>
-                        Download PDF
-                    </a>
-                    <!--Keywords: scheduling, NP-hard, fixed parameterized tractability (FPT), algorithmic design, optimization-->
-                </td>
-            </tr>
-
-            <!--Data--->
-            <tr>
-                <td class="presenter_image_container">
-                    <div class="single_image_container">
-                        <a href="https://in.bgu.ac.il/en/engn/iem/pages/staff/Dvir-Shabtay.aspx">
-                            <img class="single_presenter" src="photos/dvir-web.png" alt="person_photo"/>
-                        </a><br/>
-                    </div>
-                </td>
-                <td class="information_upcoming_container">
-                    <b>[Presenter]</b><br>
-                    <a href="https://in.bgu.ac.il/en/engn/iem/pages/staff/Dvir-Shabtay.aspx">Dvir Shabtay</a><br>
-                    (Ben Gurion Uni)<br><br/>
-                    <b>[Invited by]</b><br>
-                    <a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a><br>
-                    (New York University)
-                </td>
-                <td class="time_zones_container">
-                    <table class="time_table">
-                        <tbody>
-                        <tr class="utc">
-                            <td>UTC</td>
-                            <td>Jan 19, 14:00 Wed</td>
-                        </tr>
-                        <tr class="europe">
-                            <td>Prague</td>
-                            <td>Jan 19, 15:00 Wed</td>
-                        </tr>
-                        <tr class="america">
-                            <td>New York</td>
-                            <td>Jan 19, 09:00 Wed</td>
-                        </tr>
-                        <tr class="asia">
-                            <td>Shanghai</td>
-                            <td>Jan 19, 22:00 Wed</td>
-                        </tr>
-                        </tbody>
-                    </table>
-                </td>
-            </tr>
-        </table>
-
-        <!--Spacing-->
-        <table style="margin: 0 0 0 0 !important;">
-            <tr>
-                <td colspan="100%"></td>
-            </tr>
-        </table>
-
-        <!--Single talk------------------------------------------------------------------------------------------------>
         <table style="padding-bottom: 12px;" class="asia">
             <!--Title/Abstract/PDF-->
             <tr>
@@ -709,9 +631,89 @@
 
 <!--Past talks-->
 <div class="column column_right">
-    <h2>Past talks (16)</h2>
+    <h2>Past talks (17)</h2>
     <table class="past_talk_table">
         <tbody>
+
+        <!--Single talk------------------------------------------------------------------------------------------------>
+        <table style="padding-bottom: 12px;" class="europe">
+            <!--Title/Abstract/PDF-->
+            <tr>
+                <td colspan="3">
+                    <h2 class="talk_title"><b>On the Parameterized Complexity of Machine Scheduling Problems</b><br>
+                    </h2>
+                    <input type="checkbox" id="abstract_id_17" style="display:none;">
+                    <label for="abstract_id_17" class="label_abstract"><a>Abstract</a></label>
+                    <div class="hidden">
+                        <hr style="border-top: 1px solid black;">
+                        The main goal of parameterized complexity is to try to design algorithms that are capable of
+                        solving (in reasonable time) hard problems in cases where some predefined problem parameters are
+                        of limited size. This theory was developed in the early 90s, contributing to many new techniques
+                        in
+                        the area of algorithmic design ever since. In this talk we survey the main aspects of
+                        parametrized
+                        complexity, and highlight its applicability to the area of scheduling. We also discuss some
+                        challenges
+                        and open problems for future research.
+                        <hr style="border-top: 1px solid black;">
+                    </div>
+                    <a href="./presentations/SchedulingSeminar_DvirShabtay.pdf" class="label_abstract" download>
+                        Download PDF
+                    </a>
+                    <!--Keywords: scheduling, NP-hard, fixed parameterized tractability (FPT), algorithmic design, optimization-->
+                </td>
+            </tr>
+
+            <!--Photo and video-->
+            <tr>
+                <td class="presenter_image_container">
+                    <div class="single_image_container">
+                        <a href="https://in.bgu.ac.il/en/engn/iem/pages/staff/Dvir-Shabtay.aspx">
+                            <img class="single_presenter" src="photos/dvir-web.png" alt="person_photo"/>
+                        </a><br/>
+                    </div>
+                </td>
+
+                <td colspan="2">
+                    <div class="resizable_youtube_single">
+                        <iframe width="400" height="250" src="https://www.youtube.com/embed/IayJ9V3BWwQ"
+                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                                allowfullscreen></iframe>
+                    </div>
+                </td>
+            </tr>
+
+            <!--Text description-->
+            <tr>
+                <td class="presenter_past_info_container"></td>
+                <td>
+                    <table class="panelists_past_container_single">
+                        <tr>
+                            <td colspan="2"><b>[Presenter]</b> <br></td>
+                            <td><b>[Invited by]</b> <br></td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://in.bgu.ac.il/en/engn/iem/pages/staff/Dvir-Shabtay.aspx">Dvir Shabtay</a><br>
+                                (Ben Gurion Uni)<br>
+                            </td>
+                            <td></td>
+                            <td>
+                                <a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a><br>
+                                (New York University)
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+
+        <!--Spacing--->
+        <table style="margin: 0 0 0 0 !important;">
+            <tr>
+                <td colspan="100%"></td>
+            </tr>
+        </table>
 
         <!--Single talk------------------------------------------------------------------------------------------------>
         <table style="padding-bottom: 12px;" class="europe">
