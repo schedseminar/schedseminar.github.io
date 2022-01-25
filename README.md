@@ -228,32 +228,34 @@
         </table>
 
         <!--Single talk------------------------------------------------------------------------------------------------>
-        <table style="padding-bottom: 12px;" class="europe">
+        <table style="padding-bottom: 12px;" class="asia">
             <!--Title/Abstract/PDF-->
             <tr>
                 <td colspan="3">
-                    <h2 class="talk_title"><b>Scheduling Swarms of Robots and Drones: How Fuzzy Logic Solves a
-                        Scheduling Problem
+                    <h2 class="talk_title"><b>Scheduling Heuristics for Steelmaking Continuous Casting Processes
                     </b><br>
                     </h2>
                     <input type="checkbox" id="abstract_id_19" style="display:none;">
                     <label for="abstract_id_19" class="label_abstract"><a>Abstract</a></label>
                     <div class="hidden">
                         <hr style="border-top: 1px solid black;">
-                        Consider a cyclic process in which a set of several human operators or robots perform m given
-                        sequential operations whereas a number of flying unmanned vehicles-drones are used to transfer
-                        information gathered by the operators and/or to transfer a load to fixed points. Durations of
-                        data collecting and transfer operations are known fuzzy numbers. The aim is to find the schedule
-                        for the swarms of drones so that to maximize the system productivity, or to minimize the cycle
-                        length, and to avoid collisions of the drones. The fuzzy logic allows to solve the optimization
-                        problem under uncertainty. A novel fuzzy algorithm outperforms the earlier-known crisp
-                        scheduling algorithms.
+                        Steelmaking-Continuous Casting (SCC) is a bottleneck in the steel production process and its
+                        scheduling has become more challenging over time. In this paper, we provide an extensive
+                        literature review that highlights challenges in the SCC scheduling and compares existing
+                        solution methods. From the literature review, we collect the essential features of an SCC
+                        process, such as unrelated parallel machine environments, stage skipping, and maximum waiting
+                        time limits in between successive stages. We consider an SCC scheduling problem with as
+                        objective the minimisation of the weighted sum of cast break penalties, total waiting time,
+                        total earliness, and total tardiness. We formulate the problem as a mixed-integer linear
+                        programming model and develop an iterated greedy matheuristic that solves its subproblems to
+                        find a near-optimal solution. Through numerical experiments, we show that our algorithm
+                        outperforms two types of genetic algorithms when applied to test instances.
                         <hr style="border-top: 1px solid black;">
                     </div>
                     <!--                    <a href="./presentations/SchedulingSeminar_RubénRuiz.pdf" class="label_abstract" download>-->
                     <!--                        Download PDF-->
                     <!--                    </a>-->
-                    <!--Keywords: scheduling of robots, scheduling of unmanned aerial vehicles UAVs (drones), cyclic scheduling, fuzzy operation durations, fuzzy logic, fuzzy algorithm-->
+                    <!--Keywords: steelmaking-continuous casting, hybrid flow shop, mixed-integer programming, matheuristic-->
                 </td>
             </tr>
 
@@ -261,18 +263,18 @@
             <tr>
                 <td class="presenter_image_container">
                     <div class="single_image_container">
-                        <a href="https://www.hit.ac.il/en/faculty_staff/Eugene_Levner">
-                            <img class="single_presenter" src="photos/Eugene_Levner.jpg" alt="person_photo"/>
+                        <a href="https://sites.google.com/site/kangbokstudy/">
+                            <img class="single_presenter" src="photos/kangbok_lee.jpg" alt="person_photo"/>
                         </a><br/>
                     </div>
                 </td>
                 <td class="information_upcoming_container">
                     <b>[Presenter]</b><br>
-                    <a href="https://www.hit.ac.il/en/faculty_staff/Eugene_Levner">Eugene Levner</a><br>
-                    (HIT)<br><br/>
+                    <a href="https://sites.google.com/site/kangbokstudy/">Kangbok Lee</a><br>
+                    (POSTECH)<br><br/>
                     <b>[Invited by]</b><br>
-                    <a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a><br>
-                    (CTU in Prague)
+                    <a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a><br>
+                    (New York University)
                 </td>
                 <td class="time_zones_container">
                     <table class="time_table">
@@ -545,6 +547,78 @@
             </tr>
         </table>
 
+        <!--        &lt;!&ndash;Levner backup&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&ndash;&gt;-->
+        <!--        <table style="padding-bottom: 12px;" class="europe">-->
+        <!--            &lt;!&ndash;Title/Abstract/PDF&ndash;&gt;-->
+        <!--            <tr>-->
+        <!--                <td colspan="3">-->
+        <!--                    <h2 class="talk_title"><b>Scheduling Swarms of Robots and Drones: How Fuzzy Logic Solves a-->
+        <!--                        Scheduling Problem-->
+        <!--                    </b><br>-->
+        <!--                    </h2>-->
+        <!--                    <input type="checkbox" id="abstract_id_19" style="display:none;">-->
+        <!--                    <label for="abstract_id_19" class="label_abstract"><a>Abstract</a></label>-->
+        <!--                    <div class="hidden">-->
+        <!--                        <hr style="border-top: 1px solid black;">-->
+        <!--                        Consider a cyclic process in which a set of several human operators or robots perform m given-->
+        <!--                        sequential operations whereas a number of flying unmanned vehicles-drones are used to transfer-->
+        <!--                        information gathered by the operators and/or to transfer a load to fixed points. Durations of-->
+        <!--                        data collecting and transfer operations are known fuzzy numbers. The aim is to find the schedule-->
+        <!--                        for the swarms of drones so that to maximize the system productivity, or to minimize the cycle-->
+        <!--                        length, and to avoid collisions of the drones. The fuzzy logic allows to solve the optimization-->
+        <!--                        problem under uncertainty. A novel fuzzy algorithm outperforms the earlier-known crisp-->
+        <!--                        scheduling algorithms.-->
+        <!--                        <hr style="border-top: 1px solid black;">-->
+        <!--                    </div>-->
+        <!--                    &lt;!&ndash;                    <a href="./presentations/SchedulingSeminar_RubénRuiz.pdf" class="label_abstract" download>&ndash;&gt;-->
+        <!--                    &lt;!&ndash;                        Download PDF&ndash;&gt;-->
+        <!--                    &lt;!&ndash;                    </a>&ndash;&gt;-->
+        <!--                    &lt;!&ndash;Keywords: scheduling of robots, scheduling of unmanned aerial vehicles UAVs (drones), cyclic scheduling, fuzzy operation durations, fuzzy logic, fuzzy algorithm&ndash;&gt;-->
+        <!--                </td>-->
+        <!--            </tr>-->
+
+        <!--            &lt;!&ndash;Data-&ndash;&gt;-->
+        <!--            <tr>-->
+        <!--                <td class="presenter_image_container">-->
+        <!--                    <div class="single_image_container">-->
+        <!--                        <a href="https://www.hit.ac.il/en/faculty_staff/Eugene_Levner">-->
+        <!--                            <img class="single_presenter" src="photos/Eugene_Levner.jpg" alt="person_photo"/>-->
+        <!--                        </a><br/>-->
+        <!--                    </div>-->
+        <!--                </td>-->
+        <!--                <td class="information_upcoming_container">-->
+        <!--                    <b>[Presenter]</b><br>-->
+        <!--                    <a href="https://www.hit.ac.il/en/faculty_staff/Eugene_Levner">Eugene Levner</a><br>-->
+        <!--                    (HIT)<br><br/>-->
+        <!--                    <b>[Invited by]</b><br>-->
+        <!--                    <a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a><br>-->
+        <!--                    (CTU in Prague)-->
+        <!--                </td>-->
+        <!--                <td class="time_zones_container">-->
+        <!--                    <table class="time_table">-->
+        <!--                        <tbody>-->
+        <!--                        <tr class="utc">-->
+        <!--                            <td>UTC</td>-->
+        <!--                            <td>Feb 16, 14:00 Wed</td>-->
+        <!--                        </tr>-->
+        <!--                        <tr class="europe">-->
+        <!--                            <td>Prague</td>-->
+        <!--                            <td>Feb 16, 15:00 Wed</td>-->
+        <!--                        </tr>-->
+        <!--                        <tr class="america">-->
+        <!--                            <td>New York</td>-->
+        <!--                            <td>Feb 16, 09:00 Wed</td>-->
+        <!--                        </tr>-->
+        <!--                        <tr class="asia">-->
+        <!--                            <td>Shanghai</td>-->
+        <!--                            <td>Feb 16, 22:00 Wed</td>-->
+        <!--                        </tr>-->
+        <!--                        </tbody>-->
+        <!--                    </table>-->
+        <!--                </td>-->
+        <!--            </tr>-->
+        <!--        </table>-->
+
         <!--Dual talk-------------------------------------------------------------------------------------------------->
         <!--        <table style="padding-bottom: 12px;" class="europe">-->
         <!--            &lt;!&ndash;Title/Abstract-&ndash;&gt;-->
@@ -694,7 +768,8 @@
                         </tr>
                         <tr>
                             <td>
-                                <a href="https://in.bgu.ac.il/en/engn/iem/pages/staff/Dvir-Shabtay.aspx">Dvir Shabtay</a><br>
+                                <a href="https://in.bgu.ac.il/en/engn/iem/pages/staff/Dvir-Shabtay.aspx">Dvir
+                                    Shabtay</a><br>
                                 (Ben Gurion Uni)<br>
                             </td>
                             <td></td>
