@@ -145,93 +145,6 @@
             <!--Title/Abstract/PDF-->
             <tr>
                 <td colspan="3">
-                    <h2 class="talk_title"><b>Public transit planning and scheduling based on AVL data in China</b><br>
-                    </h2>
-                    <input type="checkbox" id="abstract_id_18" style="display:none;">
-                    <label for="abstract_id_18" class="label_abstract"><a>Abstract</a></label>
-                    <div class="hidden">
-                        <hr style="border-top: 1px solid black;">
-                        The public transit operations planning process commonly includes the following activities:
-                        network route design, service planning (frequency setting and timetabling) and scheduling
-                        (vehicle scheduling, crew scheduling and rostering). However, network route design is generally
-                        the only one widely recognized, whilst service planning and scheduling are often ignored in
-                        China. This leads to the lack of elaborate timetables and schedules, hence, transit operation is
-                        often in disorder with high operating costs. To raise the service level and the utilization of
-                        resources, an applied study for three cities in China has been conducted, focusing on the
-                        enhancement of the recognition and execution of public transit planning and scheduling. A
-                        comprehensive framework of public transit planning is first proposed, which is composed of three
-                        traditional Chinese items (i.e. network route design, land use for depots, and deployment of
-                        vehicles) and the following newly added items: intelligent public transit system (iPTS)
-                        planning, service planning, and scheduling. This is pioneering work in China, during which an
-                        iPTS plan is conceived and a new vehicle scheduling approach based on AVL data is developed.
-                        Experiments during actual projects show that vehicle schedules with high on-time probability and
-                        low cost were compiled, while the essential input parameters such as headways and trip times
-                        were set automatically. It is anticipated that the research fruits and practical experiences
-                        obtained would be of great benefit in improving service and management levels and resource use
-                        in public transport in China and some other developing countries.
-                        <hr style="border-top: 1px solid black;">
-                    </div>
-                    <!--                    <a href="./presentations/SchedulingSeminar_RubénRuiz.pdf" class="label_abstract" download>-->
-                    <!--                        Download PDF-->
-                    <!--                    </a>-->
-                    <!--Keywords: public transit planning, vehicle scheduling, timetabling, AVL data, public transport-->
-                </td>
-            </tr>
-
-            <!--Data--->
-            <tr>
-                <td class="presenter_image_container">
-                    <div class="single_image_container">
-                        <a href="http://english.aia.hust.edu.cn/info/1030/1279.htm">
-                            <img class="single_presenter" src="photos/yindong_shen.jpg" alt="person_photo"/>
-                        </a><br/>
-                    </div>
-                </td>
-                <td class="information_upcoming_container">
-                    <b>[Presenter]</b><br>
-                    <a href="http://english.aia.hust.edu.cn/info/1030/1279.htm">Yindong Shen</a><br>
-                    (AIA Huazhong Uni)<br><br/>
-                    <b>[Invited by]</b><br>
-                    <a href="http://www.acem.sjtu.edu.cn/en/faculty/wanguohua.html">Guohua Wan</a><br>
-                    (Shanghai Jiao Tong)
-                </td>
-                <td class="time_zones_container">
-                    <table class="time_table">
-                        <tbody>
-                        <tr class="utc">
-                            <td>UTC</td>
-                            <td>Feb 2, 14:00 Wed</td>
-                        </tr>
-                        <tr class="europe">
-                            <td>Prague</td>
-                            <td>Feb 2, 15:00 Wed</td>
-                        </tr>
-                        <tr class="america">
-                            <td>New York</td>
-                            <td>Feb 2, 09:00 Wed</td>
-                        </tr>
-                        <tr class="asia">
-                            <td>Shanghai</td>
-                            <td>Feb 2, 22:00 Wed</td>
-                        </tr>
-                        </tbody>
-                    </table>
-                </td>
-            </tr>
-        </table>
-
-        <!--Spacing-->
-        <table style="margin: 0 0 0 0 !important;">
-            <tr>
-                <td colspan="100%"></td>
-            </tr>
-        </table>
-
-        <!--Single talk------------------------------------------------------------------------------------------------>
-        <table style="padding-bottom: 12px;" class="asia">
-            <!--Title/Abstract/PDF-->
-            <tr>
-                <td colspan="3">
                     <h2 class="talk_title"><b>Scheduling Heuristics for Steelmaking Continuous Casting Processes
                     </b><br>
                     </h2>
@@ -705,9 +618,98 @@
 
 <!--Past talks-->
 <div class="column column_right">
-    <h2>Past talks (17)</h2>
+    <h2>Past talks (18)</h2>
     <table class="past_talk_table">
         <tbody>
+
+        <!--Single talk------------------------------------------------------------------------------------------------>
+        <table style="padding-bottom: 12px;" class="asia">
+            <!--Title/Abstract/PDF-->
+            <tr>
+                <td colspan="3">
+                    <h2 class="talk_title"><b>Public transit planning and scheduling based on AVL data in China</b><br>
+                    </h2>
+                    <input type="checkbox" id="abstract_id_18" style="display:none;">
+                    <label for="abstract_id_18" class="label_abstract"><a>Abstract</a></label>
+                    <div class="hidden">
+                        <hr style="border-top: 1px solid black;">
+                        The public transit operations planning process commonly includes the following activities:
+                        network route design, service planning (frequency setting and timetabling) and scheduling
+                        (vehicle scheduling, crew scheduling and rostering). However, network route design is generally
+                        the only one widely recognized, whilst service planning and scheduling are often ignored in
+                        China. This leads to the lack of elaborate timetables and schedules, hence, transit operation is
+                        often in disorder with high operating costs. To raise the service level and the utilization of
+                        resources, an applied study for three cities in China has been conducted, focusing on the
+                        enhancement of the recognition and execution of public transit planning and scheduling. A
+                        comprehensive framework of public transit planning is first proposed, which is composed of three
+                        traditional Chinese items (i.e. network route design, land use for depots, and deployment of
+                        vehicles) and the following newly added items: intelligent public transit system (iPTS)
+                        planning, service planning, and scheduling. This is pioneering work in China, during which an
+                        iPTS plan is conceived and a new vehicle scheduling approach based on AVL data is developed.
+                        Experiments during actual projects show that vehicle schedules with high on-time probability and
+                        low cost were compiled, while the essential input parameters such as headways and trip times
+                        were set automatically. It is anticipated that the research fruits and practical experiences
+                        obtained would be of great benefit in improving service and management levels and resource use
+                        in public transport in China and some other developing countries.
+                        <hr style="border-top: 1px solid black;">
+                    </div>
+                    <!--                    <a href="./presentations/SchedulingSeminar_RubénRuiz.pdf" class="label_abstract" download>-->
+                    <!--                        Download PDF-->
+                    <!--                    </a>-->
+                    <!--Keywords: public transit planning, vehicle scheduling, timetabling, AVL data, public transport-->
+                </td>
+            </tr>
+
+            <!--Photo and video-->
+            <tr>
+                <td class="presenter_image_container">
+                    <div class="single_image_container">
+                        <a href="http://english.aia.hust.edu.cn/info/1030/1279.htm">
+                            <img class="single_presenter" src="photos/yindong_shen.jpg" alt="person_photo"/>
+                        </a><br/>
+                    </div>
+                </td>
+
+                <td colspan="2">
+                    <div class="resizable_youtube_single">
+                        <iframe width="400" height="250" src="https://www.youtube.com/embed/nTa1tm-y9c8"
+                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                                allowfullscreen></iframe>
+                    </div>
+                </td>
+            </tr>
+
+            <!--Text description-->
+            <tr>
+                <td class="presenter_past_info_container"></td>
+                <td>
+                    <table class="panelists_past_container_single">
+                        <tr>
+                            <td colspan="2"><b>[Presenter]</b> <br></td>
+                            <td><b>[Invited by]</b> <br></td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="http://english.aia.hust.edu.cn/info/1030/1279.htm">Yindong Shen</a><br>
+                                (AIA Huazhong Uni)<br>
+                            </td>
+                            <td></td>
+                            <td>
+                                <a href="http://www.acem.sjtu.edu.cn/en/faculty/wanguohua.html">Guohua Wan</a><br>
+                                (Shanghai Jiao Tong)
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+
+        <!--Spacing--->
+        <table style="margin: 0 0 0 0 !important;">
+            <tr>
+                <td colspan="100%"></td>
+            </tr>
+        </table>
 
         <!--Single talk------------------------------------------------------------------------------------------------>
         <table style="padding-bottom: 12px;" class="europe">
