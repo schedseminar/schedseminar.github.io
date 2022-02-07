@@ -165,9 +165,9 @@
                         outperforms two types of genetic algorithms when applied to test instances.
                         <hr style="border-top: 1px solid black;">
                     </div>
-                    <a href="./presentations/SchedulingSeminar_YindongShen.pdf" class="label_abstract" download>
-                        Download PDF
-                    </a>
+                    <!--                    <a href="./presentations/SchedulingSeminar_RubénRuiz.pdf" class="label_abstract" download>-->
+                    <!--                        Download PDF-->
+                    <!--                    </a>-->
                     <!--Keywords: steelmaking-continuous casting, hybrid flow shop, mixed-integer programming, matheuristic-->
                 </td>
             </tr>
@@ -653,9 +653,9 @@
                         in public transport in China and some other developing countries.
                         <hr style="border-top: 1px solid black;">
                     </div>
-                    <!--                    <a href="./presentations/SchedulingSeminar_RubénRuiz.pdf" class="label_abstract" download>-->
-                    <!--                        Download PDF-->
-                    <!--                    </a>-->
+                    <a href="./presentations/SchedulingSeminar_YindongShen.pdf" class="label_abstract" download>
+                        Download PDF
+                    </a>
                     <!--Keywords: public transit planning, vehicle scheduling, timetabling, AVL data, public transport-->
                 </td>
             </tr>
