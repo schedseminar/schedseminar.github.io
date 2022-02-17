@@ -141,87 +141,6 @@
         <!--        </table>-->
 
         <!--Single talk------------------------------------------------------------------------------------------------>
-        <table style="padding-bottom: 12px;" class="asia">
-            <!--Title/Abstract/PDF-->
-            <tr>
-                <td colspan="3">
-                    <h2 class="talk_title"><b>Scheduling Heuristics for Steelmaking Continuous Casting Processes
-                    </b><br>
-                    </h2>
-                    <input type="checkbox" id="abstract_id_19" style="display:none;">
-                    <label for="abstract_id_19" class="label_abstract"><a>Abstract</a></label>
-                    <div class="hidden">
-                        <hr style="border-top: 1px solid black;">
-                        Steelmaking-Continuous Casting (SCC) is a bottleneck in the steel production process and its
-                        scheduling has become more challenging over time. In this paper, we provide an extensive
-                        literature review that highlights challenges in the SCC scheduling and compares existing
-                        solution methods. From the literature review, we collect the essential features of an SCC
-                        process, such as unrelated parallel machine environments, stage skipping, and maximum waiting
-                        time limits in between successive stages. We consider an SCC scheduling problem with as
-                        objective the minimisation of the weighted sum of cast break penalties, total waiting time,
-                        total earliness, and total tardiness. We formulate the problem as a mixed-integer linear
-                        programming model and develop an iterated greedy matheuristic that solves its subproblems to
-                        find a near-optimal solution. Through numerical experiments, we show that our algorithm
-                        outperforms two types of genetic algorithms when applied to test instances.
-                        <hr style="border-top: 1px solid black;">
-                    </div>
-                    <a href="./presentations/SchedulingSeminar_KangbokLee.pdf" class="label_abstract" download>
-                        Download PDF
-                    </a>
-                    <!--Keywords: steelmaking-continuous casting, hybrid flow shop, mixed-integer programming, matheuristic-->
-                </td>
-            </tr>
-
-            <!--Data--->
-            <tr>
-                <td class="presenter_image_container">
-                    <div class="single_image_container">
-                        <a href="https://sites.google.com/site/kangbokstudy/">
-                            <img class="single_presenter" src="photos/kangbok_lee.jpg" alt="person_photo"/>
-                        </a><br/>
-                    </div>
-                </td>
-                <td class="information_upcoming_container">
-                    <b>[Presenter]</b><br>
-                    <a href="https://sites.google.com/site/kangbokstudy/">Kangbok Lee</a><br>
-                    (POSTECH)<br><br/>
-                    <b>[Invited by]</b><br>
-                    <a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a><br>
-                    (New York University)
-                </td>
-                <td class="time_zones_container">
-                    <table class="time_table">
-                        <tbody>
-                        <tr class="utc">
-                            <td>UTC</td>
-                            <td>Feb 16, 14:00 Wed</td>
-                        </tr>
-                        <tr class="europe">
-                            <td>Prague</td>
-                            <td>Feb 16, 15:00 Wed</td>
-                        </tr>
-                        <tr class="america">
-                            <td>New York</td>
-                            <td>Feb 16, 09:00 Wed</td>
-                        </tr>
-                        <tr class="asia">
-                            <td>Shanghai</td>
-                            <td>Feb 16, 22:00 Wed</td>
-                        </tr>
-                        </tbody>
-                    </table>
-                </td>
-            </tr>
-        </table>
-
-        <!--Spacing-->
-        <table style="margin: 0 0 0 0 !important;">
-            <tr>
-                <td colspan="100%"></td>
-            </tr>
-        </table>
-
-        <!--Single talk------------------------------------------------------------------------------------------------>
         <table style="padding-bottom: 12px;" class="america">
             <!--Title/Abstract/PDF-->
             <tr>
@@ -618,9 +537,92 @@
 
 <!--Past talks-->
 <div class="column column_right">
-    <h2>Past talks (18)</h2>
+    <h2>Past talks (19)</h2>
     <table class="past_talk_table">
         <tbody>
+
+        <!--Single talk------------------------------------------------------------------------------------------------>
+        <table style="padding-bottom: 12px;" class="asia">
+            <!--Title/Abstract/PDF-->
+            <tr>
+                <td colspan="3">
+                    <h2 class="talk_title"><b>Scheduling Heuristics for Steelmaking Continuous Casting Processes
+                    </b><br>
+                    </h2>
+                    <input type="checkbox" id="abstract_id_19" style="display:none;">
+                    <label for="abstract_id_19" class="label_abstract"><a>Abstract</a></label>
+                    <div class="hidden">
+                        <hr style="border-top: 1px solid black;">
+                        Steelmaking-Continuous Casting (SCC) is a bottleneck in the steel production process and its
+                        scheduling has become more challenging over time. In this paper, we provide an extensive
+                        literature review that highlights challenges in the SCC scheduling and compares existing
+                        solution methods. From the literature review, we collect the essential features of an SCC
+                        process, such as unrelated parallel machine environments, stage skipping, and maximum waiting
+                        time limits in between successive stages. We consider an SCC scheduling problem with as
+                        objective the minimisation of the weighted sum of cast break penalties, total waiting time,
+                        total earliness, and total tardiness. We formulate the problem as a mixed-integer linear
+                        programming model and develop an iterated greedy matheuristic that solves its subproblems to
+                        find a near-optimal solution. Through numerical experiments, we show that our algorithm
+                        outperforms two types of genetic algorithms when applied to test instances.
+                        <hr style="border-top: 1px solid black;">
+                    </div>
+                    <a href="./presentations/SchedulingSeminar_KangbokLee.pdf" class="label_abstract" download>
+                        Download PDF
+                    </a>
+                    <!--Keywords: steelmaking-continuous casting, hybrid flow shop, mixed-integer programming, matheuristic-->
+                </td>
+            </tr>
+
+            <!--Photo and video-->
+            <tr>
+                <td class="presenter_image_container">
+                    <div class="single_image_container">
+                        <a href="https://sites.google.com/site/kangbokstudy/">
+                            <img class="single_presenter" src="photos/kangbok_lee.jpg" alt="person_photo"/>
+                        </a><br/>
+                    </div>
+                </td>
+
+                <td colspan="2">
+                    <div class="resizable_youtube_single">
+                        <iframe width="400" height="250" src="https://www.youtube.com/embed/9Kv7jKAbY8Y"
+                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                                allowfullscreen></iframe>
+                    </div>
+                </td>
+            </tr>
+
+            <!--Text description-->
+            <tr>
+                <td class="presenter_past_info_container"></td>
+                <td>
+                    <table class="panelists_past_container_single">
+                        <tr>
+                            <td colspan="2"><b>[Presenter]</b> <br></td>
+                            <td><b>[Invited by]</b> <br></td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://sites.google.com/site/kangbokstudy/">Kangbok Lee</a><br>
+                                (POSTECH)<br>
+                            </td>
+                            <td></td>
+                            <td>
+                                <a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a><br>
+                                (New York University)
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+
+        <!--Spacing--->
+        <table style="margin: 0 0 0 0 !important;">
+            <tr>
+                <td colspan="100%"></td>
+            </tr>
+        </table>
 
         <!--Single talk------------------------------------------------------------------------------------------------>
         <table style="padding-bottom: 12px;" class="asia">
