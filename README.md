@@ -165,10 +165,10 @@
 
                         <hr style="border-top: 1px solid black;">
                     </div>
-                    <!--                    <a href="./presentations/SchedulingSeminar_RubénRuiz.pdf" class="label_abstract" download>-->
-                    <!--                        Download PDF-->
-                    <!--                    </a>-->
-                    <!--Keywords: semiconductor manufacturing, scheduling-->
+                    <a href="./presentations/SchedulingSeminar_JohnWFowler.pdf" class="label_abstract" download>
+                        Download PDF
+                    </a>
+<!--                    Keywords: semiconductor manufacturing, scheduling-->
                 </td>
             </tr>
 
