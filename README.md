@@ -298,6 +298,83 @@
             </tr>
         </table>
 
+        <!--Spacing-->
+        <table style="margin: 0 0 0 0 !important;">
+            <tr>
+                <td colspan="100%"></td>
+            </tr>
+        </table>
+
+        <!--Single talk------------------------------------------------------------------------------------------------>
+        <table style="padding-bottom: 12px;" class="america">
+            <!--Title/Abstract/PDF-->
+            <tr>
+                <td colspan="3">
+                    <h2 class="talk_title"><b>Constraint Programming for Scheduling</b><br>
+                    </h2>
+                    <input type="checkbox" id="abstract_id_23" style="display:none;">
+                    <label for="abstract_id_23" class="label_abstract"><a>Abstract</a></label>
+                    <div class="hidden">
+                        <hr style="border-top: 1px solid black;">
+                        This talk reviews the start of the art in solving scheduling problems
+                        with constraint programming, and examines novel research directions,
+                        with a focus on the integration of constraint programming and
+                        mathematical programming, and the use of machine learning. It reviews
+                        applications where constraint programming provides an integrated
+                        approach to complex problems, the hybridization of constraint
+                        programming and mathematical programming, learning-based constraint
+                        programming, and optimization proxies.
+                        <hr style="border-top: 1px solid black;">
+                    </div>
+                    <!--                    <a href="./presentations/SchedulingSeminar_RubénRuiz.pdf" class="label_abstract" download>-->
+                    <!--                        Download PDF-->
+                    <!--                    </a>-->
+                    <!--Keywords: constraint programming, scheduling, machine learning, hybrid optimization-->
+                </td>
+            </tr>
+
+            <!--Data--->
+            <tr>
+                <td class="presenter_image_container">
+                    <div class="single_image_container">
+                        <a href="https://sites.gatech.edu/pascal-van-hentenryck/">
+                            <img class="single_presenter" src="photos/pascal_van_hentenryck.jpg" alt="person_photo"/>
+                        </a><br/>
+                    </div>
+                </td>
+                <td class="information_upcoming_container">
+                    <b>[Presenter]</b><br>
+                    <a href="https://sites.gatech.edu/pascal-van-hentenryck/">Pascal Van Hentenryck</a><br>
+                    (Georgia Tech)<br><br/>
+                    <b>[Invited by]</b><br>
+                    <a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a><br>
+                    (CTU in Prague)
+                </td>
+                <td class="time_zones_container">
+                    <table class="time_table">
+                        <tbody>
+                        <tr class="utc">
+                            <td>UTC</td>
+                            <td>Apr 13, 13:00 Wed</td>
+                        </tr>
+                        <tr class="europe">
+                            <td>Prague</td>
+                            <td>Apr 13, 15:00 Wed</td>
+                        </tr>
+                        <tr class="america">
+                            <td>New York</td>
+                            <td>Apr 13, 09:00 Wed</td>
+                        </tr>
+                        <tr class="asia">
+                            <td>Shanghai</td>
+                            <td>Apr 13, 21:00 Wed</td>
+                        </tr>
+                        </tbody>
+                    </table>
+                </td>
+            </tr>
+        </table>
+
         <!--        &lt;!&ndash;Levner backup&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&ndash;&gt;-->
         <!--        <table style="padding-bottom: 12px;" class="europe">-->
         <!--            &lt;!&ndash;Title/Abstract/PDF&ndash;&gt;-->
