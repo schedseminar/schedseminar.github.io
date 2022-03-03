@@ -141,87 +141,6 @@
         <!--        </table>-->
 
         <!--Single talk------------------------------------------------------------------------------------------------>
-        <table style="padding-bottom: 12px;" class="america">
-            <!--Title/Abstract/PDF-->
-            <tr>
-                <td colspan="3">
-                    <h2 class="talk_title"><b>Scheduling Problems in Semiconductor Wafer Fabrication Facilities: Part 1
-                    </b><br>
-                    </h2>
-                    <input type="checkbox" id="abstract_id_20" style="display:none;">
-                    <label for="abstract_id_20" class="label_abstract"><a>Abstract</a></label>
-                    <div class="hidden">
-                        <hr style="border-top: 1px solid black;">
-                        Semiconductors enable the systems and products that we use to work, communicate, travel,
-                        entertain, harness energy, treat illness, make new scientific discoveries, and more.
-                        Semiconductor manufacturing is among the most complex manufacturing systems in existence today.
-                        This complexity makes scheduling semiconductor manufacturing systems extremely difficult.<br/>
-
-                        In this two-part seminar, we discuss scheduling problems in this challenging domain. In the
-                        first part, we describe the manufacturing process and identify typical scheduling problems found
-                        in semiconductor manufacturing systems at the workstation, work area, factory, and supply chain
-                        levels. We also discuss approaches for scheduling problems with secondary resources and for
-                        factory level scheduling.
-
-                        <hr style="border-top: 1px solid black;">
-                    </div>
-                    <a href="./presentations/SchedulingSeminar_JohnWFowler.pdf" class="label_abstract" download>
-                        Download PDF
-                    </a>
-<!--                    Keywords: semiconductor manufacturing, scheduling-->
-                </td>
-            </tr>
-
-            <!--Data--->
-            <tr>
-                <td class="presenter_image_container">
-                    <div class="single_image_container">
-                        <a href="https://isearch.asu.edu/profile/36406">
-                            <img class="single_presenter" src="photos/John_Fowler.jpg" alt="person_photo"/>
-                        </a><br/>
-                    </div>
-                </td>
-                <td class="information_upcoming_container">
-                    <b>[Presenter]</b><br>
-                    <a href="https://isearch.asu.edu/profile/36406">John W. Fowler</a><br>
-                    (Arizona State Univ.)<br><br/>
-                    <b>[Invited by]</b><br>
-                    <a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a><br>
-                    (New York University)
-                </td>
-                <td class="time_zones_container">
-                    <table class="time_table">
-                        <tbody>
-                        <tr class="utc">
-                            <td>UTC</td>
-                            <td>Mar 2, 14:00 Wed</td>
-                        </tr>
-                        <tr class="europe">
-                            <td>Prague</td>
-                            <td>Mar 2, 15:00 Wed</td>
-                        </tr>
-                        <tr class="america">
-                            <td>New York</td>
-                            <td>Mar 2, 09:00 Wed</td>
-                        </tr>
-                        <tr class="asia">
-                            <td>Shanghai</td>
-                            <td>Mar 2, 22:00 Wed</td>
-                        </tr>
-                        </tbody>
-                    </table>
-                </td>
-            </tr>
-        </table>
-
-        <!--Spacing-->
-        <table style="margin: 0 0 0 0 !important;">
-            <tr>
-                <td colspan="100%"></td>
-            </tr>
-        </table>
-
-        <!--Single talk------------------------------------------------------------------------------------------------>
         <table style="padding-bottom: 12px;" class="europe">
             <!--Title/Abstract/PDF-->
             <tr>
@@ -537,9 +456,92 @@
 
 <!--Past talks-->
 <div class="column column_right">
-    <h2>Past talks (19)</h2>
+    <h2>Past talks (20)</h2>
     <table class="past_talk_table">
         <tbody>
+
+        <!--Single talk------------------------------------------------------------------------------------------------>
+        <table style="padding-bottom: 12px;" class="america">
+            <!--Title/Abstract/PDF-->
+            <tr>
+                <td colspan="3">
+                    <h2 class="talk_title"><b>Scheduling Problems in Semiconductor Wafer Fabrication Facilities: Part 1
+                    </b><br>
+                    </h2>
+                    <input type="checkbox" id="abstract_id_20" style="display:none;">
+                    <label for="abstract_id_20" class="label_abstract"><a>Abstract</a></label>
+                    <div class="hidden">
+                        <hr style="border-top: 1px solid black;">
+                        Semiconductors enable the systems and products that we use to work, communicate, travel,
+                        entertain, harness energy, treat illness, make new scientific discoveries, and more.
+                        Semiconductor manufacturing is among the most complex manufacturing systems in existence today.
+                        This complexity makes scheduling semiconductor manufacturing systems extremely difficult.<br/>
+
+                        In this two-part seminar, we discuss scheduling problems in this challenging domain. In the
+                        first part, we describe the manufacturing process and identify typical scheduling problems found
+                        in semiconductor manufacturing systems at the workstation, work area, factory, and supply chain
+                        levels. We also discuss approaches for scheduling problems with secondary resources and for
+                        factory level scheduling.
+
+                        <hr style="border-top: 1px solid black;">
+                    </div>
+                    <a href="./presentations/SchedulingSeminar_JohnWFowler.pdf" class="label_abstract" download>
+                        Download PDF
+                    </a>
+                    <!--Keywords: semiconductor manufacturing, scheduling-->
+                </td>
+            </tr>
+
+            <!--Photo and video-->
+            <tr>
+                <td class="presenter_image_container">
+                    <div class="single_image_container">
+                        <a href="https://isearch.asu.edu/profile/36406">
+                            <img class="single_presenter" src="photos/John_Fowler.jpg" alt="person_photo"/>
+                        </a><br/>
+                    </div>
+                </td>
+
+                <td colspan="2">
+                    <div class="resizable_youtube_single">
+                        <iframe width="400" height="250" src="https://www.youtube.com/embed/5ZCtbU1VR3s"
+                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                                allowfullscreen></iframe>
+                    </div>
+                </td>
+            </tr>
+
+            <!--Text description-->
+            <tr>
+                <td class="presenter_past_info_container"></td>
+                <td>
+                    <table class="panelists_past_container_single">
+                        <tr>
+                            <td colspan="2"><b>[Presenter]</b> <br></td>
+                            <td><b>[Invited by]</b> <br></td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://isearch.asu.edu/profile/36406">John W. Fowler</a><br>
+                                (Arizona State Univ.)<br>
+                            </td>
+                            <td></td>
+                            <td>
+                                <a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a><br>
+                                (New York University)
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+
+        <!--Spacing--->
+        <table style="margin: 0 0 0 0 !important;">
+            <tr>
+                <td colspan="100%"></td>
+            </tr>
+        </table>
 
         <!--Single talk------------------------------------------------------------------------------------------------>
         <table style="padding-bottom: 12px;" class="asia">
