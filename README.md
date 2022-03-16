@@ -166,9 +166,9 @@
 
                         <hr style="border-top: 1px solid black;">
                     </div>
-                    <!--                    <a href="./presentations/SchedulingSeminar_RubénRuiz.pdf" class="label_abstract" download>-->
-                    <!--                        Download PDF-->
-                    <!--                    </a>-->
+                    <a href="./presentations/SchedulingSeminar_LarsMoench.pdf" class="label_abstract" download>
+                        Download PDF
+                    </a>
                     <!--Keywords: scheduling, batching, semiconductor manufacturing, decomposition methods-->
                 </td>
             </tr>
