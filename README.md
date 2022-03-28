@@ -362,6 +362,84 @@
             </tr>
         </table>
 
+        <!--Spacing-->
+        <table style="margin: 0 0 0 0 !important;">
+            <tr>
+                <td colspan="100%"></td>
+            </tr>
+        </table>
+
+        <!--Single talk------------------------------------------------------------------------------------------------>
+        <table style="padding-bottom: 12px;" class="europe">
+            <!--Title/Abstract/PDF-->
+            <tr>
+                <td colspan="3">
+                    <h2 class="talk_title"><b>Past, present and future of time-dependent scheduling</b><br>
+                    </h2>
+                    <input type="checkbox" id="abstract_id_25" style="display:none;">
+                    <label for="abstract_id_25" class="label_abstract"><a>Abstract</a></label>
+                    <div class="hidden">
+                        <hr style="border-top: 1px solid black;">
+                        In the lecture, we will present a general landscape of time-dependent scheduling which is one of
+                        the main research domains in modern scheduling theory. This lecture will be divided into three
+                        parts. In the first part, we will sketch the main dates in time-dependent scheduling
+                        development, specify the most important forms of time-dependent processing times and formulate
+                        the basic assumptions of time-dependent scheduling. Next, we will present the main results from
+                        that area, paying a special attention to applied proof techniques and mutual relations between
+                        different time-dependent scheduling problems. Finally, we will discuss selected open problems in
+                        time-dependent scheduling, summarizing known results for each open problem and indicating
+                        possible ways of its further research.
+                        <hr style="border-top: 1px solid black;">
+                    </div>
+                    <!--                    <a href="./presentations/SchedulingSeminar_RubénRuiz.pdf" class="label_abstract" download>-->
+                    <!--                        Download PDF-->
+                    <!--                    </a>-->
+                    <!--Keywords:-->
+                </td>
+            </tr>
+
+            <!--Data--->
+            <tr>
+                <td class="presenter_image_container">
+                    <div class="single_image_container">
+                        <a href="https://algo.wmi.amu.edu.pl/en/staff/prof-uam-dr-hab-stanislaw-gawiejnowicz/">
+                            <img class="single_presenter" src="photos/Stanislaw_Gawiejnowicz.jpg" alt="person_photo"/>
+                        </a><br/>
+                    </div>
+                </td>
+                <td class="information_upcoming_container">
+                    <b>[Presenter]</b><br>
+                    <a href="https://algo.wmi.amu.edu.pl/en/staff/prof-uam-dr-hab-stanislaw-gawiejnowicz/">Stanislaw Gawiejnowicz</a><br>
+                    (AMU Poznañ)<br><br/>
+                    <b>[Invited by]</b><br>
+                    <a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a><br>
+                    (CTU in Prague)
+                </td>
+                <td class="time_zones_container">
+                    <table class="time_table">
+                        <tbody>
+                        <tr class="utc">
+                            <td>UTC</td>
+                            <td>May 25, 13:00 Wed</td>
+                        </tr>
+                        <tr class="europe">
+                            <td>Prague</td>
+                            <td>May 25, 15:00 Wed</td>
+                        </tr>
+                        <tr class="america">
+                            <td>New York</td>
+                            <td>May 25, 09:00 Wed</td>
+                        </tr>
+                        <tr class="asia">
+                            <td>Shanghai</td>
+                            <td>May 25, 21:00 Wed</td>
+                        </tr>
+                        </tbody>
+                    </table>
+                </td>
+            </tr>
+        </table>
+
         <!--        &lt;!&ndash;Levner backup&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&ndash;&gt;-->
         <!--        <table style="padding-bottom: 12px;" class="europe">-->
         <!--            &lt;!&ndash;Title/Abstract/PDF&ndash;&gt;-->
