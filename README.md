@@ -167,9 +167,9 @@
                         integrated in hybrid CP/SAT/MILP methods, appears as a technique of choice.
                         <hr style="border-top: 1px solid black;">
                     </div>
-                    <!--                    <a href="./presentations/SchedulingSeminar_RubénRuiz.pdf" class="label_abstract" download>-->
-                    <!--                        Download PDF-->
-                    <!--                    </a>-->
+                    <a href="./presentations/SchedulingSeminar_ChristianArtigues.pdf" class="label_abstract" download>
+                        Download PDF
+                    </a>
                     <!--Keywords: scheduling, flowshop, heuristics, metaheuristics, iterated greedy-->
                 </td>
             </tr>
