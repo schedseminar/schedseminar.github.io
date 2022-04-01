@@ -154,7 +154,7 @@
                         <hr style="border-top: 1px solid black;">
                         Mixed-Integer linear programming (MILP) is one of the generic modeling and algorithmic solution
                         framework for NP-hard scheduling problems, along with Constraint Programming (CP) and SAT
-                        solvers. However, the litterature often reports poor results of MILP solvers for
+                        solvers. However, the literature often reports poor results of MILP solvers for
                         resource-constrained scheduling problems compared to CP or SAT-based approaches such as Lazy
                         Clause Generation. However, even if this is partly true because of the powerful dedicated
                         scheduling algorithms embedded in constraint propagators, MILP approaches can reach very
@@ -170,7 +170,7 @@
                     <a href="./presentations/SchedulingSeminar_ChristianArtigues.pdf" class="label_abstract" download>
                         Download PDF
                     </a>
-                    <!--Keywords: scheduling, flowshop, heuristics, metaheuristics, iterated greedy-->
+                    <!--Keywords: Mixed-integer linear programming (MILP), Resource-constrained project scheduling problem (RCPSP), solvers, relaxation, CP, SAT-->
                 </td>
             </tr>
 
