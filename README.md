@@ -141,89 +141,6 @@
         <!--        </table>-->
 
         <!--Single talk------------------------------------------------------------------------------------------------>
-        <table style="padding-bottom: 12px;" class="europe">
-            <!--Title/Abstract/PDF-->
-            <tr>
-                <td colspan="3">
-                    <h2 class="talk_title"><b>Mixed integer linear programming for resource-constrained
-                        scheduling</b><br>
-                    </h2>
-                    <input type="checkbox" id="abstract_id_22" style="display:none;">
-                    <label for="abstract_id_22" class="label_abstract"><a>Abstract</a></label>
-                    <div class="hidden">
-                        <hr style="border-top: 1px solid black;">
-                        Mixed-Integer linear programming (MILP) is one of the generic modeling and algorithmic solution
-                        framework for NP-hard scheduling problems, along with Constraint Programming (CP) and SAT
-                        solvers. However, the literature often reports poor results of MILP solvers for
-                        resource-constrained scheduling problems compared to CP or SAT-based approaches such as Lazy
-                        Clause Generation. However, even if this is partly true because of the powerful dedicated
-                        scheduling algorithms embedded in constraint propagators, MILP approaches can reach very
-                        good results in terms of primal and dual bounds if the right formulation and specialized MILP
-                        components such as valid inequalities and column generation are chosen for the problem at hand.
-                        This talk first reviews the standard MILP formulations for resource-constrained scheduling
-                        problems and a few recent advances in the field. In particular, we focus on basic polyhedral
-                        results, on the relative relaxation strength of compact and extended formulations augmented with
-                        valid inequalities. Finally, we provide examples, including industrial ones where MILP, possibly
-                        integrated in hybrid CP/SAT/MILP methods, appears as a technique of choice.
-                        <hr style="border-top: 1px solid black;">
-                    </div>
-                    <a href="./presentations/SchedulingSeminar_ChristianArtigues.pdf" class="label_abstract" download>
-                        Download PDF
-                    </a>
-                    <!--Keywords: Mixed-integer linear programming (MILP), Resource-constrained project scheduling problem (RCPSP), solvers, relaxation, CP, SAT-->
-                </td>
-            </tr>
-
-            <!--Data--->
-            <tr>
-                <td class="presenter_image_container">
-                    <div class="single_image_container">
-                        <a href="https://homepages.laas.fr/artigues/drupal/node/11">
-                            <img class="single_presenter" src="photos/christian_artigues_new.jpg" alt="person_photo"/>
-                        </a><br/>
-                    </div>
-                </td>
-                <td class="information_upcoming_container">
-                    <b>[Presenter]</b><br>
-                    <a href="https://homepages.laas.fr/artigues/drupal/node/11">Christian Artigues</a><br>
-                    (LAAS - CNRS)<br><br/>
-                    <b>[Invited by]</b><br>
-                    <a href="https://www.professors.wi.tum.de/om/team/prof-dr-rainer-kolisch/">Rainer Kolisch</a><br>
-                    (TU Munich)
-                </td>
-                <td class="time_zones_container">
-                    <table class="time_table">
-                        <tbody>
-                        <tr class="utc">
-                            <td>UTC</td>
-                            <td>Mar 30, 13:00 Wed</td>
-                        </tr>
-                        <tr class="europe">
-                            <td>Prague</td>
-                            <td>Mar 30, 15:00 Wed</td>
-                        </tr>
-                        <tr class="america">
-                            <td>New York</td>
-                            <td>Mar 30, 09:00 Wed</td>
-                        </tr>
-                        <tr class="asia">
-                            <td>Shanghai</td>
-                            <td>Mar 30, 21:00 Wed</td>
-                        </tr>
-                        </tbody>
-                    </table>
-                </td>
-            </tr>
-        </table>
-
-        <!--Spacing-->
-        <table style="margin: 0 0 0 0 !important;">
-            <tr>
-                <td colspan="100%"></td>
-            </tr>
-        </table>
-
-        <!--Single talk------------------------------------------------------------------------------------------------>
         <table style="padding-bottom: 12px;" class="america">
             <!--Title/Abstract/PDF-->
             <tr>
@@ -598,9 +515,94 @@
 
 <!--Past talks-->
 <div class="column column_right">
-    <h2>Past talks (21)</h2>
+    <h2>Past talks (22)</h2>
     <table class="past_talk_table">
         <tbody>
+
+        <!--Single talk------------------------------------------------------------------------------------------------>
+        <table style="padding-bottom: 12px;" class="europe">
+            <!--Title/Abstract/PDF-->
+            <tr>
+                <td colspan="3">
+                    <h2 class="talk_title"><b>Mixed integer linear programming for resource-constrained
+                        scheduling</b><br>
+                    </h2>
+                    <input type="checkbox" id="abstract_id_22" style="display:none;">
+                    <label for="abstract_id_22" class="label_abstract"><a>Abstract</a></label>
+                    <div class="hidden">
+                        <hr style="border-top: 1px solid black;">
+                        Mixed-Integer linear programming (MILP) is one of the generic modeling and algorithmic solution
+                        framework for NP-hard scheduling problems, along with Constraint Programming (CP) and SAT
+                        solvers. However, the literature often reports poor results of MILP solvers for
+                        resource-constrained scheduling problems compared to CP or SAT-based approaches such as Lazy
+                        Clause Generation. However, even if this is partly true because of the powerful dedicated
+                        scheduling algorithms embedded in constraint propagators, MILP approaches can reach very
+                        good results in terms of primal and dual bounds if the right formulation and specialized MILP
+                        components such as valid inequalities and column generation are chosen for the problem at hand.
+                        This talk first reviews the standard MILP formulations for resource-constrained scheduling
+                        problems and a few recent advances in the field. In particular, we focus on basic polyhedral
+                        results, on the relative relaxation strength of compact and extended formulations augmented with
+                        valid inequalities. Finally, we provide examples, including industrial ones where MILP, possibly
+                        integrated in hybrid CP/SAT/MILP methods, appears as a technique of choice.
+                        <hr style="border-top: 1px solid black;">
+                    </div>
+                    <a href="./presentations/SchedulingSeminar_ChristianArtigues.pdf" class="label_abstract" download>
+                        Download PDF
+                    </a>
+                    <!--Keywords: Mixed-integer linear programming (MILP), Resource-constrained project scheduling problem (RCPSP), solvers, relaxation, CP, SAT-->
+                </td>
+            </tr>
+
+            <!--Photo and video-->
+            <tr>
+                <td class="presenter_image_container">
+                    <div class="single_image_container">
+                        <a href="https://homepages.laas.fr/artigues/drupal/node/11">
+                            <img class="single_presenter" src="photos/christian_artigues_new.jpg" alt="person_photo"/>
+                        </a><br/>
+                    </div>
+                </td>
+
+                <td colspan="2">
+                    <div class="resizable_youtube_single">
+                        <iframe width="400" height="250" src="https://www.youtube.com/embed/3KGLAnIgVuc"
+                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                                allowfullscreen></iframe>
+                    </div>
+                </td>
+            </tr>
+
+            <!--Text description-->
+            <tr>
+                <td class="presenter_past_info_container"></td>
+                <td>
+                    <table class="panelists_past_container_single">
+                        <tr>
+                            <td colspan="2"><b>[Presenter]</b> <br></td>
+                            <td><b>[Invited by]</b> <br></td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://homepages.laas.fr/artigues/drupal/node/11">Christian Artigues</a><br>
+                                (LAAS - CNRS)<br>
+                            </td>
+                            <td></td>
+                            <td>
+                                <a href="https://www.professors.wi.tum.de/om/team/prof-dr-rainer-kolisch/">Rainer Kolisch</a><br>
+                                (TU Munich)
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+
+        <!--Spacing--->
+        <table style="margin: 0 0 0 0 !important;">
+            <tr>
+                <td colspan="100%"></td>
+            </tr>
+        </table>
 
         <!--Single talk------------------------------------------------------------------------------------------------>
         <table style="padding-bottom: 12px;" class="europe">
