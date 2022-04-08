@@ -233,8 +233,7 @@
                         expressed mathematically. Nonetheless, often the requirement to reach optimality or
                         close-to-optimality is critical for the competitiveness and the survival of the company. Due to
                         this, mixed-integer linear programming (MILP) has become the most common tool of choice and can
-                        be said to be the "backbone" for many practical scheduling problems.
-
+                        be said to be the "backbone" for many practical scheduling problems. <br/>
                         In this presentation, we take an engineering perspective of selected problems and discuss few
                         examples where energy plays a significant role. The role of energy is in fact growing and most
                         process industries will in the future be more closely integrated into the energy supply chain.
@@ -253,14 +252,15 @@
             <tr>
                 <td class="presenter_image_container">
                     <div class="single_image_container">
-                        <a href="https://www.aalto.fi/en/people/iiro-harjunkoski">
+                        <a href="https://www.hitachienergy.com/news/testimonials/2021/06/iiro-harjunkoski-germany">
                             <img class="single_presenter" src="photos/Iiro_Harjunkoski.jpg" alt="person_photo"/>
                         </a><br/>
                     </div>
                 </td>
                 <td class="information_upcoming_container">
                     <b>[Presenter]</b><br>
-                    <a href="https://www.aalto.fi/en/people/iiro-harjunkoski">Iiro Harjunkoski</a><br>
+                    <a href="https://www.hitachienergy.com/news/testimonials/2021/06/iiro-harjunkoski-germany">Iiro
+                        Harjunkoski</a><br>
                     (Hitachi Energy)<br><br/>
                     <b>[Invited by]</b><br>
                     <a href="http://people.ciirc.cvut.cz/~suchap/">Přemysl Šůcha</a><br>
