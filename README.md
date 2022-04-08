@@ -222,12 +222,24 @@
             <!--Title/Abstract/PDF-->
             <tr>
                 <td colspan="3">
-                    <h2 class="talk_title"><b>Scheduling and energy – Industrial challenges and opportunities</b><br>
+                    <h2 class="talk_title"><b>Scheduling and Energy – Industrial Challenges and Opportunities</b><br>
                     </h2>
                     <input type="checkbox" id="abstract_id_24" style="display:none;">
                     <label for="abstract_id_24" class="label_abstract"><a>Abstract</a></label>
                     <div class="hidden">
                         <hr style="border-top: 1px solid black;">
+                        Real-life industrial scheduling problems, especially in the process industries, are very complex
+                        as they contain many problem-specific features or rules that are sometimes even difficult to be
+                        expressed mathematically. Nonetheless, often the requirement to reach optimality or
+                        close-to-optimality is critical for the competitiveness and the survival of the company. Due to
+                        this, mixed-integer linear programming (MILP) has become the most common tool of choice and can
+                        be said to be the "backbone" for many practical scheduling problems.
+
+                        In this presentation, we take an engineering perspective of selected problems and discuss few
+                        examples where energy plays a significant role. The role of energy is in fact growing and most
+                        process industries will in the future be more closely integrated into the energy supply chain.
+                        We will discuss few MILP formulations and methods to improve their performance in practical
+                        cases.
                         <hr style="border-top: 1px solid black;">
                     </div>
                     <!--                    <a href="./presentations/SchedulingSeminar_RubénRuiz.pdf" class="label_abstract" download>-->
@@ -249,7 +261,7 @@
                 <td class="information_upcoming_container">
                     <b>[Presenter]</b><br>
                     <a href="https://www.aalto.fi/en/people/iiro-harjunkoski">Iiro Harjunkoski</a><br>
-                    (Aalto University)<br><br/>
+                    (Hitachi Energy)<br><br/>
                     <b>[Invited by]</b><br>
                     <a href="http://people.ciirc.cvut.cz/~suchap/">Přemysl Šůcha</a><br>
                     (CTU in Prague)
@@ -326,7 +338,8 @@
                 </td>
                 <td class="information_upcoming_container">
                     <b>[Presenter]</b><br>
-                    <a href="https://algo.wmi.amu.edu.pl/en/staff/prof-uam-dr-hab-stanislaw-gawiejnowicz/">Stanislaw Gawiejnowicz</a><br>
+                    <a href="https://algo.wmi.amu.edu.pl/en/staff/prof-uam-dr-hab-stanislaw-gawiejnowicz/">Stanislaw
+                        Gawiejnowicz</a><br>
                     (AMU Poznañ)<br><br/>
                     <b>[Invited by]</b><br>
                     <a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a><br>
@@ -588,7 +601,8 @@
                             </td>
                             <td></td>
                             <td>
-                                <a href="https://www.professors.wi.tum.de/om/team/prof-dr-rainer-kolisch/">Rainer Kolisch</a><br>
+                                <a href="https://www.professors.wi.tum.de/om/team/prof-dr-rainer-kolisch/">Rainer
+                                    Kolisch</a><br>
                                 (TU Munich)
                             </td>
                         </tr>
