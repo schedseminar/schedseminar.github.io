@@ -167,7 +167,7 @@
                     <a href="./presentations/SchedulingSeminar_IiroHarjunkoski.pdf" class="label_abstract" download>
                         Download PDF
                     </a>
-                    <!--Keywords:-->
+                    <!--Keywords: Energy, MILP, Bilevel optimization, Real-world application, Industry, Sustainability-->
                 </td>
             </tr>
 
