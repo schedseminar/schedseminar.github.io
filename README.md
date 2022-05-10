@@ -166,10 +166,10 @@
                         of hard problem instances in the instance space.
                         <hr style="border-top: 1px solid black;">
                     </div>
-                    <!--                    <a href="./presentations/SchedulingSeminar_RubénRuiz.pdf" class="label_abstract" download>-->
-                    <!--                        Download PDF-->
-                    <!--                    </a>-->
-                    <!--Keywords: data science, machine learning, combinatorial optimization, scheduling, algorithms, landscape analysis, automated tuning, automated construction, automated selection, instance hardness-->
+                    <a href="./presentations/SchedulingSeminar_PatrickDeCausmaecker.pdf" class="label_abstract" download>
+                        Download PDF
+                    </a>
+                    <!--Keywords: -->
                 </td>
             </tr>
 
