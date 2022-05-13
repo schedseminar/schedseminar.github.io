@@ -145,88 +145,6 @@
             <!--Title/Abstract/PDF-->
             <tr>
                 <td colspan="3">
-                    <h2 class="talk_title"><b>Data Science Meets Scheduling</b><br>
-                    </h2>
-                    <input type="checkbox" id="abstract_id_25" style="display:none;">
-                    <label for="abstract_id_25" class="label_abstract"><a>Abstract</a></label>
-                    <div class="hidden">
-                        <hr style="border-top: 1px solid black;">
-
-                        The impact of techniques from data science and machine learning on scheduling is investigated.
-                        We review a number of recently emerged applications of these techniques that can shed a new
-                        light on combinatorial optimization in general. We give concrete examples for scheduling in
-                        particular. We distinguish on-line techniques, that is, data science techniques integrated into
-                        advanced algorithms, off-line techniques which can be used to improve, select of construct
-                        algorithms as well as techniques that consider the problem as living in a space of which the
-                        dimensions are set by specific properties of its instances. We give examples of recent results
-                        obtained for specific problems in the scheduling domain.
-                        Meeting works in two directions. We give an example where a recent theoretical result for a
-                        combinatorial optimization problem provides new insights in the structures on which the data
-                        science techniques can operate. In this case, the theoretical result allowed to locate a region
-                        of hard problem instances in the instance space.
-                        <hr style="border-top: 1px solid black;">
-                    </div>
-                    <a href="./presentations/SchedulingSeminar_PatrickDeCausmaecker.pdf" class="label_abstract" download>
-                        Download PDF
-                    </a>
-                    <!--Keywords: -->
-                </td>
-            </tr>
-
-            <!--Data--->
-            <tr>
-                <td class="presenter_image_container">
-                    <div class="single_image_container">
-                        <a href="https://www.kuleuven.be/wieiswie/en/person/00003471">
-                            <img class="single_presenter" src="photos/Patrick_De_Causmaecker.jpg" alt="person_photo"/>
-                        </a><br/>
-                    </div>
-                </td>
-                <td class="information_upcoming_container">
-                    <b>[Presenter]</b><br>
-                    <a href="https://www.kuleuven.be/wieiswie/en/person/00003471">Patrick De Causmaecker</a><br>
-                    (KU Leuven)<br><br/>
-                    <b>[Invited by]</b><br>
-                    <a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a><br>
-                    (CTU in Prague)
-                </td>
-                <td class="time_zones_container">
-                    <table class="time_table">
-                        <tbody>
-                        <tr class="utc">
-                            <td>UTC</td>
-                            <td>May 11, 13:00 Wed</td>
-                        </tr>
-                        <tr class="europe">
-                            <td>Prague</td>
-                            <td>May 11, 15:00 Wed</td>
-                        </tr>
-                        <tr class="america">
-                            <td>New York</td>
-                            <td>May 11, 09:00 Wed</td>
-                        </tr>
-                        <tr class="asia">
-                            <td>Shanghai</td>
-                            <td>May 11, 21:00 Wed</td>
-                        </tr>
-                        </tbody>
-                    </table>
-                </td>
-            </tr>
-        </table>
-
-        <!--Spacing-->
-        <table style="margin: 0 0 0 0 !important;">
-            <tr>
-                <td colspan="100%"></td>
-            </tr>
-        </table>
-
-        <!--Single talk------------------------------------------------------------------------------------------------>
-        <table style="padding-bottom: 12px;" class="europe">
-            <!--Title/Abstract/PDF-->
-            <tr>
-                <td colspan="3">
                     <h2 class="talk_title"><b>Past, present and future of time-dependent scheduling</b><br>
                     </h2>
                     <input type="checkbox" id="abstract_id_26" style="display:none;">
@@ -452,9 +370,93 @@
 
 <!--Past talks-->
 <div class="column column_right">
-    <h2>Past talks (24)</h2>
+    <h2>Past talks (25)</h2>
     <table class="past_talk_table">
         <tbody>
+
+        <!--Single talk------------------------------------------------------------------------------------------------>
+        <table style="padding-bottom: 12px;" class="europe">
+            <tr>
+                <td colspan="3">
+                    <h2 class="talk_title"><b>Data Science Meets Scheduling</b><span style="opacity: 0">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><br>
+                    </h2>
+                    <input type="checkbox" id="abstract_id_25" style="display:none;">
+                    <label for="abstract_id_25" class="label_abstract"><a>Abstract</a></label>
+                    <div class="hidden">
+                        <hr style="border-top: 1px solid black;">
+
+                        The impact of techniques from data science and machine learning on scheduling is investigated.
+                        We review a number of recently emerged applications of these techniques that can shed a new
+                        light on combinatorial optimization in general. We give concrete examples for scheduling in
+                        particular. We distinguish on-line techniques, that is, data science techniques integrated into
+                        advanced algorithms, off-line techniques which can be used to improve, select of construct
+                        algorithms as well as techniques that consider the problem as living in a space of which the
+                        dimensions are set by specific properties of its instances. We give examples of recent results
+                        obtained for specific problems in the scheduling domain.
+                        Meeting works in two directions. We give an example where a recent theoretical result for a
+                        combinatorial optimization problem provides new insights in the structures on which the data
+                        science techniques can operate. In this case, the theoretical result allowed to locate a region
+                        of hard problem instances in the instance space.
+                        <hr style="border-top: 1px solid black;">
+                    </div>
+                    <a href="./presentations/SchedulingSeminar_PatrickDeCausmaecker.pdf" class="label_abstract"
+                       download>
+                        Download PDF
+                    </a>
+                    <!--Keywords: -->
+                </td>
+            </tr>
+
+            <!--Photo and video-->
+            <tr>
+                <td class="presenter_image_container">
+                    <div class="single_image_container">
+                        <a href="https://www.kuleuven.be/wieiswie/en/person/00003471">
+                            <img class="single_presenter" src="photos/Patrick_De_Causmaecker.jpg" alt="person_photo"/>
+                        </a><br/>
+                    </div>
+                </td>
+
+                <td colspan="2">
+                    <div class="resizable_youtube_single">
+                        <iframe width="400" height="250" src="https://www.youtube.com/embed/6rAPaN80-vY"
+                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                                allowfullscreen></iframe>
+                    </div>
+                </td>
+            </tr>
+
+            <!--Text description-->
+            <tr>
+                <td class="presenter_past_info_container"></td>
+                <td>
+                    <table class="panelists_past_container_single">
+                        <tr>
+                            <td colspan="2"><b>[Presenter]</b> <br></td>
+                            <td><b>[Invited by]</b> <br></td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://www.kuleuven.be/wieiswie/en/person/00003471">Patrick De Causmaecker</a><br>
+                                (KU Leuven)<br>
+                            </td>
+                            <td></td>
+                            <td>
+                                <a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a><br>
+                                (CTU in Prague)
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+
+        <!--Spacing--->
+        <table style="margin: 0 0 0 0 !important;">
+            <tr>
+                <td colspan="100%"></td>
+            </tr>
+        </table>
 
         <!--Single talk------------------------------------------------------------------------------------------------>
         <table style="padding-bottom: 12px;" class="europe">
