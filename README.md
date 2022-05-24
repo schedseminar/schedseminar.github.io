@@ -207,12 +207,22 @@
             <!--Title/Abstract/PDF-->
             <tr>
                 <td colspan="3">
-                    <h2 class="talk_title"><b>Scheduling under Uncertainty</b><br>
+                    <h2 class="talk_title"><b>Learning-Augmented Online Algorithms for Scheduling and Routing</b><br>
                     </h2>
                     <input type="checkbox" id="abstract_id_27" style="display:none;">
                     <label for="abstract_id_27" class="label_abstract"><a>Abstract</a></label>
                     <div class="hidden">
                         <hr style="border-top: 1px solid black;">
+                        Online optimization refers to solving problems where an initially unknown input is revealed
+                        incrementally, and irrevocable decisions must be made not knowing future requests. The
+                        assumption of not having any prior knowledge about future requests seems overly pessimistic.
+                        Given the success of machine-learning methods and data-driven applications, one may expect to
+                        have access to predictions about future requests. However, simply trusting them might lead to
+                        very poor solutions, as these predictions come with no quality guarantee. In this talk we
+                        present recent developments in the young line of research that integrates such error-prone
+                        predictions into algorithm design to break through worst case barriers. We discuss different
+                        prediction models and algorithmic challenges with a focus on online scheduling and routing and
+                        give an outlook to network design problems.
                         <hr style="border-top: 1px solid black;">
                     </div>
                     <!--                    <a href="./presentations/SchedulingSeminar_RubénRuiz.pdf" class="label_abstract" download>-->
