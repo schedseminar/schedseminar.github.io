@@ -145,9 +145,9 @@
                         possible ways of its further research.
                         <hr style="border-top: 1px solid black;">
                     </div>
-                    <!--                    <a href="./presentations/SchedulingSeminar_RubénRuiz.pdf" class="label_abstract" download>-->
-                    <!--                        Download PDF-->
-                    <!--                    </a>-->
+                    <a href="./presentations/SchedulingSeminar_StanislawGawiejnowicz.pdf" class="label_abstract" download>
+                        Download PDF
+                    </a>
                     <!--Keywords:-->
                 </td>
             </tr>
