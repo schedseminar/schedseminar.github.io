@@ -146,10 +146,10 @@
 						give an outlook to network design problems.
 						<hr style="border-top: 1px solid black;">
 					</div>
-					<!--                    <a href="./presentations/SchedulingSeminar_RubénRuiz.pdf" class="label_abstract" download>-->
-					<!--                        Download PDF-->
-					<!--                    </a>-->
-					<!--Keywords:-->
+                    <a href="./presentations/SchedulingSeminar_NicoleMegow.pdf" class="label_abstract" download>
+                        Download PDF
+                    </a>
+					<!--Keywords: scheduling under uncertainty, algorithms with predictions, learning-augmented algorithms, non-clairvoyant scheduling, online TSP-->
 				</td>
 			</tr>
 
