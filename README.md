@@ -56,6 +56,14 @@
 <!--        href="https://cesnet.zoom.us/j/98579414742?pwd=enQxM2wveUowQ3BZenB1QURKVStadz09">https://cesnet.zoom.us/j/98579414742?pwd=enQxM2wveUowQ3BZenB1QURKVStadz09</a>-->
 <!--</h2>-->
 
+<div style="text-align: center">
+    <h1>ZOOM CONNECT INFORMATION</h1>
+    <i>Since our email server is temporarily out of order, below we provide information for the Zoom connection.</i><br/>
+    Zoom link: <a href="https://cesnet.zoom.us/j/91083429684?pwd=QlJXcHB4dGtLdE40b1hGaEVMbTNFdz09">https://cesnet.zoom.us/j/91083429684?pwd=QlJXcHB4dGtLdE40b1hGaEVMbTNFdz09</a><br/>
+    Meeting ID: 910 8342 9684<br/>
+    Passcode: 190280<br/>
+</div>
+<hr>
 
 <div class="quarter_column_leftmost">
 	<a href="https://www.youtube.com/channel/UCUoCNnaAfw5NAntItILFn4A/live">
