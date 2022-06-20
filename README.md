@@ -57,8 +57,9 @@
 <!--</h2>-->
 
 <div style="text-align: center">
-    <h1>ZOOM CONNECT INFORMATION</h1>
-    <i>Since our email server is temporarily out of order, below we provide information for the Zoom connection.</i><br/>
+    <h1>ZOOM CONNECTION INFORMATION (for talk 22.6.2022)</h1>
+    <i>Since the invitation for the next talk might have been flagged as spam by your email provider, below we provide
+        information for the Zoom connection.</i><br/>
     Zoom link: <a href="https://cesnet.zoom.us/j/91083429684?pwd=QlJXcHB4dGtLdE40b1hGaEVMbTNFdz09">https://cesnet.zoom.us/j/91083429684?pwd=QlJXcHB4dGtLdE40b1hGaEVMbTNFdz09</a><br/>
     Meeting ID: 910 8342 9684<br/>
     Passcode: 190280<br/>
