@@ -47,23 +47,29 @@
 	</tr>
 </table>
 
+<!--------------------------------------------------------------------------------------------------------------------->
+<!--Messages-->
 
-<!--Buttons-->
-<hr>
+<!--<hr>-->
 
 <!--If any problem should occur-->
 <!--<h2>Due to unforeseen technical problems, problem reason... <a-->
 <!--        href="https://cesnet.zoom.us/j/98579414742?pwd=enQxM2wveUowQ3BZenB1QURKVStadz09">https://cesnet.zoom.us/j/98579414742?pwd=enQxM2wveUowQ3BZenB1QURKVStadz09</a>-->
 <!--</h2>-->
 
-<div style="text-align: center">
-    <h1>ZOOM CONNECTION INFORMATION (for talk 22.6.2022)</h1>
-    <i>Since the invitation for the next talk might have been flagged as spam by your email provider, below we provide
-        information for the Zoom connection.</i><br/>
-    Zoom link: <a href="https://cesnet.zoom.us/j/91083429684?pwd=QlJXcHB4dGtLdE40b1hGaEVMbTNFdz09">https://cesnet.zoom.us/j/91083429684?pwd=QlJXcHB4dGtLdE40b1hGaEVMbTNFdz09</a><br/>
-    Meeting ID: 910 8342 9684<br/>
-    Passcode: 190280<br/>
-</div>
+<!--Zoom connection info-->
+<!--<div style="text-align: center">-->
+<!--    <h1>ZOOM CONNECTION INFORMATION (for talk 22.6.2022)</h1>-->
+<!--    <i>Since the invitation for the next talk might have been flagged as spam by your email provider, below we provide-->
+<!--        information for the Zoom connection.</i><br/>-->
+<!--    Zoom link: <a href="https://cesnet.zoom.us/j/91083429684?pwd=QlJXcHB4dGtLdE40b1hGaEVMbTNFdz09">https://cesnet.zoom.us/j/91083429684?pwd=QlJXcHB4dGtLdE40b1hGaEVMbTNFdz09</a><br/>-->
+<!--    Meeting ID: 910 8342 9684<br/>-->
+<!--    Passcode: 190280<br/>-->
+<!--</div>-->
+
+
+<!--------------------------------------------------------------------------------------------------------------------->
+<!--Buttons social-->
 <hr>
 
 <div class="quarter_column_leftmost">
@@ -131,86 +137,6 @@
 
 	<table>
 		<tbody>
-
-		<!--Single talk------------------------------------------------------------------------------------------------>
-		<table style="padding-bottom: 12px;" class="america">
-			<!--Title/Abstract/PDF-->
-			<tr>
-				<td colspan="3">
-					<h2 class="talk_title"><b>On Polyhedral Approaches to Scheduling Problems</b><br>
-					</h2>
-					<input type="checkbox" id="abstract_id_28" style="display:none;">
-					<label for="abstract_id_28" class="label_abstract"><a>Abstract</a></label>
-					<div class="hidden">
-						<hr style="border-top: 1px solid black;">
-						The formulation of scheduling problems as mathematical optimization problems is a useful step in
-						deriving exact solutions, or approximate solutions with performance guarantees. We give a brief
-						overview of polyhedral approaches, which aim to apply the power of linear and mixed-integer
-						optimization to certain classes of scheduling problems, in particular those with min-sum type of
-						objectives such as to minimize weighted sums of completion dates.
-
-						The choice of decision variables is the prime determinant of such formulations. Constraints,
-						such as facet inducing inequalities for corresponding polyhedra, are often needed, in addition
-						to those just required for the validity of the initial formulation, in order to derive useful
-						dual bounds and structural insights. Alternative formulations are based on various types of
-						decision variables, such as: start date and completion date variables, that simply specify when
-						a task is performed; linear ordering variables, that prescribe the relative order of pairs of
-						tasks; traveling salesman variables, which capture immediate succession of tasks and
-						changeovers; assignment and positional date variables, which specify the assignment of tasks to
-						machine or to positions; and time-indexed variables which rely on a discretization of the
-						planning horizon, in particular machine switch-on and switch-off variables in production
-						planning and unit commitment in power generation. We point out relationship between various
-						models, and emphasize the role of supermodular polyhedra and greedy algorithms.
-						<hr style="border-top: 1px solid black;">
-					</div>
-					<a href="./presentations/SchedulingSeminar_MauriceQueyranne.pdf" class="label_abstract" download>
-						Download PDF
-					</a>
-					<!--Keywords: scheduling, polyhedra, formulations-->
-				</td>
-			</tr>
-
-			<!--Data--->
-			<tr>
-				<td class="presenter_image_container">
-					<div class="single_image_container">
-						<a href="https://www.sauder.ubc.ca/people/maurice-queyranne">
-							<img class="single_presenter" src="photos/Maurice_Queyranne.jpg" alt="person_photo"/>
-						</a><br/>
-					</div>
-				</td>
-				<td class="information_upcoming_container">
-					<b>[Presenter]</b><br>
-					<a href="https://www.sauder.ubc.ca/people/maurice-queyranne">Maurice Queyranne</a><br>
-					(Sauder School, UBC)<br><br/>
-					<b>[Invited by]</b><br>
-					<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a><br>
-					(New York University)
-				</td>
-				<td class="time_zones_container">
-					<table class="time_table">
-						<tbody>
-						<tr class="utc">
-							<td>UTC</td>
-							<td>June 22, 13:00 Wed</td>
-						</tr>
-						<tr class="europe">
-							<td>Prague</td>
-							<td>June 22, 15:00 Wed</td>
-						</tr>
-						<tr class="america">
-							<td>New York</td>
-							<td>June 22, 09:00 Wed</td>
-						</tr>
-						<tr class="asia">
-							<td>Shanghai</td>
-							<td>June 22, 21:00 Wed</td>
-						</tr>
-						</tbody>
-					</table>
-				</td>
-			</tr>
-		</table>
 
 		<!-- Levner postponed talk-------------------------------------------------------------------------------------->
 		<!--        &lt;!&ndash;Levner backup&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&ndash;&gt;-->
@@ -286,22 +212,22 @@
 		<!--        </table>-->
 
 		<!--Pause------------------------------------------------------------------------------------------------------>
-		<!--        <i>Currently, new talks are being planned, and the seminar will start again in September 2021. Consider-->
-		<!--            subscribing to the mailing list-->
-		<!--            <a href='https://list.iid.ciirc.cvut.cz/mailman3/lists/schedulingseminar.rtime.felk.cvut.cz/'-->
-		<!--               style="margin-left: 5px; margin-right: 5px">-->
-		<!--                <img src="icons/email.png" height="25px" width="25px" alt="email"/>-->
-		<!--            </a> and Youtube channel <a href='https://www.youtube.com/channel/UCUoCNnaAfw5NAntItILFn4A'-->
-		<!--                                        style="margin-left: 5px; margin-right: 5px">-->
-		<!--                <img src="icons/youtube.png" height="25px" width="25px" alt="youtube"/>-->
-		<!--            </a> to never miss out on new upcoming seminars.</i>-->
+		<i>Currently, new talks are being planned, and the seminar will start again in September 2022. Consider
+			subscribing to the mailing list
+			<a href='https://list.iid.ciirc.cvut.cz/mailman3/lists/schedulingseminar.rtime.felk.cvut.cz/'
+			   style="margin-left: 5px; margin-right: 5px">
+				<img src="icons/email.png" height="25px" width="25px" alt="email"/>
+			</a> and Youtube channel <a href='https://www.youtube.com/channel/UCUoCNnaAfw5NAntItILFn4A'
+										style="margin-left: 5px; margin-right: 5px">
+				<img src="icons/youtube.png" height="25px" width="25px" alt="youtube"/>
+			</a> to never miss out on new upcoming seminars.</i>
 
-		<!--        &lt;!&ndash;Spacing-&ndash;&gt;-->
-		<!--        <table style="margin: 30px 0 0 0 !important;">-->
-		<!--            <tr>-->
-		<!--                <td colspan="100%"></td>-->
-		<!--            </tr>-->
-		<!--        </table>-->
+		<!--Spacing--->
+		<table style="margin: 30px 0 0 0 !important;">
+			<tr>
+				<td colspan="100%"></td>
+			</tr>
+		</table>
 
 		<!--Dual talk-------------------------------------------------------------------------------------------------->
 		<!--        <table style="padding-bottom: 12px;" class="europe">-->
@@ -389,9 +315,98 @@
 
 <!--Past talks-->
 <div class="column column_right">
-	<h2>Past talks (27)</h2>
+	<h2>Past talks (28)</h2>
 	<table class="past_talk_table">
 		<tbody>
+
+		<!--Single talk------------------------------------------------------------------------------------------------>
+		<table style="padding-bottom: 12px;" class="america">
+			<!--Title/Abstract/PDF-->
+			<tr>
+				<td colspan="3">
+					<h2 class="talk_title"><b>On Polyhedral Approaches to Scheduling Problems</b><br>
+					</h2>
+					<input type="checkbox" id="abstract_id_28" style="display:none;">
+					<label for="abstract_id_28" class="label_abstract"><a>Abstract</a></label>
+					<div class="hidden">
+						<hr style="border-top: 1px solid black;">
+						The formulation of scheduling problems as mathematical optimization problems is a useful step in
+						deriving exact solutions, or approximate solutions with performance guarantees. We give a brief
+						overview of polyhedral approaches, which aim to apply the power of linear and mixed-integer
+						optimization to certain classes of scheduling problems, in particular those with min-sum type of
+						objectives such as to minimize weighted sums of completion dates.
+
+						The choice of decision variables is the prime determinant of such formulations. Constraints,
+						such as facet inducing inequalities for corresponding polyhedra, are often needed, in addition
+						to those just required for the validity of the initial formulation, in order to derive useful
+						dual bounds and structural insights. Alternative formulations are based on various types of
+						decision variables, such as: start date and completion date variables, that simply specify when
+						a task is performed; linear ordering variables, that prescribe the relative order of pairs of
+						tasks; traveling salesman variables, which capture immediate succession of tasks and
+						changeovers; assignment and positional date variables, which specify the assignment of tasks to
+						machine or to positions; and time-indexed variables which rely on a discretization of the
+						planning horizon, in particular machine switch-on and switch-off variables in production
+						planning and unit commitment in power generation. We point out relationship between various
+						models, and emphasize the role of supermodular polyhedra and greedy algorithms.
+						<hr style="border-top: 1px solid black;">
+					</div>
+					<a href="./presentations/SchedulingSeminar_MauriceQueyranne.pdf" class="label_abstract" download>
+						Download PDF
+					</a>
+					<!--Keywords: scheduling, polyhedra, formulations-->
+				</td>
+			</tr>
+
+			<!--Photo and video-->
+			<tr>
+				<td class="presenter_image_container">
+					<div class="single_image_container">
+						<a href="https://www.sauder.ubc.ca/people/maurice-queyranne">
+							<img class="single_presenter" src="photos/Maurice_Queyranne.jpg" alt="person_photo"/>
+						</a><br/>
+					</div>
+				</td>
+
+				<td colspan="2">
+					<div class="resizable_youtube_single">
+						<iframe width="400" height="250" src="https://www.youtube.com/embed/Pi_aBHm10-c"
+								allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+								allowfullscreen></iframe>
+					</div>
+				</td>
+			</tr>
+
+			<!--Text description-->
+			<tr>
+				<td class="presenter_past_info_container"></td>
+				<td>
+					<table class="panelists_past_container_single">
+						<tr>
+							<td colspan="2"><b>[Presenter]</b> <br></td>
+							<td><b>[Invited by]</b> <br></td>
+						</tr>
+						<tr>
+							<td>
+								<a href="https://www.sauder.ubc.ca/people/maurice-queyranne">Maurice Queyranne</a><br>
+								(Sauder School, UBC)<br>
+							</td>
+							<td></td>
+							<td>
+								<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a><br>
+								(New York University)
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+
+		<!--Spacing--->
+		<table style="margin: 0 0 0 0 !important;">
+			<tr>
+				<td colspan="100%"></td>
+			</tr>
+		</table>
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
 		<table style="padding-bottom: 12px;" class="europe">
