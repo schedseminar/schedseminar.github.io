@@ -162,9 +162,9 @@
 						1% for practical instances of the problem.
 						<hr style="border-top: 1px solid black;">
 					</div>
-					<!--					<a href="./presentations/SchedulingSeminar_MauriceQueyranne.pdf" class="label_abstract" download>-->
-					<!--						Download PDF-->
-					<!--					</a>-->
+					<a href="./presentations/SchedulingSeminar_ChristosZacharias.pdf" class="label_abstract" download>
+						Download PDF
+					</a>
 					<!--Keywords: dynamic programming; discrete convexity; stochastic models;  appointment scheduling -->
 				</td>
 			</tr>
