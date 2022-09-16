@@ -139,86 +139,6 @@
 		<tbody>
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
-		<table style="padding-bottom: 12px;" class="america">
-			<!--Title/Abstract/PDF-->
-			<tr>
-				<td colspan="3">
-					<h2 class="talk_title"><b>Dynamic Interday and Intraday Scheduling</b><br>
-					</h2>
-					<input type="checkbox" id="abstract_id_29" style="display:none;">
-					<label for="abstract_id_29" class="label_abstract"><a>Abstract</a></label>
-					<div class="hidden">
-						<hr style="border-top: 1px solid black;">
-						The simultaneous consideration of appointment day (interday scheduling) and time of day
-						(intraday scheduling) in dynamic scheduling decisions is a theoretical and practical problem
-						that has remained open. We introduce a novel dynamic programming framework that incorporates
-						jointly these scheduling decisions in two timescales. Our model is designed with the intention
-						of bridging the two streams of literature on interday and intraday scheduling and to leverage
-						their latest theoretical developments in tackling the joint problem. We establish theoretical
-						connections between two recent studies by proving novel theoretical results in discrete convex
-						analysis regarding constrained multimodular function minimization. Grounded on our theory, we
-						develop a practically implementable and computationally tractable scheduling paradigm with
-						performance guarantees. Numerical experiments demonstrate that the optimality gap is less than
-						1% for practical instances of the problem.
-						<hr style="border-top: 1px solid black;">
-					</div>
-					<a href="./presentations/SchedulingSeminar_ChristosZacharias.pdf" class="label_abstract" download>
-						Download PDF
-					</a>
-					<!--Keywords: dynamic programming; discrete convexity; stochastic models;  appointment scheduling -->
-				</td>
-			</tr>
-
-			<!--Data--->
-			<tr>
-				<td class="presenter_image_container">
-					<div class="single_image_container">
-						<a href="http://moya.bus.miami.edu/~czacharias/">
-							<img class="single_presenter" src="photos/Christos_Zacharias.jpg" alt="person_photo"/>
-						</a><br/>
-					</div>
-				</td>
-				<td class="information_upcoming_container">
-					<b>[Presenter]</b><br>
-					<a href="http://moya.bus.miami.edu/~czacharias/">Christos Zacharias</a><br>
-					(University of Miami)<br><br/>
-					<b>[Invited by]</b><br>
-					<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a><br>
-					(New York University)
-				</td>
-				<td class="time_zones_container">
-					<table class="time_table">
-						<tbody>
-						<tr class="utc">
-							<td>UTC</td>
-							<td>Sep 14, 13:00 Wed</td>
-						</tr>
-						<tr class="europe">
-							<td>Prague</td>
-							<td>Sep 14, 15:00 Wed</td>
-						</tr>
-						<tr class="america">
-							<td>New York</td>
-							<td>Sep 14, 09:00 Wed</td>
-						</tr>
-						<tr class="asia">
-							<td>Shanghai</td>
-							<td>Sep 14, 21:00 Wed</td>
-						</tr>
-						</tbody>
-					</table>
-				</td>
-			</tr>
-		</table>
-
-		<!--Spacing--->
-		<table style="margin: 30px 0 0 0 !important;">
-			<tr>
-				<td colspan="100%"></td>
-			</tr>
-		</table>
-
-		<!--Single talk------------------------------------------------------------------------------------------------>
 		<table style="padding-bottom: 12px;" class="europe">
 			<!--Title/Abstract/PDF-->
 			<tr>
@@ -578,9 +498,91 @@
 
 <!--Past talks-->
 <div class="column column_right">
-	<h2>Past talks (28)</h2>
+	<h2>Past talks (29)</h2>
 	<table class="past_talk_table">
 		<tbody>
+
+		<!--Single talk------------------------------------------------------------------------------------------------>
+		<table style="padding-bottom: 12px;" class="america">
+			<!--Title/Abstract/PDF-->
+			<tr>
+				<td colspan="3">
+					<h2 class="talk_title"><b>Dynamic Interday and Intraday Scheduling</b><br>
+					</h2>
+					<input type="checkbox" id="abstract_id_29" style="display:none;">
+					<label for="abstract_id_29" class="label_abstract"><a>Abstract</a></label>
+					<div class="hidden">
+						<hr style="border-top: 1px solid black;">
+						The simultaneous consideration of appointment day (interday scheduling) and time of day
+						(intraday scheduling) in dynamic scheduling decisions is a theoretical and practical problem
+						that has remained open. We introduce a novel dynamic programming framework that incorporates
+						jointly these scheduling decisions in two timescales. Our model is designed with the intention
+						of bridging the two streams of literature on interday and intraday scheduling and to leverage
+						their latest theoretical developments in tackling the joint problem. We establish theoretical
+						connections between two recent studies by proving novel theoretical results in discrete convex
+						analysis regarding constrained multimodular function minimization. Grounded on our theory, we
+						develop a practically implementable and computationally tractable scheduling paradigm with
+						performance guarantees. Numerical experiments demonstrate that the optimality gap is less than
+						1% for practical instances of the problem.
+						<hr style="border-top: 1px solid black;">
+					</div>
+					<a href="./presentations/SchedulingSeminar_ChristosZacharias.pdf" class="label_abstract" download>
+						Download PDF
+					</a>
+					<!--Keywords: dynamic programming; discrete convexity; stochastic models;  appointment scheduling -->
+				</td>
+			</tr>
+
+			<!--Photo and video-->
+			<tr>
+				<td class="presenter_image_container">
+					<div class="single_image_container">
+						<a href="http://moya.bus.miami.edu/~czacharias/">
+							<img class="single_presenter" src="photos/Christos_Zacharias.jpg" alt="person_photo"/>
+						</a><br/>
+					</div>
+				</td>
+
+				<td colspan="2">
+					<div class="resizable_youtube_single">
+						<iframe width="400" height="250" src="https://www.youtube.com/embed/Z2MBOY7vsC0"
+						        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+						        allowfullscreen></iframe>
+					</div>
+				</td>
+			</tr>
+
+			<!--Text description-->
+			<tr>
+				<td class="presenter_past_info_container"></td>
+				<td>
+					<table class="panelists_past_container_single">
+						<tr>
+							<td colspan="2"><b>[Presenter]</b> <br></td>
+							<td><b>[Invited by]</b> <br></td>
+						</tr>
+						<tr>
+							<td>
+								<a href="http://moya.bus.miami.edu/~czacharias/">Christos Zacharias</a><br>
+								(University of Miami)<br>
+							</td>
+							<td></td>
+							<td>
+								<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a><br>
+								(New York University)
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+
+		<!--Spacing--->
+		<table style="margin: 0 0 0 0 !important;">
+			<tr>
+				<td colspan="100%"></td>
+			</tr>
+		</table>
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
 		<table style="padding-bottom: 12px;" class="america">
