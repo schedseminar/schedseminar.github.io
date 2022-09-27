@@ -240,7 +240,7 @@
 						heuristics for different problem classes, for example all sorts of vehicle routing
 						generalizations. These heuristics range from all-purpose `swap' and `insert' to complicated
 						made-to-measure operators. It has become a challenge to determine the impact of individual
-						components on an algorithm's performance.
+						components on an algorithm's performance.</br>
 
 						In contrast to targeting generalizing problem extensions, it may be worthwhile to focus on a
 						problem's core when designing a basic optimization heuristic. This talk introduces a recently
@@ -248,7 +248,7 @@
 						insofar as it seeks to induce `spatial' and `capacity' slack during a ruin phase which may
 						subsequently be exploited in an almost-greedy recreate phase. SISRs emerged after a dedicated
 						attempt towards solving the vehicle routing problem's most basic special case, that is the
-						`capacitated VRP'.
+						`capacitated VRP'.</br>
 
 						SISRs' quality is validated by way of demonstrating its performance across a wide and diverse
 						range of VRP generalizations. This confirms that the basic CVRP ruin & recreate heuristic is
