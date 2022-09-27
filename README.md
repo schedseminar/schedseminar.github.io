@@ -230,7 +230,7 @@
 			<!--Title/Abstract/PDF-->
 			<tr>
 				<td colspan="3">
-					<h2 class="talk_title"><b>Vehicle routing - a focus on heuristic design</b><br>
+					<h2 class="talk_title"><b>Vehicle routing: A focus on heuristic design</b><br>
 					</h2>
 					<input type="checkbox" id="abstract_id_31" style="display:none;">
 					<label for="abstract_id_31" class="label_abstract"><a>Abstract</a></label>
