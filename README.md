@@ -169,9 +169,9 @@
 						We will conclude by some challenging open questions.
 						<hr style="border-top: 1px solid black;">
 					</div>
-					<!--					<a href="./presentations/SchedulingSeminar_MauriceQueyranne.pdf" class="label_abstract" download>-->
-					<!--						Download PDF-->
-					<!--					</a>-->
+					<a href="./presentations/SchedulingSeminar_AlixMunierKordon.pdf" class="label_abstract" download>
+						Download PDF
+					</a>
 					<!--Keywords: Synchronous DataFlow, precedence constraints, normalization, liveness, throughput evaluation -->
 				</td>
 			</tr>
