@@ -268,7 +268,7 @@
 				<td class="presenter_image_container">
 					<div class="single_image_container">
 						<a href="https://www.lip6.fr/actualite/personnes-fiche.php?ident=P653">
-							<img class="single_presenter" src="photos/greet_vanden_berghe.jpg" alt="person_photo"/>
+							<img class="single_presenter" src="photos/Greet_Vanden_Berghe_2.jpg" alt="person_photo"/>
 						</a><br/>
 					</div>
 				</td>
