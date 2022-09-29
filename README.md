@@ -616,7 +616,7 @@
 							<td>
 								<a href="https://www.lip6.fr/actualite/personnes-fiche.php?ident=P653">Alix Munier
 									Kordon</a><br>
-								(Sorbonne U., LIP6)<br><br/>
+								(Sorbonne U., LIP6)<br>
 							</td>
 							<td></td>
 							<td>
