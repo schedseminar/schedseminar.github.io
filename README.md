@@ -169,9 +169,9 @@
 						We will conclude by some challenging open questions.
 						<hr style="border-top: 1px solid black;">
 					</div>
-					<!--					<a href="./presentations/SchedulingSeminar_MauriceQueyranne.pdf" class="label_abstract" download>-->
-					<!--						Download PDF-->
-					<!--					</a>-->
+					<a href="./presentations/SchedulingSeminar_AlixMunierKordon.pdf" class="label_abstract" download>
+						Download PDF
+					</a>
 					<!--Keywords: Synchronous DataFlow, precedence constraints, normalization, liveness, throughput evaluation -->
 				</td>
 			</tr>
@@ -226,6 +226,92 @@
 			</tr>
 		</table>
 
+		<table style="padding-bottom: 12px;" class="europe">
+			<!--Title/Abstract/PDF-->
+			<tr>
+				<td colspan="3">
+					<h2 class="talk_title"><b>Vehicle routing: A focus on heuristic design</b><br>
+					</h2>
+					<input type="checkbox" id="abstract_id_31" style="display:none;">
+					<label for="abstract_id_31" class="label_abstract"><a>Abstract</a></label>
+					<div class="hidden">
+						<hr style="border-top: 1px solid black;">
+						Local search-based algorithms have tended towards incorporating an ever-increasing number of
+						heuristics for different problem classes, for example all sorts of vehicle routing
+						generalizations. These heuristics range from all-purpose `swap' and `insert' to complicated
+						made-to-measure operators. It has become a challenge to determine the impact of individual
+						components on an algorithm's performance.<br/>
+
+						In contrast to targeting generalizing problem extensions, it may be worthwhile to focus on a
+						problem's core when designing a basic optimization heuristic. This talk introduces a recently
+						published local search operator for vehicle routing problems: SISRs. This heuristic is unique
+						insofar as it seeks to induce `spatial' and `capacity' slack during a ruin phase which may
+						subsequently be exploited in an almost-greedy recreate phase. SISRs emerged after a dedicated
+						attempt towards solving the vehicle routing problem's most basic special case, that is the
+						`capacitated VRP'.<br/>
+
+						SISRs' quality is validated by way of demonstrating its performance across a wide and diverse
+						range of VRP generalizations. This confirms that the basic CVRP ruin & recreate heuristic is
+						also effective when applied to more general vehicle problems, including fleet minimization,
+						without the need to design additional problem-specific components.
+						<hr style="border-top: 1px solid black;">
+					</div>
+					<!--					<a href="./presentations/SchedulingSeminar_AlixMunierKordon.pdf" class="label_abstract" download>-->
+					<!--						Download PDF-->
+					<!--					</a>-->
+					<!--Keywords: ​vehicle routing,  local search operators, ruin and recreate, spatial slack, capacity slack, fleet minimization  -->
+				</td>
+			</tr>
+
+			<!--Data--->
+			<tr>
+				<td class="presenter_image_container">
+					<div class="single_image_container">
+						<a href="https://www.lip6.fr/actualite/personnes-fiche.php?ident=P653">
+							<img class="single_presenter" src="photos/Greet_Vanden_Berghe_2.jpg" alt="person_photo"/>
+						</a><br/>
+					</div>
+				</td>
+				<td class="information_upcoming_container">
+					<b>[Presenter]</b><br>
+					<a href="https://www.kuleuven.be/wieiswie/nl/person/00053376">Greet Vanden Berghe</a><br>
+					(KU Leuven)<br><br/>
+                    <b>[Invited by]</b><br>
+                    <a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a><br>
+                    (CTU in Prague)
+				</td>
+				<td class="time_zones_container">
+					<table class="time_table">
+						<tbody>
+						<tr class="utc">
+							<td>UTC</td>
+							<td>Oct 12, 13:00 Wed</td>
+						</tr>
+						<tr class="europe">
+							<td>Prague</td>
+							<td>Oct 12, 15:00 Wed</td>
+						</tr>
+						<tr class="america">
+							<td>New York</td>
+							<td>Oct 12, 09:00 Wed</td>
+						</tr>
+						<tr class="asia">
+							<td>Shanghai</td>
+							<td>Oct 12, 21:00 Wed</td>
+						</tr>
+						</tbody>
+					</table>
+				</td>
+			</tr>
+		</table>
+
+		<!--Spacing--->
+		<table style="margin: 30px 0 0 0 !important;">
+			<tr>
+				<td colspan="100%"></td>
+			</tr>
+		</table>
+
 		<!--		TODO ENABLE WHEN ALL PREVIOUS READY AND ADD TO GOOGLE CALENDAR-->
 		<!--		&lt;!&ndash;Single talk&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&ndash;&gt;-->
 		<!--		<table style="padding-bottom: 12px;" class="europe">-->
@@ -265,6 +351,57 @@
 		<!--		variants can be considered. In particular, if several testers operate in parallel, under time constraints, the-->
 		<!--		problem gets more complicated. While it is NP-hard for three or more testers, its complexity with two testers is-->
 		<!--		still open.-->
+		<!--						<hr style="border-top: 1px solid black;">-->
+		<!--					</div>-->
+		<!--					&lt;!&ndash;					<a href="./presentations/SchedulingSeminar_MauriceQueyranne.pdf" class="label_abstract" download>&ndash;&gt;-->
+		<!--					&lt;!&ndash;						Download PDF&ndash;&gt;-->
+		<!--					&lt;!&ndash;					</a>&ndash;&gt;-->
+		<!--					&lt;!&ndash;Keywords: scheduling, machine breakdowns, testing &ndash;&gt;-->
+		<!--				</td>-->
+		<!--			</tr>-->
+		<!--		TODO ENABLE WHEN ALL PREVIOUS READY AND ADD TO GOOGLE CALENDAR-->
+		<!--		&lt;!&ndash;Single talk&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&ndash;&gt;-->
+		<!--		<table style="padding-bottom: 12px;" class="europe">-->
+		<!--			&lt;!&ndash;Title/Abstract/PDF&ndash;&gt;-->
+		<!--			<tr>-->
+		<!--				<td colspan="3">-->
+		<!--					<h2 class="talk_title"><b>Scheduling machines subject to unrecoverable failures and other related-->
+		<!--						stochastic sequencing problems</b><br>-->
+		<!--					</h2>-->
+		<!--					<input type="checkbox" id="abstract_id_31" style="display:none;">-->
+		<!--					<label for="abstract_id_31" class="label_abstract"><a>Abstract</a></label>-->
+		<!--					<div class="hidden">-->
+		<!--						<hr style="border-top: 1px solid black;">-->
+		<!--						Typical scheduling problems deal with a set of activities (jobs) requiring various resources-->
+		<!--						(machines) to be performed. In most scheduling scenarios, it is assumed that machines are-->
+		<!--						continuously avalable (possibly except in some scheduled maintenance intervals), and this gives-->
+		<!--						rise to problems in which the typical scheduling objectives (makespan, total weighted completion-->
+		<!--						time etc) are pursued. A significantly different scenario arises if machines may actually fail,-->
+		<!--						i.e., (i) while performing a job i, a machine becomes unavailable (e.g. breaks down) with-->
+		<!--						probability \pi_i, and (ii) such failures are unrecoverable, in the sense that from then onwards-->
+		<!--						the machine is lost and so are the jobs already allocated and not yet processed on that machine.-->
+		<!--						If a job i is successfully completed, a reward r_i is attained. In this context, the basic-->
+		<!--						problem is how to assign the jobs to the machines and how to sequence them so that the expected-->
+		<!--						reward is maximized. In this talk we review the main results, discuss relationships with other-->
+		<!--						sequencing problems and point out some open problems. We address the following scenarios. 1) m-->
+		<!--						parallel (identical) machines. While the single-machine case is easy, for two or more machines-->
+		<!--						the problem is hard and various approaches have been proposed to address it. For general m, list-->
+		<!--						scheduling yields a 0.8531-approximate solution. The argument of the proof is similar to the one-->
+		<!--						used by Schwiegelshohn to prove Kawaguchi and Kyan's bound for the minimization of total-->
+		<!--						weighted completion time. 2) In order to hedge against machine failures, one can use job-->
+		<!--						replication. In this case, copies of the same job can be scheduled on different machines, and-->
+		<!--						the reward r_i is attained if at least one copy is successfully completed. Although also this-->
+		<!--						problem is hard for m>=2, relatively simple algorithms provide solutions which are provably-->
+		<!--						close to optimality. 3) This class of sequencing problems is also related to testing problems,-->
+		<!--						as follows. A system consists of n components, each of which can be either functioning or not.-->
+		<!--						Only if all components are functioning, the system is "up". Component i is functioning with-->
+		<!--						probability \pi_i, and testing it costs c_i. As soon as a component that is not functioning is-->
+		<!--						detected, the testing stops (concluding that the system is "down"). The problem is to decide in-->
+		<!--						which order should the components be tested, in order to minimize the expected costs. While the-->
+		<!--						single-tester problem is solved by a simple priority rule, various problem variants can be-->
+		<!--						considered. In particular, if several testers operate in parallel, under time constraints, the-->
+		<!--						problem gets more complicated. While it is NP-hard for three or more testers, its complexity-->
+		<!--						with two testers is still open.-->
 		<!--						<hr style="border-top: 1px solid black;">-->
 		<!--					</div>-->
 		<!--					&lt;!&ndash;					<a href="./presentations/SchedulingSeminar_MauriceQueyranne.pdf" class="label_abstract" download>&ndash;&gt;-->
