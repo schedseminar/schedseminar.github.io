@@ -188,9 +188,9 @@
 					<b>[Presenter]</b><br>
 					<a href="https://www.kuleuven.be/wieiswie/nl/person/00053376">Greet Vanden Berghe</a><br>
 					(KU Leuven)<br><br/>
-                    <b>[Invited by]</b><br>
-                    <a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a><br>
-                    (CTU in Prague)
+					<b>[Invited by]</b><br>
+					<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a><br>
+					(CTU in Prague)
 				</td>
 				<td class="time_zones_container">
 					<table class="time_table">
@@ -615,7 +615,8 @@
 						</tr>
 						<tr>
 							<td>
-								<a href="https://www.lip6.fr/actualite/personnes-fiche.php?ident=P653">Alix Munier Kordon</a><br>
+								<a href="https://www.lip6.fr/actualite/personnes-fiche.php?ident=P653">Alix Munier
+									Kordon</a><br>
 								(Sorbonne U., LIP6)<br><br/>
 							</td>
 							<td></td>
