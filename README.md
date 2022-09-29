@@ -583,7 +583,6 @@
 					<!--Keywords: Synchronous DataFlow, precedence constraints, normalization, liveness, throughput evaluation -->
 				</td>
 			</tr>
-			</tr>
 
 			<!--Photo and video-->
 			<tr>
