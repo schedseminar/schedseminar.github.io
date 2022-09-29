@@ -138,94 +138,6 @@
 	<table>
 		<tbody>
 
-		<!--Single talk------------------------------------------------------------------------------------------------>
-		<table style="padding-bottom: 12px;" class="europe">
-			<!--Title/Abstract/PDF-->
-			<tr>
-				<td colspan="3">
-					<h2 class="talk_title"><b>Synchronous DataFlow: A survival guide</b><br>
-					</h2>
-					<input type="checkbox" id="abstract_id_30" style="display:none;">
-					<label for="abstract_id_30" class="label_abstract"><a>Abstract</a></label>
-					<div class="hidden">
-						<hr style="border-top: 1px solid black;">
-						Synchronous Dataflow (SDF in short) were introduced in 1987
-						by Lee and Messerschmitt to model data exchanges in embedded
-						systems. A SDF is usually defined by a directed graph, where
-						each node is associated to a task that may be executed
-						infinetly often. Each arc represents a buffer between two tasks. Moreover, the number of data
-						samples produced or consumed by each task on each execution is specified a priori.
-
-						Nowadays, SDF are considered by several scientific communities.
-						It allows for example to model the exchanges for the design of
-						Digital Signal Processings, or in real-time applications to run on a complex architecture.
-
-						The purpose of this talk is to present a set of mathematical results
-						developed on SDF, and to show how to use them to solve
-						concrete problems posed by their users. We will also do
-						the link with classical cyclic scheduling problems by demonstrating that the buffers can be
-						associated to usual precedence constraints
-						between successive task executions.
-						We will conclude by some challenging open questions.
-						<hr style="border-top: 1px solid black;">
-					</div>
-					<a href="./presentations/SchedulingSeminar_AlixMunierKordon.pdf" class="label_abstract" download>
-						Download PDF
-					</a>
-					<!--Keywords: Synchronous DataFlow, precedence constraints, normalization, liveness, throughput evaluation -->
-				</td>
-			</tr>
-
-			<!--Data--->
-			<tr>
-				<td class="presenter_image_container">
-					<div class="single_image_container">
-						<a href="https://www.lip6.fr/actualite/personnes-fiche.php?ident=P653">
-							<img class="single_presenter" src="photos/Alix_Munier_Kordon.jpg" alt="person_photo"/>
-						</a><br/>
-					</div>
-				</td>
-				<td class="information_upcoming_container">
-					<b>[Presenter]</b><br>
-					<a href="https://www.lip6.fr/actualite/personnes-fiche.php?ident=P653">Alix Munier Kordon</a><br>
-					(Sorbonne U., LIP6)<br><br/>
-					<b>[Invited by]</b><br>
-					<a href="https://ufr-segmi.parisnanterre.fr/organisation-et-contacts/espace-reserve-enseignants/site-des-enseignants/les-enseignants-de-segmi/hanen-claire/hanen-claire-93518.kjsp">Claire
-						Hanen</a><br>
-					(Sorbonne Uni)
-				</td>
-				<td class="time_zones_container">
-					<table class="time_table">
-						<tbody>
-						<tr class="utc">
-							<td>UTC</td>
-							<td>Sep 28, 13:00 Wed</td>
-						</tr>
-						<tr class="europe">
-							<td>Prague</td>
-							<td>Sep 28, 15:00 Wed</td>
-						</tr>
-						<tr class="america">
-							<td>New York</td>
-							<td>Sep 28, 09:00 Wed</td>
-						</tr>
-						<tr class="asia">
-							<td>Shanghai</td>
-							<td>Sep 28, 21:00 Wed</td>
-						</tr>
-						</tbody>
-					</table>
-				</td>
-			</tr>
-		</table>
-
-		<!--Spacing--->
-		<table style="margin: 30px 0 0 0 !important;">
-			<tr>
-				<td colspan="100%"></td>
-			</tr>
-		</table>
-
 		<table style="padding-bottom: 12px;" class="europe">
 			<!--Title/Abstract/PDF-->
 			<tr>
@@ -631,9 +543,99 @@
 
 <!--Past talks-->
 <div class="column column_right">
-	<h2>Past talks (29)</h2>
+	<h2>Past talks (30)</h2>
 	<table class="past_talk_table">
 		<tbody>
+
+		<!--Single talk------------------------------------------------------------------------------------------------>
+		<table style="padding-bottom: 12px;" class="america">
+			<!--Title/Abstract/PDF-->
+			<tr>
+				<td colspan="3">
+					<h2 class="talk_title"><b>Synchronous DataFlow: A survival guide</b><br></h2>
+					<input type="checkbox" id="abstract_id_30" style="display:none;">
+					<label for="abstract_id_30" class="label_abstract"><a>Abstract</a></label>
+					<div class="hidden">
+						<hr style="border-top: 1px solid black;">
+						Synchronous Dataflow (SDF in short) were introduced in 1987
+						by Lee and Messerschmitt to model data exchanges in embedded
+						systems. A SDF is usually defined by a directed graph, where
+						each node is associated to a task that may be executed
+						infinetly often. Each arc represents a buffer between two tasks. Moreover, the number of data
+						samples produced or consumed by each task on each execution is specified a priori.
+
+						Nowadays, SDF are considered by several scientific communities.
+						It allows for example to model the exchanges for the design of
+						Digital Signal Processings, or in real-time applications to run on a complex architecture.
+
+						The purpose of this talk is to present a set of mathematical results
+						developed on SDF, and to show how to use them to solve
+						concrete problems posed by their users. We will also do
+						the link with classical cyclic scheduling problems by demonstrating that the buffers can be
+						associated to usual precedence constraints
+						between successive task executions.
+						We will conclude by some challenging open questions.
+						<hr style="border-top: 1px solid black;">
+					</div>
+					<a href="./presentations/SchedulingSeminar_AlixMunierKordon.pdf" class="label_abstract" download>
+						Download PDF
+					</a>
+					<!--Keywords: Synchronous DataFlow, precedence constraints, normalization, liveness, throughput evaluation -->
+				</td>
+			</tr>
+			</tr>
+
+			<!--Photo and video-->
+			<tr>
+				<td class="presenter_image_container">
+					<div class="single_image_container">
+						<a href="https://www.lip6.fr/actualite/personnes-fiche.php?ident=P653">
+							<img class="single_presenter" src="photos/Alix_Munier_Kordon.jpg" alt="person_photo"/>
+						</a><br/>
+					</div>
+				</td>
+
+				<td colspan="2">
+					<div class="resizable_youtube_single">
+						<iframe width="400" height="250" src="https://www.youtube.com/embed/V0LUV5j180E"
+						        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+						        allowfullscreen></iframe>
+					</div>
+				</td>
+			</tr>
+
+			<!--Text description-->
+			<tr>
+				<td class="presenter_past_info_container"></td>
+				<td>
+					<table class="panelists_past_container_single">
+						<tr>
+							<td colspan="2"><b>[Presenter]</b> <br></td>
+							<td><b>[Invited by]</b> <br></td>
+						</tr>
+						<tr>
+							<td>
+								<a href="https://www.lip6.fr/actualite/personnes-fiche.php?ident=P653">Alix Munier Kordon</a><br>
+								(Sorbonne U., LIP6)<br><br/>
+							</td>
+							<td></td>
+							<td>
+								<a href="https://ufr-segmi.parisnanterre.fr/organisation-et-contacts/espace-reserve-enseignants/site-des-enseignants/les-enseignants-de-segmi/hanen-claire/hanen-claire-93518.kjsp">Claire
+									Hanen</a><br>
+								(Sorbonne Uni)
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+
+		<!--Spacing--->
+		<table style="margin: 0 0 0 0 !important;">
+			<tr>
+				<td colspan="100%"></td>
+			</tr>
+		</table>
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
 		<table style="padding-bottom: 12px;" class="america">
