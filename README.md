@@ -168,9 +168,9 @@
 						without the need to design additional problem-specific components.
 						<hr style="border-top: 1px solid black;">
 					</div>
-					<!--					<a href="./presentations/SchedulingSeminar_AlixMunierKordon.pdf" class="label_abstract" download>-->
-					<!--						Download PDF-->
-					<!--					</a>-->
+                    <a href="./presentations/SchedulingSeminar_GreetVandenBerghe.pdf" class="label_abstract" download>
+                        Download PDF
+                    </a>
 					<!--Keywords: ​vehicle routing,  local search operators, ruin and recreate, spatial slack, capacity slack, fleet minimization  -->
 				</td>
 			</tr>
