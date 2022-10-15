@@ -228,7 +228,7 @@
 						stochastic sequencing problems</b><br>
 					</h2>
 					<input type="checkbox" id="abstract_id_33" style="display:none;">
-					<label for="abstract_id_31" class="label_abstract"><a>Abstract</a></label>
+					<label for="abstract_id_33" class="label_abstract"><a>Abstract</a></label>
 					<div class="hidden">
 						<hr style="border-top: 1px solid black;">
 						Typical scheduling problems deal with a set of activities (jobs) requiring various resources
