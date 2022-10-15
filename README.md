@@ -139,93 +139,6 @@
 		<tbody>
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
-		<table style="padding-bottom: 12px;" class="europe">
-			<!--Title/Abstract/PDF-->
-			<tr>
-				<td colspan="3">
-					<h2 class="talk_title"><b>Vehicle routing: A focus on heuristic design</b><br>
-					</h2>
-					<input type="checkbox" id="abstract_id_31" style="display:none;">
-					<label for="abstract_id_31" class="label_abstract"><a>Abstract</a></label>
-					<div class="hidden">
-						<hr style="border-top: 1px solid black;">
-						Local search-based algorithms have tended towards incorporating an ever-increasing number of
-						heuristics for different problem classes, for example all sorts of vehicle routing
-						generalizations. These heuristics range from all-purpose `swap' and `insert' to complicated
-						made-to-measure operators. It has become a challenge to determine the impact of individual
-						components on an algorithm's performance.<br/>
-
-						In contrast to targeting generalizing problem extensions, it may be worthwhile to focus on a
-						problem's core when designing a basic optimization heuristic. This talk introduces a recently
-						published local search operator for vehicle routing problems: SISRs. This heuristic is unique
-						insofar as it seeks to induce `spatial' and `capacity' slack during a ruin phase which may
-						subsequently be exploited in an almost-greedy recreate phase. SISRs emerged after a dedicated
-						attempt towards solving the vehicle routing problem's most basic special case, that is the
-						`capacitated VRP'.<br/>
-
-						SISRs' quality is validated by way of demonstrating its performance across a wide and diverse
-						range of VRP generalizations. This confirms that the basic CVRP ruin & recreate heuristic is
-						also effective when applied to more general vehicle problems, including fleet minimization,
-						without the need to design additional problem-specific components.
-						<hr style="border-top: 1px solid black;">
-					</div>
-					<a href="./presentations/SchedulingSeminar_GreetVandenBerghe.pdf" class="label_abstract" download>
-						Download PDF
-					</a>
-					<!--Keywords: ​vehicle routing,  local search operators, ruin and recreate, spatial slack, capacity slack, fleet minimization  -->
-				</td>
-			</tr>
-
-			<!--Data--->
-			<tr>
-				<td class="presenter_image_container">
-					<div class="single_image_container">
-						<a href="https://www.lip6.fr/actualite/personnes-fiche.php?ident=P653">
-							<img class="single_presenter" src="photos/Greet_Vanden_Berghe_2.jpg" alt="person_photo"/>
-						</a><br/>
-					</div>
-				</td>
-				<td class="information_upcoming_container">
-					<b>[Presenter]</b><br>
-					<a href="https://www.kuleuven.be/wieiswie/nl/person/00053376">Greet Vanden Berghe</a><br>
-					(KU Leuven)<br><br/>
-					<b>[Invited by]</b><br>
-					<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a><br>
-					(CTU in Prague)
-				</td>
-				<td class="time_zones_container">
-					<table class="time_table">
-						<tbody>
-						<tr class="utc">
-							<td>UTC</td>
-							<td>Oct 12, 13:00 Wed</td>
-						</tr>
-						<tr class="europe">
-							<td>Prague</td>
-							<td>Oct 12, 15:00 Wed</td>
-						</tr>
-						<tr class="america">
-							<td>New York</td>
-							<td>Oct 12, 09:00 Wed</td>
-						</tr>
-						<tr class="asia">
-							<td>Shanghai</td>
-							<td>Oct 12, 21:00 Wed</td>
-						</tr>
-						</tbody>
-					</table>
-				</td>
-			</tr>
-		</table>
-
-		<!--Spacing--->
-		<table style="margin: 30px 0 0 0 !important;">
-			<tr>
-				<td colspan="100%"></td>
-			</tr>
-		</table>
-
-		<!--Single talk------------------------------------------------------------------------------------------------>
 		<table style="padding-bottom: 12px;" class="america">
 			<!--Title/Abstract/PDF-->
 			<tr>
@@ -305,7 +218,6 @@
 				<td colspan="100%"></td>
 			</tr>
 		</table>
-
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
 		<table style="padding-bottom: 12px;" class="europe">
@@ -578,9 +490,99 @@
 
 <!--Past talks-->
 <div class="column column_right">
-	<h2>Past talks (30)</h2>
+	<h2>Past talks (31)</h2>
 	<table class="past_talk_table">
 		<tbody>
+
+		<!--Single talk------------------------------------------------------------------------------------------------>
+		<table style="padding-bottom: 12px;" class="europe">
+			<!--Title/Abstract/PDF-->
+			<tr>
+				<td colspan="3">
+					<h2 class="talk_title"><b>Vehicle routing: A focus on heuristic design</b><br>
+					</h2>
+					<input type="checkbox" id="abstract_id_31" style="display:none;">
+					<label for="abstract_id_31" class="label_abstract"><a>Abstract</a></label>
+					<div class="hidden">
+						<hr style="border-top: 1px solid black;">
+						Local search-based algorithms have tended towards incorporating an ever-increasing number of
+						heuristics for different problem classes, for example all sorts of vehicle routing
+						generalizations. These heuristics range from all-purpose `swap' and `insert' to complicated
+						made-to-measure operators. It has become a challenge to determine the impact of individual
+						components on an algorithm's performance.<br/>
+
+						In contrast to targeting generalizing problem extensions, it may be worthwhile to focus on a
+						problem's core when designing a basic optimization heuristic. This talk introduces a recently
+						published local search operator for vehicle routing problems: SISRs. This heuristic is unique
+						insofar as it seeks to induce `spatial' and `capacity' slack during a ruin phase which may
+						subsequently be exploited in an almost-greedy recreate phase. SISRs emerged after a dedicated
+						attempt towards solving the vehicle routing problem's most basic special case, that is the
+						`capacitated VRP'.<br/>
+
+						SISRs' quality is validated by way of demonstrating its performance across a wide and diverse
+						range of VRP generalizations. This confirms that the basic CVRP ruin & recreate heuristic is
+						also effective when applied to more general vehicle problems, including fleet minimization,
+						without the need to design additional problem-specific components.
+						<hr style="border-top: 1px solid black;">
+					</div>
+					<a href="./presentations/SchedulingSeminar_GreetVandenBerghe.pdf" class="label_abstract" download>
+						Download PDF
+					</a>
+					<!--Keywords: ​vehicle routing,  local search operators, ruin and recreate, spatial slack, capacity slack, fleet minimization  -->
+				</td>
+			</tr>
+
+			<!--Photo and video-->
+			<tr>
+				<td class="presenter_image_container">
+					<div class="single_image_container">
+						<a href="https://www.lip6.fr/actualite/personnes-fiche.php?ident=P653">
+							<img class="single_presenter" src="photos/Greet_Vanden_Berghe_2.jpg" alt="person_photo"/>
+						</a><br/>
+					</div>
+				</td>
+
+				<td colspan="2">
+					<div class="resizable_youtube_single">
+						<iframe width="400" height="250" src="https://www.youtube.com/embed/jPZu44xJfpk"
+						        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+						        allowfullscreen></iframe>
+					</div>
+				</td>
+			</tr>
+
+			<!--Text description-->
+			<tr>
+				<td class="presenter_past_info_container"></td>
+				<td>
+					<table class="panelists_past_container_single">
+						<tr>
+							<td colspan="2"><b>[Presenter]</b> <br></td>
+							<td><b>[Invited by]</b> <br></td>
+						</tr>
+						<tr>
+							<td>
+								<a href="https://www.kuleuven.be/wieiswie/nl/person/00053376">Greet Vanden
+									Berghe</a><br>
+								(KU Leuven)<br>
+							</td>
+							<td></td>
+							<td>
+								<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a><br>
+								(CTU in Prague)
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+
+		<!--Spacing--->
+		<table style="margin: 0 0 0 0 !important;">
+			<tr>
+				<td colspan="100%"></td>
+			</tr>
+		</table>
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
 		<table style="padding-bottom: 12px;" class="america">
