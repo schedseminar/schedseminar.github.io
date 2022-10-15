@@ -274,7 +274,7 @@
 			<tr>
 				<td class="presenter_image_container">
 					<div class="single_image_container">
-						<a href="https://www.lip6.fr/actualite/personnes-fiche.php?ident=P653">
+						<a href="https://www3.diism.unisi.it/~agnetis/">
 							<img class="single_presenter" src="photos/Alessandro_Agnetis_2.jpg" alt="person_photo"/>
 						</a><br/>
 					</div>
