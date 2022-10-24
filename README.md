@@ -585,7 +585,7 @@
 		</table>
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
-		<table style="padding-bottom: 12px;" class="america">
+		<table style="padding-bottom: 12px;" class="europe">
 			<!--Title/Abstract/PDF-->
 			<tr>
 				<td colspan="3">
