@@ -163,9 +163,9 @@
 						Joint work with Eric Balanski, TingTing Ou and Hao-Ting Wei, all at Columbia.
 						<hr style="border-top: 1px solid black;">
 					</div>
-					<!--					<a href="./presentations/SchedulingSeminar_GreetVandenBerghe.pdf" class="label_abstract" download>-->
-					<!--						Download PDF-->
-					<!--					</a>-->
+					<a href="./presentations/SchedulingSeminar_CliffordStein.pdf" class="label_abstract" download>
+						Download PDF
+					</a>
 					<!--Keywords: ???  -->
 				</td>
 			</tr>
