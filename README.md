@@ -139,87 +139,6 @@
 		<tbody>
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
-		<table style="padding-bottom: 12px;" class="america">
-			<!--Title/Abstract/PDF-->
-			<tr>
-				<td colspan="3">
-					<h2 class="talk_title"><b>Scheduling with Speed Predictions</b><br>
-					</h2>
-					<input type="checkbox" id="abstract_id_32" style="display:none;">
-					<label for="abstract_id_32" class="label_abstract"><a>Abstract</a></label>
-					<div class="hidden">
-						<hr style="border-top: 1px solid black;">
-						Algorithms with predictions is a recent framework that has been used to overcome pessimistic
-						worst-case bounds in incomplete information settings. In the context of scheduling, very recent
-						work has leveraged machine-learned predictions to design algorithms that achieve improved
-						approximation ratios in settings where the processing times of the jobs are initially unknown.
-						We study the speed-robust scheduling problem where the speeds of the machines, instead of the
-						processing times of the jobs, are unknown and augment this problem with predictions. In this
-						talk, we give an algorithm that simultaneously achieves, for any x < 1, a 1 + x approximation
-						when the predictions are accurate and a 2+ 2/x approximation when the predictions are not
-						accurate. We also study special cases and evaluate our algorithms performance as a function of
-						the error.
-						<br/>
-						Joint work with Eric Balanski, TingTing Ou and Hao-Ting Wei, all at Columbia.
-						<hr style="border-top: 1px solid black;">
-					</div>
-					<a href="./presentations/SchedulingSeminar_CliffordStein.pdf" class="label_abstract" download>
-						Download PDF
-					</a>
-					<!--Keywords: ???  -->
-				</td>
-			</tr>
-
-			<!--Data--->
-			<tr>
-				<td class="presenter_image_container">
-					<div class="single_image_container">
-						<a href="https://www.ieor.columbia.edu/faculty/clifford-stein">
-							<img class="single_presenter" src="photos/Clifford_Stein_web.png" alt="person_photo"/>
-						</a><br/>
-					</div>
-				</td>
-				<td class="information_upcoming_container">
-					<b>[Presenter]</b><br>
-					<a href="https://www.ieor.columbia.edu/faculty/clifford-stein">Clifford Stein</a><br>
-					(Columbia Uni)<br><br/>
-					<b>[Invited by]</b><br>
-					<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a><br>
-					(New York University)
-				</td>
-				<td class="time_zones_container">
-					<table class="time_table">
-						<tbody>
-						<tr class="utc">
-							<td>UTC</td>
-							<td>Oct 26, 13:00 Wed</td>
-						</tr>
-						<tr class="europe">
-							<td>Prague</td>
-							<td>Oct 26, 15:00 Wed</td>
-						</tr>
-						<tr class="america">
-							<td>New York</td>
-							<td>Oct 26, 09:00 Wed</td>
-						</tr>
-						<tr class="asia">
-							<td>Shanghai</td>
-							<td>Oct 26, 21:00 Wed</td>
-						</tr>
-						</tbody>
-					</table>
-				</td>
-			</tr>
-		</table>
-
-		<!--Spacing--->
-		<table style="margin: 30px 0 0 0 !important;">
-			<tr>
-				<td colspan="100%"></td>
-			</tr>
-		</table>
-
-		<!--Single talk------------------------------------------------------------------------------------------------>
 		<table style="padding-bottom: 12px;" class="europe">
 			<!--Title/Abstract/PDF-->
 			<tr>
@@ -490,9 +409,92 @@
 
 <!--Past talks-->
 <div class="column column_right">
-	<h2>Past talks (31)</h2>
+	<h2>Past talks (32)</h2>
 	<table class="past_talk_table">
 		<tbody>
+
+		<!--Single talk------------------------------------------------------------------------------------------------>
+		<table style="padding-bottom: 12px;" class="america">
+			<!--Title/Abstract/PDF-->
+			<tr>
+				<td colspan="3">
+					<h2 class="talk_title"><b>Scheduling with Speed Predictions</b><br>
+					</h2>
+					<input type="checkbox" id="abstract_id_32" style="display:none;">
+					<label for="abstract_id_32" class="label_abstract"><a>Abstract</a></label>
+					<div class="hidden">
+						<hr style="border-top: 1px solid black;">
+						Algorithms with predictions is a recent framework that has been used to overcome pessimistic
+						worst-case bounds in incomplete information settings. In the context of scheduling, very recent
+						work has leveraged machine-learned predictions to design algorithms that achieve improved
+						approximation ratios in settings where the processing times of the jobs are initially unknown.
+						We study the speed-robust scheduling problem where the speeds of the machines, instead of the
+						processing times of the jobs, are unknown and augment this problem with predictions. In this
+						talk, we give an algorithm that simultaneously achieves, for any x < 1, a 1 + x approximation
+						when the predictions are accurate and a 2+ 2/x approximation when the predictions are not
+						accurate. We also study special cases and evaluate our algorithms performance as a function of
+						the error.
+						<br/>
+						Joint work with Eric Balanski, TingTing Ou and Hao-Ting Wei, all at Columbia.
+						<hr style="border-top: 1px solid black;">
+					</div>
+					<a href="./presentations/SchedulingSeminar_CliffordStein.pdf" class="label_abstract" download>
+						Download PDF
+					</a>
+					<!--Keywords: ???  -->
+				</td>
+			</tr>
+
+			<!--Photo and video-->
+			<tr>
+				<td class="presenter_image_container">
+					<div class="single_image_container">
+						<a href="https://www.ieor.columbia.edu/faculty/clifford-stein">
+							<img class="single_presenter" src="photos/Clifford_Stein_web.png" alt="person_photo"/>
+						</a><br/>
+					</div>
+				</td>
+
+				<td colspan="2">
+					<div class="resizable_youtube_single">
+						<iframe width="400" height="250" src="https://www.youtube.com/embed/JrARHkA-voU"
+						        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+						        allowfullscreen></iframe>
+					</div>
+				</td>
+			</tr>
+
+			<!--Text description-->
+			<tr>
+				<td class="presenter_past_info_container"></td>
+				<td>
+					<table class="panelists_past_container_single">
+						<tr>
+							<td colspan="2"><b>[Presenter]</b> <br></td>
+							<td><b>[Invited by]</b> <br></td>
+						</tr>
+						<tr>
+							<td>
+								<a href="https://www.ieor.columbia.edu/faculty/clifford-stein">Clifford Stein</a><br>
+								(Columbia Uni)<br>
+							</td>
+							<td></td>
+							<td>
+								<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a><br>
+								(New York University)
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+
+		<!--Spacing--->
+		<table style="margin: 0 0 0 0 !important;">
+			<tr>
+				<td colspan="100%"></td>
+			</tr>
+		</table>
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
 		<table style="padding-bottom: 12px;" class="europe">
