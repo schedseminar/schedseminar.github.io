@@ -143,107 +143,6 @@
 			<!--Title/Abstract/PDF-->
 			<tr>
 				<td colspan="3">
-					<h2 class="talk_title"><b>Scheduling machines subject to unrecoverable failures and other related
-						stochastic sequencing problems</b><br>
-					</h2>
-					<input type="checkbox" id="abstract_id_33" style="display:none;">
-					<label for="abstract_id_33" class="label_abstract"><a>Abstract</a></label>
-					<div class="hidden">
-						<hr style="border-top: 1px solid black;">
-						Typical scheduling problems deal with a set of activities (jobs) requiring various resources
-						(machines) to be performed. In most scheduling scenarios, it is assumed that machines are
-						continuously avalable (possibly except in some scheduled maintenance intervals), and this gives
-						rise to problems in which the typical scheduling objectives (makespan, total weighted completion
-						time etc) are pursued. A significantly different scenario arises if machines may actually fail,
-						i.e., (i) while performing a job i, a machine becomes unavailable (e.g. breaks down) with
-						probability \pi_i, and (ii) such failures are unrecoverable, in the sense that from then onwards
-						the machine is lost and so are the jobs already allocated and not yet processed on that machine.
-						If a job i is successfully completed, a reward r_i is attained. In this context, the basic
-						problem is how to assign the jobs to the machines and how to sequence them so that the expected
-						reward is maximized. In this talk we review the main results, discuss relationships with other
-						sequencing problems and point out some open problems. We address the following scenarios. 1) m
-						parallel (identical) machines. While the single-machine case is easy, for two or more machines
-						the problem is hard and various approaches have been proposed to address it. For general m, list
-						scheduling yields a 0.8531-approximate solution. The argument of the proof is similar to the one
-						used by Schwiegelshohn to prove Kawaguchi and Kyan's bound for the minimization of total
-						weighted completion time. 2) In order to hedge against machine failures, one can use job
-						replication. In this case, copies of the same job can be scheduled on different machines, and
-						the reward r_i is attained if at least one copy is successfully completed. Although also this
-						problem is hard for m>=2, relatively simple algorithms provide solutions which are provably
-						close to optimality. 3) This class of sequencing problems is also related to testing problems,
-						as follows. A system consists of n components, each of which can be either functioning or not.
-						Only if all components are functioning, the system is "up". Component i is functioning with
-						probability \pi_i, and testing it costs c_i. As soon as a component that is not functioning is
-						detected, the testing stops (concluding that the system is "down"). The problem is to decide in
-						which order should the components be tested, in order to minimize the expected costs. While the
-						single-tester problem is solved by a simple priority rule, various problem variants can be
-						considered. In particular, if several testers operate in parallel, under time constraints, the
-						problem gets more complicated. While it is NP-hard for three or more testers, its complexity
-						with two testers is still open.
-						<hr style="border-top: 1px solid black;">
-					</div>
-					<a href="./presentations/SchedulingSeminar_AlessandroAgnetis.pdf" class="label_abstract"
-					   download>
-						Download PDF
-					</a>
-					<!--Keywords: scheduling, machine breakdowns, testing -->
-				</td>
-			</tr>
-
-			<!--Data--->
-			<tr>
-				<td class="presenter_image_container">
-					<div class="single_image_container">
-						<a href="https://www3.diism.unisi.it/~agnetis/">
-							<img class="single_presenter" src="photos/Alessandro_Agnetis_2.jpg" alt="person_photo"/>
-						</a><br/>
-					</div>
-				</td>
-				<td class="information_upcoming_container">
-					<b>[Presenter]</b><br>
-					<a href="https://www3.diism.unisi.it/~agnetis/">Alessandro Agnetis</a><br>
-					(University of Siena)<br><br/>
-					<b>[Invited by]</b><br>
-					<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a><br>
-					(CTU in Prague)
-				</td>
-				<td class="time_zones_container">
-					<table class="time_table">
-						<tbody>
-						<tr class="utc">
-							<td>UTC</td>
-							<td>Nov 9, 14:00 Wed</td>
-						</tr>
-						<tr class="europe">
-							<td>Prague</td>
-							<td>Nov 9, 15:00 Wed</td>
-						</tr>
-						<tr class="america">
-							<td>New York</td>
-							<td>Nov 9, 09:00 Wed</td>
-						</tr>
-						<tr class="asia">
-							<td>Shanghai</td>
-							<td>Nov 9, 22:00 Wed</td>
-						</tr>
-						</tbody>
-					</table>
-				</td>
-			</tr>
-		</table>
-
-		<!--Spacing--->
-		<table style="margin: 30px 0 0 0 !important;">
-			<tr>
-				<td colspan="100%"></td>
-			</tr>
-		</table>
-
-		<!--Single talk------------------------------------------------------------------------------------------------>
-		<table style="padding-bottom: 12px;" class="europe">
-			<!--Title/Abstract/PDF-->
-			<tr>
-				<td colspan="3">
 					<h2 class="talk_title"><b>Synchronous flow shop scheduling problems</b><br>
 					</h2>
 					<input type="checkbox" id="abstract_id_34" style="display:none;">
@@ -497,9 +396,112 @@
 
 <!--Past talks-->
 <div class="column column_right">
-	<h2>Past talks (32)</h2>
+	<h2>Past talks (33)</h2>
 	<table class="past_talk_table">
 		<tbody>
+
+		<!--Single talk------------------------------------------------------------------------------------------------>
+		<table style="padding-bottom: 12px;" class="europe">
+			<!--Title/Abstract/PDF-->
+			<tr>
+				<td colspan="3">
+					<h2 class="talk_title"><b>Scheduling machines subject to unrecoverable failures and other related
+						stochastic sequencing problems</b><br>
+					</h2>
+					<input type="checkbox" id="abstract_id_33" style="display:none;">
+					<label for="abstract_id_33" class="label_abstract"><a>Abstract</a></label>
+					<div class="hidden">
+						<hr style="border-top: 1px solid black;">
+						Typical scheduling problems deal with a set of activities (jobs) requiring various resources
+						(machines) to be performed. In most scheduling scenarios, it is assumed that machines are
+						continuously avalable (possibly except in some scheduled maintenance intervals), and this gives
+						rise to problems in which the typical scheduling objectives (makespan, total weighted completion
+						time etc) are pursued. A significantly different scenario arises if machines may actually fail,
+						i.e., (i) while performing a job i, a machine becomes unavailable (e.g. breaks down) with
+						probability \pi_i, and (ii) such failures are unrecoverable, in the sense that from then onwards
+						the machine is lost and so are the jobs already allocated and not yet processed on that machine.
+						If a job i is successfully completed, a reward r_i is attained. In this context, the basic
+						problem is how to assign the jobs to the machines and how to sequence them so that the expected
+						reward is maximized. In this talk we review the main results, discuss relationships with other
+						sequencing problems and point out some open problems. We address the following scenarios. 1) m
+						parallel (identical) machines. While the single-machine case is easy, for two or more machines
+						the problem is hard and various approaches have been proposed to address it. For general m, list
+						scheduling yields a 0.8531-approximate solution. The argument of the proof is similar to the one
+						used by Schwiegelshohn to prove Kawaguchi and Kyan's bound for the minimization of total
+						weighted completion time. 2) In order to hedge against machine failures, one can use job
+						replication. In this case, copies of the same job can be scheduled on different machines, and
+						the reward r_i is attained if at least one copy is successfully completed. Although also this
+						problem is hard for m>=2, relatively simple algorithms provide solutions which are provably
+						close to optimality. 3) This class of sequencing problems is also related to testing problems,
+						as follows. A system consists of n components, each of which can be either functioning or not.
+						Only if all components are functioning, the system is "up". Component i is functioning with
+						probability \pi_i, and testing it costs c_i. As soon as a component that is not functioning is
+						detected, the testing stops (concluding that the system is "down"). The problem is to decide in
+						which order should the components be tested, in order to minimize the expected costs. While the
+						single-tester problem is solved by a simple priority rule, various problem variants can be
+						considered. In particular, if several testers operate in parallel, under time constraints, the
+						problem gets more complicated. While it is NP-hard for three or more testers, its complexity
+						with two testers is still open.
+						<hr style="border-top: 1px solid black;">
+					</div>
+					<a href="./presentations/SchedulingSeminar_AlessandroAgnetis.pdf" class="label_abstract"
+					   download>
+						Download PDF
+					</a>
+					<!--Keywords: scheduling, machine breakdowns, testing -->
+				</td>
+			</tr>
+
+			<!--Photo and video-->
+			<tr>
+				<td class="presenter_image_container">
+					<div class="single_image_container">
+						<a href="https://www3.diism.unisi.it/~agnetis/">
+							<img class="single_presenter" src="photos/Alessandro_Agnetis_2.jpg" alt="person_photo"/>
+						</a><br/>
+					</div>
+				</td>
+
+				<td colspan="2">
+					<div class="resizable_youtube_single">
+						<iframe width="400" height="250" src="https://www.youtube.com/embed/NHsKAVBgACc"
+						        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+						        allowfullscreen></iframe>
+					</div>
+				</td>
+			</tr>
+
+			<!--Text description-->
+			<tr>
+				<td class="presenter_past_info_container"></td>
+				<td>
+					<table class="panelists_past_container_single">
+						<tr>
+							<td colspan="2"><b>[Presenter]</b> <br></td>
+							<td><b>[Invited by]</b> <br></td>
+						</tr>
+						<tr>
+							<td>
+								<a href="https://www3.diism.unisi.it/~agnetis/">Alessandro Agnetis</a><br>
+								(University of Siena)<br>
+							</td>
+							<td></td>
+							<td>
+								<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a><br>
+								(CTU in Prague)
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+
+		<!--Spacing--->
+		<table style="margin: 0 0 0 0 !important;">
+			<tr>
+				<td colspan="100%"></td>
+			</tr>
+		</table>
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
 		<table style="padding-bottom: 12px;" class="america">
