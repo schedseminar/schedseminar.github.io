@@ -270,9 +270,9 @@
 						idle.
 						<hr style="border-top: 1px solid black;">
 					</div>
-<!--				<a href="./presentations/SchedulingSeminar_MauriceQueyranne.pdf" class="label_abstract" download>-->
-<!--					Download PDF-->
-<!--				</a>-->
+					<a href="./presentations/SchedulingSeminar_SigridKnust.pdf" class="label_abstract" download>
+						Download PDF
+					</a>
 					<!--Keywords: scheduling, flow shop, synchronized movement, shelf board production -->
 				</td>
 			</tr>
