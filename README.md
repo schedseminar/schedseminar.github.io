@@ -138,94 +138,6 @@
 	<table>
 		<tbody>
 
-		<!--Single talk------------------------------------------------------------------------------------------------>
-		<table style="padding-bottom: 12px;" class="europe">
-			<!--Title/Abstract/PDF-->
-			<tr>
-				<td colspan="3">
-					<h2 class="talk_title"><b>Synchronous flow shop scheduling problems</b><br>
-					</h2>
-					<input type="checkbox" id="abstract_id_34" style="display:none;">
-					<label for="abstract_id_34" class="label_abstract"><a>Abstract</a></label>
-					<div class="hidden">
-						<hr style="border-top: 1px solid black;">
-						A synchronous flow shop is a variant of a non-preemptive permutation flow
-						shop where transfers of jobs from one machine to the next take place at
-						the same time. The processing is organized in synchronized cycles which
-						means that in a cycle all current jobs start at the same time on the
-						corresponding machines. Then all jobs are processed and have to wait
-						until the last one is finished. Afterwards, all jobs are moved to the
-						next machine simultaneously. As a consequence, the processing time of a
-						cycle is determined by the maximum processing time of the operations
-						contained in it. Furthermore, only permutation schedules are feasible, i.e.,
-						the jobs have to be processed in the same order on all machines.
-						The goal is to find a permutation of the jobs such that the makespan is
-						minimized.
-
-						Motivated by a practical application in production planning at a company
-						assembling shelf boards for kitchen elements, we investigate different aspects
-						of synchronous flow shop problems. Especially, we consider the situation
-						of dominating machines, additional resources, setup times and leaving machines
-						idle.
-						<hr style="border-top: 1px solid black;">
-					</div>
-					<a href="./presentations/SchedulingSeminar_SigridKnust.pdf" class="label_abstract" download>
-						Download PDF
-					</a>
-					<!--Keywords: scheduling, flow shop, synchronized movement, shelf board production -->
-				</td>
-			</tr>
-
-			<!--Data--->
-			<tr>
-				<td class="presenter_image_container">
-					<div class="single_image_container">
-						<a href="https://www.informatik.uni-osnabrueck.de/knust/">
-							<img class="single_presenter" src="photos/sknust.jpg" alt="person_photo"/>
-						</a><br/>
-					</div>
-				</td>
-				<td class="information_upcoming_container">
-					<b>[Presenter]</b><br>
-					<a href="https://www.informatik.uni-osnabrueck.de/knust/">Sigrid Knust</a><br>
-					(Uni of Osnabrück)<br><br/>
-					<b>[Invited by]</b><br>
-					<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a><br>
-					(CTU in Prague)
-				</td>
-				<td class="time_zones_container">
-					<table class="time_table">
-						<tbody>
-						<tr class="utc">
-							<td>UTC</td>
-							<td>Nov 23, 14:00 Wed</td>
-						</tr>
-						<tr class="europe">
-							<td>Prague</td>
-							<td>Nov 23, 15:00 Wed</td>
-						</tr>
-						<tr class="america">
-							<td>New York</td>
-							<td>Nov 23, 09:00 Wed</td>
-						</tr>
-						<tr class="asia">
-							<td>Shanghai</td>
-							<td>Nov 23, 22:00 Wed</td>
-						</tr>
-						</tbody>
-					</table>
-				</td>
-			</tr>
-		</table>
-
-		<!--Spacing--->
-		<table style="margin: 30px 0 0 0 !important;">
-			<tr>
-				<td colspan="100%"></td>
-			</tr>
-		</table>
-
-
 		<!-- Levner postponed talk-------------------------------------------------------------------------------------->
 		<!--        &lt;!&ndash;Levner backup&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&ndash;&gt;-->
 		<!--        <table style="padding-bottom: 12px;" class="europe">-->
@@ -396,9 +308,98 @@
 
 <!--Past talks-->
 <div class="column column_right">
-	<h2>Past talks (33)</h2>
+	<h2>Past talks (34)</h2>
 	<table class="past_talk_table">
 		<tbody>
+
+		<!--Single talk------------------------------------------------------------------------------------------------>
+		<table style="padding-bottom: 12px;" class="europe">
+			<!--Title/Abstract/PDF-->
+			<tr>
+				<td colspan="3">
+					<h2 class="talk_title"><b>Synchronous flow shop scheduling problems</b><br>
+					</h2>
+					<input type="checkbox" id="abstract_id_34" style="display:none;">
+					<label for="abstract_id_34" class="label_abstract"><a>Abstract</a></label>
+					<div class="hidden">
+						<hr style="border-top: 1px solid black;">
+						A synchronous flow shop is a variant of a non-preemptive permutation flow
+						shop where transfers of jobs from one machine to the next take place at
+						the same time. The processing is organized in synchronized cycles which
+						means that in a cycle all current jobs start at the same time on the
+						corresponding machines. Then all jobs are processed and have to wait
+						until the last one is finished. Afterwards, all jobs are moved to the
+						next machine simultaneously. As a consequence, the processing time of a
+						cycle is determined by the maximum processing time of the operations
+						contained in it. Furthermore, only permutation schedules are feasible, i.e.,
+						the jobs have to be processed in the same order on all machines.
+						The goal is to find a permutation of the jobs such that the makespan is
+						minimized.
+
+						Motivated by a practical application in production planning at a company
+						assembling shelf boards for kitchen elements, we investigate different aspects
+						of synchronous flow shop problems. Especially, we consider the situation
+						of dominating machines, additional resources, setup times and leaving machines
+						idle.
+						<hr style="border-top: 1px solid black;">
+					</div>
+					<a href="./presentations/SchedulingSeminar_SigridKnust.pdf" class="label_abstract" download>
+						Download PDF
+					</a>
+					<!--Keywords: scheduling, flow shop, synchronized movement, shelf board production -->
+				</td>
+			</tr>
+
+			<!--Photo and video-->
+			<tr>
+				<td class="presenter_image_container">
+					<div class="single_image_container">
+						<a href="https://www.informatik.uni-osnabrueck.de/knust/">
+							<img class="single_presenter" src="photos/sknust.jpg" alt="person_photo"/>
+						</a><br/>
+					</div>
+				</td>
+
+				<td colspan="2">
+					<div class="resizable_youtube_single">
+						<iframe width="400" height="250" src="https://www.youtube.com/embed/LbYjskqCiDM"
+						        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+						        allowfullscreen></iframe>
+					</div>
+				</td>
+			</tr>
+
+			<!--Text description-->
+			<tr>
+				<td class="presenter_past_info_container"></td>
+				<td>
+					<table class="panelists_past_container_single">
+						<tr>
+							<td colspan="2"><b>[Presenter]</b> <br></td>
+							<td><b>[Invited by]</b> <br></td>
+						</tr>
+						<tr>
+							<td>
+								<a href="https://www.informatik.uni-osnabrueck.de/knust/">Sigrid Knust</a><br>
+								(Uni of Osnabrück)<br>
+							</td>
+							<td></td>
+							<td>
+								<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a><br>
+								(CTU in Prague)
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+
+		<!--Spacing--->
+		<table style="margin: 0 0 0 0 !important;">
+			<tr>
+				<td colspan="100%"></td>
+			</tr>
+		</table>
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
 		<table style="padding-bottom: 12px;" class="europe">
