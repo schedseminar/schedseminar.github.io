@@ -346,6 +346,9 @@
 					<a href="./presentations/SchedulingSeminar_SigridKnust.pdf" class="label_abstract" download>
 						Download PDF
 					</a>
+					<a href="https://scheduling-seminar.iid.ciirc.cvut.cz/videos/22%203_Fall%20(6)/22_11_23%20Sigrid%20Knust%20(Uni%20of%20Osnabr%c3%bcck)%20Synchronous%20flow%20shop%20scheduling%20problems.mp4" class="label_abstract" download>
+						Download Video
+					</a>
 					<!--Keywords: scheduling, flow shop, synchronized movement, shelf board production -->
 				</td>
 			</tr>
