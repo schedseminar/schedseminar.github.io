@@ -175,10 +175,10 @@
 				</td>
 				<td class="information_upcoming_container">
 					<b>[Presenter]</b><br>
-					<a href="https://www.informatik.uni-osnabrueck.de/knust/">Lars Rohwedder</a><br>
+					<a href="https://larsrohwedder.com/">Lars Rohwedder</a><br>
 					(Maastricht University)<br><br/>
 					<b>[Invited by]</b><br>
-					<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Jan Karel Lenstra</a><br>
+					<a href="https://www.cwi.nl/people/jan-karel-lenstra">Jan Karel Lenstra</a><br>
 					(CWI)
 				</td>
 				<td class="time_zones_container">
