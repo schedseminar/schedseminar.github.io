@@ -255,7 +255,7 @@
 				<td class="presenter_image_container">
 					<div class="single_image_container">
 						<a href="https://scholar.google.fr/citations?user=VrUXV3IAAAAJ&hl=en">
-							<img class="single_presenter" src="photos/person_placeholder.png" alt="person_photo"/>
+							<img class="single_presenter" src="photos/JacquesCarlier.jpg" alt="person_photo"/>
 						</a><br/>
 					</div>
 				</td>
