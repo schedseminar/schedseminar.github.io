@@ -218,7 +218,8 @@
 			<!--Title/Abstract/PDF-->
 			<tr>
 				<td colspan="3">
-					<h2 class="talk_title"><b>Constructive and destructive bounds for the m-machine scheduling problem</b><br>
+					<h2 class="talk_title"><b>Constructive and destructive bounds for the m-machine scheduling
+						problem</b><br>
 					</h2>
 					<input type="checkbox" id="abstract_id_36" style="display:none;">
 					<label for="abstract_id_36" class="label_abstract"><a>Abstract</a></label>
@@ -285,6 +286,88 @@
 						<tr class="asia">
 							<td>Shanghai</td>
 							<td>Feb 1, 22:00 Wed</td>
+						</tr>
+						</tbody>
+					</table>
+				</td>
+			</tr>
+		</table>
+
+		<!--Spacing--->
+		<table style="margin: 30px 0 0 0 !important;">
+			<tr>
+				<td colspan="100%"></td>
+			</tr>
+		</table>
+
+		<!--Single talk------------------------------------------------------------------------------------------------>
+		<table style="padding-bottom: 12px;" class="asia">
+			<!--Title/Abstract/PDF-->
+			<tr>
+				<td colspan="3">
+					<h2 class="talk_title"><b>Scheduling with Machine Learning</b><br>
+					</h2>
+					<input type="checkbox" id="abstract_id_37" style="display:none;">
+					<label for="abstract_id_37" class="label_abstract"><a>Abstract</a></label>
+					<div class="hidden">
+						<hr style="border-top: 1px solid black;">
+						Manufacturing companies have recently shown a growing interest in using machine learning to
+						improve scheduling problems. In this talk, we will present three real-life industrial scheduling
+						problems faced by industries with a specific focus on the application of machine learning.
+						First, in semiconductor manufacturing, multiple weighted dispatching rules are used to determine
+						a sequence of jobs. Engineers assign these weights based on their previous experience. We
+						propose a machine learning approach to determine the best weight set for all rules, especially
+						when there is not enough time to derive it. Second, we propose an integration method of machine
+						learning and mathematical formulation for scheduling problems in steel manufacturing. This
+						approach reflects the engineers’ preferences and improves the performance of scheduling at the
+						same time. Finally, we will present a hybrid flow shop scheduling problem for insulation
+						manufacturing where machine learning with the NEH algorithm has been applied. We will also
+						discuss the challenges of implementing machine learning or other heuristic algorithms in
+						practical settings.
+						<hr style="border-top: 1px solid black;">
+					</div>
+<!--					<a href="./presentations/SchedulingSeminar_LarsRohwedder.pdf" class="label_abstract" download>-->
+<!--						Download PDF-->
+<!--					</a>-->
+					<!--Keywords: Scheduling, Manufacturing Systems, Machine Learning, Real Applications -->
+				</td>
+			</tr>
+
+			<!--Data--->
+			<tr>
+				<td class="presenter_image_container">
+					<div class="single_image_container">
+						<a href="https://msslab.kaist.ac.kr/Professor/professor">
+							<img class="single_presenter" src="photos/Hyun-Jung_Kim.jpg" alt="person_photo"/>
+						</a><br/>
+					</div>
+				</td>
+				<td class="information_upcoming_container">
+					<b>[Presenter]</b><br>
+					<a href="https://msslab.kaist.ac.kr/Professor/professor">Hyun-Jung Kim</a><br>
+					(KAIST)<br><br/>
+					<b>[Invited by]</b><br>
+					<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a><br>
+					(CTU in Prague)
+				</td>
+				<td class="time_zones_container">
+					<table class="time_table">
+						<tbody>
+						<tr class="utc">
+							<td>UTC</td>
+							<td>Mar 1, 14:00 Wed</td>
+						</tr>
+						<tr class="europe">
+							<td>Prague</td>
+							<td>Mar 1, 15:00 Wed</td>
+						</tr>
+						<tr class="america">
+							<td>New York</td>
+							<td>Mar 1, 09:00 Wed</td>
+						</tr>
+						<tr class="asia">
+							<td>Shanghai</td>
+							<td>Mar 1, 22:00 Wed</td>
 						</tr>
 						</tbody>
 					</table>
