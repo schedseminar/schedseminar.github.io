@@ -143,81 +143,6 @@
 			<!--Title/Abstract/PDF-->
 			<tr>
 				<td colspan="3">
-					<h2 class="talk_title"><b>Recent advances in flow time scheduling</b><br>
-					</h2>
-					<input type="checkbox" id="abstract_id_35" style="display:none;">
-					<label for="abstract_id_35" class="label_abstract"><a>Abstract</a></label>
-					<div class="hidden">
-						<hr style="border-top: 1px solid black;">
-						Flow time is one of the most natural metrics to optimize in scheduling, but algorithmically it
-						can be notoriously difficult to handle. I will talk about some recent advances in this topic,
-						focusing on two results by myself and co-authors: a PTAS for the sum of weighted flow times on a
-						single machine and improved approximation guarantees for parallel unrelated machines. The first
-						result is enabled by a study of structural properties of constraints in a natural ILP
-						formulation and the second result relies on a novel connection to discrepancy theory.
-						<hr style="border-top: 1px solid black;">
-					</div>
-					<a href="./presentations/SchedulingSeminar_LarsRohwedder.pdf" class="label_abstract" download>
-						Download PDF
-					</a>
-					<!--Keywords: scheduling, flow time, integer programming, discrepancy, dynamic programming -->
-				</td>
-			</tr>
-
-			<!--Data--->
-			<tr>
-				<td class="presenter_image_container">
-					<div class="single_image_container">
-						<a href="https://larsrohwedder.com/">
-							<img class="single_presenter" src="photos/Lars_Rohwedder.jpg" alt="person_photo"/>
-						</a><br/>
-					</div>
-				</td>
-				<td class="information_upcoming_container">
-					<b>[Presenter]</b><br>
-					<a href="https://larsrohwedder.com/">Lars Rohwedder</a><br>
-					(Maastricht University)<br><br/>
-					<b>[Invited by]</b><br>
-					<a href="https://www.cwi.nl/people/jan-karel-lenstra">Jan Karel Lenstra</a><br>
-					(CWI)
-				</td>
-				<td class="time_zones_container">
-					<table class="time_table">
-						<tbody>
-						<tr class="utc">
-							<td>UTC</td>
-							<td>Jan 18, 14:00 Wed</td>
-						</tr>
-						<tr class="europe">
-							<td>Prague</td>
-							<td>Jan 18, 15:00 Wed</td>
-						</tr>
-						<tr class="america">
-							<td>New York</td>
-							<td>Jan 18, 09:00 Wed</td>
-						</tr>
-						<tr class="asia">
-							<td>Shanghai</td>
-							<td>Jan 18, 22:00 Wed</td>
-						</tr>
-						</tbody>
-					</table>
-				</td>
-			</tr>
-		</table>
-
-		<!--Spacing--->
-		<table style="margin: 30px 0 0 0 !important;">
-			<tr>
-				<td colspan="100%"></td>
-			</tr>
-		</table>
-
-		<!--Single talk------------------------------------------------------------------------------------------------>
-		<table style="padding-bottom: 12px;" class="europe">
-			<!--Title/Abstract/PDF-->
-			<tr>
-				<td colspan="3">
 					<h2 class="talk_title"><b>Constructive and destructive bounds for the m-machine scheduling
 						problem</b><br>
 					</h2>
@@ -326,9 +251,9 @@
 						practical settings.
 						<hr style="border-top: 1px solid black;">
 					</div>
-<!--					<a href="./presentations/SchedulingSeminar_LarsRohwedder.pdf" class="label_abstract" download>-->
-<!--						Download PDF-->
-<!--					</a>-->
+					<!--					<a href="./presentations/SchedulingSeminar_LarsRohwedder.pdf" class="label_abstract" download>-->
+					<!--						Download PDF-->
+					<!--					</a>-->
 					<!--Keywords: Scheduling, Manufacturing Systems, Machine Learning, Real Applications -->
 				</td>
 			</tr>
@@ -552,9 +477,87 @@
 
 <!--Past talks-->
 <div class="column column_right">
-	<h2>Past talks (34)</h2>
+	<h2>Past talks (35)</h2>
 	<table class="past_talk_table">
 		<tbody>
+
+		<!--Single talk------------------------------------------------------------------------------------------------>
+		<table style="padding-bottom: 12px;" class="europe">
+			<!--Title/Abstract/PDF-->
+			<tr>
+				<td colspan="3">
+					<h2 class="talk_title"><b>Recent advances in flow time scheduling</b><br>
+					</h2>
+					<input type="checkbox" id="abstract_id_35" style="display:none;">
+					<label for="abstract_id_35" class="label_abstract"><a>Abstract</a></label>
+					<div class="hidden">
+						<hr style="border-top: 1px solid black;">
+						Flow time is one of the most natural metrics to optimize in scheduling, but algorithmically it
+						can be notoriously difficult to handle. I will talk about some recent advances in this topic,
+						focusing on two results by myself and co-authors: a PTAS for the sum of weighted flow times on a
+						single machine and improved approximation guarantees for parallel unrelated machines. The first
+						result is enabled by a study of structural properties of constraints in a natural ILP
+						formulation and the second result relies on a novel connection to discrepancy theory.
+						<hr style="border-top: 1px solid black;">
+					</div>
+					<a href="./presentations/SchedulingSeminar_LarsRohwedder.pdf" class="label_abstract" download>
+						Download PDF
+					</a>
+					<!--Keywords: scheduling, flow time, integer programming, discrepancy, dynamic programming -->
+				</td>
+			</tr>
+
+			<!--Photo and video-->
+			<tr>
+				<td class="presenter_image_container">
+					<div class="single_image_container">
+						<a href="https://larsrohwedder.com/">
+							<img class="single_presenter" src="photos/Lars_Rohwedder.jpg" alt="person_photo"/>
+						</a><br/>
+					</div>
+				</td>
+
+				<td colspan="2">
+					<div class="resizable_youtube_single">
+						<iframe width="400" height="250" src="https://www.youtube.com/embed/YvMiW7ME01U"
+						        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+						        allowfullscreen></iframe>
+					</div>
+				</td>
+			</tr>
+
+			<!--Text description-->
+			<tr>
+				<td class="presenter_past_info_container"></td>
+				<td>
+					<table class="panelists_past_container_single">
+						<tr>
+							<td colspan="2"><b>[Presenter]</b> <br></td>
+							<td><b>[Invited by]</b> <br></td>
+						</tr>
+						<tr>
+							<td>
+								<a href="https://larsrohwedder.com/">Lars Rohwedder</a><br>
+								(Maastricht University)<br><br/>
+
+							</td>
+							<td></td>
+							<td>
+								<a href="https://www.cwi.nl/people/jan-karel-lenstra">Jan Karel Lenstra</a><br>
+								(CWI)
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+
+		<!--Spacing--->
+		<table style="margin: 0 0 0 0 !important;">
+			<tr>
+				<td colspan="100%"></td>
+			</tr>
+		</table>
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
 		<table style="padding-bottom: 12px;" class="europe">
