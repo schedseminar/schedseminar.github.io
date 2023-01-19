@@ -538,7 +538,7 @@
 						<tr>
 							<td>
 								<a href="https://larsrohwedder.com/">Lars Rohwedder</a><br>
-								(Maastricht University)<br><br/>
+								(Maastricht University)<br>
 
 							</td>
 							<td></td>
