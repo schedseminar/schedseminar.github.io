@@ -47,26 +47,6 @@
 	</tr>
 </table>
 
-<!--------------------------------------------------------------------------------------------------------------------->
-<!--Messages-->
-
-<!--<hr>-->
-
-<!--If any problem should occur-->
-<!--<h2>Due to unforeseen technical problems, problem reason... <a-->
-<!--        href="https://cesnet.zoom.us/j/98579414742?pwd=enQxM2wveUowQ3BZenB1QURKVStadz09">https://cesnet.zoom.us/j/98579414742?pwd=enQxM2wveUowQ3BZenB1QURKVStadz09</a>-->
-<!--</h2>-->
-
-<!--Zoom connection info-->
-<!--<div style="text-align: center">-->
-<!--    <h1>ZOOM CONNECTION INFORMATION (for talk 22.6.2022)</h1>-->
-<!--    <i>Since the invitation for the next talk might have been flagged as spam by your email provider, below we provide-->
-<!--        information for the Zoom connection.</i><br/>-->
-<!--    Zoom link: <a href="https://cesnet.zoom.us/j/91083429684?pwd=QlJXcHB4dGtLdE40b1hGaEVMbTNFdz09">https://cesnet.zoom.us/j/91083429684?pwd=QlJXcHB4dGtLdE40b1hGaEVMbTNFdz09</a><br/>-->
-<!--    Meeting ID: 910 8342 9684<br/>-->
-<!--    Passcode: 190280<br/>-->
-<!--</div>-->
-
 
 <!--------------------------------------------------------------------------------------------------------------------->
 <!--Buttons social-->
@@ -94,15 +74,6 @@
 		</a>
 	</p>
 </div>
-
-<!--<div class="join_us_column">-->
-<!--    <h2 id="join_us">Join us online</h2>-->
-<!--    <p style="text-align:center;">-->
-<!--        <a href="https://www.youtube.com/channel/UCUoCNnaAfw5NAntItILFn4A/live" class="button3">Youtube Live Stream</a>-->
-<!--        &lt;!&ndash;TODO MB will be used in future&ndash;&gt;-->
-<!--        &lt;!&ndash;<a href="zoom_information.html" class="button3">Zoom Conference</a>&ndash;&gt;-->
-<!--    </p>-->
-<!--</div>-->
 
 <div class="quarter_column">
 	<a href='https://www.linkedin.com/groups/9047074/'>
@@ -306,164 +277,6 @@
 				<td colspan="100%"></td>
 			</tr>
 		</table>
-
-		<!-- Levner postponed talk-------------------------------------------------------------------------------------->
-		<!--        &lt;!&ndash;Levner backup&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&ndash;&gt;-->
-		<!--        <table style="padding-bottom: 12px;" class="europe">-->
-		<!--            &lt;!&ndash;Title/Abstract/PDF&ndash;&gt;-->
-		<!--            <tr>-->
-		<!--                <td colspan="3">-->
-		<!--                    <h2 class="talk_title"><b>Scheduling Swarms of Robots and Drones: How Fuzzy Logic Solves a-->
-		<!--                        Scheduling Problem-->
-		<!--                    </b><br>-->
-		<!--                    </h2>-->
-		<!--                    <input type="checkbox" id="abstract_id_19" style="display:none;">-->
-		<!--                    <label for="abstract_id_19" class="label_abstract"><a>Abstract</a></label>-->
-		<!--                    <div class="hidden">-->
-		<!--                        <hr style="border-top: 1px solid black;">-->
-		<!--                        Consider a cyclic process in which a set of several human operators or robots perform m given-->
-		<!--                        sequential operations whereas a number of flying unmanned vehicles-drones are used to transfer-->
-		<!--                        information gathered by the operators and/or to transfer a load to fixed points. Durations of-->
-		<!--                        data collecting and transfer operations are known fuzzy numbers. The aim is to find the schedule-->
-		<!--                        for the swarms of drones so that to maximize the system productivity, or to minimize the cycle-->
-		<!--                        length, and to avoid collisions of the drones. The fuzzy logic allows to solve the optimization-->
-		<!--                        problem under uncertainty. A novel fuzzy algorithm outperforms the earlier-known crisp-->
-		<!--                        scheduling algorithms.-->
-		<!--                        <hr style="border-top: 1px solid black;">-->
-		<!--                    </div>-->
-		<!--                    &lt;!&ndash;                    <a href="./presentations/SchedulingSeminar_RubénRuiz.pdf" class="label_abstract" download>&ndash;&gt;-->
-		<!--                    &lt;!&ndash;                        Download PDF&ndash;&gt;-->
-		<!--                    &lt;!&ndash;                    </a>&ndash;&gt;-->
-		<!--                    &lt;!&ndash;Keywords: scheduling of robots, scheduling of unmanned aerial vehicles UAVs (drones), cyclic scheduling, fuzzy operation durations, fuzzy logic, fuzzy algorithm&ndash;&gt;-->
-		<!--                </td>-->
-		<!--            </tr>-->
-
-		<!--            &lt;!&ndash;Data-&ndash;&gt;-->
-		<!--            <tr>-->
-		<!--                <td class="presenter_image_container">-->
-		<!--                    <div class="single_image_container">-->
-		<!--                        <a href="https://www.hit.ac.il/en/faculty_staff/Eugene_Levner">-->
-		<!--                            <img class="single_presenter" src="photos/Eugene_Levner.jpg" alt="person_photo"/>-->
-		<!--                        </a><br/>-->
-		<!--                    </div>-->
-		<!--                </td>-->
-		<!--                <td class="information_upcoming_container">-->
-		<!--                    <b>[Presenter]</b><br>-->
-		<!--                    <a href="https://www.hit.ac.il/en/faculty_staff/Eugene_Levner">Eugene Levner</a><br>-->
-		<!--                    (HIT)<br><br/>-->
-		<!--                    <b>[Invited by]</b><br>-->
-		<!--                    <a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a><br>-->
-		<!--                    (CTU in Prague)-->
-		<!--                </td>-->
-		<!--                <td class="time_zones_container">-->
-		<!--                    <table class="time_table">-->
-		<!--                        <tbody>-->
-		<!--                        <tr class="utc">-->
-		<!--                            <td>UTC</td>-->
-		<!--                            <td>Feb 16, 14:00 Wed</td>-->
-		<!--                        </tr>-->
-		<!--                        <tr class="europe">-->
-		<!--                            <td>Prague</td>-->
-		<!--                            <td>Feb 16, 15:00 Wed</td>-->
-		<!--                        </tr>-->
-		<!--                        <tr class="america">-->
-		<!--                            <td>New York</td>-->
-		<!--                            <td>Feb 16, 09:00 Wed</td>-->
-		<!--                        </tr>-->
-		<!--                        <tr class="asia">-->
-		<!--                            <td>Shanghai</td>-->
-		<!--                            <td>Feb 16, 22:00 Wed</td>-->
-		<!--                        </tr>-->
-		<!--                        </tbody>-->
-		<!--                    </table>-->
-		<!--                </td>-->
-		<!--            </tr>-->
-		<!--        </table>-->
-
-		<!--Pause------------------------------------------------------------------------------------------------------>
-		<!--		<i>Currently, new talks are being planned, and the seminar will start again in January 2023. Consider-->
-		<!--			subscribing to the mailing list-->
-		<!--			<a href='https://list.iid.ciirc.cvut.cz/mailman3/lists/schedulingseminar.rtime.felk.cvut.cz/'-->
-		<!--			   style="margin-left: 5px; margin-right: 5px">-->
-		<!--				<img src="icons/email.png" height="25px" width="25px" alt="email"/>-->
-		<!--			</a> and Youtube channel <a href='https://www.youtube.com/channel/UCUoCNnaAfw5NAntItILFn4A'-->
-		<!--										style="margin-left: 5px; margin-right: 5px">-->
-		<!--				<img src="icons/youtube.png" height="25px" width="25px" alt="youtube"/>-->
-		<!--			</a> to never miss out on new upcoming seminars.</i>-->
-
-		<!--Dual talk-------------------------------------------------------------------------------------------------->
-		<!--        <table style="padding-bottom: 12px;" class="europe">-->
-		<!--            &lt;!&ndash;Title/Abstract-&ndash;&gt;-->
-		<!--            <tr class="europe">-->
-		<!--                <td colspan="3">-->
-		<!--                    <h2 class="talk_title"><b>Elements of Scheduling</b><br></h2>-->
-		<!--                    <input type="checkbox" id="abstract_id_1" style="display:none;">-->
-		<!--                    <label for="abstract_id_1" class="label_abstract"><a>Abstract</a></label>-->
-		<!--                    <div class="hidden">-->
-		<!--                        <hr style="border-top: 1px solid black;">-->
-		<!--                        During the 1970’s, the area of scheduling developed from a hodge-podge of isolated results into-->
-		<!--                        a unified theory. Over the past decades, it has grown to a mature and lively area, which is a-->
-		<!--                        meeting point of operations research, mathematics and computer science, and at the same time a-->
-		<!--                        sound basis for the allocation of scarce resources to activities over time in many practical-->
-		<!--                        situations. We will sketch the early development of scheduling theory, and also discuss the-->
-		<!--                        integration of ideas from online analysis, stochastic models, and machine learning in response-->
-		<!--                        to the needs of a changing society.-->
-		<!--                        <hr style="border-top: 1px solid black;">-->
-		<!--                    </div>-->
-		<!--                </td>-->
-		<!--            </tr>-->
-
-		<!--            &lt;!&ndash;Data-&ndash;&gt;-->
-		<!--            <tr>-->
-		<!--                <td class="presenter_image_container">-->
-		<!--                    <div class="double_image_container">-->
-		<!--                        <a href="https://www.cwi.nl/people/jan-karel-lenstra">-->
-		<!--                            <img class="double_presenter" src="./photos/jan_karel_lenstra.jpg" alt="person_photo"/>-->
-		<!--                        </a><br/>-->
-		<!--                    </div>-->
-		<!--                    <div class="double_image_container">-->
-		<!--                        <a href="https://people.orie.cornell.edu/shmoys/">-->
-		<!--                            <img class="double_presenter" src="./photos/david_schmoys.jpg" alt="person_photo"/>-->
-		<!--                        </a><br/>-->
-		<!--                    </div>-->
-		<!--                </td>-->
-		<!--                <td class="information_upcoming_container">-->
-		<!--                    <b>[Presenters] </b> <br>-->
-		<!--                    <a href="https://www.cwi.nl/people/jan-karel-lenstra">Jan Karel Lenstra</a><br>-->
-		<!--                    (CWI)<br>-->
-		<!--                    <a href="https://people.orie.cornell.edu/shmoys/">David Shmoys</a> <br>-->
-		<!--                    (Cornell University)<br><br/>-->
-		<!--                    &lt;!&ndash;                    <b>[Panelists]</b> <br>&ndash;&gt;-->
-		<!--                    &lt;!&ndash;<a href="">Name Surname</a> (Affiliation)<br>&ndash;&gt;-->
-		<!--                    &lt;!&ndash;                    <a href="">Name Surname</a> (Affiliation)<br/><br/>&ndash;&gt;-->
-		<!--                    <b>[Invited by]</b> <br>-->
-		<!--                    <a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a><br>-->
-		<!--                    (New York University)-->
-		<!--                </td>-->
-		<!--                <td class="time_zones_container">-->
-		<!--                    <table class="time_table">-->
-		<!--                        <tbody>-->
-		<!--                        <tr class="utc">-->
-		<!--                            <td>UTC</td>-->
-		<!--                            <td>Mar 31, 13:00 Wed</td>-->
-		<!--                        </tr>-->
-		<!--                        <tr class="europe">-->
-		<!--                            <td>Prague</td>-->
-		<!--                            <td>Mar 31, 15:00 Wed</td>-->
-		<!--                        </tr>-->
-		<!--                        <tr class="america">-->
-		<!--                            <td>New York</td>-->
-		<!--                            <td>Mar 31, 09:00 Wed</td>-->
-		<!--                        </tr>-->
-		<!--                        <tr class="asia">-->
-		<!--                            <td>Shanghai</td>-->
-		<!--                            <td>Mar 31, 21:00 Wed</td>-->
-		<!--                        </tr>-->
-		<!--                        </tbody>-->
-		<!--                    </table>-->
-		<!--                </td>-->
-		<!--            </tr>-->
-		<!--        </table>-->
 
 		</tbody>
 	</table>
