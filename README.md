@@ -197,14 +197,83 @@
 		</table>
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
+		<table style="padding-bottom: 12px;" class="europe">
+			<!--Title/Abstract/PDF-->
+			<tr>
+				<td colspan="3">
+					<h2 class="talk_title"><b>The Marriage of Matheuristics and Scheduling</b><br>
+					</h2>
+					<input type="checkbox" id="abstract_id_37" style="display:none;">
+					<label for="abstract_id_37" class="label_abstract"><a>Abstract</a></label>
+					<div class="hidden">
+						<hr style="border-top: 1px solid black;">
+						<hr style="border-top: 1px solid black;">
+					</div>
+					<!--					<a href="./presentations/SchedulingSeminar_LarsRohwedder.pdf" class="label_abstract" download>-->
+					<!--						Download PDF-->
+					<!--					</a>-->
+					<!--Keywords: Scheduling, Manufacturing Systems, Machine Learning, Real Applications -->
+				</td>
+			</tr>
+
+			<!--Data--->
+			<tr>
+				<td class="presenter_image_container">
+					<div class="single_image_container">
+						<a href="https://www.univ-tours.fr/annuaire/m-vincent-tkindt">
+							<img class="single_presenter" src="photos/VTkindt-head.png" alt="person_photo"/>
+						</a><br/>
+					</div>
+				</td>
+				<td class="information_upcoming_container">
+					<b>[Presenter]</b><br>
+					<a href="https://www.univ-tours.fr/annuaire/m-vincent-tkindt">Hyun-Jung Kim</a><br>
+					(Uni de Tours)<br><br/>
+					<b>[Invited by]</b><br>
+					<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a><br>
+					(CTU in Prague)
+				</td>
+				<td class="time_zones_container">
+					<table class="time_table">
+						<tbody>
+						<tr class="utc">
+							<td>UTC</td>
+							<td>Feb 15, 14:00 Wed</td>
+						</tr>
+						<tr class="europe">
+							<td>Prague</td>
+							<td>Feb 15, 15:00 Wed</td>
+						</tr>
+						<tr class="america">
+							<td>New York</td>
+							<td>Feb 15, 09:00 Wed</td>
+						</tr>
+						<tr class="asia">
+							<td>Shanghai</td>
+							<td>Feb 15, 22:00 Wed</td>
+						</tr>
+						</tbody>
+					</table>
+				</td>
+			</tr>
+		</table>
+
+		<!--Spacing--->
+		<table style="margin: 30px 0 0 0 !important;">
+			<tr>
+				<td colspan="100%"></td>
+			</tr>
+		</table>
+
+		<!--Single talk------------------------------------------------------------------------------------------------>
 		<table style="padding-bottom: 12px;" class="asia">
 			<!--Title/Abstract/PDF-->
 			<tr>
 				<td colspan="3">
 					<h2 class="talk_title"><b>Scheduling with Machine Learning</b><br>
 					</h2>
-					<input type="checkbox" id="abstract_id_37" style="display:none;">
-					<label for="abstract_id_37" class="label_abstract"><a>Abstract</a></label>
+					<input type="checkbox" id="abstract_id_38" style="display:none;">
+					<label for="abstract_id_38" class="label_abstract"><a>Abstract</a></label>
 					<div class="hidden">
 						<hr style="border-top: 1px solid black;">
 						Manufacturing companies have recently shown a growing interest in using machine learning to
