@@ -207,12 +207,21 @@
 					<label for="abstract_id_37" class="label_abstract"><a>Abstract</a></label>
 					<div class="hidden">
 						<hr style="border-top: 1px solid black;">
+						This talk is about the heuristic solution of scheduling problems by means of heuristics based on
+						mathematical programming, well-known under the name of matheuristics. Whatever they are used to
+						build or improve a solution, they always take advantage of mathematical programming in order to
+						efficiently solve some subproblems. Matheuristics have been introduced in the literature during
+						the last decade especially to solve routing problems. Few is known about their application to
+						machine scheduling problems.
+
+						I will introduce to different forms of matheuristics and give a feedback on the solution of some
+						scheduling problems, making also an outing in the land of machine learning.
 						<hr style="border-top: 1px solid black;">
 					</div>
 					<!--					<a href="./presentations/SchedulingSeminar_LarsRohwedder.pdf" class="label_abstract" download>-->
 					<!--						Download PDF-->
 					<!--					</a>-->
-					<!--Keywords: Scheduling, Manufacturing Systems, Machine Learning, Real Applications -->
+					<!--Keywords: Machine scheduling; Mathematical Programming ; Heuristics -->
 				</td>
 			</tr>
 
