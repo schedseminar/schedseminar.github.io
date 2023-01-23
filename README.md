@@ -227,7 +227,7 @@
 				</td>
 				<td class="information_upcoming_container">
 					<b>[Presenter]</b><br>
-					<a href="https://www.univ-tours.fr/annuaire/m-vincent-tkindt">Hyun-Jung Kim</a><br>
+					<a href="https://www.univ-tours.fr/annuaire/m-vincent-tkindt">Vincent T’kindt</a><br>
 					(Uni de Tours)<br><br/>
 					<b>[Invited by]</b><br>
 					<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a><br>
