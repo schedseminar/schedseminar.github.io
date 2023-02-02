@@ -235,8 +235,8 @@
 					<a href="https://msslab.kaist.ac.kr/Professor/professor">Hyun-Jung Kim</a><br>
 					(KAIST)<br><br/>
 					<b>[Invited by]</b><br>
-					<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a><br>
-					(CTU in Prague)
+					<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a> <br/>
+					(New York University)
 				</td>
 				<td class="time_zones_container">
 					<table class="time_table">
@@ -360,8 +360,8 @@
                             </td>
                             <td></td>
                             <td>
-                                <a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a><br>
-                                (CTU in Prague)
+                                <a href="https://homepages.laas.fr/artigues/drupal/node/11">Christian Artigues</a><br>
+								(LAAS - CNRS)
                             </td>
                         </tr>
                     </table>
