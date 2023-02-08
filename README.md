@@ -314,7 +314,7 @@
 				<td class="information_upcoming_container">
 					<b>[Presenter]</b><br>
 					<a href="https://seng.ust.hk/about/people/faculty/xiangtong-qi">Xiangtong Qi</a><br>
-					HKUST<br><br/>
+					(HKUST)<br><br/>
 					<b>[Invited by]</b><br>
 					<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a> <br/>
 					(New York University)
