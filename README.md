@@ -306,14 +306,14 @@
 			<tr>
 				<td class="presenter_image_container">
 					<div class="single_image_container">
-						<a href="https://msslab.kaist.ac.kr/Professor/professor">
+						<a href="https://seng.ust.hk/about/people/faculty/xiangtong-qi">
 							<img class="single_presenter" src="photos/xiangtong_qi.jpg" alt="person_photo"/>
 						</a><br/>
 					</div>
 				</td>
 				<td class="information_upcoming_container">
 					<b>[Presenter]</b><br>
-					<a href="https://msslab.kaist.ac.kr/Professor/professor">Xiangtong Qi</a><br>
+					<a href="https://seng.ust.hk/about/people/faculty/xiangtong-qi">Xiangtong Qi</a><br>
 					HKUST<br><br/>
 					<b>[Invited by]</b><br>
 					<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a> <br/>
