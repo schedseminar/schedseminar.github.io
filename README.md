@@ -270,6 +270,87 @@
 			</tr>
 		</table>
 
+		<!--Single talk------------------------------------------------------------------------------------------------>
+		<table style="padding-bottom: 12px;" class="asia">
+			<!--Title/Abstract/PDF-->
+			<tr>
+				<td colspan="3">
+					<h2 class="talk_title"><b>Cooperative Games Models for Scheduling Problems</b><br>
+					</h2>
+					<input type="checkbox" id="abstract_id_39" style="display:none;">
+					<label for="abstract_id_39" class="label_abstract"><a>Abstract</a></label>
+					<div class="hidden">
+						<hr style="border-top: 1px solid black;">
+						Cooperative game theory focuses on schemes that lead to a global collaboration among multiple
+						independent decision makers. In cooperative game theory, one basic concept is the allocation in
+						the core that characterizes how the players shall share the cost/benefit in a way acceptable to
+						all sub-coalitions. Unfortunately, it is well known that many cooperative games have an empty
+						core, including games concerning scheduling problems. For such games the global collaboration
+						will not be sustainable.
+
+						We consider a situation where an outside party has the need to stabilize the ground coalition
+						because, for example, the best social welfare can be achieved only when all players collaborate.
+						We introduce a few economic treatments that can be used by the outside party such as providing
+						subsidy and charging penalty. These treatments, including their concepts and implementations,
+						are demonstrated by games related to scheduling problems.
+						<hr style="border-top: 1px solid black;">
+					</div>
+					<!--					<a href="./presentations/SchedulingSeminar_LarsRohwedder.pdf" class="label_abstract" download>-->
+					<!--						Download PDF-->
+					<!--					</a>-->
+					<!--Keywords: Scheduling, Cooperative game, Core -->
+				</td>
+			</tr>
+
+			<!--Data--->
+			<tr>
+				<td class="presenter_image_container">
+					<div class="single_image_container">
+						<a href="https://msslab.kaist.ac.kr/Professor/professor">
+							<img class="single_presenter" src="photos/xiangtong_qi.jpg" alt="person_photo"/>
+						</a><br/>
+					</div>
+				</td>
+				<td class="information_upcoming_container">
+					<b>[Presenter]</b><br>
+					<a href="https://msslab.kaist.ac.kr/Professor/professor">Xiangtong Qi</a><br>
+					HKUST<br><br/>
+					<b>[Invited by]</b><br>
+					<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a> <br/>
+					(New York University)
+				</td>
+				<td class="time_zones_container">
+					<table class="time_table">
+						<tbody>
+						<tr class="utc">
+							<td>UTC</td>
+							<td>Mar 15, 14:00 Wed</td>
+						</tr>
+						<tr class="europe">
+							<td>Prague</td>
+							<td>Mar 15, 15:00 Wed</td>
+						</tr>
+						<tr class="america">
+							<td>New York</td>
+							<td>Mar 15, 10:00 Wed</td>
+						</tr>
+						<tr class="asia">
+							<td>Shanghai</td>
+							<td>Mar 15, 22:00 Wed</td>
+						</tr>
+						</tbody>
+					</table>
+				</td>
+			</tr>
+		</table>
+
+		<!--Spacing--->
+		<table style="margin: 30px 0 0 0 !important;">
+			<tr>
+				<td colspan="100%"></td>
+			</tr>
+		</table>
+
 		</tbody>
 	</table>
 
@@ -287,94 +368,95 @@
 	<table class="past_talk_table">
 		<tbody>
 
-        <!--Single talk------------------------------------------------------------------------------------------------>
-        <table style="padding-bottom: 12px;" class="europe">
-            <!--Title/Abstract/PDF-->
-            <tr>
-                <td colspan="3">
-                    <h2 class="talk_title"><b>Constructive and destructive bounds for the m-machine scheduling
-                        problem</b><br>
-                    </h2>
-                    <input type="checkbox" id="abstract_id_36" style="display:none;">
-                    <label for="abstract_id_36" class="label_abstract"><a>Abstract</a></label>
-                    <div class="hidden">
-                        <hr style="border-top: 1px solid black;">
-                        The aim of this talk is to present some new results on constructive and destructive bounds for
-                        the m-machine scheduling problem. Recently we have characterized mathematically the three main
-                        constructive bounds which are the preemptive bound, the energetic bound and the JPPS makespan.
-                        These characterizations give insights to their similarities and differences. It explains why
-                        these bounds are generally equal in practice.
-                        Moreover our characterization of the energetic bound introduced by Erschler, Lopez and Thuriot
-                        permits to build a 0(n alpha(n) logn) ( alpha(n) Ackermann coefficient) checker. It is the best
-                        one in literature. We have compared it to the checkers of Baptiste Lepape and Nuijten
-                        (O(nsquare)) and to the checker of Ouellet and Quimper (O(nlognlogn)).
-                        The checker of Baptiste, Lepape and Nuijten is based on an identification of useful intervals
-                        and on incremental evaluations of intervals energy. Ouellet and Quimper prove that the energy
-                        matrix is a Monge matrix and evaluate the energy of some interval thanks to a pre-calculated
-                        data structure based on range trees. We characterize mathematically the useful intervals, then
-                        we use the data structures introduced by Ouellet and Quimper and a nice algorithm for partial
-                        Monge Matrix. Our checker is also the best one in practice in literature, as it is confirmed by
-                        the numerical results we report.
-                        Work in collaboration with Abderrahim Sahli, Antoine Jouglet1 and Eric Pinson.
-                        <hr style="border-top: 1px solid black;">
-                    </div>
-                    <a href="./presentations/SchedulingSeminar_JacquesCarlier.pdf" class="label_abstract" download>
-                        Download PDF
-                    </a>
-                    <!--Keywords: scheduling, cumulative resource, lower bound, algorithms, energetic reasoning -->
-                </td>
-            </tr>
-        
-            <!--Photo and video-->
-            <tr>
-                <td class="presenter_image_container">
-                    <div class="single_image_container">
-                        <a href="https://scholar.google.fr/citations?user=VrUXV3IAAAAJ&hl=en">
-                            <img class="single_presenter" src="photos/JacquesCarlier.jpg" alt="person_photo"/>
-                        </a><br/>
-                    </div>
-                </td>
-        
-                <td colspan="2">
-                    <div class="resizable_youtube_single">
-                        <iframe width="400" height="250" src="https://www.youtube.com/embed/GwJfj3L2A0c"
-                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                                allowfullscreen></iframe>
-                    </div>
-                </td>
-            </tr>
-        
-            <!--Text description-->
-            <tr>
-                <td class="presenter_past_info_container"></td>
-                <td>
-                    <table class="panelists_past_container_single">
-                        <tr>
-                            <td colspan="2"><b>[Presenter]</b> <br></td>
-                            <td><b>[Invited by]</b> <br></td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <a href="https://scholar.google.fr/citations?user=VrUXV3IAAAAJ&hl=en">Jacques Carlier</a><br>
-                                (Sorbonne Uni)<br>
-                            </td>
-                            <td></td>
-                            <td>
-                                <a href="https://homepages.laas.fr/artigues/drupal/node/11">Christian Artigues</a><br>
+		<!--Single talk------------------------------------------------------------------------------------------------>
+		<table style="padding-bottom: 12px;" class="europe">
+			<!--Title/Abstract/PDF-->
+			<tr>
+				<td colspan="3">
+					<h2 class="talk_title"><b>Constructive and destructive bounds for the m-machine scheduling
+						problem</b><br>
+					</h2>
+					<input type="checkbox" id="abstract_id_36" style="display:none;">
+					<label for="abstract_id_36" class="label_abstract"><a>Abstract</a></label>
+					<div class="hidden">
+						<hr style="border-top: 1px solid black;">
+						The aim of this talk is to present some new results on constructive and destructive bounds for
+						the m-machine scheduling problem. Recently we have characterized mathematically the three main
+						constructive bounds which are the preemptive bound, the energetic bound and the JPPS makespan.
+						These characterizations give insights to their similarities and differences. It explains why
+						these bounds are generally equal in practice.
+						Moreover our characterization of the energetic bound introduced by Erschler, Lopez and Thuriot
+						permits to build a 0(n alpha(n) logn) ( alpha(n) Ackermann coefficient) checker. It is the best
+						one in literature. We have compared it to the checkers of Baptiste Lepape and Nuijten
+						(O(nsquare)) and to the checker of Ouellet and Quimper (O(nlognlogn)).
+						The checker of Baptiste, Lepape and Nuijten is based on an identification of useful intervals
+						and on incremental evaluations of intervals energy. Ouellet and Quimper prove that the energy
+						matrix is a Monge matrix and evaluate the energy of some interval thanks to a pre-calculated
+						data structure based on range trees. We characterize mathematically the useful intervals, then
+						we use the data structures introduced by Ouellet and Quimper and a nice algorithm for partial
+						Monge Matrix. Our checker is also the best one in practice in literature, as it is confirmed by
+						the numerical results we report.
+						Work in collaboration with Abderrahim Sahli, Antoine Jouglet1 and Eric Pinson.
+						<hr style="border-top: 1px solid black;">
+					</div>
+					<a href="./presentations/SchedulingSeminar_JacquesCarlier.pdf" class="label_abstract" download>
+						Download PDF
+					</a>
+					<!--Keywords: scheduling, cumulative resource, lower bound, algorithms, energetic reasoning -->
+				</td>
+			</tr>
+
+			<!--Photo and video-->
+			<tr>
+				<td class="presenter_image_container">
+					<div class="single_image_container">
+						<a href="https://scholar.google.fr/citations?user=VrUXV3IAAAAJ&hl=en">
+							<img class="single_presenter" src="photos/JacquesCarlier.jpg" alt="person_photo"/>
+						</a><br/>
+					</div>
+				</td>
+
+				<td colspan="2">
+					<div class="resizable_youtube_single">
+						<iframe width="400" height="250" src="https://www.youtube.com/embed/GwJfj3L2A0c"
+						        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+						        allowfullscreen></iframe>
+					</div>
+				</td>
+			</tr>
+
+			<!--Text description-->
+			<tr>
+				<td class="presenter_past_info_container"></td>
+				<td>
+					<table class="panelists_past_container_single">
+						<tr>
+							<td colspan="2"><b>[Presenter]</b> <br></td>
+							<td><b>[Invited by]</b> <br></td>
+						</tr>
+						<tr>
+							<td>
+								<a href="https://scholar.google.fr/citations?user=VrUXV3IAAAAJ&hl=en">Jacques
+									Carlier</a><br>
+								(Sorbonne Uni)<br>
+							</td>
+							<td></td>
+							<td>
+								<a href="https://homepages.laas.fr/artigues/drupal/node/11">Christian Artigues</a><br>
 								(LAAS - CNRS)
-                            </td>
-                        </tr>
-                    </table>
-                </td>
-            </tr>
-        </table>
-        
-        <!--Spacing--->
-        <table style="margin: 0 0 0 0 !important;">
-            <tr>
-                <td colspan="100%"></td>
-            </tr>
-        </table>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+
+		<!--Spacing--->
+		<table style="margin: 0 0 0 0 !important;">
+			<tr>
+				<td colspan="100%"></td>
+			</tr>
+		</table>
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
 		<table style="padding-bottom: 12px;" class="europe">
