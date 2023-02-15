@@ -132,9 +132,9 @@
 						scheduling problems, making also an outing in the land of machine learning.
 						<hr style="border-top: 1px solid black;">
 					</div>
-					<!--					<a href="./presentations/SchedulingSeminar_LarsRohwedder.pdf" class="label_abstract" download>-->
-					<!--						Download PDF-->
-					<!--					</a>-->
+					<a href="./presentations/SchedulingSeminar_VincentTkindt.pdf" class="label_abstract" download>
+						Download PDF
+					</a>
 					<!--Keywords: Machine scheduling; Mathematical Programming ; Heuristics -->
 				</td>
 			</tr>
