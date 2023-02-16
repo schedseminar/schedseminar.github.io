@@ -153,6 +153,21 @@
         /*-----------------------------------------*/
         /*Buttons*/
 
+        button.button3 {
+            display: inline-block;
+            padding: 0.3em 1.2em;
+            margin: 0 0.3em 0.3em 0;
+            border-radius: 2em;
+            box-sizing: border-box;
+            text-decoration: none;
+            font-family: 'Roboto', sans-serif;
+            font-weight: 300;
+            color: #FFFFFF;
+            background-color: #4eb5f1;
+            text-align: center;
+            transition: all 0.2s;
+        }
+
         a.button3 {
             display: inline-block;
             padding: 0.3em 1.2em;
@@ -475,6 +490,26 @@
 
     </style>
 
+    <!--JS script for showing/hiding tags-->
+    <script>
+        // document.write('TEST!');
+        var hidden = false;
+        function hide_not_tagged(key) {
+            hidden = !hidden;
+            if(hidden) {
+                collection = document.getElementsByClassName(key);
+                for (let i = 0; i < collection.length; i++) {
+                    collection[i].style.display = "none";
+                }
+            } else {
+                collection = document.getElementsByClassName(key);
+                for (let i = 0; i < collection.length; i++) {
+                    collection[i].style.display = "block";
+                }
+            }
+        }
+    </script>
+
     <!--JS scripts-->
     {% if site.google_analytics %}
     <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
@@ -488,9 +523,9 @@
         gtag('js', new Date());
         gtag('config', '{{ site.google_analytics }}');
     </script>
+    {% endif %}
 
     <!--Meta-->
-    {% endif %}
     <meta charset="UTF-8">
     {% seo %}
     <meta name="viewport" content="width=device-width, initial-scale=1">
