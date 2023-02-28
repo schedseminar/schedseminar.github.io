@@ -332,7 +332,7 @@
 					<a href="./presentations/SchedulingSeminar_VincentTkindt.pdf" class="label_abstract" download>
 						Download PDF
 					</a>
-					<a href="LINK"
+					<a href="https://scheduling-seminar.iid.ciirc.cvut.cz/videos/23_1_Winter/23_2_14%20Vincent%20T%e2%80%99kindt%20(University%20of%20Tours)%20_%20Matheuristics%20and%20Scheduling.mp4"
 					   class="label_abstract" download>
 						Download Video
 					</a>
@@ -436,7 +436,7 @@
 					<a href="./presentations/SchedulingSeminar_JacquesCarlier.pdf" class="label_abstract" download>
 						Download PDF
 					</a>
-					<a href="LINK"
+					<a href="https://scheduling-seminar.iid.ciirc.cvut.cz/videos/23_1_Winter/23_2_1%20Jacques%20Carlier%20(Sorbonne%20Uni)%20_%20Constructive%20and%20destructive%20bounds.mp4"
 					   class="label_abstract" download>
 						Download Video
 					</a>
@@ -518,7 +518,7 @@
 					<a href="./presentations/SchedulingSeminar_LarsRohwedder.pdf" class="label_abstract" download>
 						Download PDF
 					</a>
-					<a href="LINK"
+					<a href="https://scheduling-seminar.iid.ciirc.cvut.cz/videos/23_1_Winter/23_1_18%20Lars%20Rohwedder%20(Maastricht%20University)%20_%20Flow%20time%20scheduling%20advances.mp4"
 					   class="label_abstract" download>
 						Download Video
 					</a>
