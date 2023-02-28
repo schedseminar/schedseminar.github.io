@@ -364,13 +364,12 @@
 					<b>[Presenter]</b><br>
 					<a href="https://www.univ-tours.fr/annuaire/m-vincent-tkindt">Vincent T’kindt</a><br>
 					(Uni de Tours)<br>
-					<!--					<b>Keywords:</b> Machine scheduling; Mathematical Programming; Heuristics-->
 				</td>
 
 				<td>
 					<table class="panelists_past_container_single">
 						<td colspan="2">
-							<b>Keywords:</b> Machine scheduling; Mathematical Programming; Heuristics <br/><br>
+							<b>Keywords:</b> Machine scheduling, Mathematical Programming, Heuristics <br/><br>
 							<b>[Invited by]</b>
 							<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a>
 							(CTU in Prague)
@@ -459,7 +458,7 @@
 				<td>
 					<table class="panelists_past_container_single">
 						<td colspan="2">
-							<b>Keywords:</b> Scheduling; Cumulative resource; Lower bound; Algorithms; Energetic reasoning <br/><br>
+							<b>Keywords:</b> Scheduling, Cumulative resource, Lower bound, Algorithms, Energetic reasoning <br/><br>
 							<b>[Invited by]</b>
 							<a href="https://homepages.laas.fr/artigues/drupal/node/11">Christian Artigues</a>
 							(LAAS - CNRS)
@@ -535,7 +534,7 @@
 				<td>
 					<table class="panelists_past_container_single">
 						<td colspan="2">
-							<b>Keywords:</b> Scheduling; Flow time; Integer programming; Discrepancy; Dynamic programming <br/><br>
+							<b>Keywords:</b> Scheduling, Flow time, Integer programming, Discrepancy, Dynamic programming <br/><br>
 							<b>[Invited by]</b>
 							<a href="https://www.cwi.nl/people/jan-karel-lenstra">Jan Karel Lenstra</a>
 							(CWI)
@@ -623,7 +622,7 @@
 				<td>
 					<table class="panelists_past_container_single">
 						<td colspan="2">
-							<b>Keywords:</b> Scheduling; Flow shop; Synchronized movement; Shelf board production <br/><br>
+							<b>Keywords:</b> Scheduling, Flow shop, Synchronized movement, Shelf board production <br/><br>
 							<b>[Invited by]</b>
 							<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a>
 							(CTU in Prague)
@@ -725,7 +724,7 @@
 				<td>
 					<table class="panelists_past_container_single">
 						<td colspan="2">
-							<b>Keywords:</b> Scheduling; Machine breakdowns; Testing <br/><br>
+							<b>Keywords:</b> Scheduling, Machine breakdowns, Testing <br/><br>
 							<b>[Invited by]</b>
 							<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a>
 							(CTU in Prague)
@@ -896,7 +895,7 @@
 				<td>
 					<table class="panelists_past_container_single">
 						<td colspan="2">
-							<b>Keywords:</b> Vehicle routing; Local search operators; Ruin and recreate; Spatial slack; Capacity slack; Fleet minimization <br/><br>
+							<b>Keywords:</b> Vehicle routing, Local search operators, Ruin and recreate, Spatial slack, Capacity slack, Fleet minimization <br/><br>
 							<b>[Invited by]</b>
 							<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a>
 							(CTU in Prague)
@@ -984,7 +983,7 @@
 				<td>
 					<table class="panelists_past_container_single">
 						<td colspan="2">
-							<b>Keywords:</b> Synchronous DataFlow; Precedence constraints; Normalization; Liveness; Throughput evaluation <br/><br>
+							<b>Keywords:</b> Synchronous DataFlow, Precedence constraints, Normalization, Liveness, Throughput evaluation <br/><br>
 							<b>[Invited by]</b>
 							<a href="https://ufr-segmi.parisnanterre.fr/organisation-et-contacts/espace-reserve-enseignants/site-des-enseignants/les-enseignants-de-segmi/hanen-claire/hanen-claire-93518.kjsp">Claire
 								Hanen</a>
@@ -1066,7 +1065,7 @@
 				<td>
 					<table class="panelists_past_container_single">
 						<td colspan="2">
-							<b>Keywords:</b> Dynamic programming; Discrete convexity; Stochastic models; Appointment scheduling <br/><br>
+							<b>Keywords:</b> Dynamic programming, Discrete convexity, Stochastic models, Appointment scheduling <br/><br>
 							<b>[Invited by]</b>
 							<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a>
 							(New York University)
@@ -1154,7 +1153,7 @@
 				<td>
 					<table class="panelists_past_container_single">
 						<td colspan="2">
-							<b>Keywords:</b> Scheduling; Polyhedra; Formulations <br/><br>
+							<b>Keywords:</b> Scheduling, Polyhedra, Formulations <br/><br>
 							<b>[Invited by]</b>
 							<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a>
 							(New York University)
@@ -1281,7 +1280,6 @@
 					   class="label_abstract" download>
 						Download Video
 					</a>
-					<!--Keywords:-->
 				</td>
 			</tr>
 
@@ -1306,25 +1304,21 @@
 
 			<!--Text description-->
 			<tr>
-				<td class="presenter_past_info_container"></td>
+				<td class="presenter_past_info_container">
+					<b>[Presenter]</b><br>
+					<a href="https://algo.wmi.amu.edu.pl/en/staff/prof-uam-dr-hab-stanislaw-gawiejnowicz/">Stanislaw
+						Gawiejnowicz</a><br>
+					(AMU Poznañ)<br>
+				</td>
+
 				<td>
 					<table class="panelists_past_container_single">
-						<tr>
-							<td colspan="2"><b>[Presenter]</b> <br></td>
-							<td><b>[Invited by]</b> <br></td>
-						</tr>
-						<tr>
-							<td>
-								<a href="https://algo.wmi.amu.edu.pl/en/staff/prof-uam-dr-hab-stanislaw-gawiejnowicz/">Stanislaw
-									Gawiejnowicz</a><br>
-								(AMU Poznañ)<br>
-							</td>
-							<td></td>
-							<td>
-								<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a><br>
-								(CTU in Prague)
-							</td>
-						</tr>
+						<td colspan="2">
+							<b>Keywords:</b> Time-dependent scheduling, Variable job processing times, Approximation algorithms, Approximation schemes, Heuristics, Single machine, Parallel machines, Dedicated machines <br/><br>
+							<b>[Invited by]</b>
+							<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a>
+							(CTU in Prague)
+						</td>
 					</table>
 				</td>
 			</tr>
@@ -1339,6 +1333,7 @@
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
 		<table style="padding-bottom: 12px;" class="europe">
+			<!--Title/Abstract/PDF-->
 			<tr>
 				<td colspan="3">
 					<h2 class="talk_title"><b>Data Science Meets Scheduling</b><span style="opacity: 0">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><br>
@@ -1370,7 +1365,6 @@
 					   class="label_abstract" download>
 						Download Video
 					</a>
-					<!--Keywords: Data Science, Machine learning, Combinatorial optimization, Scheduling, Algorithms, Landscape analysis, Automated tuning, Automated construction, Automated selection, Instance hardness-->
 				</td>
 			</tr>
 
@@ -1395,24 +1389,20 @@
 
 			<!--Text description-->
 			<tr>
-				<td class="presenter_past_info_container"></td>
+				<td class="presenter_past_info_container">
+					<b>[Presenter]</b><br>
+					<a href="https://www.kuleuven.be/wieiswie/en/person/00003471">Patrick De Causmaecker</a><br>
+					(KU Leuven)<br>
+				</td>
+
 				<td>
 					<table class="panelists_past_container_single">
-						<tr>
-							<td colspan="2"><b>[Presenter]</b> <br></td>
-							<td><b>[Invited by]</b> <br></td>
-						</tr>
-						<tr>
-							<td>
-								<a href="https://www.kuleuven.be/wieiswie/en/person/00003471">Patrick De Causmaecker</a><br>
-								(KU Leuven)<br>
-							</td>
-							<td></td>
-							<td>
-								<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a><br>
-								(CTU in Prague)
-							</td>
-						</tr>
+						<td colspan="2">
+							<b>Keywords:</b> Data Science, Machine learning, Combinatorial optimization, Scheduling, Algorithms, Landscape analysis, Automated tuning, Automated construction, Automated selection, Instance hardness <br/><br>
+							<b>[Invited by]</b>
+							<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a>
+							(CTU in Prague)
+						</td>
 					</table>
 				</td>
 			</tr>
@@ -1456,7 +1446,6 @@
 					   class="label_abstract" download>
 						Download Video
 					</a>
-					<!--Keywords: Energy, MILP, Bilevel optimization, Real-world application, Industry, Sustainability-->
 				</td>
 			</tr>
 
@@ -1481,25 +1470,21 @@
 
 			<!--Text description-->
 			<tr>
-				<td class="presenter_past_info_container"></td>
+				<td class="presenter_past_info_container">
+					<b>[Presenter]</b><br>
+					<a href="https://www.hitachienergy.com/news/testimonials/2021/06/iiro-harjunkoski-germany">Iiro
+						Harjunkoski</a><br>
+					(Hitachi Energy)<br>
+				</td>
+
 				<td>
 					<table class="panelists_past_container_single">
-						<tr>
-							<td colspan="2"><b>[Presenter]</b> <br></td>
-							<td><b>[Invited by]</b> <br></td>
-						</tr>
-						<tr>
-							<td>
-								<a href="https://www.hitachienergy.com/news/testimonials/2021/06/iiro-harjunkoski-germany">Iiro
-									Harjunkoski</a><br>
-								(Hitachi Energy)<br>
-							</td>
-							<td></td>
-							<td>
-								<a href="http://people.ciirc.cvut.cz/~suchap/">Přemysl Šůcha</a><br>
-								(CTU in Prague)
-							</td>
-						</tr>
+						<td colspan="2">
+							<b>Keywords:</b> Energy, MILP, Bilevel optimization, Real-world application, Industry, Sustainability <br/><br>
+							<b>[Invited by]</b>
+							<a href="http://people.ciirc.cvut.cz/~suchap/">Přemysl Šůcha</a>
+							(CTU in Prague)
+						</td>
 					</table>
 				</td>
 			</tr>
@@ -1540,7 +1525,6 @@
 					   class="label_abstract" download>
 						Download Video
 					</a>
-					<!--Keywords: constraint programming, scheduling, machine learning, hybrid optimization-->
 				</td>
 			</tr>
 
@@ -1565,24 +1549,20 @@
 
 			<!--Text description-->
 			<tr>
-				<td class="presenter_past_info_container"></td>
+				<td class="presenter_past_info_container">
+					<b>[Presenter]</b><br>
+					<a href="https://sites.gatech.edu/pascal-van-hentenryck/">Pascal Van Hentenryck</a><br>
+					(Georgia Tech)<br>
+				</td>
+
 				<td>
 					<table class="panelists_past_container_single">
-						<tr>
-							<td colspan="2"><b>[Presenter]</b> <br></td>
-							<td><b>[Invited by]</b> <br></td>
-						</tr>
-						<tr>
-							<td>
-								<a href="https://sites.gatech.edu/pascal-van-hentenryck/">Pascal Van Hentenryck</a><br>
-								(Georgia Tech)<br>
-							</td>
-							<td></td>
-							<td>
-								<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a><br>
-								(CTU in Prague)
-							</td>
-						</tr>
+						<td colspan="2">
+							<b>Keywords:</b> Constraint programming, Scheduling, Machine learning, Hybrid optimization <br/><br>
+							<b>[Invited by]</b>
+							<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a>
+							(CTU in Prague)
+						</td>
 					</table>
 				</td>
 			</tr>
@@ -1629,7 +1609,6 @@
 					   class="label_abstract" download>
 						Download Video
 					</a>
-					<!--Keywords: Mixed-integer linear programming (MILP), Resource-constrained project scheduling problem (RCPSP), solvers, relaxation, CP, SAT-->
 				</td>
 			</tr>
 
@@ -1654,25 +1633,21 @@
 
 			<!--Text description-->
 			<tr>
-				<td class="presenter_past_info_container"></td>
+				<td class="presenter_past_info_container">
+					<b>[Presenter]</b><br>
+					<a href="https://homepages.laas.fr/artigues/drupal/node/11">Christian Artigues</a><br>
+					(LAAS - CNRS)<br>
+				</td>
+
 				<td>
 					<table class="panelists_past_container_single">
-						<tr>
-							<td colspan="2"><b>[Presenter]</b> <br></td>
-							<td><b>[Invited by]</b> <br></td>
-						</tr>
-						<tr>
-							<td>
-								<a href="https://homepages.laas.fr/artigues/drupal/node/11">Christian Artigues</a><br>
-								(LAAS - CNRS)<br>
-							</td>
-							<td></td>
-							<td>
-								<a href="https://www.professors.wi.tum.de/om/team/prof-dr-rainer-kolisch/">Rainer
-									Kolisch</a><br>
-								(TU Munich)
-							</td>
-						</tr>
+						<td colspan="2">
+							<b>Keywords:</b> Mixed-integer linear programming (MILP), Resource-constrained project scheduling problem (RCPSP), solvers, relaxation, CP, SAT <br/><br>
+							<b>[Invited by]</b>
+							<a href="https://www.professors.wi.tum.de/om/team/prof-dr-rainer-kolisch/">Rainer
+								Kolisch</a>
+							(TU Munich)
+						</td>
 					</table>
 				</td>
 			</tr>
