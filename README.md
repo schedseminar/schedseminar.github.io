@@ -332,6 +332,10 @@
 					<a href="./presentations/SchedulingSeminar_VincentTkindt.pdf" class="label_abstract" download>
 						Download PDF
 					</a>
+					<a href="LINK"
+					   class="label_abstract" download>
+						Download Video
+					</a>
 				</td>
 			</tr>
 
@@ -432,6 +436,10 @@
 					<a href="./presentations/SchedulingSeminar_JacquesCarlier.pdf" class="label_abstract" download>
 						Download PDF
 					</a>
+					<a href="LINK"
+					   class="label_abstract" download>
+						Download Video
+					</a>
 					<!--Keywords: scheduling, cumulative resource, lower bound, algorithms, energetic reasoning -->
 				</td>
 			</tr>
@@ -509,6 +517,10 @@
 					</div>
 					<a href="./presentations/SchedulingSeminar_LarsRohwedder.pdf" class="label_abstract" download>
 						Download PDF
+					</a>
+					<a href="LINK"
+					   class="label_abstract" download>
+						Download Video
 					</a>
 					<!--Keywords: scheduling, flow time, integer programming, discrepancy, dynamic programming -->
 				</td>
@@ -600,7 +612,7 @@
 					<a href="./presentations/SchedulingSeminar_SigridKnust.pdf" class="label_abstract" download>
 						Download PDF
 					</a>
-					<a href="https://scheduling-seminar.iid.ciirc.cvut.cz/videos/22%203_Fall%20(6)/22_11_23%20Sigrid%20Knust%20(Uni%20of%20Osnabr%c3%bcck)%20Synchronous%20flow%20shop%20scheduling%20problems.mp4"
+					<a href="https://scheduling-seminar.iid.ciirc.cvut.cz/videos/22_3_Fall/22_11_23%20Sigrid%20Knust%20(Uni%20of%20Osnabr%c3%bcck)%20Synchronous%20flow%20shop%20scheduling%20problems.mp4"
 					   class="label_abstract" download>
 						Download Video
 					</a>
@@ -707,7 +719,7 @@
 					   download>
 						Download PDF
 					</a>
-					<a href="https://scheduling-seminar.iid.ciirc.cvut.cz/videos/22%203_Fall%20(6)/22_11_9%20Alessandro%20Agnetis%20(University%20of%20Siena)%20_%20Scheduling%20machines%20s.t.%20constraints.mp4"
+					<a href="https://scheduling-seminar.iid.ciirc.cvut.cz/videos/22_3_Fall/22_11_9%20Alessandro%20Agnetis%20(University%20of%20Siena)%20_%20Scheduling%20machines%20s.t.%20constraints.mp4"
 					   class="label_abstract" download>
 						Download Video
 					</a>
@@ -794,7 +806,7 @@
 					<a href="./presentations/SchedulingSeminar_CliffordStein.pdf" class="label_abstract" download>
 						Download PDF
 					</a>
-					<a href="https://scheduling-seminar.iid.ciirc.cvut.cz/videos/22%203_Fall%20(6)/22_10_26%20Clifford%20Stein%20(Columbia%20Uni)%20_%20Scheduling%20with%20Speed%20Predictions.mp4"
+					<a href="https://scheduling-seminar.iid.ciirc.cvut.cz/videos/22_3_Fall/22_10_26%20Clifford%20Stein%20(Columbia%20Uni)%20_%20Scheduling%20with%20Speed%20Predictions.mp4"
 					   class="label_abstract" download>
 						Download Video
 					</a>
@@ -887,7 +899,7 @@
 					<a href="./presentations/SchedulingSeminar_GreetVandenBerghe.pdf" class="label_abstract" download>
 						Download PDF
 					</a>
-					<a href="https://scheduling-seminar.iid.ciirc.cvut.cz/videos/22%203_Fall%20(6)/22_10_12%20Greet%20Vanden%20Berghe%20(KU%20Leuven)%20_%20Vehicle%20routing_%20A%20focus%20on%20heuristic%20design.mp4"
+					<a href="https://scheduling-seminar.iid.ciirc.cvut.cz/videos/22_3_Fall/22_10_12%20Greet%20Vanden%20Berghe%20(KU%20Leuven)%20_%20Vehicle%20routing_%20A%20focus%20on%20heuristic%20design.mp4"
 					   class="label_abstract" download>
 						Download Video
 					</a>
@@ -980,7 +992,7 @@
 					<a href="./presentations/SchedulingSeminar_AlixMunierKordon.pdf" class="label_abstract" download>
 						Download PDF
 					</a>
-					<a href="https://scheduling-seminar.iid.ciirc.cvut.cz/videos/22%203_Fall%20(6)/22_9_28%20Alix%20Munier%20Kordon%20(Sorbonne%20U.,%20LIP6)%20_%20Synchronous%20DataFlow_%20A%20survival%20guide.mp4"
+					<a href="https://scheduling-seminar.iid.ciirc.cvut.cz/videos/22_3_Fall/22_9_28%20Alix%20Munier%20Kordon%20(Sorbonne%20U.,%20LIP6)%20_%20Synchronous%20DataFlow_%20A%20survival%20guide.mp4"
 					   class="label_abstract" download>
 						Download Video
 					</a>
@@ -1068,7 +1080,7 @@
 					<a href="./presentations/SchedulingSeminar_ChristosZacharias.pdf" class="label_abstract" download>
 						Download PDF
 					</a>
-					<a href="https://scheduling-seminar.iid.ciirc.cvut.cz/videos/22%203_Fall%20(6)/22_9_14%20Christos%20Zacharias%20(University%20of%20Miami)%20_%20Dynamic%20Inter%20&%20Intraday%20Scheduling.mp4"
+					<a href="https://scheduling-seminar.iid.ciirc.cvut.cz/videos/22_3_Fall/22_9_14%20Christos%20Zacharias%20(University%20of%20Miami)%20_%20Dynamic%20Inter%20&%20Intraday%20Scheduling.mp4"
 					   class="label_abstract" download>
 						Download Video
 					</a>
@@ -1161,7 +1173,7 @@
 					<a href="./presentations/SchedulingSeminar_MauriceQueyranne.pdf" class="label_abstract" download>
 						Download PDF
 					</a>
-					<a href="https://scheduling-seminar.iid.ciirc.cvut.cz/videos/22%202_Spring%20(7)/22_6_22%20Maurice%20Queyranne%20(Sauder%20School,%20UBC)%20_%20On%20Polyhedral%20Approaches%20to%20Sched....mp4"
+					<a href="https://scheduling-seminar.iid.ciirc.cvut.cz/videos/22_2_Spring/22_6_22%20Maurice%20Queyranne%20(Sauder%20School,%20UBC)%20_%20On%20Polyhedral%20Approaches%20to%20Sched....mp4"
 					   class="label_abstract" download>
 						Download Video
 					</a>
@@ -1246,7 +1258,7 @@
 					<a href="./presentations/SchedulingSeminar_NicoleMegow.pdf" class="label_abstract" download>
 						Download PDF
 					</a>
-					<a href="https://scheduling-seminar.iid.ciirc.cvut.cz/videos/22%202_Spring%20(7)/22_6_6%20Nicole%20Megow%20(Universit%c3%a4t%20Bremen)%20_%20Learning-Augmented%20Online%20Algorithms....mp4"
+					<a href="https://scheduling-seminar.iid.ciirc.cvut.cz/videos/22_2_Spring/22_6_6%20Nicole%20Megow%20(Universit%c3%a4t%20Bremen)%20_%20Learning-Augmented%20Online%20Algorithms....mp4"
 					   class="label_abstract" download>
 						Download Video
 					</a>
@@ -1331,7 +1343,7 @@
 					   download>
 						Download PDF
 					</a>
-					<a href="https://scheduling-seminar.iid.ciirc.cvut.cz/videos/22%202_Spring%20(7)/22_5_25%20Stanislaw%20Gawiejnowicz%20(AMU%20Pozna%c3%b1)%20_%20The%20Time-dependent%20Scheduling.mp4"
+					<a href="https://scheduling-seminar.iid.ciirc.cvut.cz/videos/22_2_Spring/22_5_25%20Stanislaw%20Gawiejnowicz%20(AMU%20Pozna%c3%b1)%20_%20The%20Time-dependent%20Scheduling.mp4"
 					   class="label_abstract" download>
 						Download Video
 					</a>
@@ -1420,7 +1432,7 @@
 					   download>
 						Download PDF
 					</a>
-					<a href="https://scheduling-seminar.iid.ciirc.cvut.cz/videos/22%202_Spring%20(7)/22_5_11%20Patrick%20De%20Causmaecker%20(KU%20Leuven)%20_%20Data%20Science%20Meets%20Scheduling.mp4"
+					<a href="https://scheduling-seminar.iid.ciirc.cvut.cz/videos/22_2_Spring/22_5_11%20Patrick%20De%20Causmaecker%20(KU%20Leuven)%20_%20Data%20Science%20Meets%20Scheduling.mp4"
 					   class="label_abstract" download>
 						Download Video
 					</a>
@@ -1506,7 +1518,7 @@
 					<a href="./presentations/SchedulingSeminar_IiroHarjunkoski.pdf" class="label_abstract" download>
 						Download PDF
 					</a>
-					<a href="https://scheduling-seminar.iid.ciirc.cvut.cz/videos/22%202_Spring%20(7)/22_4_27%20Iiro%20Harjunkoski%20(Hitachi%20Energy)%20_%20Scheduling%20and%20Energy.mp4"
+					<a href="https://scheduling-seminar.iid.ciirc.cvut.cz/videos/22_2_Spring/22_4_27%20Iiro%20Harjunkoski%20(Hitachi%20Energy)%20_%20Scheduling%20and%20Energy.mp4"
 					   class="label_abstract" download>
 						Download Video
 					</a>
@@ -1590,7 +1602,7 @@
 					<a href="./presentations/SchedulingSeminar_PascalVanHentenryck.pdf" class="label_abstract" download>
 						Download PDF
 					</a>
-					<a href="https://scheduling-seminar.iid.ciirc.cvut.cz/videos/22%202_Spring%20(7)/22_4_13%20Pascal%20Van%20Hentenryck%20(Georgia%20Tech)%20_%20Constraint%20Programming%20for%20Scheduling.mp4"
+					<a href="https://scheduling-seminar.iid.ciirc.cvut.cz/videos/22_2_Spring/22_4_13%20Pascal%20Van%20Hentenryck%20(Georgia%20Tech)%20_%20Constraint%20Programming%20for%20Scheduling.mp4"
 					   class="label_abstract" download>
 						Download Video
 					</a>
@@ -1679,7 +1691,7 @@
 					<a href="./presentations/SchedulingSeminar_ChristianArtigues.pdf" class="label_abstract" download>
 						Download PDF
 					</a>
-					<a href="https://scheduling-seminar.iid.ciirc.cvut.cz/videos/22%202_Spring%20(7)/22_3_30%20Christian%20Artigues%20(LAAS%20-%20CNRS)%20_%20MILP%20for%20resource-constrained%20scheduling.mp4"
+					<a href="https://scheduling-seminar.iid.ciirc.cvut.cz/videos/22_2_Spring/22_3_30%20Christian%20Artigues%20(LAAS%20-%20CNRS)%20_%20MILP%20for%20resource-constrained%20scheduling.mp4"
 					   class="label_abstract" download>
 						Download Video
 					</a>
@@ -1768,7 +1780,7 @@
 					<a href="./presentations/SchedulingSeminar_LarsMoench.pdf" class="label_abstract" download>
 						Download PDF
 					</a>
-					<a href="https://scheduling-seminar.iid.ciirc.cvut.cz/videos/22%201_Winter%20(5)/22_3_16%20Lars%20M%c3%b6nch%20(Uni%20of%20Hagen)%20_%20Scheduling%20Problems%20in%20Semiconductor%20Fabrication%202.mp4"
+					<a href="https://scheduling-seminar.iid.ciirc.cvut.cz/videos/22_1_Winter/22_3_16%20Lars%20M%c3%b6nch%20(Uni%20of%20Hagen)%20_%20Scheduling%20Problems%20in%20Semiconductor%20Fabrication%202.mp4"
 					   class="label_abstract" download>
 						Download Video
 					</a>
@@ -1855,7 +1867,7 @@
 					<a href="./presentations/SchedulingSeminar_JohnWFowler.pdf" class="label_abstract" download>
 						Download PDF
 					</a>
-					<a href="https://scheduling-seminar.iid.ciirc.cvut.cz/videos/22%201_Winter%20(5)/22_3_2%20John%20W.%20Fowler%20(Arizona%20State%20Univ.)%20_%20Scheduling%20Problems%20in%20Semicond.%20Fab.%201.mp4"
+					<a href="https://scheduling-seminar.iid.ciirc.cvut.cz/videos/22_1_Winter/22_3_2%20John%20W.%20Fowler%20(Arizona%20State%20Univ.)%20_%20Scheduling%20Problems%20in%20Semicond.%20Fab.%201.mp4"
 					   class="label_abstract" download>
 						Download Video
 					</a>
@@ -1942,7 +1954,7 @@
 					<a href="./presentations/SchedulingSeminar_KangbokLee.pdf" class="label_abstract" download>
 						Download PDF
 					</a>
-					<a href="https://scheduling-seminar.iid.ciirc.cvut.cz/videos/22%201_Winter%20(5)/22_2_16%20Kangbok%20Lee%20(POSTECH)%20_%20Scheduling%20Heuristics%20for%20Steelmaking%20Continuous....mp4"
+					<a href="https://scheduling-seminar.iid.ciirc.cvut.cz/videos/22_1_Winter/22_2_16%20Kangbok%20Lee%20(POSTECH)%20_%20Scheduling%20Heuristics%20for%20Steelmaking%20Continuous....mp4"
 					   class="label_abstract" download>
 						Download Video
 					</a>
@@ -2035,7 +2047,7 @@
 					<a href="./presentations/SchedulingSeminar_YindongShen.pdf" class="label_abstract" download>
 						Download PDF
 					</a>
-					<a href="https://scheduling-seminar.iid.ciirc.cvut.cz/videos/22%201_Winter%20(5)/22_2_2%20Yindong%20Shen%20(AIA%20Huazhong%20Uni)%20_%20Public%20transit%20planning%20and%20scheduling....mp4"
+					<a href="https://scheduling-seminar.iid.ciirc.cvut.cz/videos/22_1_Winter/22_2_2%20Yindong%20Shen%20(AIA%20Huazhong%20Uni)%20_%20Public%20transit%20planning%20and%20scheduling....mp4"
 					   class="label_abstract" download>
 						Download Video
 					</a>
@@ -2119,7 +2131,7 @@
 					<a href="./presentations/SchedulingSeminar_DvirShabtay.pdf" class="label_abstract" download>
 						Download PDF
 					</a>
-					<a href="https://scheduling-seminar.iid.ciirc.cvut.cz/videos/22%201_Winter%20(5)/22_1_19%20Dvir%20Shabtay%20(Ben-Gurion%20Uni)%20_%20On%20the%20Parameterized%20Complexity%20of%20Machine....mp4"
+					<a href="https://scheduling-seminar.iid.ciirc.cvut.cz/videos/22_1_Winter/22_1_19%20Dvir%20Shabtay%20(Ben-Gurion%20Uni)%20_%20On%20the%20Parameterized%20Complexity%20of%20Machine....mp4"
 					   class="label_abstract" download>
 						Download Video
 					</a>
@@ -2221,7 +2233,7 @@
 					<a href="./presentations/SchedulingSeminar_RubénRuiz.pdf" class="label_abstract" download>
 						Download PDF
 					</a>
-					<a href="https://scheduling-seminar.iid.ciirc.cvut.cz/videos/21%203_Fall%20(8)/21_12_22%20Rub%c3%a9n%20Ruiz%20(UP%20de%20Val%c3%a8ncia)%20_%20State-of-the-art%20flowshop%20scheduling%20heuristics.mp4"
+					<a href="https://scheduling-seminar.iid.ciirc.cvut.cz/videos/21_3_Fall/21_12_22%20Rub%c3%a9n%20Ruiz%20(UP%20de%20Val%c3%a8ncia)%20_%20State-of-the-art%20flowshop%20scheduling%20heuristics.mp4"
 					   class="label_abstract" download>
 						Download Video
 					</a>
@@ -2310,7 +2322,7 @@
 					<a href="./presentations/SchedulingSeminar_ChristophDürr.pdf" class="label_abstract" download>
 						Download PDF
 					</a>
-					<a href="https://scheduling-seminar.iid.ciirc.cvut.cz/videos/21%203_Fall%20(8)/21_12_8%20Christoph%20D%c3%bcrr%20(Sorbonne%20Uni)%20_%20Three%20models%20for%20scheduling%20under%20explorable....mp4"
+					<a href="https://scheduling-seminar.iid.ciirc.cvut.cz/videos/21_3_Fall/21_12_8%20Christoph%20D%c3%bcrr%20(Sorbonne%20Uni)%20_%20Three%20models%20for%20scheduling%20under%20explorable....mp4"
 					   class="label_abstract" download>
 						Download Video
 					</a>
@@ -2399,7 +2411,7 @@
 					<a href="./presentations/SchedulingSeminar_MichelGendreau.pdf" class="label_abstract" download>
 						Download PDF
 					</a>
-					<a href="https://scheduling-seminar.iid.ciirc.cvut.cz/videos/21%203_Fall%20(8)/21_11_24%20Michel%20Gendreau%20(Polytech%20Montr%c3%a9al)%20_%20Tabu%20search%20for%20the%20time-dependent....mp4"
+					<a href="https://scheduling-seminar.iid.ciirc.cvut.cz/videos/21_3_Fall/21_11_24%20Michel%20Gendreau%20(Polytech%20Montr%c3%a9al)%20_%20Tabu%20search%20for%20the%20time-dependent....mp4"
 					   class="label_abstract" download>
 						Download Video
 					</a>
@@ -2495,7 +2507,7 @@
 					<a href="./presentations/SchedulingSeminar_CarloMannino.pdf" class="label_abstract" download>
 						Download PDF
 					</a>
-					<a href="https://scheduling-seminar.iid.ciirc.cvut.cz/videos/21%203_Fall%20(8)/21_11_10%20Carlo%20Mannino%20_%20Train%20Scheduling_%20Models,%20decomposition...%20_%20Nov%2010,%202021.mp4"
+					<a href="https://scheduling-seminar.iid.ciirc.cvut.cz/videos/21_3_Fall/21_11_10%20Carlo%20Mannino%20_%20Train%20Scheduling_%20Models,%20decomposition...%20_%20Nov%2010,%202021.mp4"
 					   class="label_abstract" download>
 						Download Video
 					</a>
@@ -2581,7 +2593,7 @@
 					<a href="./presentations/SchedulingSeminar_BenjaminMoseley.pdf" class="label_abstract" download>
 						Download PDF
 					</a>
-					<a href="https://scheduling-seminar.iid.ciirc.cvut.cz/videos/21%203_Fall%20(8)/21_10_27%20Benjamin%20Moseley%20_%20Machine%20Learning%20for%20Scheduling%20_%20Oct%2027,%202021.mp4"
+					<a href="https://scheduling-seminar.iid.ciirc.cvut.cz/videos/21_3_Fall/21_10_27%20Benjamin%20Moseley%20_%20Machine%20Learning%20for%20Scheduling%20_%20Oct%2027,%202021.mp4"
 					   class="label_abstract" download>
 						Download Video
 					</a>
@@ -2672,7 +2684,7 @@
 					<a href="./presentations/SchedulingSeminar_FedericoDellaCroce.pdf" class="label_abstract" download>
 						Download PDF
 					</a>
-					<a href="https://scheduling-seminar.iid.ciirc.cvut.cz/videos/21%203_Fall%20(8)/21_10_13%20Federico%20Della%20Croce%20_%20The%20Longest%20Processing%20Time%20Rule%20for...%20_%20Oct%2013,%202021.mp4"
+					<a href="https://scheduling-seminar.iid.ciirc.cvut.cz/videos/21_3_Fall/21_10_13%20Federico%20Della%20Croce%20_%20The%20Longest%20Processing%20Time%20Rule%20for...%20_%20Oct%2013,%202021.mp4"
 					   class="label_abstract" download>
 						Download Video
 					</a>
@@ -2760,7 +2772,7 @@
 					<a href="./presentations/SchedulingSeminar_LeahEpstein.pdf" class="label_abstract" download>
 						Download PDF
 					</a>
-					<a href="https://scheduling-seminar.iid.ciirc.cvut.cz/videos/21%203_Fall%20(8)/21_9_29%20Leah%20Epstein%20_%20The%20Benefit%20of%20Preemption%20_%20Sep%2029,%202021.mp4"
+					<a href="https://scheduling-seminar.iid.ciirc.cvut.cz/videos/21_3_Fall/21_9_29%20Leah%20Epstein%20_%20The%20Benefit%20of%20Preemption%20_%20Sep%2029,%202021.mp4"
 					   class="label_abstract" download>
 						Download Video
 					</a>
@@ -2859,7 +2871,7 @@
 					<a href="presentations/SchedulingSeminar_NicholasHall.pdf" class="label_abstract" download>
 						Download PDF
 					</a>
-					<a href="https://scheduling-seminar.iid.ciirc.cvut.cz/videos/21%203_Fall%20(8)/21_9_14%20Nicholas%20G.%20Hall%20_%20Dynamic%20Opponent%20Choice%20in%20Tournaments%20_%20Sep%2014,%202021.mp4"
+					<a href="https://scheduling-seminar.iid.ciirc.cvut.cz/videos/21_3_Fall/21_9_14%20Nicholas%20G.%20Hall%20_%20Dynamic%20Opponent%20Choice%20in%20Tournaments%20_%20Sep%2014,%202021.mp4"
 					   class="label_abstract" download>
 						Download Video
 					</a>
@@ -2943,7 +2955,7 @@
 					<a href="presentations/SchedulingSeminar_AndreaSchaerf.pdf" class="label_abstract" download>
 						Download PDF
 					</a>
-					<a href="https://scheduling-seminar.iid.ciirc.cvut.cz/videos/21%202_Spring%20(8)/21_7_7%20Andrea%20Schaerf%20_%20Educational%20Timetabling_%20Problems...%20_%20July%207,%202021.mp4"
+					<a href="https://scheduling-seminar.iid.ciirc.cvut.cz/videos/21_2_Spring/21_7_7%20Andrea%20Schaerf%20_%20Educational%20Timetabling_%20Problems...%20_%20July%207,%202021.mp4"
 					   class="label_abstract" download>
 						Download Video
 					</a>
@@ -3034,7 +3046,7 @@
 					<a href="./presentations/SchedulingSeminar_MichaelCarter.pdf" class="label_abstract" download>
 						Download PDF
 					</a>
-					<a href="https://scheduling-seminar.iid.ciirc.cvut.cz/videos/21%202_Spring%20(8)/21_6_23%20Mike%20Carter%20_%20Challenges%20in%20Healthcare%20Scheduling%20Applications%20_%20June%2023,%202021.mp4"
+					<a href="https://scheduling-seminar.iid.ciirc.cvut.cz/videos/21_2_Spring/21_6_23%20Mike%20Carter%20_%20Challenges%20in%20Healthcare%20Scheduling%20Applications%20_%20June%2023,%202021.mp4"
 					   class="label_abstract" download>
 						Download Video
 					</a>
@@ -3120,7 +3132,6 @@
 					<!--Keywords: Single-machine scheduling; Promary-secondary criteria; Computational complexity.-->
 
 					<input type="checkbox" id="bio_id_7" style="display:none;">
-					<label for="bio_id_7" class="label_abstract"><a>Biography</a></label>
 					<div class="hidden">
 						<hr style="border-top: 1px solid black;">
 						Jinjiang Yuan (J.J. Yuan) is a Professor in the School of Mathematics and Statistics, Zhengzhou
@@ -3136,10 +3147,12 @@
 					<a href="./presentations/SchedulingSeminar_JinjiangYuan.pdf" class="label_abstract" download>
 						Download PDF
 					</a>
-					<a href="https://scheduling-seminar.iid.ciirc.cvut.cz/videos/21%202_Spring%20(8)/21_6_10%20Jinjiang%20Yuan%20_%20Updated%20complexity%20results%20in%20single-machine..._%20Jun%2010,%202021.mp4"
+					<a href="https://scheduling-seminar.iid.ciirc.cvut.cz/videos/21_2_Spring/21_6_10%20Jinjiang%20Yuan%20_%20Updated%20complexity%20results%20in%20single-machine..._%20Jun%2010,%202021.mp4"
 					   class="label_abstract" download>
 						Download Video
 					</a>
+
+					<label for="bio_id_7" class="label_abstract"><a>Biography</a></label>
 				</td>
 			</tr>
 
@@ -3224,7 +3237,7 @@
 					<a href="./presentations/SchedulingSeminar_ErikDemeulemeester.pdf" class="label_abstract" download>
 						Download PDF
 					</a>
-					<a href="https://scheduling-seminar.iid.ciirc.cvut.cz/videos/21%202_Spring%20(8)/21_5_26%20Erik%20Demeulemeester%20_%20State%20of%20the%20Art%20in%20Proactive_Reactive...%20_%20May%2026,%202021.mp4"
+					<a href="https://scheduling-seminar.iid.ciirc.cvut.cz/videos/21_2_Spring/21_5_26%20Erik%20Demeulemeester%20_%20State%20of%20the%20Art%20in%20Proactive_Reactive...%20_%20May%2026,%202021.mp4"
 					   class="label_abstract" download>
 						Download Video
 					</a>
@@ -3308,7 +3321,7 @@
 					<a href="./presentations/SchedulingSeminar_MartinSkutella.pdf" class="label_abstract" download>
 						Download PDF
 					</a>
-					<a href="https://scheduling-seminar.iid.ciirc.cvut.cz/videos/21%202_Spring%20(8)/21_5_12%20Martin%20Skutella%20_%20Efficient%20Algorithms%20and%20Provably%20Good...%20_%20May%2012,%202021.mp4"
+					<a href="https://scheduling-seminar.iid.ciirc.cvut.cz/videos/21_2_Spring/21_5_12%20Martin%20Skutella%20_%20Efficient%20Algorithms%20and%20Provably%20Good...%20_%20May%2012,%202021.mp4"
 					   class="label_abstract" download>
 						Download Video
 					</a>
@@ -3399,7 +3412,7 @@
 					<a href="./presentations/SchedulingSeminar_LixinTang.pdf" class="label_abstract" download>
 						Download PDF
 					</a>
-					<a href="https://scheduling-seminar.iid.ciirc.cvut.cz/videos/21%202_Spring%20(8)/21_4_28%20Lixin%20Tang%20_%20Data%20Ana.%20&%20Opt.%20for%20Prod.,%20Logist.%20&%20Energy%20Sched.%20_%20Apr%2028,%202021.mp4"
+					<a href="https://scheduling-seminar.iid.ciirc.cvut.cz/videos/21_2_Spring/21_4_28%20Lixin%20Tang%20_%20Data%20Ana.%20&%20Opt.%20for%20Prod.,%20Logist.%20&%20Energy%20Sched.%20_%20Apr%2028,%202021.mp4"
 					   class="label_abstract" download>
 						Download Video
 					</a>
@@ -3502,7 +3515,7 @@
 					<a href="/presentations/SchedulingSeminar_HarcholBalter.pdf" class="label_abstract" download>
 						Download PDF
 					</a>
-					<a href="https://scheduling-seminar.iid.ciirc.cvut.cz/videos/21%202_Spring%20(8)/21_4_14%20Mor%20Harchol-Balter%20_%20Recent%20Breakthroughs%20in%20Stoch.%20Scheduling%20_%20Apr%2014,%202021.mp4"
+					<a href="https://scheduling-seminar.iid.ciirc.cvut.cz/videos/21_2_Spring/21_4_14%20Mor%20Harchol-Balter%20_%20Recent%20Breakthroughs%20in%20Stoch.%20Scheduling%20_%20Apr%2014,%202021.mp4"
 					   class="label_abstract" download>
 						Download Video
 					</a>
@@ -3583,7 +3596,7 @@
 					   download>
 						Download PDF
 					</a>
-					<a href="https://scheduling-seminar.iid.ciirc.cvut.cz/videos/21%202_Spring%20(8)/21_3_31%20J.K.%20Lenstra%20and%20D.%20Shmoys%20_%20Elements%20of%20scheduling%20_%20Mar%2031,%202021.mp4"
+					<a href="https://scheduling-seminar.iid.ciirc.cvut.cz/videos/21_2_Spring/21_3_31%20J.K.%20Lenstra%20and%20D.%20Shmoys%20_%20Elements%20of%20scheduling%20_%20Mar%2031,%202021.mp4"
 					   class="label_abstract" download>
 						Download Video
 					</a>
