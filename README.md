@@ -1693,7 +1693,6 @@
 					   class="label_abstract" download>
 						Download Video
 					</a>
-					<!--Keywords: scheduling, batching, semiconductor manufacturing, decomposition methods-->
 				</td>
 			</tr>
 
@@ -1718,24 +1717,20 @@
 
 			<!--Text description-->
 			<tr>
-				<td class="presenter_past_info_container"></td>
+				<td class="presenter_past_info_container">
+					<b>[Presenter]</b><br>
+					<a href="https://www.fernuni-hagen.de/ess/team/lars.moench.shtml">Lars Mönch</a><br>
+					(Uni of Hagen)<br>
+				</td>
+
 				<td>
 					<table class="panelists_past_container_single">
-						<tr>
-							<td colspan="2"><b>[Presenter]</b> <br></td>
-							<td><b>[Invited by]</b> <br></td>
-						</tr>
-						<tr>
-							<td>
-								<a href="https://www.fernuni-hagen.de/ess/team/lars.moench.shtml">Lars Mönch</a><br>
-								(Uni of Hagen)<br>
-							</td>
-							<td></td>
-							<td>
-								<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a><br>
-								(CTU in Prague)
-							</td>
-						</tr>
+						<td colspan="2">
+							<b>Keywords:</b> Scheduling, Batching, Semiconductor manufacturing, Decomposition methods <br/><br>
+							<b>[Invited by]</b>
+							<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a>
+							(CTU in Prague)
+						</td>
 					</table>
 				</td>
 			</tr>
@@ -1780,7 +1775,6 @@
 					   class="label_abstract" download>
 						Download Video
 					</a>
-					<!--Keywords: semiconductor manufacturing, scheduling-->
 				</td>
 			</tr>
 
@@ -1805,24 +1799,20 @@
 
 			<!--Text description-->
 			<tr>
-				<td class="presenter_past_info_container"></td>
+				<td class="presenter_past_info_container">
+					<b>[Presenter]</b><br>
+					<a href="https://isearch.asu.edu/profile/36406">John W. Fowler</a><br>
+					(Arizona State Univ.)<br>
+				</td>
+
 				<td>
 					<table class="panelists_past_container_single">
-						<tr>
-							<td colspan="2"><b>[Presenter]</b> <br></td>
-							<td><b>[Invited by]</b> <br></td>
-						</tr>
-						<tr>
-							<td>
-								<a href="https://isearch.asu.edu/profile/36406">John W. Fowler</a><br>
-								(Arizona State Univ.)<br>
-							</td>
-							<td></td>
-							<td>
-								<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a><br>
-								(New York University)
-							</td>
-						</tr>
+						<td colspan="2">
+							<b>Keywords:</b> Semiconductor Manufacturing, Scheduling <br/><br>
+							<b>[Invited by]</b>
+							<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a>
+							(New York University)
+						</td>
 					</table>
 				</td>
 			</tr>
@@ -1867,7 +1857,6 @@
 					   class="label_abstract" download>
 						Download Video
 					</a>
-					<!--Keywords: steelmaking-continuous casting, hybrid flow shop, mixed-integer programming, matheuristic-->
 				</td>
 			</tr>
 
@@ -1892,24 +1881,20 @@
 
 			<!--Text description-->
 			<tr>
-				<td class="presenter_past_info_container"></td>
+				<td class="presenter_past_info_container">
+					<b>[Presenter]</b><br>
+					<a href="https://sites.google.com/site/kangbokstudy/">Kangbok Lee</a><br>
+					(POSTECH)<br>
+				</td>
+
 				<td>
 					<table class="panelists_past_container_single">
-						<tr>
-							<td colspan="2"><b>[Presenter]</b> <br></td>
-							<td><b>[Invited by]</b> <br></td>
-						</tr>
-						<tr>
-							<td>
-								<a href="https://sites.google.com/site/kangbokstudy/">Kangbok Lee</a><br>
-								(POSTECH)<br>
-							</td>
-							<td></td>
-							<td>
-								<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a><br>
-								(New York University)
-							</td>
-						</tr>
+						<td colspan="2">
+							<b>Keywords:</b> Steelmaking-continuous casting, Hybrid flow shop, Mixed-integer programming, Matheuristic <br/><br>
+							<b>[Invited by]</b>
+							<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a>
+							(New York University)
+						</td>
 					</table>
 				</td>
 			</tr>
@@ -1960,7 +1945,6 @@
 					   class="label_abstract" download>
 						Download Video
 					</a>
-					<!--Keywords: public transit planning, vehicle scheduling, timetabling, AVL data, public transport-->
 				</td>
 			</tr>
 
@@ -1985,24 +1969,20 @@
 
 			<!--Text description-->
 			<tr>
-				<td class="presenter_past_info_container"></td>
+				<td class="presenter_past_info_container">
+					<b>[Presenter]</b><br>
+					<a href="http://english.aia.hust.edu.cn/info/1030/1279.htm">Yindong Shen</a><br>
+					(AIA Huazhong Uni)<br>
+				</td>
+
 				<td>
 					<table class="panelists_past_container_single">
-						<tr>
-							<td colspan="2"><b>[Presenter]</b> <br></td>
-							<td><b>[Invited by]</b> <br></td>
-						</tr>
-						<tr>
-							<td>
-								<a href="http://english.aia.hust.edu.cn/info/1030/1279.htm">Yindong Shen</a><br>
-								(AIA Huazhong Uni)<br>
-							</td>
-							<td></td>
-							<td>
-								<a href="http://www.acem.sjtu.edu.cn/en/faculty/wanguohua.html">Guohua Wan</a><br>
-								(Shanghai Jiao Tong)
-							</td>
-						</tr>
+						<td colspan="2">
+							<b>Keywords:</b> Public transit planning, Vehicle scheduling, Timetabling, AVL data, Public transport <br/><br>
+							<b>[Invited by]</b>
+							<a href="http://www.acem.sjtu.edu.cn/en/faculty/wanguohua.html">Guohua Wan</a>
+							(Shanghai Jiao Tong)
+						</td>
 					</table>
 				</td>
 			</tr>
