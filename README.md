@@ -148,7 +148,6 @@
 					<!--					<a href="./presentations/SchedulingSeminar_LarsRohwedder.pdf" class="label_abstract" download>-->
 					<!--						Download PDF-->
 					<!--					</a>-->
-					<!--Keywords: Scheduling, Manufacturing Systems, Machine Learning, Real Applications -->
 					<!--					<a href="LINK"-->
 					<!--					   class="label_abstract" download>-->
 					<!--						Download Video-->
@@ -169,6 +168,7 @@
 					<b>[Presenter]</b><br>
 					<a href="https://msslab.kaist.ac.kr/Professor/professor">Hyun-Jung Kim</a><br>
 					(KAIST)<br><br/>
+					<!--<b>Keywords:</b> Scheduling, Manufacturing Systems, Machine Learning, Real Applications -->
 					<b>[Invited by]</b><br>
 					<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a> <br/>
 					(New York University)
@@ -233,7 +233,6 @@
 					<!--					<a href="./presentations/SchedulingSeminar_LarsRohwedder.pdf" class="label_abstract" download>-->
 					<!--						Download PDF-->
 					<!--					</a>-->
-					<!--Keywords: Scheduling, Cooperative game, Core -->
 					<!--					<a href="LINK"-->
 					<!--					   class="label_abstract" download>-->
 					<!--						Download Video-->
@@ -254,6 +253,7 @@
 					<b>[Presenter]</b><br>
 					<a href="https://seng.ust.hk/about/people/faculty/xiangtong-qi">Xiangtong Qi</a><br>
 					(HKUST)<br><br/>
+					<!--<b>Keywords:</b> Scheduling, Cooperative game, Core -->
 					<b>[Invited by]</b><br>
 					<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a> <br/>
 					(New York University)
@@ -375,21 +375,6 @@
 							<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a>
 							(CTU in Prague)
 						</td>
-						<!--						<tr>-->
-						<!--							<td colspan="2"><b>[Presenter]</b> <br></td>-->
-						<!--							<td><b>[Invited by]</b> <br></td>-->
-						<!--						</tr>-->
-						<!--						<tr>-->
-						<!--							<td>-->
-						<!--								<a href="https://www.univ-tours.fr/annuaire/m-vincent-tkindt">Vincent T’kindt</a><br>-->
-						<!--								(Uni de Tours)<br>-->
-						<!--							</td>-->
-						<!--							<td></td>-->
-						<!--							<td>-->
-						<!--								<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a><br>-->
-						<!--								(CTU in Prague)-->
-						<!--							</td>-->
-						<!--						</tr>-->
 					</table>
 				</td>
 			</tr>
