@@ -149,6 +149,10 @@
 					<!--						Download PDF-->
 					<!--					</a>-->
 					<!--Keywords: Scheduling, Manufacturing Systems, Machine Learning, Real Applications -->
+					<!--					<a href="LINK"-->
+					<!--					   class="label_abstract" download>-->
+					<!--						Download Video-->
+					<!--					</a>-->
 				</td>
 			</tr>
 
@@ -230,6 +234,10 @@
 					<!--						Download PDF-->
 					<!--					</a>-->
 					<!--Keywords: Scheduling, Cooperative game, Core -->
+					<!--					<a href="LINK"-->
+					<!--					   class="label_abstract" download>-->
+					<!--						Download Video-->
+					<!--					</a>-->
 				</td>
 			</tr>
 
@@ -324,7 +332,6 @@
 					<a href="./presentations/SchedulingSeminar_VincentTkindt.pdf" class="label_abstract" download>
 						Download PDF
 					</a>
-					<!--Keywords: Machine scheduling; Mathematical Programming ; Heuristics -->
 				</td>
 			</tr>
 
@@ -349,24 +356,36 @@
 
 			<!--Text description-->
 			<tr>
-				<td class="presenter_past_info_container"></td>
+				<td class="presenter_past_info_container">
+					<b>[Presenter]</b><br>
+					<a href="https://www.univ-tours.fr/annuaire/m-vincent-tkindt">Vincent T’kindt</a><br>
+					(Uni de Tours)<br>
+					<!--					<b>Keywords:</b> Machine scheduling; Mathematical Programming; Heuristics-->
+				</td>
+
 				<td>
 					<table class="panelists_past_container_single">
-						<tr>
-							<td colspan="2"><b>[Presenter]</b> <br></td>
-							<td><b>[Invited by]</b> <br></td>
-						</tr>
-						<tr>
-							<td>
-								<a href="https://www.univ-tours.fr/annuaire/m-vincent-tkindt">Vincent T’kindt</a><br>
-								(Uni de Tours)<br>
-							</td>
-							<td></td>
-							<td>
-								<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a><br>
-								(CTU in Prague)
-							</td>
-						</tr>
+						<td colspan="2">
+							<b>Keywords:</b> Machine scheduling; Mathematical Programming; Heuristics <br/><br>
+							<b>[Invited by]</b>
+							<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a>
+							(CTU in Prague)
+						</td>
+						<!--						<tr>-->
+						<!--							<td colspan="2"><b>[Presenter]</b> <br></td>-->
+						<!--							<td><b>[Invited by]</b> <br></td>-->
+						<!--						</tr>-->
+						<!--						<tr>-->
+						<!--							<td>-->
+						<!--								<a href="https://www.univ-tours.fr/annuaire/m-vincent-tkindt">Vincent T’kindt</a><br>-->
+						<!--								(Uni de Tours)<br>-->
+						<!--							</td>-->
+						<!--							<td></td>-->
+						<!--							<td>-->
+						<!--								<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a><br>-->
+						<!--								(CTU in Prague)-->
+						<!--							</td>-->
+						<!--						</tr>-->
 					</table>
 				</td>
 			</tr>
