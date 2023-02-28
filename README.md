@@ -425,7 +425,6 @@
 					   class="label_abstract" download>
 						Download Video
 					</a>
-					<!--Keywords: scheduling, cumulative resource, lower bound, algorithms, energetic reasoning -->
 				</td>
 			</tr>
 
@@ -450,25 +449,21 @@
 
 			<!--Text description-->
 			<tr>
-				<td class="presenter_past_info_container"></td>
+				<td class="presenter_past_info_container">
+					<b>[Presenter]</b><br>
+					<a href="https://scholar.google.fr/citations?user=VrUXV3IAAAAJ&hl=en">Jacques
+						Carlier</a><br>
+					(Sorbonne Uni)<br>
+				</td>
+
 				<td>
 					<table class="panelists_past_container_single">
-						<tr>
-							<td colspan="2"><b>[Presenter]</b> <br></td>
-							<td><b>[Invited by]</b> <br></td>
-						</tr>
-						<tr>
-							<td>
-								<a href="https://scholar.google.fr/citations?user=VrUXV3IAAAAJ&hl=en">Jacques
-									Carlier</a><br>
-								(Sorbonne Uni)<br>
-							</td>
-							<td></td>
-							<td>
-								<a href="https://homepages.laas.fr/artigues/drupal/node/11">Christian Artigues</a><br>
-								(LAAS - CNRS)
-							</td>
-						</tr>
+						<td colspan="2">
+							<b>Keywords:</b> Scheduling; Cumulative resource; Lower bound; Algorithms; Energetic reasoning <br/><br>
+							<b>[Invited by]</b>
+							<a href="https://homepages.laas.fr/artigues/drupal/node/11">Christian Artigues</a>
+							(LAAS - CNRS)
+						</td>
 					</table>
 				</td>
 			</tr>
@@ -507,7 +502,6 @@
 					   class="label_abstract" download>
 						Download Video
 					</a>
-					<!--Keywords: scheduling, flow time, integer programming, discrepancy, dynamic programming -->
 				</td>
 			</tr>
 
@@ -532,25 +526,20 @@
 
 			<!--Text description-->
 			<tr>
-				<td class="presenter_past_info_container"></td>
+				<td class="presenter_past_info_container">
+					<b>[Presenter]</b><br>
+					<a href="https://larsrohwedder.com/">Lars Rohwedder</a><br>
+					(Maastricht University)<br>
+				</td>
+
 				<td>
 					<table class="panelists_past_container_single">
-						<tr>
-							<td colspan="2"><b>[Presenter]</b> <br></td>
-							<td><b>[Invited by]</b> <br></td>
-						</tr>
-						<tr>
-							<td>
-								<a href="https://larsrohwedder.com/">Lars Rohwedder</a><br>
-								(Maastricht University)<br>
-
-							</td>
-							<td></td>
-							<td>
-								<a href="https://www.cwi.nl/people/jan-karel-lenstra">Jan Karel Lenstra</a><br>
-								(CWI)
-							</td>
-						</tr>
+						<td colspan="2">
+							<b>Keywords:</b> Scheduling; Flow time; Integer programming; Discrepancy; Dynamic programming <br/><br>
+							<b>[Invited by]</b>
+							<a href="https://www.cwi.nl/people/jan-karel-lenstra">Jan Karel Lenstra</a>
+							(CWI)
+						</td>
 					</table>
 				</td>
 			</tr>
@@ -601,7 +590,6 @@
 					   class="label_abstract" download>
 						Download Video
 					</a>
-					<!--Keywords: scheduling, flow shop, synchronized movement, shelf board production -->
 				</td>
 			</tr>
 
@@ -626,24 +614,20 @@
 
 			<!--Text description-->
 			<tr>
-				<td class="presenter_past_info_container"></td>
+				<td class="presenter_past_info_container">
+					<b>[Presenter]</b><br>
+					<a href="https://www.informatik.uni-osnabrueck.de/knust/">Sigrid Knust</a><br>
+					(Uni of Osnabrück)<br>
+				</td>
+
 				<td>
 					<table class="panelists_past_container_single">
-						<tr>
-							<td colspan="2"><b>[Presenter]</b> <br></td>
-							<td><b>[Invited by]</b> <br></td>
-						</tr>
-						<tr>
-							<td>
-								<a href="https://www.informatik.uni-osnabrueck.de/knust/">Sigrid Knust</a><br>
-								(Uni of Osnabrück)<br>
-							</td>
-							<td></td>
-							<td>
-								<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a><br>
-								(CTU in Prague)
-							</td>
-						</tr>
+						<td colspan="2">
+							<b>Keywords:</b> Scheduling; Flow shop; Synchronized movement; Shelf board production <br/><br>
+							<b>[Invited by]</b>
+							<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a>
+							(CTU in Prague)
+						</td>
 					</table>
 				</td>
 			</tr>
@@ -708,7 +692,6 @@
 					   class="label_abstract" download>
 						Download Video
 					</a>
-					<!--Keywords: scheduling, machine breakdowns, testing -->
 				</td>
 			</tr>
 
@@ -733,24 +716,20 @@
 
 			<!--Text description-->
 			<tr>
-				<td class="presenter_past_info_container"></td>
+				<td class="presenter_past_info_container">
+					<b>[Presenter]</b><br>
+					<a href="https://www3.diism.unisi.it/~agnetis/">Alessandro Agnetis</a><br>
+					(University of Siena)<br>
+				</td>
+
 				<td>
 					<table class="panelists_past_container_single">
-						<tr>
-							<td colspan="2"><b>[Presenter]</b> <br></td>
-							<td><b>[Invited by]</b> <br></td>
-						</tr>
-						<tr>
-							<td>
-								<a href="https://www3.diism.unisi.it/~agnetis/">Alessandro Agnetis</a><br>
-								(University of Siena)<br>
-							</td>
-							<td></td>
-							<td>
-								<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a><br>
-								(CTU in Prague)
-							</td>
-						</tr>
+						<td colspan="2">
+							<b>Keywords:</b> Scheduling; Machine breakdowns; Testing <br/><br>
+							<b>[Invited by]</b>
+							<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a>
+							(CTU in Prague)
+						</td>
 					</table>
 				</td>
 			</tr>
@@ -795,7 +774,6 @@
 					   class="label_abstract" download>
 						Download Video
 					</a>
-					<!--Keywords: ???  -->
 				</td>
 			</tr>
 
@@ -820,24 +798,20 @@
 
 			<!--Text description-->
 			<tr>
-				<td class="presenter_past_info_container"></td>
+				<td class="presenter_past_info_container">
+					<b>[Presenter]</b><br>
+					<a href="https://www.ieor.columbia.edu/faculty/clifford-stein">Clifford Stein</a><br>
+					(Columbia Uni)<br>
+				</td>
+
 				<td>
 					<table class="panelists_past_container_single">
-						<tr>
-							<td colspan="2"><b>[Presenter]</b> <br></td>
-							<td><b>[Invited by]</b> <br></td>
-						</tr>
-						<tr>
-							<td>
-								<a href="https://www.ieor.columbia.edu/faculty/clifford-stein">Clifford Stein</a><br>
-								(Columbia Uni)<br>
-							</td>
-							<td></td>
-							<td>
-								<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a><br>
-								(New York University)
-							</td>
-						</tr>
+						<td colspan="2">
+							<b>Keywords:</b>  <br/><br>
+							<b>[Invited by]</b>
+							<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a>
+							(New York University)
+						</td>
 					</table>
 				</td>
 			</tr>
@@ -888,7 +862,6 @@
 					   class="label_abstract" download>
 						Download Video
 					</a>
-					<!--Keywords: ​vehicle routing,  local search operators, ruin and recreate, spatial slack, capacity slack, fleet minimization  -->
 				</td>
 			</tr>
 
@@ -913,25 +886,21 @@
 
 			<!--Text description-->
 			<tr>
-				<td class="presenter_past_info_container"></td>
+				<td class="presenter_past_info_container">
+					<b>[Presenter]</b><br>
+					<a href="https://www.kuleuven.be/wieiswie/nl/person/00053376">Greet Vanden
+						Berghe</a><br>
+					(KU Leuven)<br>
+				</td>
+
 				<td>
 					<table class="panelists_past_container_single">
-						<tr>
-							<td colspan="2"><b>[Presenter]</b> <br></td>
-							<td><b>[Invited by]</b> <br></td>
-						</tr>
-						<tr>
-							<td>
-								<a href="https://www.kuleuven.be/wieiswie/nl/person/00053376">Greet Vanden
-									Berghe</a><br>
-								(KU Leuven)<br>
-							</td>
-							<td></td>
-							<td>
-								<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a><br>
-								(CTU in Prague)
-							</td>
-						</tr>
+						<td colspan="2">
+							<b>Keywords:</b> Vehicle routing; Local search operators; Ruin and recreate; Spatial slack; Capacity slack; Fleet minimization <br/><br>
+							<b>[Invited by]</b>
+							<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a>
+							(CTU in Prague)
+						</td>
 					</table>
 				</td>
 			</tr>
@@ -981,7 +950,6 @@
 					   class="label_abstract" download>
 						Download Video
 					</a>
-					<!--Keywords: Synchronous DataFlow, precedence constraints, normalization, liveness, throughput evaluation -->
 				</td>
 			</tr>
 
@@ -1006,26 +974,22 @@
 
 			<!--Text description-->
 			<tr>
-				<td class="presenter_past_info_container"></td>
+				<td class="presenter_past_info_container">
+					<b>[Presenter]</b><br>
+					<a href="https://www.lip6.fr/actualite/personnes-fiche.php?ident=P653">Alix Munier
+						Kordon</a><br>
+					(Sorbonne U., LIP6)<br>
+				</td>
+
 				<td>
 					<table class="panelists_past_container_single">
-						<tr>
-							<td colspan="2"><b>[Presenter]</b> <br></td>
-							<td><b>[Invited by]</b> <br></td>
-						</tr>
-						<tr>
-							<td>
-								<a href="https://www.lip6.fr/actualite/personnes-fiche.php?ident=P653">Alix Munier
-									Kordon</a><br>
-								(Sorbonne U., LIP6)<br>
-							</td>
-							<td></td>
-							<td>
-								<a href="https://ufr-segmi.parisnanterre.fr/organisation-et-contacts/espace-reserve-enseignants/site-des-enseignants/les-enseignants-de-segmi/hanen-claire/hanen-claire-93518.kjsp">Claire
-									Hanen</a><br>
-								(Sorbonne Uni)
-							</td>
-						</tr>
+						<td colspan="2">
+							<b>Keywords:</b> Synchronous DataFlow; Precedence constraints; Normalization; Liveness; Throughput evaluation <br/><br>
+							<b>[Invited by]</b>
+							<a href="https://ufr-segmi.parisnanterre.fr/organisation-et-contacts/espace-reserve-enseignants/site-des-enseignants/les-enseignants-de-segmi/hanen-claire/hanen-claire-93518.kjsp">Claire
+								Hanen</a>
+							(Sorbonne Uni)
+						</td>
 					</table>
 				</td>
 			</tr>
@@ -1069,7 +1033,6 @@
 					   class="label_abstract" download>
 						Download Video
 					</a>
-					<!--Keywords: dynamic programming; discrete convexity; stochastic models;  appointment scheduling -->
 				</td>
 			</tr>
 
@@ -1094,24 +1057,20 @@
 
 			<!--Text description-->
 			<tr>
-				<td class="presenter_past_info_container"></td>
+				<td class="presenter_past_info_container">
+					<b>[Presenter]</b><br>
+					<a href="http://moya.bus.miami.edu/~czacharias/">Christos Zacharias</a><br>
+					(University of Miami)<br>
+				</td>
+
 				<td>
 					<table class="panelists_past_container_single">
-						<tr>
-							<td colspan="2"><b>[Presenter]</b> <br></td>
-							<td><b>[Invited by]</b> <br></td>
-						</tr>
-						<tr>
-							<td>
-								<a href="http://moya.bus.miami.edu/~czacharias/">Christos Zacharias</a><br>
-								(University of Miami)<br>
-							</td>
-							<td></td>
-							<td>
-								<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a><br>
-								(New York University)
-							</td>
-						</tr>
+						<td colspan="2">
+							<b>Keywords:</b> Dynamic programming; Discrete convexity; Stochastic models; Appointment scheduling <br/><br>
+							<b>[Invited by]</b>
+							<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a>
+							(New York University)
+						</td>
 					</table>
 				</td>
 			</tr>
@@ -1162,7 +1121,6 @@
 					   class="label_abstract" download>
 						Download Video
 					</a>
-					<!--Keywords: scheduling, polyhedra, formulations-->
 				</td>
 			</tr>
 
@@ -1187,24 +1145,20 @@
 
 			<!--Text description-->
 			<tr>
-				<td class="presenter_past_info_container"></td>
+				<td class="presenter_past_info_container">
+					<b>[Presenter]</b><br>
+					<a href="https://www.sauder.ubc.ca/people/maurice-queyranne">Maurice Queyranne</a><br>
+					(Sauder School, UBC)<br>
+				</td>
+
 				<td>
 					<table class="panelists_past_container_single">
-						<tr>
-							<td colspan="2"><b>[Presenter]</b> <br></td>
-							<td><b>[Invited by]</b> <br></td>
-						</tr>
-						<tr>
-							<td>
-								<a href="https://www.sauder.ubc.ca/people/maurice-queyranne">Maurice Queyranne</a><br>
-								(Sauder School, UBC)<br>
-							</td>
-							<td></td>
-							<td>
-								<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a><br>
-								(New York University)
-							</td>
-						</tr>
+						<td colspan="2">
+							<b>Keywords:</b> Scheduling; Polyhedra; Formulations <br/><br>
+							<b>[Invited by]</b>
+							<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a>
+							(New York University)
+						</td>
 					</table>
 				</td>
 			</tr>
@@ -1247,7 +1201,6 @@
 					   class="label_abstract" download>
 						Download Video
 					</a>
-					<!--Keywords: scheduling under uncertainty, algorithms with predictions, learning-augmented algorithms, non-clairvoyant scheduling, online TSP-->
 				</td>
 			</tr>
 
@@ -1272,24 +1225,20 @@
 
 			<!--Text description-->
 			<tr>
-				<td class="presenter_past_info_container"></td>
+				<td class="presenter_past_info_container">
+					<b>[Presenter]</b><br>
+					<a href="https://www.uni-bremen.de/en/cslog/nmegow">Nicole Megow</a><br>
+					(Universität Bremen)<br/>
+				</td>
+
 				<td>
 					<table class="panelists_past_container_single">
-						<tr>
-							<td colspan="2"><b>[Presenter]</b> <br></td>
-							<td><b>[Invited by]</b> <br></td>
-						</tr>
-						<tr>
-							<td>
-								<a href="https://www.uni-bremen.de/en/cslog/nmegow">Nicole Megow</a><br>
-								(Universität Bremen)<br/>
-							</td>
-							<td></td>
-							<td>
-								<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a><br>
-								(New York University)
-							</td>
-						</tr>
+						<td colspan="2">
+							<b>Keywords:</b> scheduling under uncertainty, algorithms with predictions, learning-augmented algorithms, non-clairvoyant scheduling, online TSP <br/><br>
+							<b>[Invited by]</b>
+							<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a>
+							(New York University)
+						</td>
 					</table>
 				</td>
 			</tr>
