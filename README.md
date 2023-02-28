@@ -2024,7 +2024,6 @@
 					   class="label_abstract" download>
 						Download Video
 					</a>
-					<!--Keywords: scheduling, NP-hard, fixed parameterized tractability (FPT), algorithmic design, optimization-->
 				</td>
 			</tr>
 
@@ -2049,25 +2048,21 @@
 
 			<!--Text description-->
 			<tr>
-				<td class="presenter_past_info_container"></td>
+				<td class="presenter_past_info_container">
+					<b>[Presenter]</b><br>
+					<a href="https://in.bgu.ac.il/en/engn/iem/pages/staff/Dvir-Shabtay.aspx">Dvir
+						Shabtay</a><br>
+					(Ben Gurion Uni)<br>
+				</td>
+
 				<td>
 					<table class="panelists_past_container_single">
-						<tr>
-							<td colspan="2"><b>[Presenter]</b> <br></td>
-							<td><b>[Invited by]</b> <br></td>
-						</tr>
-						<tr>
-							<td>
-								<a href="https://in.bgu.ac.il/en/engn/iem/pages/staff/Dvir-Shabtay.aspx">Dvir
-									Shabtay</a><br>
-								(Ben Gurion Uni)<br>
-							</td>
-							<td></td>
-							<td>
-								<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a><br>
-								(New York University)
-							</td>
-						</tr>
+						<td colspan="2">
+							<b>Keywords:</b> Scheduling, NP-hard, Fixed parameterized tractability (FPT), Algorithmic design, Optimization <br/><br>
+							<b>[Invited by]</b>
+							<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a>
+							(New York University)
+						</td>
 					</table>
 				</td>
 			</tr>
@@ -2126,7 +2121,6 @@
 					   class="label_abstract" download>
 						Download Video
 					</a>
-					<!--Keywords: scheduling, flowshop, heuristics, metaheuristics, iterated greedy-->
 				</td>
 			</tr>
 
@@ -2151,24 +2145,20 @@
 
 			<!--Text description-->
 			<tr>
-				<td class="presenter_past_info_container"></td>
+				<td class="presenter_past_info_container">
+					<b>[Presenter]</b><br>
+					<a href="http://soa.iti.es/rruiz">Rubén Ruiz</a><br>
+					(UP de València)<br>
+				</td>
+
 				<td>
 					<table class="panelists_past_container_single">
-						<tr>
-							<td colspan="2"><b>[Presenter]</b> <br></td>
-							<td><b>[Invited by]</b> <br></td>
-						</tr>
-						<tr>
-							<td>
-								<a href="http://soa.iti.es/rruiz">Rubén Ruiz</a><br>
-								(UP de València)<br>
-							</td>
-							<td></td>
-							<td>
-								<a href="https://www.kuleuven.be/wieiswie/nl/person/00053376">G. Vanden Berghe</a><br>
-								(KU Leuven)
-							</td>
-						</tr>
+						<td colspan="2">
+							<b>Keywords:</b> Scheduling, Flowshop, Heuristics, Metaheuristics, Iterated greedy <br/><br>
+							<b>[Invited by]</b>
+							<a href="https://www.kuleuven.be/wieiswie/nl/person/00053376">G. Vanden Berghe</a>
+							(KU Leuven)
+						</td>
 					</table>
 				</td>
 			</tr>
@@ -2215,7 +2205,6 @@
 					   class="label_abstract" download>
 						Download Video
 					</a>
-					<!--Keywords: TODO-->
 				</td>
 			</tr>
 
@@ -2240,24 +2229,20 @@
 
 			<!--Text description-->
 			<tr>
-				<td class="presenter_past_info_container"></td>
+				<td class="presenter_past_info_container">
+					<b>[Presenter]</b><br>
+					<a href="http://www.lip6.fr/Christoph.Durr">Christoph Dürr</a><br>
+					(Sorbonne Uni)<br>
+				</td>
+
 				<td>
 					<table class="panelists_past_container_single">
-						<tr>
-							<td colspan="2"><b>[Presenter]</b> <br></td>
-							<td><b>[Invited by]</b> <br></td>
-						</tr>
-						<tr>
-							<td>
-								<a href="http://www.lip6.fr/Christoph.Durr">Christoph Dürr</a><br>
-								(Sorbonne Uni)<br>
-							</td>
-							<td></td>
-							<td>
-								<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a><br>
-								(CTU in Prague)
-							</td>
-						</tr>
+						<td colspan="2">
+							<b>Keywords:</b> Scheduling, uncertainty, Sum of completion times, Processing time oracle, Competitive ratio <br/><br>
+							<b>[Invited by]</b>
+							<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a>
+							(CTU in Prague)
+						</td>
 					</table>
 				</td>
 			</tr>
@@ -2304,7 +2289,6 @@
 					   class="label_abstract" download>
 						Download Video
 					</a>
-					<!--Keywords: routing, time windows, time-dependent travel times, road network, tabu search-->
 				</td>
 			</tr>
 
@@ -2329,24 +2313,20 @@
 
 			<!--Text description-->
 			<tr>
-				<td class="presenter_past_info_container"></td>
+				<td class="presenter_past_info_container">
+					<b>[Presenter]</b><br>
+					<a href="https://www.polymtl.ca/expertises/en/gendreau-michel">Michel Gendreau</a><br>
+					(Polytech Montréal)<br>
+				</td>
+
 				<td>
 					<table class="panelists_past_container_single">
-						<tr>
-							<td colspan="2"><b>[Presenter]</b> <br></td>
-							<td><b>[Invited by]</b> <br></td>
-						</tr>
-						<tr>
-							<td>
-								<a href="https://www.polymtl.ca/expertises/en/gendreau-michel">Michel Gendreau</a><br>
-								(Polytech Montréal)<br>
-							</td>
-							<td></td>
-							<td>
-								<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a><br>
-								(CTU in Prague) <br>
-							</td>
-						</tr>
+						<td colspan="2">
+							<b>Keywords:</b> Routing, Time windows, Time-dependent travel times, Road network, Tabu search <br/><br>
+							<b>[Invited by]</b>
+							<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a>
+							(CTU in Prague) <br>
+						</td>
 					</table>
 				</td>
 			</tr>
@@ -2400,7 +2380,6 @@
 					   class="label_abstract" download>
 						Download Video
 					</a>
-					<!--Keywords: train scheduling, job-shop scheduling, combinatorial optimization, integer programming, decomposition methods-->
 				</td>
 			</tr>
 
@@ -2425,24 +2404,20 @@
 
 			<!--Text description-->
 			<tr>
-				<td class="presenter_past_info_container"></td>
+				<td class="presenter_past_info_container">
+					<b>[Presenter]</b><br>
+					<a href="https://www.mn.uio.no/math/english/people/aca/carloman/">Carlo Mannino</a><br>
+					(SINTEF & Oslo Uni.)<br>
+				</td>
+
 				<td>
 					<table class="panelists_past_container_single">
-						<tr>
-							<td colspan="2"><b>[Presenter]</b> <br></td>
-							<td><b>[Invited by]</b> <br></td>
-						</tr>
-						<tr>
-							<td>
-								<a href="https://www.mn.uio.no/math/english/people/aca/carloman/">Carlo Mannino</a><br>
-								(SINTEF & Oslo Uni.)<br>
-							</td>
-							<td></td>
-							<td>
-								<a href="https://www3.diism.unisi.it/~agnetis/">Alessandro Agnetis</a><br>
-								(University of Siena)
-							</td>
-						</tr>
+						<td colspan="2">
+							<b>Keywords:</b> Train scheduling, Job-shop scheduling, Combinatorial optimization, Integer programming, Decomposition methods <br/><br>
+							<b>[Invited by]</b>
+							<a href="https://www3.diism.unisi.it/~agnetis/">Alessandro Agnetis</a>
+							(University of Siena)
+						</td>
 					</table>
 				</td>
 			</tr>
@@ -2486,7 +2461,6 @@
 					   class="label_abstract" download>
 						Download Video
 					</a>
-					<!--Keywords: scheduling, learning augmented, optimization, sample complexity, robustness, error, competitive, approximation-->
 				</td>
 			</tr>
 
@@ -2512,25 +2486,21 @@
 
 			<!--Text description-->
 			<tr>
-				<td class="presenter_past_info_container"></td>
+				<td class="presenter_past_info_container">
+					<b>[Presenter]</b><br>
+					<a href="http://www.andrew.cmu.edu/user/moseleyb/  ">Benjamin
+						Moseley</a><br>
+					(Carnegie Mellon)<br>
+				</td>
+
 				<td>
 					<table class="panelists_past_container_single">
-						<tr>
-							<td colspan="2"><b>[Presenter]</b> <br></td>
-							<td><b>[Invited by]</b> <br></td>
-						</tr>
-						<tr>
-							<td>
-								<a href="http://www.andrew.cmu.edu/user/moseleyb/  ">Benjamin
-									Moseley</a><br>
-								(Carnegie Mellon)<br>
-							</td>
-							<td></td>
-							<td>
-								<a href="https://www.ieor.columbia.edu/faculty/clifford-stein">Clifford Stein</a> <br>
-								(Columbia Uni)
-							</td>
-						</tr>
+						<td colspan="2">
+							<b>Keywords:</b> Scheduling, Learning augmented, Optimization, Sample complexity, Robustness, Error, Competitive, Approximation <br/><br>
+							<b>[Invited by]</b>
+							<a href="https://www.ieor.columbia.edu/faculty/clifford-stein">Clifford Stein</a>
+							(Columbia Uni)
+						</td>
 					</table>
 				</td>
 			</tr>
@@ -2577,7 +2547,6 @@
 					   class="label_abstract" download>
 						Download Video
 					</a>
-					<!--Keywords: identical parallel machine scheduling; LPT rule; linear programming;  approximation-->
 				</td>
 			</tr>
 
@@ -2603,25 +2572,21 @@
 
 			<!--Text description-->
 			<tr>
-				<td class="presenter_past_info_container"></td>
+				<td class="presenter_past_info_container">
+					<b>[Presenter]</b><br>
+					<a href="https://www.digep.polito.it/en/personale/scheda/(nominativo)/federico.dellacroce">Federico
+						Della Croce</a><br>
+					(DIGEP - Polito.it)<br>
+				</td>
+
 				<td>
 					<table class="panelists_past_container_single">
-						<tr>
-							<td colspan="2"><b>[Presenter]</b> <br></td>
-							<td><b>[Invited by]</b> <br></td>
-						</tr>
-						<tr>
-							<td>
-								<a href="https://www.digep.polito.it/en/personale/scheda/(nominativo)/federico.dellacroce">Federico
-									Della Croce</a><br>
-								(DIGEP - Polito.it)<br>
-							</td>
-							<td></td>
-							<td>
-								<a href="https://www.univ-tours.fr/annuaire/m-vincent-tkindt">Vincent T’kindt</a><br>
-								(Uni de Tours)
-							</td>
-						</tr>
+						<td colspan="2">
+							<b>Keywords:</b> Identical parallel machine scheduling, LPT rule, Linear programming, Approximation <br/><br>
+							<b>[Invited by]</b>
+							<a href="https://www.univ-tours.fr/annuaire/m-vincent-tkindt">Vincent T’kindt</a>
+							(Uni de Tours)
+						</td>
 					</table>
 				</td>
 			</tr>
@@ -2665,7 +2630,6 @@
 					   class="label_abstract" download>
 						Download Video
 					</a>
-					<!--Keywords: preemptive scheduling, uniformly related machines, total completion time, makespan-->
 				</td>
 			</tr>
 
@@ -2691,25 +2655,21 @@
 
 			<!--Text description-->
 			<tr>
-				<td class="presenter_past_info_container"></td>
+				<td class="presenter_past_info_container">
+					<b>[Presenter]</b><br>
+					<a href="http://math.haifa.ac.il/lea/">Leah Epstein</a><br>
+					(University of Haifa)<br>
+				</td>
+
 				<td>
 					<table class="panelists_past_container_single">
-						<tr>
-							<td colspan="2"><b>[Presenter]</b> <br></td>
-							<td><b>[Invited by]</b> <br></td>
-						</tr>
-						<tr>
-							<td>
-								<a href="http://math.haifa.ac.il/lea/">Leah Epstein</a><br>
-								(University of Haifa)<br>
-							</td>
-							<td></td>
-							<td>
-								<a href="https://in.bgu.ac.il/en/engn/iem/pages/staff/Dvir-Shabtay.aspx">Dvir
-									Shabtay</a> <br>
-								(Ben Gurion Uni)
-							</td>
-						</tr>
+						<td colspan="2">
+							<b>Keywords:</b> Preemptive scheduling, Uniformly related machines, Total completion time, Makespan <br/><br>
+							<b>[Invited by]</b>
+							<a href="https://in.bgu.ac.il/en/engn/iem/pages/staff/Dvir-Shabtay.aspx">Dvir
+								Shabtay</a>
+							(Ben Gurion Uni)
+						</td>
 					</table>
 				</td>
 			</tr>
@@ -2764,7 +2724,6 @@
 					   class="label_abstract" download>
 						Download Video
 					</a>
-					<!--Keywords: multiple round sports tournament, choice of opponent, performance criteria, professional tennis-->
 				</td>
 			</tr>
 
@@ -2790,24 +2749,20 @@
 
 			<!--Text description-->
 			<tr>
-				<td class="presenter_past_info_container"></td>
+				<td class="presenter_past_info_container">
+					<b>[Presenter]</b><br>
+					<a href="">Nicholas G. Hall</a><br>
+					(The Ohio State Uni)<br>
+				</td>
+
 				<td>
 					<table class="panelists_past_container_single">
-						<tr>
-							<td colspan="2"><b>[Presenter]</b> <br></td>
-							<td><b>[Invited by]</b> <br></td>
-						</tr>
-						<tr>
-							<td>
-								<a href="">Nicholas G. Hall</a><br>
-								(The Ohio State Uni)<br>
-							</td>
-							<td></td>
-							<td>
-								<a href="https://www.or-as.be">Mario Vanhoucke</a> <br>
-								(Ghent University)
-							</td>
-						</tr>
+						<td colspan="2">
+							<b>Keywords:</b> Multiple round sports tournament, Choice of opponent, Performance criteria, Professional tennis <br/><br>
+							<b>[Invited by]</b>
+							<a href="https://www.or-as.be">Mario Vanhoucke</a>
+							(Ghent University)
+						</td>
 					</table>
 				</td>
 			</tr>
@@ -2848,7 +2803,6 @@
 					   class="label_abstract" download>
 						Download Video
 					</a>
-					<!--Keywords: Timetabling, Scheduling, Optimization, Metaheuristics, Local Search-->
 				</td>
 			</tr>
 
@@ -2874,24 +2828,20 @@
 
 			<!--Text description-->
 			<tr>
-				<td class="presenter_past_info_container"></td>
+				<td class="presenter_past_info_container">
+					<b>[Presenter]</b><br>
+					<a href="http://www.dpia.uniud.it/schaerf/">Andrea Schaerf</a><br>
+					(Uni of Udine)<br>
+				</td>
+
 				<td>
 					<table class="panelists_past_container_single">
-						<tr>
-							<td colspan="2"><b>[Presenter]</b> <br></td>
-							<td><b>[Invited by]</b> <br></td>
-						</tr>
-						<tr>
-							<td>
-								<a href="http://www.dpia.uniud.it/schaerf/">Andrea Schaerf</a><br>
-								(Uni of Udine)<br>
-							</td>
-							<td></td>
-							<td>
-								<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a> <br>
-								(CTU in Prague)
-							</td>
-						</tr>
+						<td colspan="2">
+							<b>Keywords:</b> Timetabling, Scheduling, Optimization, Metaheuristics, Local Search <br/><br>
+							<b>[Invited by]</b>
+							<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a>
+							(CTU in Prague)
+						</td>
 					</table>
 				</td>
 			</tr>
@@ -2939,10 +2889,6 @@
 					   class="label_abstract" download>
 						Download Video
 					</a>
-					<!--Keywords: healthcare scheduling applications, diagnostic imaging, cancer treatment (chemotherapy and-->
-					<!--radiation),-->
-					<!--nurse/physician scheduling, surgical scheduling, 911 call centres, home-->
-					<!--care routing, medical resident scheduling and primary care appointments-->
 				</td>
 			</tr>
 
@@ -2968,24 +2914,20 @@
 
 			<!--Text description-->
 			<tr>
-				<td class="presenter_past_info_container"></td>
+				<td class="presenter_past_info_container">
+					<b>[Presenter]</b><br>
+					<a href="https://che.utoronto.ca/professor-michael-w-carter/">Michael Carter</a><br>
+					(Uni of Toronto)<br>
+				</td>
+
 				<td>
 					<table class="panelists_past_container_single">
-						<tr>
-							<td colspan="2"><b>[Presenter]</b> <br></td>
-							<td><b>[Invited by]</b> <br></td>
-						</tr>
-						<tr>
-							<td>
-								<a href="https://che.utoronto.ca/professor-michael-w-carter/">Michael Carter</a><br>
-								(Uni of Toronto)<br>
-							</td>
-							<td></td>
-							<td>
-								<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a> <br/>
-								(New York University)
-							</td>
-						</tr>
+						<td colspan="2">
+							<b>Keywords:</b> Healthcare scheduling applications, Diagnostic imaging, Cancer treatment (chemotherapy and radiation), Nurse/physician scheduling, Surgical scheduling, 911 call centres, Home care routing, Medical resident scheduling and primary care appointments <br/><br>
+							<b>[Invited by]</b>
+							<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a>
+							(New York University)
+						</td>
 					</table>
 				</td>
 			</tr>
@@ -3018,7 +2960,6 @@
 						open in [LV1993]. This talk will report the research progress of these open problems.
 						<hr style="border-top: 1px solid black;">
 					</div>
-					<!--Keywords: Single-machine scheduling; Promary-secondary criteria; Computational complexity.-->
 
 					<input type="checkbox" id="bio_id_7" style="display:none;">
 					<div class="hidden">
@@ -3067,24 +3008,20 @@
 
 			<!--Text description-->
 			<tr>
-				<td class="presenter_past_info_container"></td>
+				<td class="presenter_past_info_container">
+					<b>[Presenter]</b><br>
+					<a href="https://www.researchgate.net/profile/Jinjiang-Yuan">Jinjiang Yuan</a><br>
+					(Zhengzhou Univ.)<br>
+				</td>
+
 				<td>
 					<table class="panelists_past_container_single">
-						<tr>
-							<td colspan="2"><b>[Presenter]</b> <br></td>
-							<td><b>[Invited by]</b> <br></td>
-						</tr>
-						<tr>
-							<td>
-								<a href="https://www.researchgate.net/profile/Jinjiang-Yuan">Jinjiang Yuan</a><br>
-								(Zhengzhou Univ.)<br>
-							</td>
-							<td></td>
-							<td>
-								<a href="http://www.acem.sjtu.edu.cn/en/faculty/wanguohua.html">Guohua Wan</a><br>
-								(Shanghai Jiao Tong)
-							</td>
-						</tr>
+						<td colspan="2">
+							<b>Keywords:</b> Single-machine scheduling, Promary-secondary criteria, Computational complexity <br/><br>
+							<b>[Invited by]</b>
+							<a href="http://www.acem.sjtu.edu.cn/en/faculty/wanguohua.html">Guohua Wan</a>
+							(Shanghai Jiao Tong)
+						</td>
 					</table>
 				</td>
 			</tr>
@@ -3130,7 +3067,6 @@
 					   class="label_abstract" download>
 						Download Video
 					</a>
-
 				</td>
 			</tr>
 
@@ -3156,25 +3092,21 @@
 
 			<!--Text description-->
 			<tr>
-				<td class="presenter_past_info_container"></td>
+				<td class="presenter_past_info_container">
+					<b>[Presenter]</b><br>
+					<a href="https://www.kuleuven.be/wieiswie/en/person/00008606">Erik
+						Demeulemeester</a><br>
+					(FEB-KBI, KU Leuven)<br/>
+				</td>
+
 				<td>
 					<table class="panelists_past_container_single">
-						<tr>
-							<td colspan="2"><b>[Presenter]</b> <br></td>
-							<td><b>[Invited by]</b> <br></td>
-						</tr>
-						<tr>
-							<td>
-								<a href="https://www.kuleuven.be/wieiswie/en/person/00008606">Erik
-									Demeulemeester</a><br>
-								(FEB-KBI, KU Leuven)<br/>
-							</td>
-							<td></td>
-							<td>
-								<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a> <br>
-								(CTU in Prague)
-							</td>
-						</tr>
+						<td colspan="2">
+							<b>Keywords:</b> Project scheduling, Stochastic activity durations, Proactive/reactive scheduling, Markov decision process <br/><br>
+							<b>[Invited by]</b>
+							<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a>
+							(CTU in Prague))
+						</td>
 					</table>
 				</td>
 			</tr>
@@ -3249,7 +3181,6 @@
 							<td><b>[Invited by]</b> <br></td>
 						</tr>
 						<tr>
-							<!--Only this gets edited-->
 							<td>
 								<a href="https://www.coga.tu-berlin.de/v_menue/mitarbeitende/prof_dr_martin_skutella/prof_dr_martin_skutella/parameter/en/">Martin
 									Skutella</a><br>
@@ -3320,7 +3251,6 @@
 						Director of Data Analytics and Optimization Society for Smart Industry for ORSC.
 						<hr style="border-top: 1px solid black;">
 					</div>
-
 				</td>
 			</tr>
 
@@ -3343,26 +3273,22 @@
 				</td>
 			</tr>
 
+			<!--Text description-->
 			<tr>
-				<td class="presenter_past_info_container"></td>
+				<td class="presenter_past_info_container">
+					<b>[Presenter]</b><br>
+					<a href="http://dao.neu.edu.cn/">Lixin Tang</a><br>
+					(North. Uni, Shenyang)<br>
+				</td>
+
 				<td>
 					<table class="panelists_past_container_single">
-						<tr>
-							<td colspan="2"><b>[Presenter]</b> <br></td>
-							<td><b>[Invited by]</b> <br></td>
-						</tr>
-						<tr>
-							<!--                    Only this gets edited-->
-							<td>
-								<a href="http://dao.neu.edu.cn/">Lixin Tang</a><br>
-								(North. Uni, Shenyang)<br>
-							</td>
-							<td></td>
-							<td>
-								<a href="http://www.acem.sjtu.edu.cn/en/faculty/wanguohua.html">Guohua Wan</a><br>
-								(Shanghai Jiao Tong)
-							</td>
-						</tr>
+						<td colspan="2">
+							<b>Keywords:</b> Production scheduling, Logistics scheduling, Energy scheduling, Data analytics, System optimization, Engineering application <br/><br>
+							<b>[Invited by]</b>
+							<a href="http://www.acem.sjtu.edu.cn/en/faculty/wanguohua.html">Guohua Wan</a><br>
+							(Shanghai Jiao Tong)
+						</td>
 					</table>
 				</td>
 			</tr>
@@ -3433,24 +3359,19 @@
 			<!--Text description-->
 			<tr>
 				<td class="presenter_past_info_container">
+					<b>[Presenter]</b><br>
+					<a href="http://www.cs.cmu.edu/~harchol/">Mor Harchol-Balter</a><br>
+					(CMU)<br>
 				</td>
+
 				<td>
 					<table class="panelists_past_container_single">
-						<tr>
-							<td colspan="2"><b>[Presenter]</b> <br></td>
-							<td><b>[Invited by]</b> <br></td>
-						</tr>
-						<tr>
-							<td>
-								<a href="http://www.cs.cmu.edu/~harchol/">Mor Harchol-Balter</a><br>
-								(CMU)<br>
-							</td>
-							<td></td>
-							<td>
-								<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a><br>
-								(New York University)
-							</td>
-						</tr>
+						<td colspan="2">
+							<b>Keywords:</b> Stochastic scheduling, Job scheduling, M/G/1, M/G/k, SRPT, Shortest-job-first, Gittins, Queuing theory, Priority queues, Preemption, Data centers, High variability, Job sizes, SOAP, Sigmetrics, Performance modeling, Google workloads <br/><br>
+							<b>[Invited by]</b>
+							<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a>
+							(New York University)
+						</td>
 					</table>
 				</td>
 			</tr>
@@ -3465,6 +3386,7 @@
 
 		<!--Dual talk-------------------------------------------------------------------------------------------------->
 		<table style="padding-bottom: 12px;" class="europe">
+			<!--Title/Abstract-->
 			<tr class="europe">
 				<td colspan="3">
 					<h2 class="talk_title"><b>Elements of Scheduling</b><br></h2>
@@ -3518,23 +3440,21 @@
 			<!--Text description-->
 			<tr>
 				<td class="presenter_past_info_container">
+					<b>[Presenters]</b><br>
+					<a href="https://www.cwi.nl/people/jan-karel-lenstra">Jan Karel Lenstra</a><br>
+					(CWI)<br>
+					<a href="https://people.orie.cornell.edu/shmoys/">David Shmoys</a> <br>
+					(Cornell University)<br>
 				</td>
+
 				<td>
-					<table class="panelists_past_container_double">
-						<tr>
-							<td colspan="2"><b>[Presenters]</b> <br></td>
-							<td><b>[Invited by]</b> <br></td>
-						</tr>
-						<tr>
-							<td><a href="https://www.cwi.nl/people/jan-karel-lenstra">Jan Karel Lenstra</a><br>
-								(CWI)<br></td>
-							<td>
-								<a href="https://people.orie.cornell.edu/shmoys/">David Shmoys</a> <br>
-								(Cornell University)<br></td>
-							<td><a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a><br>
-								(New York University)
-							</td>
-						</tr>
+					<table class="panelists_past_container_single">
+						<td colspan="2">
+							<b>Keywords:</b> Scheduling, Scheduling history, Classification, Complexity, Online analysis, Data-driven decision-making, Algorithmic game theory <br/><br>
+							<b>[Invited by]</b>
+							<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a>
+							(New York University)
+						</td>
 					</table>
 				</td>
 			</tr>
