@@ -806,7 +806,7 @@
 				<td>
 					<table class="panelists_past_container_single">
 						<td colspan="2">
-							<b>Keywords:</b>  <br/><br>
+							<b>Keywords:</b> Scheduling, Machine learning, Predictions, On-line algorithms  <br/><br>
 							<b>[Invited by]</b>
 							<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a>
 							(New York University)
