@@ -3101,7 +3101,7 @@
 							<b>Keywords:</b> Project scheduling, Stochastic activity durations, Proactive/reactive scheduling, Markov decision process <br/><br>
 							<b>[Invited by]</b>
 							<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a>
-							(CTU in Prague))
+							(CTU in Prague)
 						</td>
 					</table>
 				</td>
@@ -3169,25 +3169,21 @@
 
 			<!--Text description-->
 			<tr>
-				<td class="presenter_past_info_container"></td>
+				<td class="presenter_past_info_container">
+					<b>[Presenter]</b><br>
+					<a href="https://www.coga.tu-berlin.de/v_menue/mitarbeitende/prof_dr_martin_skutella/prof_dr_martin_skutella/parameter/en/">Martin
+						Skutella</a><br>
+					(TU Berlin)<br>
+				</td>
+
 				<td>
 					<table class="panelists_past_container_single">
-						<tr>
-							<td colspan="2"><b>[Presenter]</b> <br></td>
-							<td><b>[Invited by]</b> <br></td>
-						</tr>
-						<tr>
-							<td>
-								<a href="https://www.coga.tu-berlin.de/v_menue/mitarbeitende/prof_dr_martin_skutella/prof_dr_martin_skutella/parameter/en/">Martin
-									Skutella</a><br>
-								(TU Berlin)<br>
-							</td>
-							<td></td>
-							<td>
-								<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a> <br>
-								(CTU in Prague)
-							</td>
-						</tr>
+						<td colspan="2">
+							<b>Keywords:</b> Machine scheduling, List scheduling, Approximation algorithm, Performance guarantee, Total weighted completion time <br/><br>
+							<b>[Invited by]</b>
+							<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a>
+							(CTU in Prague)
+						</td>
 					</table>
 				</td>
 			</tr>
