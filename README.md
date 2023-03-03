@@ -1229,7 +1229,7 @@
 				<td>
 					<table class="panelists_past_container_single">
 						<td colspan="2">
-							<b>Keywords:</b> scheduling under uncertainty, algorithms with predictions, learning-augmented algorithms, non-clairvoyant scheduling, online TSP <br/><br>
+							<b>Keywords:</b> Scheduling under uncertainty, Algorithms with predictions, Learning-augmented algorithms, Non-clairvoyant scheduling, Online TSP <br/><br>
 							<b>[Invited by]</b>
 							<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a>
 							(New York University)
