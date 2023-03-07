@@ -246,7 +246,7 @@
 						practical settings.
 						<hr style="border-top: 1px solid black;">
 					</div>
-					<a href="./presentations/" class="label_abstract" download>
+					<a href="./presentations/SchedulingSeminar_HyunJungKim.pdf" class="label_abstract" download>
 						Download PDF
 					</a>
 					<a href="https://scheduling-seminar.iid.ciirc.cvut.cz/videos/23_1_Winter/23_3_1%20Hyun-Jung%20Kim%20(KAIST)_Scheduling%20with%20Machine%20Learning.mp4"
