@@ -259,7 +259,7 @@
 				</td>
 				<td class="information_upcoming_container">
 					<b>[Presenter]</b><br>
-					<a href="https://seng.ust.hk/about/people/faculty/xiangtong-qi">Erwin Pesch</a><br>
+					<a href="https://www.wiwi.uni-siegen.de/mis/team/">Erwin Pesch</a><br>
 					(Uni of Siegen)<br><br/>
 					<!--<b>Keywords:</b> Logistics, Scheduling, Stacking cranes, Container terminal, Branch and cut -->
 					<b>[Invited by]</b><br>
