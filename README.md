@@ -263,7 +263,7 @@
 					(Uni of Siegen)<br><br/>
 					<!--<b>Keywords:</b> Logistics, Scheduling, Stacking cranes, Container terminal, Branch and cut -->
 					<b>[Invited by]</b><br>
-					<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a></br>
+					<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a><br/>
 					(CTU in Prague)
 				</td>
 				<td class="time_zones_container">
