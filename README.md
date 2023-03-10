@@ -204,6 +204,100 @@
 			</tr>
 		</table>
 
+		<!--Single talk------------------------------------------------------------------------------------------------>
+		<table style="padding-bottom: 12px;" class="europe">
+			<!--Title/Abstract/PDF-->
+			<tr>
+				<td colspan="3">
+					<h2 class="talk_title"><b>Conflict-Free Crane Scheduling in a Seaport Terminal</b><br>
+					</h2>
+					<input type="checkbox" id="abstract_id_40" style="display:none;">
+					<label for="abstract_id_40" class="label_abstract"><a>Abstract</a></label>
+					<div class="hidden">
+						<hr style="border-top: 1px solid black;">
+						In this talk, we focus on a container dispatching and conflict-free
+						yard crane routing problem that arises at a storage yard in an automated,
+						maritime container terminal. A storage yard serves as an intermediate
+						buffer for import/export containers and exchanges containers between
+						water- and landside of a maritime terminal. The problem is in which
+						order and by which crane the containers are transported in order to
+						minimize the makespan and prevent crane interferences.
+
+						First, we limit our attention to incoming containers only that are
+						positioned by twin cranes. Containers are assigned to the cranes
+						according to different policies. We show that some cases are
+						polynomially solvable. Approximation algorithms with guaranteed
+						absolute and relative deviations from the optimum are devised for others. The
+						results translate for the case of outgoing containers.
+
+						In the second part we consider two rail mounted gantry cranes of
+						different sizes, with the possibility to cross each other, that
+						perform inbound, outbound and housekeeping requests. We solve this problem to
+						optimality by a branch-and-cut approach that decomposes the problem
+						into two problem classes and connects them via logic-based Benders
+						constraints.
+						<hr style="border-top: 1px solid black;">
+					</div>
+					<!--					<a href="./presentations/SchedulingSeminar_LarsRohwedder.pdf" class="label_abstract" download>-->
+					<!--						Download PDF-->
+					<!--					</a>-->
+					<!--					<a href="LINK"-->
+					<!--					   class="label_abstract" download>-->
+					<!--						Download Video-->
+					<!--					</a>-->
+				</td>
+			</tr>
+
+			<!--Data--->
+			<tr>
+				<td class="presenter_image_container">
+					<div class="single_image_container">
+						<a href="https://www.wiwi.uni-siegen.de/mis/team/">
+							<img class="single_presenter" src="photos/SA-2018-Erwin.jpg" alt="person_photo"/>
+						</a><br/>
+					</div>
+				</td>
+				<td class="information_upcoming_container">
+					<b>[Presenter]</b><br>
+					<a href="https://seng.ust.hk/about/people/faculty/xiangtong-qi">Erwin Pesch</a><br>
+					(Uni of Siegen)<br><br/>
+					<!--<b>Keywords:</b> Logistics, Scheduling, Stacking cranes, Container terminal, Branch and cut -->
+					<b>[Invited by]</b><br>
+					<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a></br>
+					(CTU in Prague)
+				</td>
+				<td class="time_zones_container">
+					<table class="time_table">
+						<tbody>
+						<tr class="utc">
+							<td>UTC</td>
+							<td>Mar 29, 13:00 Wed</td>
+						</tr>
+						<tr class="europe">
+							<td>Prague</td>
+							<td>Mar 29, 15:00 Wed</td>
+						</tr>
+						<tr class="america">
+							<td>New York</td>
+							<td>Mar 29, 09:00 Wed</td>
+						</tr>
+						<tr class="asia">
+							<td>Shanghai</td>
+							<td>Mar 29, 21:00 Wed</td>
+						</tr>
+						</tbody>
+					</table>
+				</td>
+			</tr>
+		</table>
+
+		<!--Spacing--->
+		<table style="margin: 30px 0 0 0 !important;">
+			<tr>
+				<td colspan="100%"></td>
+			</tr>
+		</table>
+
 <!--		&lt;!&ndash;Single talk&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&ndash;&gt;-->
 <!--		<table style="padding-bottom: 12px;" class="europe">-->
 <!--			&lt;!&ndash;Title/Abstract/PDF&ndash;&gt;-->
@@ -211,8 +305,8 @@
 <!--				<td colspan="3">-->
 <!--					<h2 class="talk_title"><b>Optimal solving of scheduling problems on D-Wave quantum machines</b><br>-->
 <!--					</h2>-->
-<!--					<input type="checkbox" id="abstract_id_40" style="display:none;">-->
-<!--					<label for="abstract_id_40" class="label_abstract"><a>Abstract</a></label>-->
+<!--					<input type="checkbox" id="abstract_id_41" style="display:none;">-->
+<!--					<label for="abstract_id_41" class="label_abstract"><a>Abstract</a></label>-->
 <!--					<div class="hidden">-->
 <!--						<hr style="border-top: 1px solid black;">-->
 <!--						The main disadvantage of calculations on real quantum computers is their non-determinism. For optimization problems, it is possible to get surprisingly good results using Quantum Annealing approach, but without a guarantee of the optimality of the result. Simply put, the quantum machine has not found anything better. In the presentation an approach that provides such a guarantee of optimality is proposed. A solution that is optimal in the strict mathematical sense is generated, without probabilistic considerations. For this purpose, a D-Wave quantum machine is used working as a sampler implementing quantum annealing &#45;&#45; an approach considered as a hardware metaheuristic &#45;&#45; to obtain upper and lower bounds on the value of the objective function of the problem under consideration. Then the mechanism of a Branch and Bound scheme is used and controlled by quantum annealing, which allows us to obtain very quickly &#45;&#45; in constant time for considered instances &#45;&#45; the boundaries of the considered subproblems. The whole idea is an alternately combination of calculations realized on QPU and CPU, allowing us to generate optimal solutions to the NP-hard problems of task scheduling on a single machine with a total weighted tardiness as well as with total number of tardy jobs criteria. The main result is the formulation of the lower bound in a "language" (i.e. mathematical model) understandable by a quantum machine.-->
