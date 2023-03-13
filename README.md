@@ -454,7 +454,7 @@
 				<td>
 					<table class="panelists_past_container_single">
 						<td colspan="2">
-							<b>Keywords:</b> Scheduling, Manufacturing Systems, Machine Learning, Real Applications
+							<b>Keywords:</b> Scheduling, Manufacturing Systems, Machine Learning, Real Applications<br><br>
 							<b>[Invited by]</b><br>
 							<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a>
 							(New York University)
