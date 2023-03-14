@@ -309,7 +309,22 @@
 					<label for="abstract_id_41" class="label_abstract"><a>Abstract</a></label>
 					<div class="hidden">
 						<hr style="border-top: 1px solid black;">
-						The main disadvantage of calculations on real quantum computers is their non-determinism. For optimization problems, it is possible to get surprisingly good results using Quantum Annealing approach, but without a guarantee of the optimality of the result. Simply put, the quantum machine has not found anything better. In the presentation an approach that provides such a guarantee of optimality is proposed. A solution that is optimal in the strict mathematical sense is generated, without probabilistic considerations. For this purpose, a D-Wave quantum machine is used working as a sampler implementing quantum annealing -- an approach considered as a hardware metaheuristic -- to obtain upper and lower bounds on the value of the objective function of the problem under consideration. Then the mechanism of a Branch and Bound scheme is used and controlled by quantum annealing, which allows us to obtain very quickly -- in constant time for considered instances -- the boundaries of the considered subproblems. The whole idea is an alternately combination of calculations realized on QPU and CPU, allowing us to generate optimal solutions to the NP-hard problems of task scheduling on a single machine with a total weighted tardiness as well as with total number of tardy jobs criteria. The main result is the formulation of the lower bound in a "language" (i.e. mathematical model) understandable by a quantum machine.
+						The main disadvantage of calculations on real quantum computers is their non-determinism. For
+						optimization problems, it is possible to get surprisingly good results using Quantum Annealing
+						approach, but without a guarantee of the optimality of the result. Simply put, the quantum
+						machine has not found anything better. In the presentation an approach that provides such a
+						guarantee of optimality is proposed. A solution that is optimal in the strict mathematical sense
+						is generated, without probabilistic considerations. For this purpose, a D-Wave quantum machine
+						is used working as a sampler implementing quantum annealing -- an approach considered as a
+						hardware metaheuristic -- to obtain upper and lower bounds on the value of the objective
+						function of the problem under consideration. Then the mechanism of a Branch and Bound scheme is
+						used and controlled by quantum annealing, which allows us to obtain very quickly -- in constant
+						time for considered instances -- the boundaries of the considered subproblems. The whole idea is
+						an alternately combination of calculations realized on QPU and CPU, allowing us to generate
+						optimal solutions to the NP-hard problems of task scheduling on a single machine with a total
+						weighted tardiness as well as with total number of tardy jobs criteria. The main result is the
+						formulation of the lower bound in a "language" (i.e. mathematical model) understandable by a
+						quantum machine.
 						<hr style="border-top: 1px solid black;">
 					</div>
 					<!--					<a href="./presentations/SchedulingSeminar_LarsRohwedder.pdf" class="label_abstract" download>-->
@@ -358,6 +373,93 @@
 						<tr class="asia">
 							<td>Shanghai</td>
 							<td>Apr 12, 21:00 Wed</td>
+						</tr>
+						</tbody>
+					</table>
+				</td>
+			</tr>
+		</table>
+
+		<!--Spacing--->
+		<table style="margin: 30px 0 0 0 !important;">
+			<tr>
+				<td colspan="100%"></td>
+			</tr>
+		</table>
+
+		<!--Single talk------------------------------------------------------------------------------------------------>
+		<table style="padding-bottom: 12px;" class="europe">
+			<!--Title/Abstract/PDF-->
+			<tr>
+				<td colspan="3">
+					<h2 class="talk_title"><b>The Resource-Constrained Project Scheduling Problem with Flexible Resource
+						Profiles: Models, Methods, and Applications</b><br>
+					</h2>
+					<input type="checkbox" id="abstract_id_42" style="display:none;">
+					<label for="abstract_id_42" class="label_abstract"><a>Abstract</a></label>
+					<div class="hidden">
+						<hr style="border-top: 1px solid black;">
+						The resource-constrained project scheduling problem with flexible resource profiles (FRCPSP) is
+						a generalization
+						of the RCPSP where for each activity a work content is given, which has to be allocated between
+						the start and the finish
+						time of the activity. Hence, next to the start time of activities, a schedule comprises the
+						decision about the duration and the allocation of the work content between the start and the
+						finish time for the activities. The FRCPSP has been introduced
+						in 2003 in the context of real-world application of pharmaceutical research projects. Since,
+						then different models and methods
+						as well as applications have been proposed in the literature. In this talk we will present the
+						FRCPSP, discuss available
+						MIP-formulations as well as heuristics and will present work on the use of FRCPSP to solve
+						different real-world optimization problems.
+						<hr style="border-top: 1px solid black;">
+					</div>
+					<!--					<a href="./presentations/SchedulingSeminar_LarsRohwedder.pdf" class="label_abstract" download>-->
+					<!--						Download PDF-->
+					<!--					</a>-->
+					<!--					<a href="LINK"-->
+					<!--					   class="label_abstract" download>-->
+					<!--						Download Video-->
+					<!--					</a>-->
+				</td>
+			</tr>
+
+			<!--Data--->
+			<tr>
+				<td class="presenter_image_container">
+					<div class="single_image_container">
+						<a href="https://www.professors.wi.tum.de/om/team/prof-dr-rainer-kolisch/">
+							<img class="single_presenter" src="photos/Kolisch_Rainer.jpg" alt="person_photo"/>
+						</a><br/>
+					</div>
+				</td>
+				<td class="information_upcoming_container">
+					<b>[Presenter]</b><br>
+					<a href="https://www.professors.wi.tum.de/om/team/prof-dr-rainer-kolisch/">Rainer Kolisch</a><br>
+					(TU Munich)<br><br/>
+					<!--<b>Keywords:</b> scheduling, Quantum Annealing, single machine, exact algorithm -->
+					<b>[Invited by]</b><br>
+					<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a><br/>
+					(CTU in Prague)
+				</td>
+				<td class="time_zones_container">
+					<table class="time_table">
+						<tbody>
+						<tr class="utc">
+							<td>UTC</td>
+							<td>Apr 26, 13:00 Wed</td>
+						</tr>
+						<tr class="europe">
+							<td>Prague</td>
+							<td>Apr 26, 15:00 Wed</td>
+						</tr>
+						<tr class="america">
+							<td>New York</td>
+							<td>Apr 26, 09:00 Wed</td>
+						</tr>
+						<tr class="asia">
+							<td>Shanghai</td>
+							<td>Apr 26, 21:00 Wed</td>
 						</tr>
 						</tbody>
 					</table>
@@ -454,7 +556,8 @@
 				<td>
 					<table class="panelists_past_container_single">
 						<td colspan="2">
-							<b>Keywords:</b> Scheduling, Manufacturing Systems, Machine Learning, Real Applications<br><br>
+							<b>Keywords:</b> Scheduling, Manufacturing Systems, Machine Learning, Real
+							Applications<br><br>
 							<b>[Invited by]</b><br>
 							<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a>
 							(New York University)
@@ -622,7 +725,8 @@
 				<td>
 					<table class="panelists_past_container_single">
 						<td colspan="2">
-							<b>Keywords:</b> Scheduling, Cumulative resource, Lower bound, Algorithms, Energetic reasoning <br/><br>
+							<b>Keywords:</b> Scheduling, Cumulative resource, Lower bound, Algorithms, Energetic
+							reasoning <br/><br>
 							<b>[Invited by]</b>
 							<a href="https://homepages.laas.fr/artigues/drupal/node/11">Christian Artigues</a>
 							(LAAS - CNRS)
@@ -698,7 +802,8 @@
 				<td>
 					<table class="panelists_past_container_single">
 						<td colspan="2">
-							<b>Keywords:</b> Scheduling, Flow time, Integer programming, Discrepancy, Dynamic programming <br/><br>
+							<b>Keywords:</b> Scheduling, Flow time, Integer programming, Discrepancy, Dynamic
+							programming <br/><br>
 							<b>[Invited by]</b>
 							<a href="https://www.cwi.nl/people/jan-karel-lenstra">Jan Karel Lenstra</a>
 							(CWI)
@@ -786,7 +891,8 @@
 				<td>
 					<table class="panelists_past_container_single">
 						<td colspan="2">
-							<b>Keywords:</b> Scheduling, Flow shop, Synchronized movement, Shelf board production <br/><br>
+							<b>Keywords:</b> Scheduling, Flow shop, Synchronized movement, Shelf board production
+							<br/><br>
 							<b>[Invited by]</b>
 							<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a>
 							(CTU in Prague)
@@ -970,7 +1076,7 @@
 				<td>
 					<table class="panelists_past_container_single">
 						<td colspan="2">
-							<b>Keywords:</b> Scheduling, Machine learning, Predictions, On-line algorithms  <br/><br>
+							<b>Keywords:</b> Scheduling, Machine learning, Predictions, On-line algorithms <br/><br>
 							<b>[Invited by]</b>
 							<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a>
 							(New York University)
@@ -1059,7 +1165,8 @@
 				<td>
 					<table class="panelists_past_container_single">
 						<td colspan="2">
-							<b>Keywords:</b> Vehicle routing, Local search operators, Ruin and recreate, Spatial slack, Capacity slack, Fleet minimization <br/><br>
+							<b>Keywords:</b> Vehicle routing, Local search operators, Ruin and recreate, Spatial slack,
+							Capacity slack, Fleet minimization <br/><br>
 							<b>[Invited by]</b>
 							<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a>
 							(CTU in Prague)
@@ -1147,7 +1254,8 @@
 				<td>
 					<table class="panelists_past_container_single">
 						<td colspan="2">
-							<b>Keywords:</b> Synchronous DataFlow, Precedence constraints, Normalization, Liveness, Throughput evaluation <br/><br>
+							<b>Keywords:</b> Synchronous DataFlow, Precedence constraints, Normalization, Liveness,
+							Throughput evaluation <br/><br>
 							<b>[Invited by]</b>
 							<a href="https://ufr-segmi.parisnanterre.fr/organisation-et-contacts/espace-reserve-enseignants/site-des-enseignants/les-enseignants-de-segmi/hanen-claire/hanen-claire-93518.kjsp">Claire
 								Hanen</a>
@@ -1229,7 +1337,8 @@
 				<td>
 					<table class="panelists_past_container_single">
 						<td colspan="2">
-							<b>Keywords:</b> Dynamic programming, Discrete convexity, Stochastic models, Appointment scheduling <br/><br>
+							<b>Keywords:</b> Dynamic programming, Discrete convexity, Stochastic models, Appointment
+							scheduling <br/><br>
 							<b>[Invited by]</b>
 							<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a>
 							(New York University)
@@ -1397,7 +1506,8 @@
 				<td>
 					<table class="panelists_past_container_single">
 						<td colspan="2">
-							<b>Keywords:</b> Scheduling under uncertainty, Algorithms with predictions, Learning-augmented algorithms, Non-clairvoyant scheduling, Online TSP <br/><br>
+							<b>Keywords:</b> Scheduling under uncertainty, Algorithms with predictions,
+							Learning-augmented algorithms, Non-clairvoyant scheduling, Online TSP <br/><br>
 							<b>[Invited by]</b>
 							<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a>
 							(New York University)
@@ -1478,7 +1588,9 @@
 				<td>
 					<table class="panelists_past_container_single">
 						<td colspan="2">
-							<b>Keywords:</b> Time-dependent scheduling, Variable job processing times, Approximation algorithms, Approximation schemes, Heuristics, Single machine, Parallel machines, Dedicated machines <br/><br>
+							<b>Keywords:</b> Time-dependent scheduling, Variable job processing times, Approximation
+							algorithms, Approximation schemes, Heuristics, Single machine, Parallel machines, Dedicated
+							machines <br/><br>
 							<b>[Invited by]</b>
 							<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a>
 							(CTU in Prague)
@@ -1562,7 +1674,9 @@
 				<td>
 					<table class="panelists_past_container_single">
 						<td colspan="2">
-							<b>Keywords:</b> Data Science, Machine learning, Combinatorial optimization, Scheduling, Algorithms, Landscape analysis, Automated tuning, Automated construction, Automated selection, Instance hardness <br/><br>
+							<b>Keywords:</b> Data Science, Machine learning, Combinatorial optimization, Scheduling,
+							Algorithms, Landscape analysis, Automated tuning, Automated construction, Automated
+							selection, Instance hardness <br/><br>
 							<b>[Invited by]</b>
 							<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a>
 							(CTU in Prague)
@@ -1644,7 +1758,8 @@
 				<td>
 					<table class="panelists_past_container_single">
 						<td colspan="2">
-							<b>Keywords:</b> Energy, MILP, Bilevel optimization, Real-world application, Industry, Sustainability <br/><br>
+							<b>Keywords:</b> Energy, MILP, Bilevel optimization, Real-world application, Industry,
+							Sustainability <br/><br>
 							<b>[Invited by]</b>
 							<a href="http://people.ciirc.cvut.cz/~suchap/">Přemysl Šůcha</a>
 							(CTU in Prague)
@@ -1722,7 +1837,8 @@
 				<td>
 					<table class="panelists_past_container_single">
 						<td colspan="2">
-							<b>Keywords:</b> Constraint programming, Scheduling, Machine learning, Hybrid optimization <br/><br>
+							<b>Keywords:</b> Constraint programming, Scheduling, Machine learning, Hybrid optimization
+							<br/><br>
 							<b>[Invited by]</b>
 							<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a>
 							(CTU in Prague)
@@ -1806,7 +1922,8 @@
 				<td>
 					<table class="panelists_past_container_single">
 						<td colspan="2">
-							<b>Keywords:</b> Mixed-integer linear programming (MILP), Resource-constrained project scheduling problem (RCPSP), solvers, relaxation, CP, SAT <br/><br>
+							<b>Keywords:</b> Mixed-integer linear programming (MILP), Resource-constrained project
+							scheduling problem (RCPSP), solvers, relaxation, CP, SAT <br/><br>
 							<b>[Invited by]</b>
 							<a href="https://www.professors.wi.tum.de/om/team/prof-dr-rainer-kolisch/">Rainer
 								Kolisch</a>
@@ -1890,7 +2007,8 @@
 				<td>
 					<table class="panelists_past_container_single">
 						<td colspan="2">
-							<b>Keywords:</b> Scheduling, Batching, Semiconductor manufacturing, Decomposition methods <br/><br>
+							<b>Keywords:</b> Scheduling, Batching, Semiconductor manufacturing, Decomposition methods
+							<br/><br>
 							<b>[Invited by]</b>
 							<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a>
 							(CTU in Prague)
@@ -2054,7 +2172,8 @@
 				<td>
 					<table class="panelists_past_container_single">
 						<td colspan="2">
-							<b>Keywords:</b> Steelmaking-continuous casting, Hybrid flow shop, Mixed-integer programming, Matheuristic <br/><br>
+							<b>Keywords:</b> Steelmaking-continuous casting, Hybrid flow shop, Mixed-integer
+							programming, Matheuristic <br/><br>
 							<b>[Invited by]</b>
 							<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a>
 							(New York University)
@@ -2142,7 +2261,8 @@
 				<td>
 					<table class="panelists_past_container_single">
 						<td colspan="2">
-							<b>Keywords:</b> Public transit planning, Vehicle scheduling, Timetabling, AVL data, Public transport <br/><br>
+							<b>Keywords:</b> Public transit planning, Vehicle scheduling, Timetabling, AVL data, Public
+							transport <br/><br>
 							<b>[Invited by]</b>
 							<a href="http://www.acem.sjtu.edu.cn/en/faculty/wanguohua.html">Guohua Wan</a>
 							(Shanghai Jiao Tong)
@@ -2222,7 +2342,8 @@
 				<td>
 					<table class="panelists_past_container_single">
 						<td colspan="2">
-							<b>Keywords:</b> Scheduling, NP-hard, Fixed parameterized tractability (FPT), Algorithmic design, Optimization <br/><br>
+							<b>Keywords:</b> Scheduling, NP-hard, Fixed parameterized tractability (FPT), Algorithmic
+							design, Optimization <br/><br>
 							<b>[Invited by]</b>
 							<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a>
 							(New York University)
@@ -2402,7 +2523,8 @@
 				<td>
 					<table class="panelists_past_container_single">
 						<td colspan="2">
-							<b>Keywords:</b> Scheduling, uncertainty, Sum of completion times, Processing time oracle, Competitive ratio <br/><br>
+							<b>Keywords:</b> Scheduling, uncertainty, Sum of completion times, Processing time oracle,
+							Competitive ratio <br/><br>
 							<b>[Invited by]</b>
 							<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a>
 							(CTU in Prague)
@@ -2486,7 +2608,8 @@
 				<td>
 					<table class="panelists_past_container_single">
 						<td colspan="2">
-							<b>Keywords:</b> Routing, Time windows, Time-dependent travel times, Road network, Tabu search <br/><br>
+							<b>Keywords:</b> Routing, Time windows, Time-dependent travel times, Road network, Tabu
+							search <br/><br>
 							<b>[Invited by]</b>
 							<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a>
 							(CTU in Prague) <br>
@@ -2577,7 +2700,8 @@
 				<td>
 					<table class="panelists_past_container_single">
 						<td colspan="2">
-							<b>Keywords:</b> Train scheduling, Job-shop scheduling, Combinatorial optimization, Integer programming, Decomposition methods <br/><br>
+							<b>Keywords:</b> Train scheduling, Job-shop scheduling, Combinatorial optimization, Integer
+							programming, Decomposition methods <br/><br>
 							<b>[Invited by]</b>
 							<a href="https://www3.diism.unisi.it/~agnetis/">Alessandro Agnetis</a>
 							(University of Siena)
@@ -2660,7 +2784,8 @@
 				<td>
 					<table class="panelists_past_container_single">
 						<td colspan="2">
-							<b>Keywords:</b> Scheduling, Learning augmented, Optimization, Sample complexity, Robustness, Error, Competitive, Approximation <br/><br>
+							<b>Keywords:</b> Scheduling, Learning augmented, Optimization, Sample complexity,
+							Robustness, Error, Competitive, Approximation <br/><br>
 							<b>[Invited by]</b>
 							<a href="https://www.ieor.columbia.edu/faculty/clifford-stein">Clifford Stein</a>
 							(Columbia Uni)
@@ -2746,7 +2871,8 @@
 				<td>
 					<table class="panelists_past_container_single">
 						<td colspan="2">
-							<b>Keywords:</b> Identical parallel machine scheduling, LPT rule, Linear programming, Approximation <br/><br>
+							<b>Keywords:</b> Identical parallel machine scheduling, LPT rule, Linear programming,
+							Approximation <br/><br>
 							<b>[Invited by]</b>
 							<a href="https://www.univ-tours.fr/annuaire/m-vincent-tkindt">Vincent T’kindt</a>
 							(Uni de Tours)
@@ -2828,7 +2954,8 @@
 				<td>
 					<table class="panelists_past_container_single">
 						<td colspan="2">
-							<b>Keywords:</b> Preemptive scheduling, Uniformly related machines, Total completion time, Makespan <br/><br>
+							<b>Keywords:</b> Preemptive scheduling, Uniformly related machines, Total completion time,
+							Makespan <br/><br>
 							<b>[Invited by]</b>
 							<a href="https://in.bgu.ac.il/en/engn/iem/pages/staff/Dvir-Shabtay.aspx">Dvir
 								Shabtay</a>
@@ -2922,7 +3049,8 @@
 				<td>
 					<table class="panelists_past_container_single">
 						<td colspan="2">
-							<b>Keywords:</b> Multiple round sports tournament, Choice of opponent, Performance criteria, Professional tennis <br/><br>
+							<b>Keywords:</b> Multiple round sports tournament, Choice of opponent, Performance criteria,
+							Professional tennis <br/><br>
 							<b>[Invited by]</b>
 							<a href="https://www.or-as.be">Mario Vanhoucke</a>
 							(Ghent University)
@@ -3001,7 +3129,8 @@
 				<td>
 					<table class="panelists_past_container_single">
 						<td colspan="2">
-							<b>Keywords:</b> Timetabling, Scheduling, Optimization, Metaheuristics, Local Search <br/><br>
+							<b>Keywords:</b> Timetabling, Scheduling, Optimization, Metaheuristics, Local Search
+							<br/><br>
 							<b>[Invited by]</b>
 							<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a>
 							(CTU in Prague)
@@ -3087,7 +3216,10 @@
 				<td>
 					<table class="panelists_past_container_single">
 						<td colspan="2">
-							<b>Keywords:</b> Healthcare scheduling applications, Diagnostic imaging, Cancer treatment (chemotherapy and radiation), Nurse/physician scheduling, Surgical scheduling, 911 call centres, Home care routing, Medical resident scheduling and primary care appointments <br/><br>
+							<b>Keywords:</b> Healthcare scheduling applications, Diagnostic imaging, Cancer treatment
+							(chemotherapy and radiation), Nurse/physician scheduling, Surgical scheduling, 911 call
+							centres, Home care routing, Medical resident scheduling and primary care appointments
+							<br/><br>
 							<b>[Invited by]</b>
 							<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a>
 							(New York University)
@@ -3181,7 +3313,8 @@
 				<td>
 					<table class="panelists_past_container_single">
 						<td colspan="2">
-							<b>Keywords:</b> Single-machine scheduling, Promary-secondary criteria, Computational complexity <br/><br>
+							<b>Keywords:</b> Single-machine scheduling, Promary-secondary criteria, Computational
+							complexity <br/><br>
 							<b>[Invited by]</b>
 							<a href="http://www.acem.sjtu.edu.cn/en/faculty/wanguohua.html">Guohua Wan</a>
 							(Shanghai Jiao Tong)
@@ -3266,7 +3399,8 @@
 				<td>
 					<table class="panelists_past_container_single">
 						<td colspan="2">
-							<b>Keywords:</b> Project scheduling, Stochastic activity durations, Proactive/reactive scheduling, Markov decision process <br/><br>
+							<b>Keywords:</b> Project scheduling, Stochastic activity durations, Proactive/reactive
+							scheduling, Markov decision process <br/><br>
 							<b>[Invited by]</b>
 							<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a>
 							(CTU in Prague)
@@ -3347,7 +3481,8 @@
 				<td>
 					<table class="panelists_past_container_single">
 						<td colspan="2">
-							<b>Keywords:</b> Machine scheduling, List scheduling, Approximation algorithm, Performance guarantee, Total weighted completion time <br/><br>
+							<b>Keywords:</b> Machine scheduling, List scheduling, Approximation algorithm, Performance
+							guarantee, Total weighted completion time <br/><br>
 							<b>[Invited by]</b>
 							<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a>
 							(CTU in Prague)
@@ -3444,7 +3579,8 @@
 				<td>
 					<table class="panelists_past_container_single">
 						<td colspan="2">
-							<b>Keywords:</b> Production scheduling, Logistics scheduling, Energy scheduling, Data analytics, System optimization, Engineering application <br/><br>
+							<b>Keywords:</b> Production scheduling, Logistics scheduling, Energy scheduling, Data
+							analytics, System optimization, Engineering application <br/><br>
 							<b>[Invited by]</b>
 							<a href="http://www.acem.sjtu.edu.cn/en/faculty/wanguohua.html">Guohua Wan</a><br>
 							(Shanghai Jiao Tong)
@@ -3527,7 +3663,9 @@
 				<td>
 					<table class="panelists_past_container_single">
 						<td colspan="2">
-							<b>Keywords:</b> Stochastic scheduling, Job scheduling, M/G/1, M/G/k, SRPT, Shortest-job-first, Gittins, Queuing theory, Priority queues, Preemption, Data centers, High variability, Job sizes, SOAP, Sigmetrics, Performance modeling, Google workloads <br/><br>
+							<b>Keywords:</b> Stochastic scheduling, Job scheduling, M/G/1, M/G/k, SRPT,
+							Shortest-job-first, Gittins, Queuing theory, Priority queues, Preemption, Data centers, High
+							variability, Job sizes, SOAP, Sigmetrics, Performance modeling, Google workloads <br/><br>
 							<b>[Invited by]</b>
 							<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a>
 							(New York University)
@@ -3610,7 +3748,8 @@
 				<td>
 					<table class="panelists_past_container_single">
 						<td colspan="2">
-							<b>Keywords:</b> Scheduling, Scheduling history, Classification, Complexity, Online analysis, Data-driven decision-making, Algorithmic game theory <br/><br>
+							<b>Keywords:</b> Scheduling, Scheduling history, Classification, Complexity, Online
+							analysis, Data-driven decision-making, Algorithmic game theory <br/><br>
 							<b>[Invited by]</b>
 							<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a>
 							(New York University)
