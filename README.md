@@ -513,14 +513,14 @@
 			<tr>
 				<td class="presenter_image_container">
 					<div class="single_image_container">
-						<a href="https://feb.kuleuven.be/public/u0041612/">
+						<a href="https://biblio.ugent.be/person/802001574062">
 							<img class="single_presenter" src="photos/Dries%20Goossens.jpg" alt="person_photo"/>
 						</a><br/>
 					</div>
 				</td>
 				<td class="information_upcoming_container">
 					<b>[Presenter]</b><br>
-					<a href="https://feb.kuleuven.be/public/u0041612/">Dries Goossens</a><br>
+					<a href="https://biblio.ugent.be/person/802001574062">Dries Goossens</a><br>
 					(TU Munich)<br><br/>
 					<!--<b>Keywords:</b> Sports scheduling, Unified data format, International timetabling competition, Benchmarking, Instance space analysis, Algorithm selection -->
 					<b>[Invited by]</b><br>
