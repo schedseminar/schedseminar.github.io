@@ -474,6 +474,91 @@
 			</tr>
 		</table>
 
+		<!--Single talk------------------------------------------------------------------------------------------------>
+		<table style="padding-bottom: 12px;" class="europe">
+			<!--Title/Abstract/PDF-->
+			<tr>
+				<td colspan="3">
+					<h2 class="talk_title"><b>Sports scheduling: from consulting to science</b><br>
+					</h2>
+					<input type="checkbox" id="abstract_id_43" style="display:none;">
+					<label for="abstract_id_43" class="label_abstract"><a>Abstract</a></label>
+					<div class="hidden">
+						<hr style="border-top: 1px solid black;">
+						Any sports competition needs a schedule, specifying when and where teams meet each other. Apart
+						from a number of pioneering theoretical results, most sports timetabling contributions in the
+						literature read as case studies, describing a single problem instance for which a tailored
+						algorithm is developed and compared to a manual solution. While the reported problems are
+						challenging, and the algorithms made an impact in practice, it is hard to assess algorithmic
+						performance. Indeed, real-life problem instances are rarely shared, and few realistic benchmark
+						instances are available.
+						In this talk, we discuss our efforts to obtain insights in the strengths and weaknesses of
+						several state-of-the-art sport scheduling algorithms, and to predict which algorithm to select
+						for which type of problem. The story covers the development of a problem classification and
+						unifying data format, the generation of a set of diverse and realistic benchmark instance, the
+						organization of a timetabling competition, and an instance space analysis for sports scheduling.
+						<hr style="border-top: 1px solid black;">
+					</div>
+					<!--					<a href="./presentations/SchedulingSeminar_LarsRohwedder.pdf" class="label_abstract" download>-->
+					<!--						Download PDF-->
+					<!--					</a>-->
+					<!--					<a href="LINK"-->
+					<!--					   class="label_abstract" download>-->
+					<!--						Download Video-->
+					<!--					</a>-->
+				</td>
+			</tr>
+
+			<!--Data--->
+			<tr>
+				<td class="presenter_image_container">
+					<div class="single_image_container">
+						<a href="https://feb.kuleuven.be/public/u0041612/">
+							<img class="single_presenter" src="photos/Dries%20Goossens.jpg" alt="person_photo"/>
+						</a><br/>
+					</div>
+				</td>
+				<td class="information_upcoming_container">
+					<b>[Presenter]</b><br>
+					<a href="https://feb.kuleuven.be/public/u0041612/">Dries Goossens</a><br>
+					(TU Munich)<br><br/>
+					<!--<b>Keywords:</b> Sports scheduling, Unified data format, International timetabling competition, Benchmarking, Instance space analysis, Algorithm selection -->
+					<b>[Invited by]</b><br>
+					<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a><br/>
+					(CTU in Prague)
+				</td>
+				<td class="time_zones_container">
+					<table class="time_table">
+						<tbody>
+						<tr class="utc">
+							<td>UTC</td>
+							<td>May 10, 13:00 Wed</td>
+						</tr>
+						<tr class="europe">
+							<td>Prague</td>
+							<td>May 10, 15:00 Wed</td>
+						</tr>
+						<tr class="america">
+							<td>New York</td>
+							<td>May 10, 09:00 Wed</td>
+						</tr>
+						<tr class="asia">
+							<td>Shanghai</td>
+							<td>May 10, 21:00 Wed</td>
+						</tr>
+						</tbody>
+					</table>
+				</td>
+			</tr>
+		</table>
+
+		<!--Spacing--->
+		<table style="margin: 30px 0 0 0 !important;">
+			<tr>
+				<td colspan="100%"></td>
+			</tr>
+		</table>
+
 		</tbody>
 	</table>
 
