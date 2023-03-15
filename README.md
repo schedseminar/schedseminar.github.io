@@ -524,8 +524,8 @@
 					(TU Munich)<br><br/>
 					<!--<b>Keywords:</b> Sports scheduling, Unified data format, International timetabling competition, Benchmarking, Instance space analysis, Algorithm selection -->
 					<b>[Invited by]</b><br>
-					<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a><br/>
-					(CTU in Prague)
+					<a href="https://www.southampton.ac.uk/maths/about/staff/cnp1.page">Chris Potts</a><br>
+					(Southampton Uni)
 				</td>
 				<td class="time_zones_container">
 					<table class="time_table">
@@ -4065,7 +4065,7 @@
 				<a href="https://www.southampton.ac.uk/maths/about/staff/cnp1.page">
 					<img src="photos/chris_potts.JPG" height="200" width="150" alt="person_photo"/><br>
 					Chris Potts<br>
-					Southhampton Uni</a>
+					Southampton Uni</a>
 			</td>
 
 			<!-- Xiangtong Qi-->
