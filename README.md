@@ -490,39 +490,38 @@
 	<h2>Past talks (39)</h2>
 	<table class="past_talk_table">
 		<tbody>
+
 		<!--Single talk------------------------------------------------------------------------------------------------>
 		<table style="padding-bottom: 12px;" class="asia">
-			<!--Title/Abstract/PDF-->
 			<tr>
 				<td colspan="3">
-					<h2 class="talk_title"><b>Scheduling with Machine Learning</b><br>
+					<h2 class="talk_title"><b>Cooperative Games Models for Scheduling Problems</b><br>
 					</h2>
 					<input type="checkbox" id="abstract_id_39" style="display:none;">
 					<label for="abstract_id_39" class="label_abstract"><a>Abstract</a></label>
 					<div class="hidden">
 						<hr style="border-top: 1px solid black;">
-						Manufacturing companies have recently shown a growing interest in using machine learning to
-						improve scheduling problems. In this talk, we will present three real-life industrial scheduling
-						problems faced by industries with a specific focus on the application of machine learning.
-						First, in semiconductor manufacturing, multiple weighted dispatching rules are used to determine
-						a sequence of jobs. Engineers assign these weights based on their previous experience. We
-						propose a machine learning approach to determine the best weight set for all rules, especially
-						when there is not enough time to derive it. Second, we propose an integration method of machine
-						learning and mathematical formulation for scheduling problems in steel manufacturing. This
-						approach reflects the engineers’ preferences and improves the performance of scheduling at the
-						same time. Finally, we will present a hybrid flow shop scheduling problem for insulation
-						manufacturing where machine learning with the NEH algorithm has been applied. We will also
-						discuss the challenges of implementing machine learning or other heuristic algorithms in
-						practical settings.
+						Cooperative game theory focuses on schemes that lead to a global collaboration among multiple
+						independent decision makers. In cooperative game theory, one basic concept is the allocation in
+						the core that characterizes how the players shall share the cost/benefit in a way acceptable to
+						all sub-coalitions. Unfortunately, it is well known that many cooperative games have an empty
+						core, including games concerning scheduling problems. For such games the global collaboration
+						will not be sustainable.
+
+						We consider a situation where an outside party has the need to stabilize the ground coalition
+						because, for example, the best social welfare can be achieved only when all players collaborate.
+						We introduce a few economic treatments that can be used by the outside party such as providing
+						subsidy and charging penalty. These treatments, including their concepts and implementations,
+						are demonstrated by games related to scheduling problems.
 						<hr style="border-top: 1px solid black;">
 					</div>
-					<a href="./presentations/SchedulingSeminar_HyunJungKim.pdf" class="label_abstract" download>
+					<a href="./presentations/SchedulingSeminar_XiangtongQi.pdf" class="label_abstract" download>
 						Download PDF
 					</a>
-					<a href="https://scheduling-seminar.iid.ciirc.cvut.cz/videos/23_1_Winter/23_3_1%20Hyun-Jung%20Kim%20(KAIST)_Scheduling%20with%20Machine%20Learning.mp4"
-					   class="label_abstract" download>
-						Download Video
-					</a>
+					<!--					<a href="LINK"-->
+					<!--					   class="label_abstract" download>-->
+					<!--						Download Video-->
+					<!--					</a>-->
 				</td>
 			</tr>
 
@@ -530,15 +529,15 @@
 			<tr>
 				<td class="presenter_image_container">
 					<div class="single_image_container">
-						<a href="https://msslab.kaist.ac.kr/Professor/professor">
-							<img class="single_presenter" src="photos/Hyun-Jung_Kim.jpg" alt="person_photo"/>
+						<a href="https://seng.ust.hk/about/people/faculty/xiangtong-qi">
+							<img class="single_presenter" src="photos/xiangtong_qi.jpg" alt="person_photo"/>
 						</a><br/>
 					</div>
 				</td>
 
 				<td colspan="2">
 					<div class="resizable_youtube_single">
-						<iframe width="400" height="250" src="https://www.youtube.com/embed/aaGESG8kolc"
+						<iframe width="400" height="250" src="https://www.youtube.com/embed/jWrmCla5wCA"
 						        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
 						        allowfullscreen></iframe>
 					</div>
@@ -549,15 +548,14 @@
 			<tr>
 				<td class="presenter_past_info_container">
 					<b>[Presenter]</b><br>
-					<a href="https://msslab.kaist.ac.kr/Professor/professor">Hyun-Jung Kim</a><br>
-					(KAIST)<br>
+					<a href="https://seng.ust.hk/about/people/faculty/xiangtong-qi">Xiangtong Qi</a><br>
+					(HKUST)<br>
 				</td>
 
 				<td>
 					<table class="panelists_past_container_single">
 						<td colspan="2">
-							<b>Keywords:</b> Scheduling, Manufacturing Systems, Machine Learning, Real
-							Applications<br><br>
+							<b>Keywords:</b> Scheduling, Cooperative game, Core <br/><br>
 							<b>[Invited by]</b><br>
 							<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a>
 							(New York University)
