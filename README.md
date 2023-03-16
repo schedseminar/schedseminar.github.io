@@ -578,8 +578,8 @@
 				<td colspan="3">
 					<h2 class="talk_title"><b>Scheduling with Machine Learning</b><br>
 					</h2>
-					<input type="checkbox" id="abstract_id_38" style="display:none;">
-					<label for="abstract_id_38" class="label_abstract"><a>Abstract</a></label>
+					<input type="checkbox" id="abstract_id_39" style="display:none;">
+					<label for="abstract_id_39" class="label_abstract"><a>Abstract</a></label>
 					<div class="hidden">
 						<hr style="border-top: 1px solid black;">
 						Manufacturing companies have recently shown a growing interest in using machine learning to
