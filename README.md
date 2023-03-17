@@ -518,10 +518,10 @@
 					<a href="./presentations/SchedulingSeminar_XiangtongQi.pdf" class="label_abstract" download>
 						Download PDF
 					</a>
-					<!--					<a href="LINK"-->
-					<!--					   class="label_abstract" download>-->
-					<!--						Download Video-->
-					<!--					</a>-->
+					<a href="https://scheduling-seminar.iid.ciirc.cvut.cz/videos/23_1_Winter/23_3_15%20Xiangtong%20Qi%20(HKUST)%20_%20Cooperative%20Games%20Models%20for%20Scheduling%20Problems.mp4"
+					   class="label_abstract" download>
+						Download Video
+					</a>
 				</td>
 			</tr>
 
