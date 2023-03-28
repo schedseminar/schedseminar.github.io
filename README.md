@@ -124,7 +124,7 @@
 			<!--Title/Abstract/PDF-->
 			<tr>
 				<td colspan="3">
-					<h2 class="talk_title"><b>Conflict-Free Crane Scheduling in a Seaport Terminal</b><br>
+					<h2 class="talk_title"><b>CANCELLED! Conflict-Free Crane Scheduling in a Seaport Terminal</b><br>
 					</h2>
 					<input type="checkbox" id="abstract_id_40" style="display:none;">
 					<label for="abstract_id_40" class="label_abstract"><a>Abstract</a></label>
@@ -186,19 +186,19 @@
 						<tbody>
 						<tr class="utc">
 							<td>UTC</td>
-							<td>Mar 29, 13:00 Wed</td>
+							<td>CANCELLED!</td>
 						</tr>
 						<tr class="europe">
 							<td>Prague</td>
-							<td>Mar 29, 15:00 Wed</td>
+							<td>CANCELLED!</td>
 						</tr>
 						<tr class="america">
 							<td>New York</td>
-							<td>Mar 29, 09:00 Wed</td>
+							<td>CANCELLED!</td>
 						</tr>
 						<tr class="asia">
 							<td>Shanghai</td>
-							<td>Mar 29, 21:00 Wed</td>
+							<td>CANCELLED!</td>
 						</tr>
 						</tbody>
 					</table>
