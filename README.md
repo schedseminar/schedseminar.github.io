@@ -436,7 +436,7 @@
 				<td class="information_upcoming_container">
 					<b>[Presenter]</b><br>
 					<a href="https://biblio.ugent.be/person/802001574062">Dries Goossens</a><br>
-					(TU Munich)<br><br/>
+					(Ghent University)<br><br/>
 					<!--<b>Keywords:</b> Sports scheduling, Unified data format, International timetabling competition, Benchmarking, Instance space analysis, Algorithm selection -->
 					<b>[Invited by]</b><br>
 					<a href="https://www.southampton.ac.uk/maths/about/staff/cnp1.page">Chris Potts</a><br>
