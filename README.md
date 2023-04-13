@@ -102,15 +102,6 @@
 
 
 <!--------------------------------------------------------------------------------------------------------------------->
-<!--TODO FINISH - ISSUE IS TO DECIDE WHICH TAGS TO INCLUDE, ALSO ADD ALL TAG - Tags-->
-<!--add key_tag to class as next entry to filter by it-->
-<!--<hr>-->
-<!--<h2>Tags</h2>-->
-<!--<div>-->
-<!--	<button id="btn" class="button3" onClick="hide_not_tagged('key_ilp');">ILP</button>-->
-<!--</div>-->
-
-<!--------------------------------------------------------------------------------------------------------------------->
 <!--Talks-->
 <hr>
 <div class="column">

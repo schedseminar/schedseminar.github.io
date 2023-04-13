@@ -1,3 +1,5 @@
+Dodelat tagy
+
 Podle reportu na https://gtmetrix.com/
 - Zoptimalizovat obrázky
 - Cachovat je
