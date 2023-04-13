@@ -340,10 +340,10 @@
 					<a href="./presentations/SchedulingSeminar_WojciechBozejko.pdf" class="label_abstract" download>
 						Download PDF
 					</a>
-					<!--					<a href="LINK"-->
-					<!--					   class="label_abstract" download>-->
-					<!--						Download Video-->
-					<!--					</a>-->
+					<a href="https://scheduling-seminar.iid.ciirc.cvut.cz/videos/23_2_Spring/23_4_12%20Wojciech%20Bozejko%20(Poli Wroclawska)%20_%20Opt.%20sched.%20problem%20solving%20on%20D-Wave.mp4"
+					   class="label_abstract" download>
+						Download Video
+					</a>
 				</td>
 			</tr>
 
