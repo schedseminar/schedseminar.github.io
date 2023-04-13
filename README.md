@@ -337,9 +337,9 @@
 						quantum machine.
 						<hr style="border-top: 1px solid black;">
 					</div>
-					<!--					<a href="./presentations/SchedulingSeminar_LarsRohwedder.pdf" class="label_abstract" download>-->
-					<!--						Download PDF-->
-					<!--					</a>-->
+					<a href="./presentations/SchedulingSeminar_WojciechBozejko.pdf" class="label_abstract" download>
+						Download PDF
+					</a>
 					<!--					<a href="LINK"-->
 					<!--					   class="label_abstract" download>-->
 					<!--						Download Video-->
