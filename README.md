@@ -349,19 +349,19 @@
 						<tbody>
 						<tr class="utc">
 							<td>UTC</td>
-							<td>May 24, 13:00</td>
+							<td>May 24, 13:00 Wed</td>
 						</tr>
 						<tr class="europe">
 							<td>Prague</td>
-							<td>May 24, 15:00</td>
+							<td>May 24, 15:00 Wed</td>
 						</tr>
 						<tr class="america">
 							<td>New York</td>
-							<td>May 24, 09:00</td>
+							<td>May 24, 09:00 Wed</td>
 						</tr>
 						<tr class="asia">
 							<td>Shanghai</td>
-							<td>May 24, 21:00</td>
+							<td>May 24, 21:00 Wed</td>
 						</tr>
 						</tbody>
 					</table>
