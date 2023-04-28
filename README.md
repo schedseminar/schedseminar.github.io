@@ -337,10 +337,10 @@
 					<a href="./presentations/SchedulingSeminar_RainerKolisch.pdf" class="label_abstract" download>
 						Download PDF
 					</a>
-					<!--					<a href="LINK"-->
-					<!--					   class="label_abstract" download>-->
-					<!--						Download Video-->
-					<!--					</a>-->
+					<a href="https://scheduling-seminar.iid.ciirc.cvut.cz/videos/23_2_Spring/23_4_26%20Rainer%20Kolisch%20(TU%20Munich)%20_%20RCPSP%20with%20Flexible%20Resource%20Profiles_%20Models....mp4"
+					   class="label_abstract" download>
+						Download Video
+					</a>
 				</td>
 			</tr>
 
