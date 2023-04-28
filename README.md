@@ -374,7 +374,7 @@
 				<td>
 					<table class="panelists_past_container_single">
 						<td colspan="2">
-							<b>Keywords:</b> Machine scheduling, Mathematical Programming, Heuristics <br/><br/>
+							<b>Keywords:</b>  <br/><br/>
 							<b>[Invited by]</b>
 							<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a>
 							(CTU in Prague)
