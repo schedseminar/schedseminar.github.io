@@ -5,7 +5,7 @@ keyword_counts = defaultdict(lambda: 0)
 for line in open("README.md", "r", encoding="utf-8").readlines():
     if "<b>Keywords:</b>" in line:
         # Strip the text
-        test = line.strip().replace("<br/>", "").replace("<br>", "").replace("</b>", "")\
+        test = line.strip().replace("<br/>", "").replace("<br/>", "").replace("</b>", "")\
             .replace("<b>", "").replace("Keywords:", "").replace("<!--", "").replace("-->", "").split(",")
         for i in range(len(test)):
             test[i] = test[i].strip()
