@@ -374,7 +374,7 @@
 				<td>
 					<table class="panelists_past_container_single">
 						<td colspan="2">
-							<b>Keywords:</b>  <br/><br/>
+							<b>Keywords:</b> Project scheduling, Flexible resource profiles, Work content, MIP-formulations, Metaheuristic, Applications <br/><br/>
 							<b>[Invited by]</b>
 							<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a>
 							(CTU in Prague)
