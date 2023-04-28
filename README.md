@@ -2507,7 +2507,8 @@
 				<td>
 					<table class="panelists_past_container_single">
 						<td colspan="2">
-							<b>Keywords:</b> Scheduling, Flowshop, Heuristics, Metaheuristics, Iterated greedy <br/><br/>
+							<b>Keywords:</b> Scheduling, Flowshop, Heuristics, Metaheuristics, Iterated greedy
+							<br/><br/>
 							<b>[Invited by]</b>
 							<a href="https://www.kuleuven.be/wieiswie/nl/person/00053376">G. Vanden Berghe</a>
 							(KU Leuven)

@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: 'en-US' }}">
 <head>
-    <title>Scheduling seminar | Online seminars on scheduling research and applications</title>
-    <!--CSS defines-->
-    <style>
+	<title>Scheduling seminar | Online seminars on scheduling research and applications</title>
+	<!--CSS defines-->
+	<style>
         * {
             box-sizing: border-box;
         }
@@ -194,14 +194,14 @@
             }
         }
 
-        img:hover{
-            background:#ffffff;
-            opacity:0.4;
-            filter:alpha(opacity=40); /* For IE8 and earlier */
+        img:hover {
+            background: #ffffff;
+            opacity: 0.4;
+            filter: alpha(opacity=40); /* For IE8 and earlier */
             box-shadow: 0 0 0px #000000 !important;
         }
 
-        .ignore_hover{
+        .ignore_hover {
             opacity: 1.0 !important;
         }
 
@@ -219,7 +219,7 @@
         .column_right {
             overflow: scroll;
             overflow-x: hidden;
-            height: 97.5em;  /*65em 2 talks, 97.5em 3 talks*/
+            height: 97.5em; /*65em 2 talks, 97.5em 3 talks*/
         }
 
         @media (min-width: 42em) {
@@ -488,15 +488,16 @@
         }
 
 
-    </style>
+	</style>
 
-    <!--JS script for showing/hiding tags-->
-    <script>
+	<!--JS script for showing/hiding tags-->
+	<script>
         // document.write('TEST!');
         var hidden = false;
+
         function hide_not_tagged(key) {
             hidden = !hidden;
-            if(hidden) {
+            if (hidden) {
                 collection = document.getElementsByClassName(key);
                 for (let i = 0; i < collection.length; i++) {
                     collection[i].style.display = "none";
@@ -508,12 +509,12 @@
                 }
             }
         }
-    </script>
+	</script>
 
-    <!--JS scripts-->
-    {% if site.google_analytics %}
-    <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
-    <script>
+	<!--JS scripts-->
+	{% if site.google_analytics %}
+	<script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
+	<script>
         window.dataLayer = window.dataLayer || [];
 
         function gtag() {
@@ -522,22 +523,22 @@
 
         gtag('js', new Date());
         gtag('config', '{{ site.google_analytics }}');
-    </script>
-    {% endif %}
+	</script>
+	{% endif %}
 
-    <!--Meta-->
-    <meta charset="UTF-8">
-    {% seo %}
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="theme-color" content="#157878">
-    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-    <link rel="icon" href="favicon.png" type="image/png">
+	<!--Meta-->
+	<meta charset="UTF-8">
+	{% seo %}
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="theme-color" content="#157878">
+	<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+	<link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+	<link rel="icon" href="favicon.png" type="image/png">
 </head>
 <body>
 
 <main id="content" class="main-content" role="main">
-    {{ content }}
+	{{ content }}
 </main>
 </body>
 </html>
