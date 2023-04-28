@@ -115,93 +115,6 @@
 			<!--Title/Abstract/PDF-->
 			<tr>
 				<td colspan="3">
-					<h2 class="talk_title"><b>The Resource-Constrained Project Scheduling Problem with Flexible Resource
-						Profiles: Models, Methods, and Applications</b><br>
-					</h2>
-					<input type="checkbox" id="abstract_id_42" style="display:none;">
-					<label for="abstract_id_42" class="label_abstract"><a>Abstract</a></label>
-					<div class="hidden">
-						<hr style="border-top: 1px solid black;">
-						The resource-constrained project scheduling problem with flexible resource profiles (FRCPSP) is
-						a generalization
-						of the RCPSP where for each activity a work content is given, which has to be allocated between
-						the start and the finish
-						time of the activity. Hence, next to the start time of activities, a schedule comprises the
-						decision about the duration and the allocation of the work content between the start and the
-						finish time for the activities. The FRCPSP has been introduced
-						in 2003 in the context of real-world application of pharmaceutical research projects. Since,
-						then different models and methods
-						as well as applications have been proposed in the literature. In this talk we will present the
-						FRCPSP, discuss available
-						MIP-formulations as well as heuristics and will present work on the use of FRCPSP to solve
-						different real-world optimization problems.
-						<hr style="border-top: 1px solid black;">
-					</div>
-					<a href="./presentations/SchedulingSeminar_RainerKolisch.pdf" class="label_abstract" download>
-						Download PDF
-					</a>
-					<!--					<a href="LINK"-->
-					<!--					   class="label_abstract" download>-->
-					<!--						Download Video-->
-					<!--					</a>-->
-				</td>
-			</tr>
-
-			<!--Data--->
-			<tr>
-				<td class="presenter_image_container">
-					<div class="single_image_container">
-						<a href="https://www.professors.wi.tum.de/om/team/prof-dr-rainer-kolisch/">
-							<img class="single_presenter" src="photos/Kolisch_Rainer.jpg" alt="person_photo"/>
-						</a><br/>
-					</div>
-				</td>
-				<td class="information_upcoming_container">
-					<b>[Presenter]</b><br>
-					<a href="https://www.professors.wi.tum.de/om/team/prof-dr-rainer-kolisch/">Rainer Kolisch</a><br>
-					(TU Munich)<br><br/>
-					<!--<b>Keywords:</b> scheduling, Quantum Annealing, single machine, exact algorithm -->
-					<b>[Invited by]</b><br>
-					<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a><br/>
-					(CTU in Prague)
-				</td>
-				<td class="time_zones_container">
-					<table class="time_table">
-						<tbody>
-						<tr class="utc">
-							<td>UTC</td>
-							<td>Apr 26, 13:00 Wed</td>
-						</tr>
-						<tr class="europe">
-							<td>Prague</td>
-							<td>Apr 26, 15:00 Wed</td>
-						</tr>
-						<tr class="america">
-							<td>New York</td>
-							<td>Apr 26, 09:00 Wed</td>
-						</tr>
-						<tr class="asia">
-							<td>Shanghai</td>
-							<td>Apr 26, 21:00 Wed</td>
-						</tr>
-						</tbody>
-					</table>
-				</td>
-			</tr>
-		</table>
-
-		<!--Spacing--->
-		<table style="margin: 30px 0 0 0 !important;">
-			<tr>
-				<td colspan="100%"></td>
-			</tr>
-		</table>
-
-		<!--Single talk------------------------------------------------------------------------------------------------>
-		<table style="padding-bottom: 12px;" class="europe">
-			<!--Title/Abstract/PDF-->
-			<tr>
-				<td colspan="3">
 					<h2 class="talk_title"><b>Sports scheduling: from consulting to science</b><br>
 					</h2>
 					<input type="checkbox" id="abstract_id_43" style="display:none;">
@@ -390,9 +303,93 @@
 
 <!--Past talks-->
 <div class="column column_right">
-	<h2>Past talks (40)</h2>
+	<h2>Past talks (41)</h2>
 	<table class="past_talk_table">
 		<tbody>
+
+		<!--Single talk------------------------------------------------------------------------------------------------>
+		<table style="padding-bottom: 12px;" class="europe">
+			<!--Title/Abstract/PDF-->
+			<tr>
+				<td colspan="3">
+					<h2 class="talk_title"><b>The Resource-Constrained Project Scheduling Problem with Flexible Resource
+						Profiles: Models, Methods, and Applications</b><br>
+					</h2>
+					<input type="checkbox" id="abstract_id_42" style="display:none;">
+					<label for="abstract_id_42" class="label_abstract"><a>Abstract</a></label>
+					<div class="hidden">
+						<hr style="border-top: 1px solid black;">
+						The resource-constrained project scheduling problem with flexible resource profiles (FRCPSP) is
+						a generalization
+						of the RCPSP where for each activity a work content is given, which has to be allocated between
+						the start and the finish
+						time of the activity. Hence, next to the start time of activities, a schedule comprises the
+						decision about the duration and the allocation of the work content between the start and the
+						finish time for the activities. The FRCPSP has been introduced
+						in 2003 in the context of real-world application of pharmaceutical research projects. Since,
+						then different models and methods
+						as well as applications have been proposed in the literature. In this talk we will present the
+						FRCPSP, discuss available
+						MIP-formulations as well as heuristics and will present work on the use of FRCPSP to solve
+						different real-world optimization problems.
+						<hr style="border-top: 1px solid black;">
+					</div>
+					<a href="./presentations/SchedulingSeminar_RainerKolisch.pdf" class="label_abstract" download>
+						Download PDF
+					</a>
+					<!--					<a href="LINK"-->
+					<!--					   class="label_abstract" download>-->
+					<!--						Download Video-->
+					<!--					</a>-->
+				</td>
+			</tr>
+
+			<!--Photo and video-->
+			<tr>
+				<td class="presenter_image_container">
+					<div class="single_image_container">
+						<a href="https://www.professors.wi.tum.de/om/team/prof-dr-rainer-kolisch/">
+							<img class="single_presenter" src="photos/Kolisch_Rainer.jpg" alt="person_photo"/>
+						</a><br/>
+					</div>
+				</td>
+
+				<td colspan="2">
+					<div class="resizable_youtube_single">
+						<iframe width="400" height="250" src="https://www.youtube.com/embed/s5hbYHeUyn4"
+						        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+						        allowfullscreen></iframe>
+					</div>
+				</td>
+			</tr>
+
+			<!--Text description-->
+			<tr>
+				<td class="presenter_past_info_container">
+					<b>[Presenter]</b><br>
+					<a href="https://www.professors.wi.tum.de/om/team/prof-dr-rainer-kolisch/">Rainer Kolisch</a><br>
+					(TU Munich)<br>
+				</td>
+
+				<td>
+					<table class="panelists_past_container_single">
+						<td colspan="2">
+							<b>Keywords:</b> Machine scheduling, Mathematical Programming, Heuristics <br/><br>
+							<b>[Invited by]</b>
+							<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a>
+							(CTU in Prague)
+						</td>
+					</table>
+				</td>
+			</tr>
+		</table>
+
+		<!--Spacing--->
+		<table style="margin: 0 0 0 0 !important;">
+			<tr>
+				<td colspan="100%"></td>
+			</tr>
+		</table>
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
 		<table style="padding-bottom: 12px;" class="europe">
