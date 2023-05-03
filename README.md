@@ -340,7 +340,7 @@
 					(Vanderbilt Uni)<br/><br/>
 					<!--<b>Keywords:</b> Logistics, Scheduling, Stacking cranes, Container terminal, Branch and cut -->
 					<b>[Invited by]</b><br/>
-					<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a>
+					<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a><br/>
 					(New York University)
 				</td>
 				<td class="time_zones_container">
