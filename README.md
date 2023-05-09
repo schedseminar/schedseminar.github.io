@@ -422,7 +422,7 @@
 				<td class="information_upcoming_container">
 					<b>[Presenter]</b><br/>
 					<a href="https://www.runi.ac.il/en/faculty/tami">Tami Tamir</a><br/>
-					(Reichman University)<br/><br/>
+					(Reichman Uni)<br/><br/>
 					<!--<b>Keywords:</b> Machines' priority lists, Coordinated mechanisms, Minimum completion time, Equilibrium inefficiency -->
 					<b>[Invited by]</b><br/>
 					<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a><br/>
