@@ -375,6 +375,90 @@
 			</tr>
 		</table>
 
+		<!--Single talk------------------------------------------------------------------------------------------------>
+		<table style="padding-bottom: 12px;" class="europe">
+			<!--Title/Abstract/PDF-->
+			<tr>
+				<td colspan="3">
+					<h2 class="talk_title"><b>Scheduling with Machine-Dependent Priority Lists</b><br/>
+					</h2>
+					<input type="checkbox" id="abstract_id_46" style="display:none;">
+					<label for="abstract_id_46" class="label_abstract"><a>Abstract</a></label>
+					<div class="hidden">
+						<hr style="border-top: 1px solid black;">
+						We consider a natural, yet challenging variant of the parallel machine scheduling problem in
+						which each machine imposes a preferential order over the jobs and schedules the jobs accordingly
+						once assigned to it.
+						We study the setting in which a centralized authority assigns the jobs to machines, as well as
+						the associated non-cooperative game in which jobs are controlled by selfish agents who
+						independently choose which machine to use.
+						In the talk, I will define the model, highlight the differences from other well-analyzed
+						job-scheduling optimization problems and coordinated mechanisms, and present some of our results
+						for several natural objectives (e.g., Makespan, lateness, total completion-time minimization)
+						As we show, having machine-dependent priority lists dramatically affects both the computational
+						complexity of the problem and the equilibrium inefficiency.
+						Joint work with Vipin Ravindran Vijayalakshmi and Marc Schroder
+						<hr style="border-top: 1px solid black;">
+					</div>
+					<!--					<a href="./presentations/SchedulingSeminar_LarsRohwedder.pdf" class="label_abstract" download>-->
+					<!--						Download PDF-->
+					<!--					</a>-->
+					<!--					<a href="LINK"-->
+					<!--					   class="label_abstract" download>-->
+					<!--						Download Video-->
+					<!--					</a>-->
+				</td>
+			</tr>
+
+			<!--Data--->
+			<tr>
+				<td class="presenter_image_container">
+					<div class="single_image_container">
+						<a href="https://www.runi.ac.il/en/faculty/tami">
+							<img class="single_presenter" src="photos/Tami_Tamir.jpg" alt="person_photo"/>
+						</a><br/>
+					</div>
+				</td>
+				<td class="information_upcoming_container">
+					<b>[Presenter]</b><br/>
+					<a href="https://www.runi.ac.il/en/faculty/tami">Tami Tamir</a><br/>
+					(Reichman University)<br/><br/>
+					<!--<b>Keywords:</b> Machines' priority lists, Coordinated mechanisms, Minimum completion time, Equilibrium inefficiency -->
+					<b>[Invited by]</b><br/>
+					<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a><br/>
+					(New York University)
+				</td>
+				<td class="time_zones_container">
+					<table class="time_table">
+						<tbody>
+						<tr class="utc">
+							<td>UTC</td>
+							<td>Jun 21, 13:00 Wed</td>
+						</tr>
+						<tr class="europe">
+							<td>Prague</td>
+							<td>Jun 21, 15:00 Wed</td>
+						</tr>
+						<tr class="america">
+							<td>New York</td>
+							<td>Jun 21, 09:00 Wed</td>
+						</tr>
+						<tr class="asia">
+							<td>Shanghai</td>
+							<td>Jun 21, 21:00 Wed</td>
+						</tr>
+						</tbody>
+					</table>
+				</td>
+			</tr>
+		</table>
+
+		<!--Spacing--->
+		<table style="margin: 30px 0 0 0 !important;">
+			<tr>
+				<td colspan="100%"></td>
+			</tr>
+		</table>
 
 		</tbody>
 	</table>
