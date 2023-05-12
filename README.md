@@ -457,7 +457,7 @@
 				<td>
 					<table class="panelists_past_container_single">
 						<td colspan="2">
-							<b>Keywords:</b> Sports scheduling, Unified data format, International timetabling competition, Benchmarking, Instance space analysis, Algorithm selection
+							<b>Keywords:</b> Sports scheduling, Unified data format, International timetabling competition, Benchmarking, Instance space analysis, Algorithm selection <br/><br/>
 							<b>[Invited by]</b>
 							<a href="https://www.southampton.ac.uk/maths/about/staff/cnp1.page">Chris Potts</a><br/>
 							(Southampton Uni)
