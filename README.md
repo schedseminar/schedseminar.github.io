@@ -420,10 +420,10 @@
 					<a href="./presentations/SchedulingSeminar_DriesGoossens.pdf" class="label_abstract" download>
 						Download PDF
 					</a>
-					<!--					<a href="LINK"-->
-					<!--					   class="label_abstract" download>-->
-					<!--						Download Video-->
-					<!--					</a>-->
+					<a href="https://scheduling-seminar.iid.ciirc.cvut.cz/videos/23_2_Spring/23_5_10%20Dries%20Goossens%20(Ghent%20Uni)%20_%20Sports%20Scheduling_%20From%20Consulting%20to%20Science.mp4"
+					   class="label_abstract" download>
+						Download Video
+					</a>
 				</td>
 			</tr>
 
