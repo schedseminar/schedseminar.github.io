@@ -115,91 +115,6 @@
 			<!--Title/Abstract/PDF-->
 			<tr>
 				<td colspan="3">
-					<h2 class="talk_title"><b>Sports scheduling: from consulting to science</b><br/>
-					</h2>
-					<input type="checkbox" id="abstract_id_43" style="display:none;">
-					<label for="abstract_id_43" class="label_abstract"><a>Abstract</a></label>
-					<div class="hidden">
-						<hr style="border-top: 1px solid black;">
-						Any sports competition needs a schedule, specifying when and where teams meet each other. Apart
-						from a number of pioneering theoretical results, most sports timetabling contributions in the
-						literature read as case studies, describing a single problem instance for which a tailored
-						algorithm is developed and compared to a manual solution. While the reported problems are
-						challenging, and the algorithms made an impact in practice, it is hard to assess algorithmic
-						performance. Indeed, real-life problem instances are rarely shared, and few realistic benchmark
-						instances are available.
-						In this talk, we discuss our efforts to obtain insights in the strengths and weaknesses of
-						several state-of-the-art sport scheduling algorithms, and to predict which algorithm to select
-						for which type of problem. The story covers the development of a problem classification and
-						unifying data format, the generation of a set of diverse and realistic benchmark instance, the
-						organization of a timetabling competition, and an instance space analysis for sports scheduling.
-						<hr style="border-top: 1px solid black;">
-					</div>
-					<!--					<a href="./presentations/SchedulingSeminar_LarsRohwedder.pdf" class="label_abstract" download>-->
-					<!--						Download PDF-->
-					<!--					</a>-->
-					<!--					<a href="LINK"-->
-					<!--					   class="label_abstract" download>-->
-					<!--						Download Video-->
-					<!--					</a>-->
-				</td>
-			</tr>
-
-			<!--Data--->
-			<tr>
-				<td class="presenter_image_container">
-					<div class="single_image_container">
-						<a href="https://biblio.ugent.be/person/802001574062">
-							<img class="single_presenter" src="photos/Dries%20Goossens.jpg" alt="person_photo"/>
-						</a><br/>
-					</div>
-				</td>
-				<td class="information_upcoming_container">
-					<b>[Presenter]</b><br/>
-					<a href="https://biblio.ugent.be/person/802001574062">Dries Goossens</a><br/>
-					(Ghent University)<br/><br/>
-					<!--<b>Keywords:</b> Sports scheduling, Unified data format, International timetabling competition, Benchmarking, Instance space analysis, Algorithm selection -->
-					<b>[Invited by]</b><br/>
-					<a href="https://www.southampton.ac.uk/maths/about/staff/cnp1.page">Chris Potts</a><br/>
-					(Southampton Uni)
-				</td>
-				<td class="time_zones_container">
-					<table class="time_table">
-						<tbody>
-						<tr class="utc">
-							<td>UTC</td>
-							<td>May 10, 13:00 Wed</td>
-						</tr>
-						<tr class="europe">
-							<td>Prague</td>
-							<td>May 10, 15:00 Wed</td>
-						</tr>
-						<tr class="america">
-							<td>New York</td>
-							<td>May 10, 09:00 Wed</td>
-						</tr>
-						<tr class="asia">
-							<td>Shanghai</td>
-							<td>May 10, 21:00 Wed</td>
-						</tr>
-						</tbody>
-					</table>
-				</td>
-			</tr>
-		</table>
-
-		<!--Spacing--->
-		<table style="margin: 30px 0 0 0 !important;">
-			<tr>
-				<td colspan="100%"></td>
-			</tr>
-		</table>
-
-		<!--Single talk------------------------------------------------------------------------------------------------>
-		<table style="padding-bottom: 12px;" class="europe">
-			<!--Title/Abstract/PDF-->
-			<tr>
-				<td colspan="3">
 					<h2 class="talk_title"><b>Conflict-Free Crane Scheduling in a Seaport Terminal</b><br/>
 					</h2>
 					<input type="checkbox" id="abstract_id_44" style="display:none;">
@@ -472,9 +387,91 @@
 
 <!--Past talks-->
 <div class="column column_right">
-	<h2>Past talks (41)</h2>
+	<h2>Past talks (42)</h2>
 	<table class="past_talk_table">
 		<tbody>
+
+		<!--Single talk------------------------------------------------------------------------------------------------>
+		<table style="padding-bottom: 12px;" class="europe">
+			<!--Title/Abstract/PDF-->
+			<tr>
+				<td colspan="3">
+					<h2 class="talk_title"><b>Sports scheduling: from consulting to science</b><br/>
+					</h2>
+					<input type="checkbox" id="abstract_id_43" style="display:none;">
+					<label for="abstract_id_43" class="label_abstract"><a>Abstract</a></label>
+					<div class="hidden">
+						<hr style="border-top: 1px solid black;">
+						Any sports competition needs a schedule, specifying when and where teams meet each other. Apart
+						from a number of pioneering theoretical results, most sports timetabling contributions in the
+						literature read as case studies, describing a single problem instance for which a tailored
+						algorithm is developed and compared to a manual solution. While the reported problems are
+						challenging, and the algorithms made an impact in practice, it is hard to assess algorithmic
+						performance. Indeed, real-life problem instances are rarely shared, and few realistic benchmark
+						instances are available.
+						In this talk, we discuss our efforts to obtain insights in the strengths and weaknesses of
+						several state-of-the-art sport scheduling algorithms, and to predict which algorithm to select
+						for which type of problem. The story covers the development of a problem classification and
+						unifying data format, the generation of a set of diverse and realistic benchmark instance, the
+						organization of a timetabling competition, and an instance space analysis for sports scheduling.
+						<hr style="border-top: 1px solid black;">
+					</div>
+					<a href="./presentations/SchedulingSeminar_DriesGoossens.pdf" class="label_abstract" download>
+						Download PDF
+					</a>
+					<a href="https://scheduling-seminar.iid.ciirc.cvut.cz/videos/23_2_Spring/23_5_10%20Dries%20Goossens%20(Ghent%20Uni)%20_%20Sports%20Scheduling_%20From%20Consulting%20to%20Science.mp4"
+					   class="label_abstract" download>
+						Download Video
+					</a>
+				</td>
+			</tr>
+
+			<!--Photo and video-->
+			<tr>
+				<td class="presenter_image_container">
+					<div class="single_image_container">
+						<a href="https://biblio.ugent.be/person/802001574062">
+							<img class="single_presenter" src="photos/Dries%20Goossens.jpg" alt="person_photo"/>
+						</a><br/>
+					</div>
+				</td>
+
+				<td colspan="2">
+					<div class="resizable_youtube_single">
+						<iframe width="400" height="250" src="https://www.youtube.com/embed/4_AvJ8CPKj8"
+						        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+						        allowfullscreen></iframe>
+					</div>
+				</td>
+			</tr>
+
+			<!--Text description-->
+			<tr>
+				<td class="presenter_past_info_container">
+					<b>[Presenter]</b><br/>
+					<a href="https://biblio.ugent.be/person/802001574062">Dries Goossens</a><br/>
+					(Ghent University)<br/>
+				</td>
+
+				<td>
+					<table class="panelists_past_container_single">
+						<td colspan="2">
+							<b>Keywords:</b> Sports scheduling, Unified data format, International timetabling competition, Benchmarking, Instance space analysis, Algorithm selection <br/><br/>
+							<b>[Invited by]</b>
+							<a href="https://www.southampton.ac.uk/maths/about/staff/cnp1.page">Chris Potts</a>
+							(Southampton Uni)
+						</td>
+					</table>
+				</td>
+			</tr>
+		</table>
+
+		<!--Spacing--->
+		<table style="margin: 0 0 0 0 !important;">
+			<tr>
+				<td colspan="100%"></td>
+			</tr>
+		</table>
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
 		<table style="padding-bottom: 12px;" class="europe">
