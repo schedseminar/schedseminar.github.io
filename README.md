@@ -289,7 +289,6 @@
 			</tr>
 		</table>
 
-
 		<!--Single talk------------------------------------------------------------------------------------------------>
 		<table style="padding-bottom: 12px;" class="america">
 			<!--Title/Abstract/PDF-->
