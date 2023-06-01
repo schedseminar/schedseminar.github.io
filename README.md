@@ -186,13 +186,13 @@
 					</table>
 				</td>
 			</tr>
-		</table>
 
-		<!--Spacing--->
-		<table style="margin: 30px 0 0 0 !important;">
-			<tr>
-				<td colspan="100%"></td>
-			</tr>
+			<!--Spacing--->
+			<table style="margin: 30px 0 0 0 !important;">
+				<tr>
+					<td colspan="100%"></td>
+				</tr>
+			</table>
 		</table>
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
@@ -271,13 +271,13 @@
 					</table>
 				</td>
 			</tr>
-		</table>
 
-		<!--Spacing--->
-		<table style="margin: 30px 0 0 0 !important;">
-			<tr>
-				<td colspan="100%"></td>
-			</tr>
+			<!--Spacing--->
+			<table style="margin: 30px 0 0 0 !important;">
+				<tr>
+					<td colspan="100%"></td>
+				</tr>
+			</table>
 		</table>
 
 		</tbody>
@@ -371,7 +371,8 @@
 				<td>
 					<table class="panelists_past_container_single">
 						<td colspan="2">
-							<b>Keywords:</b> Logistics, Scheduling, Stacking cranes, Container terminal, Branch and cut <br/><br/>
+							<b>Keywords:</b> Logistics, Scheduling, Stacking cranes, Container terminal, Branch and cut
+							<br/><br/>
 							<b>[Invited by]</b>
 							<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a>
 							(CTU in Prague)
@@ -379,11 +380,9 @@
 					</table>
 				</td>
 			</tr>
-		</table>
 
-		<!--Spacing--->
-		<table style="margin: 0 0 0 0 !important;">
-			<tr>
+			<!--Spacing--->
+			<tr style="margin: 10px 10px 10px 10px !important; background-color: white">
 				<td colspan="100%"></td>
 			</tr>
 		</table>
@@ -453,7 +452,8 @@
 				<td>
 					<table class="panelists_past_container_single">
 						<td colspan="2">
-							<b>Keywords:</b> Sports scheduling, Unified data format, International timetabling competition, Benchmarking, Instance space analysis, Algorithm selection <br/><br/>
+							<b>Keywords:</b> Sports scheduling, Unified data format, International timetabling
+							competition, Benchmarking, Instance space analysis, Algorithm selection <br/><br/>
 							<b>[Invited by]</b>
 							<a href="https://www.southampton.ac.uk/maths/about/staff/cnp1.page">Chris Potts</a>
 							(Southampton Uni)
@@ -461,11 +461,9 @@
 					</table>
 				</td>
 			</tr>
-		</table>
 
-		<!--Spacing--->
-		<table style="margin: 0 0 0 0 !important;">
-			<tr>
+			<!--Spacing--->
+			<tr style="margin: 10px 10px 10px 10px !important; background-color: white">
 				<td colspan="100%"></td>
 			</tr>
 		</table>
@@ -546,11 +544,9 @@
 					</table>
 				</td>
 			</tr>
-		</table>
 
-		<!--Spacing--->
-		<table style="margin: 0 0 0 0 !important;">
-			<tr>
+			<!--Spacing--->
+			<tr style="margin: 10px 10px 10px 10px !important; background-color: white">
 				<td colspan="100%"></td>
 			</tr>
 		</table>
@@ -632,11 +628,9 @@
 					</table>
 				</td>
 			</tr>
-		</table>
 
-		<!--Spacing--->
-		<table style="margin: 0 0 0 0 !important;">
-			<tr>
+			<!--Spacing--->
+			<tr style="margin: 10px 10px 10px 10px !important; background-color: white">
 				<td colspan="100%"></td>
 			</tr>
 		</table>
@@ -713,11 +707,9 @@
 					</table>
 				</td>
 			</tr>
-		</table>
 
-		<!--Spacing--->
-		<table style="margin: 0 0 0 0 !important;">
-			<tr>
+			<!--Spacing--->
+			<tr style="margin: 10px 10px 10px 10px !important; background-color: white">
 				<td colspan="100%"></td>
 			</tr>
 		</table>
@@ -797,11 +789,9 @@
 					</table>
 				</td>
 			</tr>
-		</table>
 
-		<!--Spacing--->
-		<table style="margin: 0 0 0 0 !important;">
-			<tr>
+			<!--Spacing--->
+			<tr style="margin: 10px 10px 10px 10px !important; background-color: white">
 				<td colspan="100%"></td>
 			</tr>
 		</table>
@@ -876,11 +866,9 @@
 					</table>
 				</td>
 			</tr>
-		</table>
 
-		<!--Spacing--->
-		<table style="margin: 0 0 0 0 !important;">
-			<tr>
+			<!--Spacing--->
+			<tr style="margin: 10px 10px 10px 10px !important; background-color: white">
 				<td colspan="100%"></td>
 			</tr>
 		</table>
@@ -966,11 +954,9 @@
 					</table>
 				</td>
 			</tr>
-		</table>
 
-		<!--Spacing--->
-		<table style="margin: 0 0 0 0 !important;">
-			<tr>
+			<!--Spacing--->
+			<tr style="margin: 10px 10px 10px 10px !important; background-color: white">
 				<td colspan="100%"></td>
 			</tr>
 		</table>
@@ -1043,11 +1029,9 @@
 					</table>
 				</td>
 			</tr>
-		</table>
 
-		<!--Spacing--->
-		<table style="margin: 0 0 0 0 !important;">
-			<tr>
+			<!--Spacing--->
+			<tr style="margin: 10px 10px 10px 10px !important; background-color: white">
 				<td colspan="100%"></td>
 			</tr>
 		</table>
@@ -1132,11 +1116,9 @@
 					</table>
 				</td>
 			</tr>
-		</table>
 
-		<!--Spacing--->
-		<table style="margin: 0 0 0 0 !important;">
-			<tr>
+			<!--Spacing--->
+			<tr style="margin: 10px 10px 10px 10px !important; background-color: white">
 				<td colspan="100%"></td>
 			</tr>
 		</table>
@@ -1234,11 +1216,9 @@
 					</table>
 				</td>
 			</tr>
-		</table>
 
-		<!--Spacing--->
-		<table style="margin: 0 0 0 0 !important;">
-			<tr>
+			<!--Spacing--->
+			<tr style="margin: 10px 10px 10px 10px !important; background-color: white">
 				<td colspan="100%"></td>
 			</tr>
 		</table>
@@ -1316,11 +1296,9 @@
 					</table>
 				</td>
 			</tr>
-		</table>
 
-		<!--Spacing--->
-		<table style="margin: 0 0 0 0 !important;">
-			<tr>
+			<!--Spacing--->
+			<tr style="margin: 10px 10px 10px 10px !important; background-color: white">
 				<td colspan="100%"></td>
 			</tr>
 		</table>
@@ -1406,11 +1384,9 @@
 					</table>
 				</td>
 			</tr>
-		</table>
 
-		<!--Spacing--->
-		<table style="margin: 0 0 0 0 !important;">
-			<tr>
+			<!--Spacing--->
+			<tr style="margin: 10px 10px 10px 10px !important; background-color: white">
 				<td colspan="100%"></td>
 			</tr>
 		</table>
@@ -1496,11 +1472,9 @@
 					</table>
 				</td>
 			</tr>
-		</table>
 
-		<!--Spacing--->
-		<table style="margin: 0 0 0 0 !important;">
-			<tr>
+			<!--Spacing--->
+			<tr style="margin: 10px 10px 10px 10px !important; background-color: white">
 				<td colspan="100%"></td>
 			</tr>
 		</table>
@@ -1578,11 +1552,9 @@
 					</table>
 				</td>
 			</tr>
-		</table>
 
-		<!--Spacing--->
-		<table style="margin: 0 0 0 0 !important;">
-			<tr>
+			<!--Spacing--->
+			<tr style="margin: 10px 10px 10px 10px !important; background-color: white">
 				<td colspan="100%"></td>
 			</tr>
 		</table>
@@ -1666,11 +1638,9 @@
 					</table>
 				</td>
 			</tr>
-		</table>
 
-		<!--Spacing--->
-		<table style="margin: 0 0 0 0 !important;">
-			<tr>
+			<!--Spacing--->
+			<tr style="margin: 10px 10px 10px 10px !important; background-color: white">
 				<td colspan="100%"></td>
 			</tr>
 		</table>
@@ -1747,11 +1717,9 @@
 					</table>
 				</td>
 			</tr>
-		</table>
 
-		<!--Spacing--->
-		<table style="margin: 0 0 0 0 !important;">
-			<tr>
+			<!--Spacing--->
+			<tr style="margin: 10px 10px 10px 10px !important; background-color: white">
 				<td colspan="100%"></td>
 			</tr>
 		</table>
@@ -1830,11 +1798,9 @@
 					</table>
 				</td>
 			</tr>
-		</table>
 
-		<!--Spacing--->
-		<table style="margin: 0 0 0 0 !important;">
-			<tr>
+			<!--Spacing--->
+			<tr style="margin: 10px 10px 10px 10px !important; background-color: white">
 				<td colspan="100%"></td>
 			</tr>
 		</table>
@@ -1916,11 +1882,9 @@
 					</table>
 				</td>
 			</tr>
-		</table>
 
-		<!--Spacing--->
-		<table style="margin: 0 0 0 0 !important;">
-			<tr>
+			<!--Spacing--->
+			<tr style="margin: 10px 10px 10px 10px !important; background-color: white">
 				<td colspan="100%"></td>
 			</tr>
 		</table>
@@ -1999,11 +1963,9 @@
 					</table>
 				</td>
 			</tr>
-		</table>
 
-		<!--Spacing--->
-		<table style="margin: 0 0 0 0 !important;">
-			<tr>
+			<!--Spacing--->
+			<tr style="margin: 10px 10px 10px 10px !important; background-color: white">
 				<td colspan="100%"></td>
 			</tr>
 		</table>
@@ -2078,11 +2040,9 @@
 					</table>
 				</td>
 			</tr>
-		</table>
 
-		<!--Spacing--->
-		<table style="margin: 0 0 0 0 !important;">
-			<tr>
+			<!--Spacing--->
+			<tr style="margin: 10px 10px 10px 10px !important; background-color: white">
 				<td colspan="100%"></td>
 			</tr>
 		</table>
@@ -2164,11 +2124,9 @@
 					</table>
 				</td>
 			</tr>
-		</table>
 
-		<!--Spacing--->
-		<table style="margin: 0 0 0 0 !important;">
-			<tr>
+			<!--Spacing--->
+			<tr style="margin: 10px 10px 10px 10px !important; background-color: white">
 				<td colspan="100%"></td>
 			</tr>
 		</table>
@@ -2248,11 +2206,9 @@
 					</table>
 				</td>
 			</tr>
-		</table>
 
-		<!--Spacing--->
-		<table style="margin: 0 0 0 0 !important;">
-			<tr>
+			<!--Spacing--->
+			<tr style="margin: 10px 10px 10px 10px !important; background-color: white">
 				<td colspan="100%"></td>
 			</tr>
 		</table>
@@ -2330,11 +2286,9 @@
 					</table>
 				</td>
 			</tr>
-		</table>
 
-		<!--Spacing--->
-		<table style="margin: 0 0 0 0 !important;">
-			<tr>
+			<!--Spacing--->
+			<tr style="margin: 10px 10px 10px 10px !important; background-color: white">
 				<td colspan="100%"></td>
 			</tr>
 		</table>
@@ -2413,11 +2367,9 @@
 					</table>
 				</td>
 			</tr>
-		</table>
 
-		<!--Spacing--->
-		<table style="margin: 0 0 0 0 !important;">
-			<tr>
+			<!--Spacing--->
+			<tr style="margin: 10px 10px 10px 10px !important; background-color: white">
 				<td colspan="100%"></td>
 			</tr>
 		</table>
@@ -2502,11 +2454,9 @@
 					</table>
 				</td>
 			</tr>
-		</table>
 
-		<!--Spacing--->
-		<table style="margin: 0 0 0 0 !important;">
-			<tr>
+			<!--Spacing--->
+			<tr style="margin: 10px 10px 10px 10px !important; background-color: white">
 				<td colspan="100%"></td>
 			</tr>
 		</table>
@@ -2583,11 +2533,9 @@
 					</table>
 				</td>
 			</tr>
-		</table>
 
-		<!--Spacing--->
-		<table style="margin: 0 0 0 0 !important;">
-			<tr>
+			<!--Spacing--->
+			<tr style="margin: 10px 10px 10px 10px !important; background-color: white">
 				<td colspan="100%"></td>
 			</tr>
 		</table>
@@ -2680,11 +2628,9 @@
 					</table>
 				</td>
 			</tr>
-		</table>
 
-		<!--Spacing--->
-		<table style="margin: 0 0 0 0 !important;">
-			<tr>
+			<!--Spacing--->
+			<tr style="margin: 10px 10px 10px 10px !important; background-color: white">
 				<td colspan="100%"></td>
 			</tr>
 		</table>
@@ -2765,11 +2711,9 @@
 					</table>
 				</td>
 			</tr>
-		</table>
 
-		<!--Spacing--->
-		<table style="margin: 0 0 0 0 !important;">
-			<tr>
+			<!--Spacing--->
+			<tr style="margin: 10px 10px 10px 10px !important; background-color: white">
 				<td colspan="100%"></td>
 			</tr>
 		</table>
@@ -2850,11 +2794,9 @@
 					</table>
 				</td>
 			</tr>
-		</table>
 
-		<!--Spacing--->
-		<table style="margin: 0 0 0 0 !important;">
-			<tr>
+			<!--Spacing--->
+			<tr style="margin: 10px 10px 10px 10px !important; background-color: white">
 				<td colspan="100%"></td>
 			</tr>
 		</table>
@@ -2942,11 +2884,9 @@
 					</table>
 				</td>
 			</tr>
-		</table>
 
-		<!--Spacing--->
-		<table style="margin: 0 0 0 0 !important;">
-			<tr>
+			<!--Spacing--->
+			<tr style="margin: 10px 10px 10px 10px !important; background-color: white">
 				<td colspan="100%"></td>
 			</tr>
 		</table>
@@ -3026,11 +2966,9 @@
 					</table>
 				</td>
 			</tr>
-		</table>
 
-		<!--Spacing--->
-		<table style="margin: 0 0 0 0 !important;">
-			<tr>
+			<!--Spacing--->
+			<tr style="margin: 10px 10px 10px 10px !important; background-color: white">
 				<td colspan="100%"></td>
 			</tr>
 		</table>
@@ -3113,11 +3051,9 @@
 					</table>
 				</td>
 			</tr>
-		</table>
 
-		<!--Spacing--->
-		<table style="margin: 0 0 0 0 !important;">
-			<tr>
+			<!--Spacing--->
+			<tr style="margin: 10px 10px 10px 10px !important; background-color: white">
 				<td colspan="100%"></td>
 			</tr>
 		</table>
@@ -3197,11 +3133,9 @@
 					</table>
 				</td>
 			</tr>
-		</table>
 
-		<!--Spacing--->
-		<table style="margin: 0 0 0 0 !important;">
-			<tr>
+			<!--Spacing--->
+			<tr style="margin: 10px 10px 10px 10px !important; background-color: white">
 				<td colspan="100%"></td>
 			</tr>
 		</table>
@@ -3291,11 +3225,9 @@
 					</table>
 				</td>
 			</tr>
-		</table>
 
-		<!--Spacing--->
-		<table style="margin: 0 0 0 0 !important;">
-			<tr>
+			<!--Spacing--->
+			<tr style="margin: 10px 10px 10px 10px !important; background-color: white">
 				<td colspan="100%"></td>
 			</tr>
 		</table>
@@ -3371,11 +3303,9 @@
 					</table>
 				</td>
 			</tr>
-		</table>
 
-		<!--Spacing--->
-		<table style="margin: 0 0 0 0 !important;">
-			<tr>
+			<!--Spacing--->
+			<tr style="margin: 10px 10px 10px 10px !important; background-color: white">
 				<td colspan="100%"></td>
 			</tr>
 		</table>
@@ -3460,11 +3390,9 @@
 					</table>
 				</td>
 			</tr>
-		</table>
 
-		<!--Spacing--->
-		<table style="margin: 0 0 0 0 !important;">
-			<tr>
+			<!--Spacing--->
+			<tr style="margin: 10px 10px 10px 10px !important; background-color: white">
 				<td colspan="100%"></td>
 			</tr>
 		</table>
@@ -3555,11 +3483,9 @@
 					</table>
 				</td>
 			</tr>
-		</table>
 
-		<!--Spacing--->
-		<table style="margin: 0 0 0 0 !important;">
-			<tr>
+			<!--Spacing--->
+			<tr style="margin: 10px 10px 10px 10px !important; background-color: white">
 				<td colspan="100%"></td>
 			</tr>
 		</table>
@@ -3641,11 +3567,9 @@
 					</table>
 				</td>
 			</tr>
-		</table>
 
-		<!--Spacing--->
-		<table style="margin: 0 0 0 0 !important;">
-			<tr>
+			<!--Spacing--->
+			<tr style="margin: 10px 10px 10px 10px !important; background-color: white">
 				<td colspan="100%"></td>
 			</tr>
 		</table>
@@ -3723,11 +3647,9 @@
 					</table>
 				</td>
 			</tr>
-		</table>
 
-		<!--Spacing--->
-		<table style="margin: 0 0 0 0 !important;">
-			<tr>
+			<!--Spacing--->
+			<tr style="margin: 10px 10px 10px 10px !important; background-color: white">
 				<td colspan="100%"></td>
 			</tr>
 		</table>
@@ -3821,11 +3743,9 @@
 					</table>
 				</td>
 			</tr>
-		</table>
 
-		<!--Spacing--->
-		<table style="margin: 0 0 0 0 !important;">
-			<tr>
+			<!--Spacing--->
+			<tr style="margin: 10px 10px 10px 10px !important; background-color: white">
 				<td colspan="100%"></td>
 			</tr>
 		</table>
@@ -3906,11 +3826,9 @@
 					</table>
 				</td>
 			</tr>
-		</table>
 
-		<!--Spacing--->
-		<table style="margin: 0 0 0 0 !important;">
-			<tr>
+			<!--Spacing--->
+			<tr style="margin: 10px 10px 10px 10px !important; background-color: white">
 				<td colspan="100%"></td>
 			</tr>
 		</table>
@@ -3990,11 +3908,9 @@
 					</table>
 				</td>
 			</tr>
-		</table>
 
-		<!--Spacing--->
-		<table style="margin: 0 0 0 0 !important;">
-			<tr>
+			<!--Spacing--->
+			<tr style="margin: 10px 10px 10px 10px !important; background-color: white">
 				<td colspan="100%"></td>
 			</tr>
 		</table>
