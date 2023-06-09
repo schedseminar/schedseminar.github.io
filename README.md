@@ -110,91 +110,6 @@
 		<tbody>
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
-		<table style="padding-bottom: 12px;" class="america">
-			<!--Title/Abstract/PDF-->
-			<tr>
-				<td colspan="3">
-					<h2 class="talk_title"><b>Surgery Scheduling: Research and Practice</b><br/>
-					</h2>
-					<input type="checkbox" id="abstract_id_45" style="display:none;">
-					<label for="abstract_id_45" class="label_abstract"><a>Abstract</a></label>
-					<div class="hidden">
-						<hr style="border-top: 1px solid black;">
-						Scheduling of surgeries is a complex process that involves simultaneous scheduling of not only
-						several resources (staff, room, equipment, supplies, instruments), but also building flexibility
-						in capacity-reservation policies to accommodate most types of patient classes. In the case of
-						trauma centers this complexity increases even more due to the need for dynamic rescheduling of
-						elective surgeries as emergency surgeries arrive randomly. In practice, these issues are tackled
-						every day in a ‘non-optimal / heuristic’ way. Recent research in this area has shown the
-						potential of implementing modified priority rules. In contrast to trauma centers, ambulatory
-						surgery centers only perform elective surgeries and have a lower cost structure. Their
-						profitability is therefore dependent upon efficient use of capacity. Recent research has modeled
-						these as Hybrid Flow Shops and solved the capacity planning problem using easy to implement
-						heuristics. This talk will also discuss some new avenues of operating room scheduling that have
-						not yet been researched by academics.
-						<hr style="border-top: 1px solid black;">
-					</div>
-					<a href="./presentations/SchedulingSeminar_VikramTiwari.pdf" class="label_abstract" download>
-						Download PDF
-					</a>
-					<!--					<a href="LINK"-->
-					<!--					   class="label_abstract" download>-->
-					<!--						Download Video-->
-					<!--					</a>-->
-				</td>
-			</tr>
-
-			<!--Data--->
-			<tr>
-				<td class="presenter_image_container">
-					<div class="single_image_container">
-						<a href="https://business.vanderbilt.edu/bio/vikram-tiwari/">
-							<img class="single_presenter" src="photos/Vikram_Tiwari.jpg" alt="person_photo"/>
-						</a><br/>
-					</div>
-				</td>
-				<td class="information_upcoming_container">
-					<b>[Presenter]</b><br/>
-					<a href="https://business.vanderbilt.edu/bio/vikram-tiwari/">Vikram Tiwari</a><br/>
-					(Vanderbilt Uni)<br/><br/>
-					<!--<b>Keywords:</b> Logistics, Scheduling, Stacking cranes, Container terminal, Branch and cut -->
-					<b>[Invited by]</b><br/>
-					<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a><br/>
-					(New York University)
-				</td>
-				<td class="time_zones_container">
-					<table class="time_table">
-						<tbody>
-						<tr class="utc">
-							<td>UTC</td>
-							<td>Jun 7, 13:00 Wed</td>
-						</tr>
-						<tr class="europe">
-							<td>Prague</td>
-							<td>Jun 7, 15:00 Wed</td>
-						</tr>
-						<tr class="america">
-							<td>New York</td>
-							<td>Jun 7, 09:00 Wed</td>
-						</tr>
-						<tr class="asia">
-							<td>Shanghai</td>
-							<td>Jun 7, 21:00 Wed</td>
-						</tr>
-						</tbody>
-					</table>
-				</td>
-			</tr>
-
-			<!--Spacing--->
-			<table style="margin: 30px 0 0 0 !important;">
-				<tr>
-					<td colspan="100%"></td>
-				</tr>
-			</table>
-		</table>
-
-		<!--Single talk------------------------------------------------------------------------------------------------>
 		<table style="padding-bottom: 12px;" class="europe">
 			<!--Title/Abstract/PDF-->
 			<tr>
@@ -292,9 +207,89 @@
 
 <!--Past talks-->
 <div class="column column_right">
-	<h2>Past talks (43)</h2>
+	<h2>Past talks (44)</h2>
 	<table class="past_talk_table">
 		<tbody>
+
+		<!--Single talk------------------------------------------------------------------------------------------------>
+		<table style="padding-bottom: 12px;" class="america">
+			<!--Title/Abstract/PDF-->
+			<tr>
+				<td colspan="3">
+					<h2 class="talk_title"><b>Surgery Scheduling: Research and Practice</b><br/>
+					</h2>
+					<input type="checkbox" id="abstract_id_45" style="display:none;">
+					<label for="abstract_id_45" class="label_abstract"><a>Abstract</a></label>
+					<div class="hidden">
+						<hr style="border-top: 1px solid black;">
+						Scheduling of surgeries is a complex process that involves simultaneous scheduling of not only
+						several resources (staff, room, equipment, supplies, instruments), but also building flexibility
+						in capacity-reservation policies to accommodate most types of patient classes. In the case of
+						trauma centers this complexity increases even more due to the need for dynamic rescheduling of
+						elective surgeries as emergency surgeries arrive randomly. In practice, these issues are tackled
+						every day in a ‘non-optimal / heuristic’ way. Recent research in this area has shown the
+						potential of implementing modified priority rules. In contrast to trauma centers, ambulatory
+						surgery centers only perform elective surgeries and have a lower cost structure. Their
+						profitability is therefore dependent upon efficient use of capacity. Recent research has modeled
+						these as Hybrid Flow Shops and solved the capacity planning problem using easy to implement
+						heuristics. This talk will also discuss some new avenues of operating room scheduling that have
+						not yet been researched by academics.
+						<hr style="border-top: 1px solid black;">
+					</div>
+					<a href="./presentations/SchedulingSeminar_VikramTiwari.pdf" class="label_abstract" download>
+						Download PDF
+					</a>
+					<!--					<a href="LINK"-->
+					<!--					   class="label_abstract" download>-->
+					<!--						Download Video-->
+					<!--					</a>-->
+				</td>
+			</tr>
+
+			<!--Photo and video-->
+			<tr>
+				<td class="presenter_image_container">
+					<div class="single_image_container">
+						<a href="https://business.vanderbilt.edu/bio/vikram-tiwari/">
+							<img class="single_presenter" src="photos/Vikram_Tiwari.jpg" alt="person_photo"/>
+						</a><br/>
+					</div>
+				</td>
+
+				<td colspan="2">
+					<div class="resizable_youtube_single">
+						<iframe width="400" height="250" src="https://www.youtube.com/embed/AYLgdVvn3Qs"
+						        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+						        allowfullscreen></iframe>
+					</div>
+				</td>
+			</tr>
+
+			<!--Text description-->
+			<tr>
+				<td class="presenter_past_info_container">
+					<b>[Presenter]</b><br/>
+					<a href="https://business.vanderbilt.edu/bio/vikram-tiwari/">Vikram Tiwari</a><br/>
+					(Vanderbilt Uni)<br/>
+				</td>
+
+				<td>
+					<table class="panelists_past_container_single">
+						<td colspan="2">
+							<b>Keywords:</b><br/><br/>
+							<b>[Invited by]</b>
+							<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a><
+							(New York University)
+						</td>
+					</table>
+				</td>
+			</tr>
+
+			<!--Spacing--->
+			<tr style="margin: 10px 10px 10px 10px !important; background-color: white">
+				<td colspan="100%"></td>
+			</tr>
+		</table>
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
 		<table style="padding-bottom: 12px;" class="europe">
