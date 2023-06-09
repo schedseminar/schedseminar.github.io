@@ -239,10 +239,10 @@
 					<a href="./presentations/SchedulingSeminar_VikramTiwari.pdf" class="label_abstract" download>
 						Download PDF
 					</a>
-					<!--					<a href="LINK"-->
-					<!--					   class="label_abstract" download>-->
-					<!--						Download Video-->
-					<!--					</a>-->
+					<a href="https://scheduling-seminar.iid.ciirc.cvut.cz/videos/23_2_Spring/23_6_7%20Vikram%20Tiwari%20(Vanderbilt%20Uni)%20_%20Surgery%20Scheduling_%20Research%20and%20Practice.mp4"
+					   class="label_abstract" download>
+						Download Video
+					</a>
 				</td>
 			</tr>
 
