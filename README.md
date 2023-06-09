@@ -278,7 +278,7 @@
 						<td colspan="2">
 							<b>Keywords:</b><br/><br/>
 							<b>[Invited by]</b>
-							<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a><
+							<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a>
 							(New York University)
 						</td>
 					</table>
