@@ -219,9 +219,9 @@
 						Joint work with Vipin Ravindran Vijayalakshmi and Marc Schroder
 						<hr style="border-top: 1px solid black;">
 					</div>
-					<!--					<a href="./presentations/SchedulingSeminar_LarsRohwedder.pdf" class="label_abstract" download>-->
-					<!--						Download PDF-->
-					<!--					</a>-->
+					<a href="./presentations/SchedulingSeminar_TamiTamir.pdf" class="label_abstract" download>
+						Download PDF
+					</a>
 					<!--					<a href="LINK"-->
 					<!--					   class="label_abstract" download>-->
 					<!--						Download Video-->
