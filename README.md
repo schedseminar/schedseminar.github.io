@@ -109,6 +109,33 @@
 	<table>
 		<tbody>
 
+		<i>Currently, new talks are being planned, and the seminar will start again in September 2023. Consider
+			subscribing to the mailing list
+			<a href='https://list.iid.ciirc.cvut.cz/mailman3/lists/schedulingseminar.rtime.felk.cvut.cz/'
+			   style="margin-left: 5px; margin-right: 5px">
+				<img src="icons/email.png" height="25px" width="25px" alt="email"/>
+			</a> and Youtube channel <a href='https://www.youtube.com/channel/UCUoCNnaAfw5NAntItILFn4A'
+			                            style="margin-left: 5px; margin-right: 5px">
+				<img src="icons/youtube.png" height="25px" width="25px" alt="youtube"/>
+			</a> to never miss out on new upcoming seminars.</i>
+
+		</tbody>
+	</table>
+
+</div>
+
+<!--Separate upcoming and past talks if different resolution results in one column only-->
+<div class="additional_divider">
+	&nbsp;
+	<hr/>
+</div>
+
+<!--Past talks-->
+<div class="column column_right">
+	<h2>Past talks (45)</h2>
+	<table class="past_talk_table">
+		<tbody>
+
 		<!--Single talk------------------------------------------------------------------------------------------------>
 		<table style="padding-bottom: 12px;" class="europe">
 			<!--Title/Abstract/PDF-->
@@ -144,7 +171,7 @@
 				</td>
 			</tr>
 
-			<!--Data--->
+			<!--Photo and video-->
 			<tr>
 				<td class="presenter_image_container">
 					<div class="single_image_container">
@@ -153,63 +180,41 @@
 						</a><br/>
 					</div>
 				</td>
-				<td class="information_upcoming_container">
+
+				<td colspan="2">
+					<div class="resizable_youtube_single">
+						<iframe width="400" height="250" src="https://www.youtube.com/embed/WdJ2IovYk5Y"
+						        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+						        allowfullscreen></iframe>
+					</div>
+				</td>
+			</tr>
+
+			<!--Text description-->
+			<tr>
+				<td class="presenter_past_info_container">
 					<b>[Presenter]</b><br/>
 					<a href="https://www.runi.ac.il/en/faculty/tami">Tami Tamir</a><br/>
-					(Reichman Uni)<br/><br/>
-					<!--<b>Keywords:</b> Machines' priority lists, Coordinated mechanisms, Minimum completion time, Equilibrium inefficiency -->
-					<b>[Invited by]</b><br/>
-					<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a><br/>
-					(New York University)
+					(Reichman Uni)<br/>
 				</td>
-				<td class="time_zones_container">
-					<table class="time_table">
-						<tbody>
-						<tr class="utc">
-							<td>UTC</td>
-							<td>Jun 21, 13:00 Wed</td>
-						</tr>
-						<tr class="europe">
-							<td>Prague</td>
-							<td>Jun 21, 15:00 Wed</td>
-						</tr>
-						<tr class="america">
-							<td>New York</td>
-							<td>Jun 21, 09:00 Wed</td>
-						</tr>
-						<tr class="asia">
-							<td>Shanghai</td>
-							<td>Jun 21, 21:00 Wed</td>
-						</tr>
-						</tbody>
+
+				<td>
+					<table class="panelists_past_container_single">
+						<td colspan="2">
+							<b>Keywords:</b> Machines' priority lists, Coordinated mechanisms, Minimum completion time, Equilibrium inefficiency <br/><br/>
+							<b>[Invited by]</b>
+							<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a>
+							(New York University)
+						</td>
 					</table>
 				</td>
 			</tr>
 
 			<!--Spacing--->
-			<table style="margin: 30px 0 0 0 !important;">
-				<tr>
-					<td colspan="100%"></td>
-				</tr>
-			</table>
+			<tr style="margin: 10px 10px 10px 10px !important; background-color: white">
+				<td colspan="100%"></td>
+			</tr>
 		</table>
-
-		</tbody>
-	</table>
-
-</div>
-
-<!--Separate upcoming and past talks if different resolution results in one column only-->
-<div class="additional_divider">
-	&nbsp;
-	<hr/>
-</div>
-
-<!--Past talks-->
-<div class="column column_right">
-	<h2>Past talks (44)</h2>
-	<table class="past_talk_table">
-		<tbody>
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
 		<table style="padding-bottom: 12px;" class="america">
