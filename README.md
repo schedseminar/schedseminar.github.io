@@ -164,10 +164,10 @@
 					<a href="./presentations/SchedulingSeminar_TamiTamir.pdf" class="label_abstract" download>
 						Download PDF
 					</a>
-					<!--					<a href="LINK"-->
-					<!--					   class="label_abstract" download>-->
-					<!--						Download Video-->
-					<!--					</a>-->
+					<a href="https://scheduling-seminar.iid.ciirc.cvut.cz/videos/23_2_Spring/23_6_21%20Tami%20Tamir%20(Reichman%20Uni)%20_%20Scheduling%20with%20Machine-Dependent%20Priority%20Lists.mp4"
+					   class="label_abstract" download>
+						Download Video
+					</a>
 				</td>
 			</tr>
 
