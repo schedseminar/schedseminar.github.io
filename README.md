@@ -104,6 +104,7 @@
 <!--Talks-->
 <hr>
 <div class="column">
+	<!--TODO when adding new talk, check that talker is subscribed!-->
 	<h2>Upcoming talks</h2>
 
 	<table>
