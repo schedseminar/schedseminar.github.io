@@ -55,7 +55,7 @@
 
 <div class="quarter_column_leftmost">
 	<a href="https://www.youtube.com/channel/UCUoCNnaAfw5NAntItILFn4A/live">
-		<h3 class="external_headings">Join us on Youtube</h3>
+		<h3 class="external_headings">Join us on YouTube</h3>
 	</a>
 	<p style="text-align:center;">
 		<a href="https://www.youtube.com/channel/UCUoCNnaAfw5NAntItILFn4A/live" style="margin-right: 5px">
@@ -107,19 +107,23 @@
 	<!--TODO when adding new talk, check that talker is subscribed!-->
 	<h2>Upcoming talks</h2>
 
+	<br/>
 	<table>
 		<tbody>
-
-		<i>Currently, new talks are being planned, and the seminar will start again in September 2023. Consider
+		<i>
+			Currently, new talks are being planned, and the seminar will start again in September 2023. Consider
 			subscribing to the mailing list
 			<a href='https://list.iid.ciirc.cvut.cz/mailman3/lists/schedulingseminar.rtime.felk.cvut.cz/'
 			   style="margin-left: 5px; margin-right: 5px">
 				<img src="icons/email.png" height="25px" width="25px" alt="email"/>
-			</a> and Youtube channel <a href='https://www.youtube.com/channel/UCUoCNnaAfw5NAntItILFn4A'
+			</a>
+			and YouTube channel
+			<a href='https://www.youtube.com/channel/UCUoCNnaAfw5NAntItILFn4A'
 			                            style="margin-left: 5px; margin-right: 5px">
 				<img src="icons/youtube.png" height="25px" width="25px" alt="youtube"/>
-			</a> to never miss out on new upcoming seminars.</i>
-
+			</a>
+			to never miss out on new upcoming seminars.
+		</i>
 		</tbody>
 	</table>
 
@@ -134,6 +138,8 @@
 <!--Past talks-->
 <div class="column column_right">
 	<h2>Past talks (45)</h2>
+	<div class="inline-right"><a href="" class="button3">Speaker List</a></div>
+
 	<table class="past_talk_table">
 		<tbody>
 
