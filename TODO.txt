@@ -1,6 +1,4 @@
-Google Sheet, kde bude list following informaci a nalinkovat na page k past talkum doprava do sloupce "Speaker List"
-    - Jmeno, Uni, talk, datum, Kontinent, keywords
-    - Propojit s nasim manager sheetem, vnorit do sebe at muzu editovat z jednoho, ale publicly ukazat jen cast
+Propojit speaker list s nasim manager sheetem, vnorit do sebe at muzu editovat z jednoho, ale publicly ukazat jen cast
 
 PhD corner
 
