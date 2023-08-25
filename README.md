@@ -140,6 +140,7 @@
 	<h2>Past talks (45)</h2>
 	<div class="inline-right"><a
 			href="https://docs.google.com/spreadsheets/d/1Glyd6FGzoKtZGfClNA_XaIK8vJZtnu8K4OdNcPr_yHc/edit#gid=0"
+			target="_blank"
 			class="button3">Speaker List</a></div>
 
 	<table class="past_talk_table">
