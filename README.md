@@ -119,7 +119,7 @@
 			</a>
 			and YouTube channel
 			<a href='https://www.youtube.com/channel/UCUoCNnaAfw5NAntItILFn4A'
-			                            style="margin-left: 5px; margin-right: 5px">
+			   style="margin-left: 5px; margin-right: 5px">
 				<img src="icons/youtube.png" height="25px" width="25px" alt="youtube"/>
 			</a>
 			to never miss out on new upcoming seminars.
@@ -138,7 +138,9 @@
 <!--Past talks-->
 <div class="column column_right">
 	<h2>Past talks (45)</h2>
-	<div class="inline-right"><a href="" class="button3">Speaker List</a></div>
+	<div class="inline-right"><a
+			href="https://docs.google.com/spreadsheets/d/1Glyd6FGzoKtZGfClNA_XaIK8vJZtnu8K4OdNcPr_yHc/edit#gid=0"
+			class="button3">Speaker List</a></div>
 
 	<table class="past_talk_table">
 		<tbody>
@@ -208,7 +210,8 @@
 				<td>
 					<table class="panelists_past_container_single">
 						<td colspan="2">
-							<b>Keywords:</b> Machines' priority lists, Coordinated mechanisms, Minimum completion time, Equilibrium inefficiency <br/><br/>
+							<b>Keywords:</b> Machines' priority lists, Coordinated mechanisms, Minimum completion time,
+							Equilibrium inefficiency <br/><br/>
 							<b>[Invited by]</b>
 							<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a>
 							(New York University)
@@ -3075,7 +3078,8 @@
 			<!--Title/Abstract-->
 			<tr>
 				<td colspan="3">
-					<h2 class="talk_title"><b>The Benefit of Preemption<span style="opacity: 0">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></b></h2>
+					<h2 class="talk_title"><b>The Benefit of Preemption<span style="opacity: 0">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></b>
+					</h2>
 					<br/>
 					<input type="checkbox" id="abstract_id_10" style="display:none;">
 					<label for="abstract_id_10" class="label_abstract"><a>Abstract</a></label>
@@ -3158,7 +3162,8 @@
 			<tr>
 				<td colspan="3">
 					<!--REMOVE nbsp hackaround-->
-					<h2 class="talk_title"><b>Dynamic Opponent Choice in Tournaments<span style="opacity: 0">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></b></h2>
+					<h2 class="talk_title"><b>Dynamic Opponent Choice in Tournaments<span style="opacity: 0">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></b>
+					</h2>
 					<br/>
 					<input type="checkbox" id="abstract_id_9" style="display:none;">
 					<label for="abstract_id_9" class="label_abstract"><a>Abstract</a></label>
@@ -3329,7 +3334,8 @@
 			<tr>
 				<td colspan="3">
 					<!--REMOVE NBSP HACKAROUND-->
-					<h2 class="talk_title"><b>Challenges in Healthcare Scheduling Applications<span style="opacity: 0">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></b></h2>
+					<h2 class="talk_title"><b>Challenges in Healthcare Scheduling Applications<span style="opacity: 0">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></b>
+					</h2>
 					<br/>
 					<input type="checkbox" id="abstract_id_7" style="display:none;">
 					<label for="abstract_id_7" class="label_abstract"><a>Abstract</a></label>
