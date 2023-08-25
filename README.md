@@ -148,8 +148,8 @@
 			<!--Title/Abstract/PDF-->
 			<tr>
 				<td colspan="3">
-					<h2 class="talk_title"><b>Scheduling with Machine-Dependent Priority Lists</b><br/>
-					</h2>
+					<h2 class="talk_title"><b>Scheduling with Machine-Dependent Priority Lists</b></h2>
+					<br/>
 					<input type="checkbox" id="abstract_id_46" style="display:none;">
 					<label for="abstract_id_46" class="label_abstract"><a>Abstract</a></label>
 					<div class="hidden">
@@ -228,8 +228,8 @@
 			<!--Title/Abstract/PDF-->
 			<tr>
 				<td colspan="3">
-					<h2 class="talk_title"><b>Surgery Scheduling: Research and Practice</b><br/>
-					</h2>
+					<h2 class="talk_title"><b>Surgery Scheduling: Research and Practice</b></h2>
+					<br/>
 					<input type="checkbox" id="abstract_id_45" style="display:none;">
 					<label for="abstract_id_45" class="label_abstract"><a>Abstract</a></label>
 					<div class="hidden">
@@ -309,8 +309,8 @@
 			<!--Title/Abstract/PDF-->
 			<tr>
 				<td colspan="3">
-					<h2 class="talk_title"><b>Conflict-Free Crane Scheduling in a Seaport Terminal</b><br/>
-					</h2>
+					<h2 class="talk_title"><b>Conflict-Free Crane Scheduling in a Seaport Terminal</b></h2>
+					<br/>
 					<input type="checkbox" id="abstract_id_44" style="display:none;">
 					<label for="abstract_id_44" class="label_abstract"><a>Abstract</a></label>
 					<div class="hidden">
@@ -399,8 +399,8 @@
 			<!--Title/Abstract/PDF-->
 			<tr>
 				<td colspan="3">
-					<h2 class="talk_title"><b>Sports scheduling: from consulting to science</b><br/>
-					</h2>
+					<h2 class="talk_title"><b>Sports scheduling: from consulting to science</b></h2>
+					<br/>
 					<input type="checkbox" id="abstract_id_43" style="display:none;">
 					<label for="abstract_id_43" class="label_abstract"><a>Abstract</a></label>
 					<div class="hidden">
@@ -481,8 +481,8 @@
 			<tr>
 				<td colspan="3">
 					<h2 class="talk_title"><b>The Resource-Constrained Project Scheduling Problem with Flexible Resource
-						Profiles: Models, Methods, and Applications</b><br/>
-					</h2>
+						Profiles: Models, Methods, and Applications</b></h2>
+					<br/>
 					<input type="checkbox" id="abstract_id_42" style="display:none;">
 					<label for="abstract_id_42" class="label_abstract"><a>Abstract</a></label>
 					<div class="hidden">
@@ -563,8 +563,8 @@
 			<!--Title/Abstract/PDF-->
 			<tr>
 				<td colspan="3">
-					<h2 class="talk_title"><b>Optimal solving of scheduling problems on D-Wave quantum machines</b><br/>
-					</h2>
+					<h2 class="talk_title"><b>Optimal solving of scheduling problems on D-Wave quantum machines</b></h2>
+					<br/>
 					<input type="checkbox" id="abstract_id_41" style="display:none;">
 					<label for="abstract_id_41" class="label_abstract"><a>Abstract</a></label>
 					<div class="hidden">
@@ -646,8 +646,8 @@
 		<table style="padding-bottom: 12px;" class="asia">
 			<tr>
 				<td colspan="3">
-					<h2 class="talk_title"><b>Cooperative Games Models for Scheduling Problems</b><br/>
-					</h2>
+					<h2 class="talk_title"><b>Cooperative Games Models for Scheduling Problems</b></h2>
+					<br/>
 					<input type="checkbox" id="abstract_id_39" style="display:none;">
 					<label for="abstract_id_39" class="label_abstract"><a>Abstract</a></label>
 					<div class="hidden">
@@ -726,8 +726,8 @@
 			<!--Title/Abstract/PDF-->
 			<tr>
 				<td colspan="3">
-					<h2 class="talk_title"><b>Scheduling with Machine Learning</b><br/>
-					</h2>
+					<h2 class="talk_title"><b>Scheduling with Machine Learning</b></h2>
+					<br/>
 					<input type="checkbox" id="abstract_id_38" style="display:none;">
 					<label for="abstract_id_38" class="label_abstract"><a>Abstract</a></label>
 					<div class="hidden">
@@ -808,8 +808,8 @@
 			<!--Title/Abstract/PDF-->
 			<tr>
 				<td colspan="3">
-					<h2 class="talk_title"><b>The Marriage of Matheuristics and Scheduling</b><br/>
-					</h2>
+					<h2 class="talk_title"><b>The Marriage of Matheuristics and Scheduling</b></h2>
+					<br/>
 					<input type="checkbox" id="abstract_id_37" style="display:none;">
 					<label for="abstract_id_37" class="label_abstract"><a>Abstract</a></label>
 					<div class="hidden">
@@ -886,8 +886,8 @@
 			<tr>
 				<td colspan="3">
 					<h2 class="talk_title"><b>Constructive and destructive bounds for the m-machine scheduling
-						problem</b><br/>
-					</h2>
+						problem</b></h2>
+					<br/>
 					<input type="checkbox" id="abstract_id_36" style="display:none;">
 					<label for="abstract_id_36" class="label_abstract"><a>Abstract</a></label>
 					<div class="hidden">
@@ -973,8 +973,8 @@
 			<!--Title/Abstract/PDF-->
 			<tr>
 				<td colspan="3">
-					<h2 class="talk_title"><b>Recent advances in flow time scheduling</b><br/>
-					</h2>
+					<h2 class="talk_title"><b>Recent advances in flow time scheduling</b></h2>
+					<br/>
 					<input type="checkbox" id="abstract_id_35" style="display:none;">
 					<label for="abstract_id_35" class="label_abstract"><a>Abstract</a></label>
 					<div class="hidden">
@@ -1048,8 +1048,8 @@
 			<!--Title/Abstract/PDF-->
 			<tr>
 				<td colspan="3">
-					<h2 class="talk_title"><b>Synchronous flow shop scheduling problems</b><br/>
-					</h2>
+					<h2 class="talk_title"><b>Synchronous flow shop scheduling problems</b></h2>
+					<br/>
 					<input type="checkbox" id="abstract_id_34" style="display:none;">
 					<label for="abstract_id_34" class="label_abstract"><a>Abstract</a></label>
 					<div class="hidden">
@@ -1136,8 +1136,8 @@
 			<tr>
 				<td colspan="3">
 					<h2 class="talk_title"><b>Scheduling machines subject to unrecoverable failures and other related
-						stochastic sequencing problems</b><br/>
-					</h2>
+						stochastic sequencing problems</b></h2>
+					<br/>
 					<input type="checkbox" id="abstract_id_33" style="display:none;">
 					<label for="abstract_id_33" class="label_abstract"><a>Abstract</a></label>
 					<div class="hidden">
@@ -1235,8 +1235,8 @@
 			<!--Title/Abstract/PDF-->
 			<tr>
 				<td colspan="3">
-					<h2 class="talk_title"><b>Scheduling with Speed Predictions</b><br/>
-					</h2>
+					<h2 class="talk_title"><b>Scheduling with Speed Predictions</b></h2>
+					<br/>
 					<input type="checkbox" id="abstract_id_32" style="display:none;">
 					<label for="abstract_id_32" class="label_abstract"><a>Abstract</a></label>
 					<div class="hidden">
@@ -1315,8 +1315,8 @@
 			<!--Title/Abstract/PDF-->
 			<tr>
 				<td colspan="3">
-					<h2 class="talk_title"><b>Vehicle routing: A focus on heuristic design</b><br/>
-					</h2>
+					<h2 class="talk_title"><b>Vehicle routing: A focus on heuristic design</b></h2>
+					<br/>
 					<input type="checkbox" id="abstract_id_31" style="display:none;">
 					<label for="abstract_id_31" class="label_abstract"><a>Abstract</a></label>
 					<div class="hidden">
@@ -1403,7 +1403,8 @@
 			<!--Title/Abstract/PDF-->
 			<tr>
 				<td colspan="3">
-					<h2 class="talk_title"><b>Synchronous DataFlow: A survival guide</b><br/></h2>
+					<h2 class="talk_title"><b>Synchronous DataFlow: A survival guide</b></h2>
+					<br/>
 					<input type="checkbox" id="abstract_id_30" style="display:none;">
 					<label for="abstract_id_30" class="label_abstract"><a>Abstract</a></label>
 					<div class="hidden">
@@ -1491,8 +1492,8 @@
 			<!--Title/Abstract/PDF-->
 			<tr>
 				<td colspan="3">
-					<h2 class="talk_title"><b>Dynamic Interday and Intraday Scheduling</b><br/>
-					</h2>
+					<h2 class="talk_title"><b>Dynamic Interday and Intraday Scheduling</b></h2>
+					<br/>
 					<input type="checkbox" id="abstract_id_29" style="display:none;">
 					<label for="abstract_id_29" class="label_abstract"><a>Abstract</a></label>
 					<div class="hidden">
@@ -1571,8 +1572,8 @@
 			<!--Title/Abstract/PDF-->
 			<tr>
 				<td colspan="3">
-					<h2 class="talk_title"><b>On Polyhedral Approaches to Scheduling Problems</b><br/>
-					</h2>
+					<h2 class="talk_title"><b>On Polyhedral Approaches to Scheduling Problems</b></h2>
+					<br/>
 					<input type="checkbox" id="abstract_id_28" style="display:none;">
 					<label for="abstract_id_28" class="label_abstract"><a>Abstract</a></label>
 					<div class="hidden">
@@ -1657,8 +1658,8 @@
 			<!--Title/Abstract/PDF-->
 			<tr>
 				<td colspan="3">
-					<h2 class="talk_title"><b>Learning-Augmented Online Algorithms for Scheduling and Routing</b><br/>
-					</h2>
+					<h2 class="talk_title"><b>Learning-Augmented Online Algorithms for Scheduling and Routing</b></h2>
+					<br/>
 					<input type="checkbox" id="abstract_id_27" style="display:none;">
 					<label for="abstract_id_27" class="label_abstract"><a>Abstract</a></label>
 					<div class="hidden">
@@ -1736,8 +1737,8 @@
 			<!--Title/Abstract/PDF-->
 			<tr>
 				<td colspan="3">
-					<h2 class="talk_title"><b>Past, present and future of time-dependent scheduling</b><br/>
-					</h2>
+					<h2 class="talk_title"><b>Past, present and future of time-dependent scheduling</b></h2>
+					<br/>
 					<input type="checkbox" id="abstract_id_26" style="display:none;">
 					<label for="abstract_id_26" class="label_abstract"><a>Abstract</a></label>
 					<div class="hidden">
@@ -1901,8 +1902,8 @@
 			<!--Title/Abstract/PDF-->
 			<tr>
 				<td colspan="3">
-					<h2 class="talk_title"><b>Scheduling and Energy – Industrial Challenges and Opportunities</b><br/>
-					</h2>
+					<h2 class="talk_title"><b>Scheduling and Energy – Industrial Challenges and Opportunities</b></h2>
+					<br/>
 					<input type="checkbox" id="abstract_id_24" style="display:none;">
 					<label for="abstract_id_24" class="label_abstract"><a>Abstract</a></label>
 					<div class="hidden">
@@ -2060,8 +2061,8 @@
 			<tr>
 				<td colspan="3">
 					<h2 class="talk_title"><b>Mixed integer linear programming for resource-constrained
-						scheduling</b><br/>
-					</h2>
+						scheduling</b></h2>
+					<br/>
 					<input type="checkbox" id="abstract_id_22" style="display:none;">
 					<label for="abstract_id_22" class="label_abstract"><a>Abstract</a></label>
 					<div class="hidden">
@@ -2144,8 +2145,8 @@
 			<tr>
 				<td colspan="3">
 					<h2 class="talk_title"><b>Scheduling Problems in Semiconductor Wafer Fabrication Facilities: Part 2
-					</b><br/>
-					</h2>
+					</b></h2>
+					<br/>
 					<input type="checkbox" id="abstract_id_21" style="display:none;">
 					<label for="abstract_id_21" class="label_abstract"><a>Abstract</a></label>
 					<div class="hidden">
@@ -2226,8 +2227,8 @@
 			<tr>
 				<td colspan="3">
 					<h2 class="talk_title"><b>Scheduling Problems in Semiconductor Wafer Fabrication Facilities: Part 1
-					</b><br/>
-					</h2>
+					</b></h2>
+					<br/>
 					<input type="checkbox" id="abstract_id_20" style="display:none;">
 					<label for="abstract_id_20" class="label_abstract"><a>Abstract</a></label>
 					<div class="hidden">
@@ -2306,8 +2307,8 @@
 			<tr>
 				<td colspan="3">
 					<h2 class="talk_title"><b>Scheduling Heuristics for Steelmaking Continuous Casting Processes
-					</b><br/>
-					</h2>
+					</b></h2>
+					<br/>
 					<input type="checkbox" id="abstract_id_19" style="display:none;">
 					<label for="abstract_id_19" class="label_abstract"><a>Abstract</a></label>
 					<div class="hidden">
@@ -2386,8 +2387,8 @@
 			<!--Title/Abstract/PDF-->
 			<tr>
 				<td colspan="3">
-					<h2 class="talk_title"><b>Public transit planning and scheduling based on AVL data in China</b><br/>
-					</h2>
+					<h2 class="talk_title"><b>Public transit planning and scheduling based on AVL data in China</b></h2>
+					<br/>
 					<input type="checkbox" id="abstract_id_18" style="display:none;">
 					<label for="abstract_id_18" class="label_abstract"><a>Abstract</a></label>
 					<div class="hidden">
@@ -2473,8 +2474,8 @@
 			<!--Title/Abstract/PDF-->
 			<tr>
 				<td colspan="3">
-					<h2 class="talk_title"><b>On the Parameterized Complexity of Machine Scheduling Problems</b><br/>
-					</h2>
+					<h2 class="talk_title"><b>On the Parameterized Complexity of Machine Scheduling Problems</b></h2>
+					<br/>
 					<input type="checkbox" id="abstract_id_17" style="display:none;">
 					<label for="abstract_id_17" class="label_abstract"><a>Abstract</a></label>
 					<div class="hidden">
@@ -2552,8 +2553,8 @@
 			<!--Title/Abstract/PDF-->
 			<tr>
 				<td colspan="3">
-					<h2 class="talk_title"><b>State-of-the-art flowshop scheduling heuristics: Dos and Don'ts</b><br/>
-					</h2>
+					<h2 class="talk_title"><b>State-of-the-art flowshop scheduling heuristics: Dos and Don'ts</b></h2>
+					<br/>
 					<input type="checkbox" id="abstract_id_16" style="display:none;">
 					<label for="abstract_id_16" class="label_abstract"><a>Abstract</a></label>
 					<div class="hidden">
@@ -2647,7 +2648,8 @@
 			<!--Title/Abstract/PDF-->
 			<tr>
 				<td colspan="3">
-					<h2 class="talk_title"><b>Three models for scheduling under explorable uncertainty</b><br/></h2>
+					<h2 class="talk_title"><b>Three models for scheduling under explorable uncertainty</b></h2>
+					<br/>
 					<input type="checkbox" id="abstract_id_15" style="display:none;">
 					<label for="abstract_id_15" class="label_abstract"><a>Abstract</a></label>
 					<div class="hidden">
@@ -2731,7 +2733,8 @@
 			<tr>
 				<td colspan="3">
 					<h2 class="talk_title"><b>Tabu search for the time-dependent vehicle routing problem with time
-						windows on a road network</b><br/></h2>
+						windows on a road network</b></h2>
+					<br/>
 					<input type="checkbox" id="abstract_id_14" style="display:none;">
 					<label for="abstract_id_14" class="label_abstract"><a>Abstract</a></label>
 					<div class="hidden">
@@ -2813,7 +2816,8 @@
 			<!--Title/Abstract/PDF-->
 			<tr>
 				<td colspan="3">
-					<h2 class="talk_title"><b>Train Scheduling: Models, decomposition methods and practice</b><br/></h2>
+					<h2 class="talk_title"><b>Train Scheduling: Models, decomposition methods and practice</b></h2>
+					<br/>
 					<input type="checkbox" id="abstract_id_13" style="display:none;">
 					<label for="abstract_id_13" class="label_abstract"><a>Abstract</a></label>
 					<div class="hidden">
@@ -2986,7 +2990,8 @@
 			<tr>
 				<td colspan="3">
 					<h2 class="talk_title"><b>The Longest Processing Time Rule for Identical Parallel Machines
-						Revisited</b><br/></h2>
+						Revisited</b></h2>
+					<br/>
 					<input type="checkbox" id="abstract_id_11" style="display:none;">
 					<label for="abstract_id_11" class="label_abstract"><a>Abstract</a></label>
 					<div class="hidden">
@@ -3070,8 +3075,8 @@
 			<!--Title/Abstract-->
 			<tr>
 				<td colspan="3">
-					<h2 class="talk_title"><b>The Benefit of Preemption<span style="opacity: 0">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></b><br/>
-					</h2>
+					<h2 class="talk_title"><b>The Benefit of Preemption<span style="opacity: 0">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></b></h2>
+					<br/>
 					<input type="checkbox" id="abstract_id_10" style="display:none;">
 					<label for="abstract_id_10" class="label_abstract"><a>Abstract</a></label>
 					<div class="hidden">
@@ -3153,8 +3158,8 @@
 			<tr>
 				<td colspan="3">
 					<!--REMOVE nbsp hackaround-->
-					<h2 class="talk_title"><b>Dynamic Opponent Choice in Tournaments<span style="opacity: 0">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></b><br/>
-					</h2>
+					<h2 class="talk_title"><b>Dynamic Opponent Choice in Tournaments<span style="opacity: 0">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></b></h2>
+					<br/>
 					<input type="checkbox" id="abstract_id_9" style="display:none;">
 					<label for="abstract_id_9" class="label_abstract"><a>Abstract</a></label>
 					<div class="hidden">
@@ -3245,7 +3250,8 @@
 			<tr>
 				<td colspan="3">
 					<h2 class="talk_title"><b>Educational Timetabling: Problems, Benchmarks, Algorithms, and Practical
-						Issues</b><br/></h2>
+						Issues</b></h2>
+					<br/>
 					<input type="checkbox" id="abstract_id_8" style="display:none;">
 					<label for="abstract_id_8" class="label_abstract"><a>Abstract</a></label>
 					<div class="hidden">
@@ -3323,8 +3329,8 @@
 			<tr>
 				<td colspan="3">
 					<!--REMOVE NBSP HACKAROUND-->
-					<h2 class="talk_title"><b>Challenges in Healthcare Scheduling Applications<span style="opacity: 0">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></b><br/>
-					</h2>
+					<h2 class="talk_title"><b>Challenges in Healthcare Scheduling Applications<span style="opacity: 0">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></b></h2>
+					<br/>
 					<input type="checkbox" id="abstract_id_7" style="display:none;">
 					<label for="abstract_id_7" class="label_abstract"><a>Abstract</a></label>
 					<div class="hidden">
@@ -3410,7 +3416,8 @@
 			<tr>
 				<td colspan="3">
 					<h2 class="talk_title"><b>Updated complexity results in single-machine primary-secondary sched.
-						for min. two regular criteria</b><br/></h2>
+						for min. two regular criteria</b></h2>
+					<br/>
 					<input type="checkbox" id="abstract_id_6" style="display:none;">
 					<label for="abstract_id_6" class="label_abstract"><a>Abstract</a></label>
 					<div class="hidden">
@@ -3503,7 +3510,8 @@
 			<tr>
 				<td colspan="3">
 					<h2 class="talk_title"><b>On the State of the Art in Proactive/Reactive Project Scheduling
-					</b><br/></h2>
+					</b></h2>
+					<br/>
 					<input type="checkbox" id="abstract_id_5" style="display:none;">
 					<label for="abstract_id_5" class="label_abstract"><a>Abstract</a></label>
 					<div class="hidden">
@@ -3587,7 +3595,8 @@
 			<tr>
 				<td colspan="3">
 					<h2 class="talk_title"><b>Efficient Algorithms and Provably Good Solutions for NP-hard Scheduling
-						Problems</b><br/></h2>
+						Problems</b></h2>
+					<br/>
 					<input type="checkbox" id="abstract_id_4" style="display:none;">
 					<label for="abstract_id_4" class="label_abstract"><a>Abstract</a></label>
 					<div class="hidden">
@@ -3667,7 +3676,8 @@
 			<tr class="asia">
 				<td colspan="3">
 					<h2 class="talk_title"><b>Data Analytics and Optimization for Production, Logistics and Energy
-						Scheduling</b><br/></h2>
+						Scheduling</b></h2>
+					<br/>
 					<input type="checkbox" id="abstract_id_3" style="display:none;">
 					<label for="abstract_id_3" class="label_abstract"><a>Abstract</a></label>
 					<div class="hidden">
@@ -3744,7 +3754,7 @@
 							<b>Keywords:</b> Production scheduling, Logistics scheduling, Energy scheduling, Data
 							analytics, System optimization, Engineering application <br/><br/>
 							<b>[Invited by]</b>
-							<a href="http://www.acem.sjtu.edu.cn/en/faculty/wanguohua.html">Guohua Wan</a><br/>
+							<a href="http://www.acem.sjtu.edu.cn/en/faculty/wanguohua.html">Guohua Wan</a>
 							(Shanghai Jiao Tong)
 						</td>
 					</table>
@@ -3762,7 +3772,8 @@
 			<!--Title/Abstract-->
 			<tr class="america">
 				<td colspan="3">
-					<h2 class="talk_title"><b>Recent Breakthroughs in Stochastic Scheduling Theory</b><br/></h2>
+					<h2 class="talk_title"><b>Recent Breakthroughs in Stochastic Scheduling Theory</b></h2>
+					<br/>
 					<input type="checkbox" id="abstract_id_2" style="display:none;">
 					<label for="abstract_id_2" class="label_abstract"><a>Abstract</a></label>
 					<div class="hidden">
@@ -3845,7 +3856,8 @@
 			<!--Title/Abstract-->
 			<tr class="europe">
 				<td colspan="3">
-					<h2 class="talk_title"><b>Elements of Scheduling</b><br/></h2>
+					<h2 class="talk_title"><b>Elements of Scheduling</b></h2>
+					<br/>
 					<input type="checkbox" id="abstract_id_1" style="display:none;">
 					<label for="abstract_id_1" class="label_abstract"><a>Abstract</a></label>
 					<div class="hidden">
@@ -3914,11 +3926,6 @@
 						</td>
 					</table>
 				</td>
-			</tr>
-
-			<!--Spacing--->
-			<tr style="margin: 10px 10px 10px 10px !important; background-color: white">
-				<td colspan="100%"></td>
 			</tr>
 		</table>
 
