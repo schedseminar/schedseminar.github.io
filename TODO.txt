@@ -1,6 +1,7 @@
 Propojit speaker list s nasim manager sheetem, vnorit do sebe at muzu editovat z jednoho, ale publicly ukazat jen cast
 
 PhD corner
+    - udelat jako gitovou wiki do ktere muzou prispivat vsichni a my to jen schvalujeme
 
 Dodelat tagy (tohle je zatim asi odlozene, bude se resit google sheetem)
 
