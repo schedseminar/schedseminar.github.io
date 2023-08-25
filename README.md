@@ -124,6 +124,97 @@
 			</a>
 			to never miss out on new upcoming seminars.
 		</i>
+
+<!--		&lt;!&ndash;Single talk&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&ndash;&gt;-->
+<!--		<table style="padding-bottom: 12px;" class="europe">-->
+<!--			&lt;!&ndash;Title/Abstract/PDF&ndash;&gt;-->
+<!--			<tr>-->
+<!--				<td colspan="3">-->
+<!--					<h2 class="talk_title"><b>Enhancing project resilience: a risk-averse approach to payment delays</b><br/>-->
+<!--					</h2>-->
+<!--					<input type="checkbox" id="abstract_id_46" style="display:none;">-->
+<!--					<label for="abstract_id_46" class="label_abstract"><a>Abstract</a></label>-->
+<!--					<div class="hidden">-->
+<!--						<hr style="border-top: 1px solid black;">-->
+<!--						The onset of the pandemic and the conflict in Europe have disrupted our society, supply chains, and-->
+<!--						economies. The effects of these global shocks are evident in every type of project - whether related to-->
+<!--						the energy transition, the renewal of transport infrastructure, or the construction industry- impacted-->
+<!--						by the highest rates of inflation in more than 30 years and by a significant cash flow crisis. In this-->
+<!--						complex landscape, delays in payments have become a common risk factor for projects, since they create a-->
+<!--						time lag between the expenses incurred by the contractor and the progress payments received from the-->
+<!--						client. The challenges associated with obtaining continuous project finances often place undue financial-->
+<!--						strain on contractors that may seek loans from financial institutions to maintain their daily-->
+<!--						operations. These loans must be returned with interest, increasing financing costs, and considerably-->
+<!--						lowering the Net Present Value. In this talk, we delve into cash flow and project scheduling strategies-->
+<!--						to mitigate late payment impacts and enhancing project resilience, presenting a distributionally robust-->
+<!--						risk-averse model that minimizes the financing cost by accurately estimating the amount and timing of-->
+<!--						the expenses and revenues throughout the project life cycle and foreseeing possible cost overruns and-->
+<!--						cash flow fluctuations.-->
+<!--						Joint work with Oncu Hazir-->
+<!--						<hr style="border-top: 1px solid black;">-->
+<!--					</div>-->
+<!--					&lt;!&ndash;TODO pdf and video&ndash;&gt;-->
+<!--					&lt;!&ndash;					<a href="./presentations/SchedulingSeminar_LarsRohwedder.pdf" class="label_abstract" download>&ndash;&gt;-->
+<!--					&lt;!&ndash;						Download PDF&ndash;&gt;-->
+<!--					&lt;!&ndash;					</a>&ndash;&gt;-->
+<!--					&lt;!&ndash;					<a href="LINK"&ndash;&gt;-->
+<!--					&lt;!&ndash;					   class="label_abstract" download>&ndash;&gt;-->
+<!--					&lt;!&ndash;						Download Video&ndash;&gt;-->
+<!--					&lt;!&ndash;					</a>&ndash;&gt;-->
+<!--				</td>-->
+<!--			</tr>-->
+
+<!--			&lt;!&ndash;Data-&ndash;&gt;-->
+<!--			<tr>-->
+<!--				<td class="presenter_image_container">-->
+<!--					<div class="single_image_container">-->
+<!--						<a href="https://www.unical.it/storage/teachers/gAAAAABi2D-mEiJ-DC2koDLqpcRWlGK5Iqt7PXrVZZFzO6-vUCbdNHpud2f3YD2nN-FriRbt-aqfOBGausOLqfuhcsrRp-hJSg==/?lang=en">-->
+<!--							<img class="single_presenter" src="photos/Maria_Elena.jpg" alt="person_photo"/>-->
+<!--						</a><br/>-->
+<!--					</div>-->
+<!--				</td>-->
+<!--				<td class="information_upcoming_container">-->
+<!--					<b>[Presenter]</b><br/>-->
+<!--					<a href="https://www.unical.it/storage/teachers/gAAAAABi2D-mEiJ-DC2koDLqpcRWlGK5Iqt7PXrVZZFzO6-vUCbdNHpud2f3YD2nN-FriRbt-aqfOBGausOLqfuhcsrRp-hJSg==/?lang=en">Maria Elena Bruni</a><br/>-->
+<!--					(Uni of Calabria)<br/><br/>-->
+<!--					&lt;!&ndash;TODO keywords&ndash;&gt;-->
+<!--					&lt;!&ndash;<b>Keywords:</b> Logistics, Scheduling, Stacking cranes, Container terminal, Branch and cut &ndash;&gt;-->
+<!--					<b>[Invited by]</b><br/>-->
+<!--					<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a><br/>-->
+<!--					(CTU in Prague)-->
+<!--				</td>-->
+<!--				<td class="time_zones_container">-->
+<!--					<table class="time_table">-->
+<!--						<tbody>-->
+<!--						<tr class="utc">-->
+<!--							<td>UTC</td>-->
+<!--							<td>Nov 29, 14:00 Wed</td>-->
+<!--						</tr>-->
+<!--						<tr class="europe">-->
+<!--							<td>Prague</td>-->
+<!--							<td>Nov 29, 15:00 Wed</td>-->
+<!--						</tr>-->
+<!--						<tr class="america">-->
+<!--							<td>New York</td>-->
+<!--							<td>Nov 29, 13:00 Wed</td>-->
+<!--						</tr>-->
+<!--						<tr class="asia">-->
+<!--							<td>Shanghai</td>-->
+<!--							<td>Nov 29, 13:00 Wed</td>-->
+<!--						</tr>-->
+<!--						</tbody>-->
+<!--					</table>-->
+<!--				</td>-->
+<!--			</tr>-->
+
+<!--			&lt;!&ndash;Spacing-&ndash;&gt;-->
+<!--			<table style="margin: 30px 0 0 0 !important;">-->
+<!--				<tr>-->
+<!--					<td colspan="100%"></td>-->
+<!--				</tr>-->
+<!--			</table>-->
+<!--		</table>-->
+
 		</tbody>
 	</table>
 
@@ -153,8 +244,8 @@
 				<td colspan="3">
 					<h2 class="talk_title"><b>Scheduling with Machine-Dependent Priority Lists</b></h2>
 					<br/>
-					<input type="checkbox" id="abstract_id_46" style="display:none;">
-					<label for="abstract_id_46" class="label_abstract"><a>Abstract</a></label>
+					<input type="checkbox" id="abstract_id_45" style="display:none;">
+					<label for="abstract_id_45" class="label_abstract"><a>Abstract</a></label>
 					<div class="hidden">
 						<hr style="border-top: 1px solid black;">
 						We consider a natural, yet challenging variant of the parallel machine scheduling problem in
@@ -234,8 +325,8 @@
 				<td colspan="3">
 					<h2 class="talk_title"><b>Surgery Scheduling: Research and Practice</b></h2>
 					<br/>
-					<input type="checkbox" id="abstract_id_45" style="display:none;">
-					<label for="abstract_id_45" class="label_abstract"><a>Abstract</a></label>
+					<input type="checkbox" id="abstract_id_44" style="display:none;">
+					<label for="abstract_id_44" class="label_abstract"><a>Abstract</a></label>
 					<div class="hidden">
 						<hr style="border-top: 1px solid black;">
 						Scheduling of surgeries is a complex process that involves simultaneous scheduling of not only
@@ -315,8 +406,8 @@
 				<td colspan="3">
 					<h2 class="talk_title"><b>Conflict-Free Crane Scheduling in a Seaport Terminal</b></h2>
 					<br/>
-					<input type="checkbox" id="abstract_id_44" style="display:none;">
-					<label for="abstract_id_44" class="label_abstract"><a>Abstract</a></label>
+					<input type="checkbox" id="abstract_id_43" style="display:none;">
+					<label for="abstract_id_43" class="label_abstract"><a>Abstract</a></label>
 					<div class="hidden">
 						<hr style="border-top: 1px solid black;">
 						In this talk, we focus on a container dispatching and conflict-free
@@ -405,8 +496,8 @@
 				<td colspan="3">
 					<h2 class="talk_title"><b>Sports scheduling: from consulting to science</b></h2>
 					<br/>
-					<input type="checkbox" id="abstract_id_43" style="display:none;">
-					<label for="abstract_id_43" class="label_abstract"><a>Abstract</a></label>
+					<input type="checkbox" id="abstract_id_42" style="display:none;">
+					<label for="abstract_id_42" class="label_abstract"><a>Abstract</a></label>
 					<div class="hidden">
 						<hr style="border-top: 1px solid black;">
 						Any sports competition needs a schedule, specifying when and where teams meet each other. Apart
@@ -487,8 +578,8 @@
 					<h2 class="talk_title"><b>The Resource-Constrained Project Scheduling Problem with Flexible Resource
 						Profiles: Models, Methods, and Applications</b></h2>
 					<br/>
-					<input type="checkbox" id="abstract_id_42" style="display:none;">
-					<label for="abstract_id_42" class="label_abstract"><a>Abstract</a></label>
+					<input type="checkbox" id="abstract_id_41" style="display:none;">
+					<label for="abstract_id_41" class="label_abstract"><a>Abstract</a></label>
 					<div class="hidden">
 						<hr style="border-top: 1px solid black;">
 						The resource-constrained project scheduling problem with flexible resource profiles (FRCPSP) is
@@ -569,8 +660,8 @@
 				<td colspan="3">
 					<h2 class="talk_title"><b>Optimal solving of scheduling problems on D-Wave quantum machines</b></h2>
 					<br/>
-					<input type="checkbox" id="abstract_id_41" style="display:none;">
-					<label for="abstract_id_41" class="label_abstract"><a>Abstract</a></label>
+					<input type="checkbox" id="abstract_id_40" style="display:none;">
+					<label for="abstract_id_40" class="label_abstract"><a>Abstract</a></label>
 					<div class="hidden">
 						<hr style="border-top: 1px solid black;">
 						The main disadvantage of calculations on real quantum computers is their non-determinism. For
@@ -3076,7 +3167,7 @@
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
 		<table style="padding-bottom: 12px;" class="europe">
-			<!--Title/Abstract-->
+			<!--Title/Abstract/PDF-->
 			<tr>
 				<td colspan="3">
 					<h2 class="talk_title"><b>The Benefit of Preemption<span style="opacity: 0">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></b>
@@ -3159,7 +3250,7 @@
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
 		<table style="padding-bottom: 12px;" class="america">
-			<!--Title/Abstract-->
+			<!--Title/Abstract/PDF-->
 			<tr>
 				<td colspan="3">
 					<!--REMOVE nbsp hackaround-->
@@ -3252,7 +3343,7 @@
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
 		<table style="padding-bottom: 12px;" class="europe">
-			<!--Title/Abstract-->
+			<!--Title/Abstract/PDF-->
 			<tr>
 				<td colspan="3">
 					<h2 class="talk_title"><b>Educational Timetabling: Problems, Benchmarks, Algorithms, and Practical
@@ -3331,7 +3422,7 @@
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
 		<table style="padding-bottom: 12px;" class="america">
-			<!--Title/Abstract-->
+			<!--Title/Abstract/PDF-->
 			<tr>
 				<td colspan="3">
 					<!--REMOVE NBSP HACKAROUND-->
@@ -3419,7 +3510,7 @@
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
 		<table style="padding-bottom: 12px;" class="asia">
-			<!--Title/Abstract-->
+			<!--Title/Abstract/PDF-->
 			<tr>
 				<td colspan="3">
 					<h2 class="talk_title"><b>Updated complexity results in single-machine primary-secondary sched.
@@ -3513,7 +3604,7 @@
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
 		<table style="padding-bottom: 12px;" class="europe">
-			<!--Title/Abstract-->
+			<!--Title/Abstract/PDF-->
 			<tr>
 				<td colspan="3">
 					<h2 class="talk_title"><b>On the State of the Art in Proactive/Reactive Project Scheduling
@@ -3598,7 +3689,7 @@
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
 		<table style="padding-bottom: 12px;" class="europe">
-			<!--Title/Abstract-->
+			<!--Title/Abstract/PDF-->
 			<tr>
 				<td colspan="3">
 					<h2 class="talk_title"><b>Efficient Algorithms and Provably Good Solutions for NP-hard Scheduling
@@ -3679,7 +3770,7 @@
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
 		<table style="padding-bottom: 12px;" class="asia">
-			<!--Title/Abstract-->
+			<!--Title/Abstract/PDF-->
 			<tr class="asia">
 				<td colspan="3">
 					<h2 class="talk_title"><b>Data Analytics and Optimization for Production, Logistics and Energy
@@ -3776,7 +3867,7 @@
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
 		<table style="padding-bottom: 12px;" class="america">
-			<!--Title/Abstract-->
+			<!--Title/Abstract/PDF-->
 			<tr class="america">
 				<td colspan="3">
 					<h2 class="talk_title"><b>Recent Breakthroughs in Stochastic Scheduling Theory</b></h2>
@@ -3860,7 +3951,7 @@
 
 		<!--Dual talk-------------------------------------------------------------------------------------------------->
 		<table style="padding-bottom: 12px;" class="europe">
-			<!--Title/Abstract-->
+			<!--Title/Abstract/PDF-->
 			<tr class="europe">
 				<td colspan="3">
 					<h2 class="talk_title"><b>Elements of Scheduling</b></h2>
