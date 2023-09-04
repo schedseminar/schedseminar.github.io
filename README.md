@@ -4345,7 +4345,7 @@
 			<!--Rhonda Righter-->
 			<td>
 				<a href="https://rrighter.ieor.berkeley.edu/">
-					<img src="photos/rhonda-righter-2015_0.png" height="200" width="150" alt="person_photo"/><br/>
+					<img src="photos/rhonda-righter-2015_0.jpg" height="200" width="150" alt="person_photo"/><br/>
 					Rhonda Righter<br/>
 					UC Berkeley</a>
 			</td>
