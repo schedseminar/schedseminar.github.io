@@ -17,7 +17,7 @@
 			<div>
 				<!--                <div class="inline-left">-->
 				<!--                    <a href='https://www.youtube.com/channel/UCUoCNnaAfw5NAntItILFn4A' style="margin-right: 5px">-->
-				<!--                        <img src="icons/youtube.png" height="42px" width="42px" alt="youtube"/>-->
+				<!--                        <img src="icons/youtube.png" height="42px" width="42px" alt="YouTube"/>-->
 				<!--                    </a>-->
 
 				<!--                    <a href='https://list.iid.ciirc.cvut.cz/mailman3/lists/schedulingseminar.rtime.felk.cvut.cz/'-->
