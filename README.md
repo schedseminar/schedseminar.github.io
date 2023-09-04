@@ -4650,7 +4650,7 @@
 	<span style="color:black"><i>Might not work properly if location is unrecognized or VPN is used.</i></span>
 	<div class="resizable_calendar">
 		<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=2&amp;bgcolor=%234285F4&amp;ctz=Europe%2FPrague&amp;src=Mml0YXVjNmdhZGZsNjRsZWZxdDhiczgzZmtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23039BE5&amp;showTitle=0&amp;showNav=1&amp;showDate=1&amp;showPrint=1&amp;showTabs=0&amp;showCalendars=0&amp;mode=AGENDA"
-		        style="border:solid 1px #777" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+		        style="border:solid 1px #777" width="100%" height="400"></iframe>
 	</div>
 </div>
 
@@ -4666,7 +4666,7 @@
 	<h2>Feedback form</h2>
 	<div class="resizable_feedback">
 		<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfRk8Nv2J7RvGk-z7Gl5KLWMO5hoZC1Sd-ZFDvgzI97mZe6nw/viewform?embedded=true"
-		        width="100%" height="430" frameborder="0" marginheight="0" marginwidth="0">Loading…
+		        width="100%" height="430" style="border: none">Loading…
 		</iframe>
 	</div>
 </div>
