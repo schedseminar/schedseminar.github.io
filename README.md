@@ -1025,7 +1025,7 @@
 				<td class="presenter_image_container">
 					<div class="single_image_container">
 						<a href="https://www.univ-tours.fr/annuaire/m-vincent-tkindt">
-							<img class="single_presenter" loading="lazy" src="photos/VTkindt-head.png" alt="person_photo"/>
+							<img class="single_presenter" loading="lazy" src="photos/VTkindt-head.jpg" alt="person_photo"/>
 						</a><br/>
 					</div>
 				</td>
@@ -1455,7 +1455,7 @@
 				<td class="presenter_image_container">
 					<div class="single_image_container">
 						<a href="https://www.ieor.columbia.edu/faculty/clifford-stein">
-							<img class="single_presenter" loading="lazy" src="photos/Clifford_Stein_web.png" alt="person_photo"/>
+							<img class="single_presenter" loading="lazy" src="photos/Clifford_Stein_web.jpg" alt="person_photo"/>
 						</a><br/>
 					</div>
 				</td>
@@ -2691,7 +2691,7 @@
 				<td class="presenter_image_container">
 					<div class="single_image_container">
 						<a href="https://in.bgu.ac.il/en/engn/iem/pages/staff/Dvir-Shabtay.aspx">
-							<img class="single_presenter" loading="lazy" src="photos/dvir-web.png" alt="person_photo"/>
+							<img class="single_presenter" loading="lazy" src="photos/dvir-web.jpg" alt="person_photo"/>
 						</a><br/>
 					</div>
 				</td>
@@ -3126,7 +3126,7 @@
 				<td class="presenter_image_container">
 					<div class="single_image_container">
 						<a href="http://www.andrew.cmu.edu/user/moseleyb/  ">
-							<img class="single_presenter" loading="lazy" src="photos/ben_mosley.jpeg"
+							<img class="single_presenter" loading="lazy" src="photos/ben_mosley.jpg"
 							     alt="person_photo"/>
 						</a><br/>
 					</div>
@@ -4369,7 +4369,7 @@
 			<!--Dvir Shabtay-->
 			<td>
 				<a href="https://in.bgu.ac.il/en/engn/iem/pages/staff/Dvir-Shabtay.aspx">
-					<img src="photos/dvir-web.png" height="200" width="150" alt="person_photo"/><br/>
+					<img src="photos/dvir-web.jpg" height="200" width="150" alt="person_photo"/><br/>
 					Dvir Shabtay<br/>
 					Ben Gurion Uni</a>
 			</td>
@@ -4393,7 +4393,7 @@
 			<!--Clifford Stein-->
 			<td>
 				<a href="https://www.ieor.columbia.edu/faculty/clifford-stein">
-					<img src="photos/Clifford_Stein_web.png" height="200" width="150" alt="person_photo"/><br/>
+					<img src="photos/Clifford_Stein_web.jpg" height="200" width="150" alt="person_photo"/><br/>
 					Clifford Stein<br/>
 					Columbia Uni</a>
 			</td>
@@ -4409,7 +4409,7 @@
 			<!--Vincent T'kindt-->
 			<td>
 				<a href="https://www.univ-tours.fr/annuaire/m-vincent-tkindt">
-					<img src="photos/VTkindt-head.png" height="200" width="150" alt="person_photo"/><br/>
+					<img src="photos/VTkindt-head.jpg" height="200" width="150" alt="person_photo"/><br/>
 					Vincent T'kindt<br/>
 					Uni de Tours</a>
 			</td>
