@@ -110,21 +110,24 @@
 	<br/>
 	<table>
 		<tbody>
-		<i>
-			Currently, new talks are being planned, and the seminar will start again in September 2023. Consider
-			subscribing to the mailing list
-			<a href='https://list.iid.ciirc.cvut.cz/mailman3/lists/schedulingseminar.rtime.felk.cvut.cz/'
-			   style="margin-left: 5px; margin-right: 5px">
-				<img src="icons/email.png" height="25px" width="25px" alt="email"/>
-			</a>
-			and YouTube channel
-			<a href='https://www.youtube.com/channel/UCUoCNnaAfw5NAntItILFn4A'
-			   style="margin-left: 5px; margin-right: 5px">
-				<img src="icons/youtube.png" height="25px" width="25px" alt="youtube"/>
-			</a>
-			to never miss out on new upcoming seminars.
-		</i>
-
+		<tr>
+			<td>
+				<i>
+					Currently, new talks are being planned, and the seminar will start again in September 2023. Consider
+					subscribing to the mailing list
+					<a href='https://list.iid.ciirc.cvut.cz/mailman3/lists/schedulingseminar.rtime.felk.cvut.cz/'
+					   style="margin-left: 5px; margin-right: 5px">
+						<img src="icons/email.png" height="25px" width="25px" alt="email"/>
+					</a>
+					and YouTube channel
+					<a href='https://www.youtube.com/channel/UCUoCNnaAfw5NAntItILFn4A'
+					   style="margin-left: 5px; margin-right: 5px">
+						<img src="icons/youtube.png" height="25px" width="25px" alt="youtube"/>
+					</a>
+					to never miss out on new upcoming seminars.
+				</i>
+			</td>
+		</tr>
 		<!--		&lt;!&ndash;Single talk&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&ndash;&gt;
 				<table style="padding-bottom: 12px;" class="europe">
 					&lt;!&ndash;Title/Abstract/PDF&ndash;&gt;
