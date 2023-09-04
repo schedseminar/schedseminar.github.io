@@ -1,3 +1,6 @@
+Youtube lazy loading
+https://css-tricks.com/lazy-load-embedded-youtube-videos/
+
 Propojit speaker list s nasim manager sheetem, vnorit do sebe at muzu editovat z jednoho, ale publicly ukazat jen cast
 
 PhD corner
@@ -6,5 +9,5 @@ PhD corner
 Dodelat tagy (tohle je zatim asi odlozene, bude se resit google sheetem)
 
 Podle reportu na https://gtmetrix.com/
-- Zoptimalizovat obrázky
+(DONE)- Zoptimalizovat obrázky
 - Cachovat je
