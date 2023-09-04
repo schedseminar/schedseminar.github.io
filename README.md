@@ -125,95 +125,185 @@
 			to never miss out on new upcoming seminars.
 		</i>
 
-		<!--		&lt;!&ndash;Single talk&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&ndash;&gt;-->
-		<!--		<table style="padding-bottom: 12px;" class="europe">-->
-		<!--			&lt;!&ndash;Title/Abstract/PDF&ndash;&gt;-->
-		<!--			<tr>-->
-		<!--				<td colspan="3">-->
-		<!--					<h2 class="talk_title"><b>Enhancing project resilience: a risk-averse approach to payment delays</b><br/>-->
-		<!--					</h2>-->
-		<!--					<input type="checkbox" id="abstract_id_46" style="display:none;">-->
-		<!--					<label for="abstract_id_46" class="label_abstract"><a>Abstract</a></label>-->
-		<!--					<div class="hidden">-->
-		<!--						<hr style="border-top: 1px solid black;">-->
-		<!--						The onset of the pandemic and the conflict in Europe have disrupted our society, supply chains, and-->
-		<!--						economies. The effects of these global shocks are evident in every type of project - whether related to-->
-		<!--						the energy transition, the renewal of transport infrastructure, or the construction industry- impacted-->
-		<!--						by the highest rates of inflation in more than 30 years and by a significant cash flow crisis. In this-->
-		<!--						complex landscape, delays in payments have become a common risk factor for projects, since they create a-->
-		<!--						time lag between the expenses incurred by the contractor and the progress payments received from the-->
-		<!--						client. The challenges associated with obtaining continuous project finances often place undue financial-->
-		<!--						strain on contractors that may seek loans from financial institutions to maintain their daily-->
-		<!--						operations. These loans must be returned with interest, increasing financing costs, and considerably-->
-		<!--						lowering the Net Present Value. In this talk, we delve into cash flow and project scheduling strategies-->
-		<!--						to mitigate late payment impacts and enhancing project resilience, presenting a distributionally robust-->
-		<!--						risk-averse model that minimizes the financing cost by accurately estimating the amount and timing of-->
-		<!--						the expenses and revenues throughout the project life cycle and foreseeing possible cost overruns and-->
-		<!--						cash flow fluctuations.-->
-		<!--						Joint work with Oncu Hazir-->
-		<!--						<hr style="border-top: 1px solid black;">-->
-		<!--					</div>-->
-		<!--					&lt;!&ndash;TODO pdf and video&ndash;&gt;-->
-		<!--					&lt;!&ndash;					<a href="./presentations/SchedulingSeminar_LarsRohwedder.pdf" class="label_abstract" download>&ndash;&gt;-->
-		<!--					&lt;!&ndash;						Download PDF&ndash;&gt;-->
-		<!--					&lt;!&ndash;					</a>&ndash;&gt;-->
-		<!--					&lt;!&ndash;					<a href="LINK"&ndash;&gt;-->
-		<!--					&lt;!&ndash;					   class="label_abstract" download>&ndash;&gt;-->
-		<!--					&lt;!&ndash;						Download Video&ndash;&gt;-->
-		<!--					&lt;!&ndash;					</a>&ndash;&gt;-->
-		<!--				</td>-->
-		<!--			</tr>-->
+<!--		&lt;!&ndash;Single talk&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&ndash;&gt;
+		<table style="padding-bottom: 12px;" class="europe">
+			&lt;!&ndash;Title/Abstract/PDF&ndash;&gt;
+			<tr>
+				<td colspan="3">
+					<h2 class="talk_title"><b>Single-machine scheduling with an external resource</b><br/>
+					</h2>
+					<input type="checkbox" id="abstract_id_46" style="display:none;">
+					<label for="abstract_id_46" class="label_abstract"><a>Abstract</a></label>
+					<div class="hidden">
+						<hr style="border-top: 1px solid black;">
+						We study a single-machine scheduling problem with an external
+						resource, which is rented for a non-interrupted period. Jobs that need
+						this external resource are executed only when the external resource is
+						available. There is a cost associated with the scheduling of jobs and a
+						cost associated with the duration of the renting period of the external
+						resource. We look at four classes of problems with an external resource:
+						a class of problems where the renting period is budgeted and the
+						scheduling cost needs to be minimized, a class of problems where the
+						scheduling cost is budgeted and the renting period needs to be
+						minimized, a class of two-objective problems where both, the renting
+						period and the scheduling cost, are to be minimized, and a class of
+						problems where a linear combination of the scheduling cost and the
+						renting period is minimized. We provide a thorough complexity analysis
+						(NP-hardness proofs and  (pseudo-)polynomial algorithms) for different
+						members of these four classes.
+						<hr style="border-top: 1px solid black;">
+					</div>
+					&lt;!&ndash;TODO pdf and video&ndash;&gt;
+					&lt;!&ndash;					<a href="./presentations/SchedulingSeminar_LarsRohwedder.pdf" class="label_abstract" download>&ndash;&gt;
+					&lt;!&ndash;						Download PDF&ndash;&gt;
+					&lt;!&ndash;					</a>&ndash;&gt;
+					&lt;!&ndash;					<a href="LINK"&ndash;&gt;
+					&lt;!&ndash;					   class="label_abstract" download>&ndash;&gt;
+					&lt;!&ndash;						Download Video&ndash;&gt;
+					&lt;!&ndash;					</a>&ndash;&gt;
+				</td>
+			</tr>
 
-		<!--			&lt;!&ndash;Data-&ndash;&gt;-->
-		<!--			<tr>-->
-		<!--				<td class="presenter_image_container">-->
-		<!--					<div class="single_image_container">-->
-		<!--						<a href="https://www.unical.it/storage/teachers/gAAAAABi2D-mEiJ-DC2koDLqpcRWlGK5Iqt7PXrVZZFzO6-vUCbdNHpud2f3YD2nN-FriRbt-aqfOBGausOLqfuhcsrRp-hJSg==/?lang=en">-->
-		<!--							<img class="single_presenter" src="photos/Maria_Elena.jpg" alt="person_photo"/>-->
-		<!--						</a><br/>-->
-		<!--					</div>-->
-		<!--				</td>-->
-		<!--				<td class="information_upcoming_container">-->
-		<!--					<b>[Presenter]</b><br/>-->
-		<!--					<a href="https://www.unical.it/storage/teachers/gAAAAABi2D-mEiJ-DC2koDLqpcRWlGK5Iqt7PXrVZZFzO6-vUCbdNHpud2f3YD2nN-FriRbt-aqfOBGausOLqfuhcsrRp-hJSg==/?lang=en">Maria Elena Bruni</a><br/>-->
-		<!--					(Uni of Calabria)<br/><br/>-->
-		<!--					&lt;!&ndash;TODO keywords&ndash;&gt;-->
-		<!--					&lt;!&ndash;<b>Keywords:</b> Logistics, Scheduling, Stacking cranes, Container terminal, Branch and cut &ndash;&gt;-->
-		<!--					<b>[Invited by]</b><br/>-->
-		<!--					<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a><br/>-->
-		<!--					(CTU in Prague)-->
-		<!--				</td>-->
-		<!--				<td class="time_zones_container">-->
-		<!--					<table class="time_table">-->
-		<!--						<tbody>-->
-		<!--						<tr class="utc">-->
-		<!--							<td>UTC</td>-->
-		<!--							<td>Nov 29, 14:00 Wed</td>-->
-		<!--						</tr>-->
-		<!--						<tr class="europe">-->
-		<!--							<td>Prague</td>-->
-		<!--							<td>Nov 29, 15:00 Wed</td>-->
-		<!--						</tr>-->
-		<!--						<tr class="america">-->
-		<!--							<td>New York</td>-->
-		<!--							<td>Nov 29, 13:00 Wed</td>-->
-		<!--						</tr>-->
-		<!--						<tr class="asia">-->
-		<!--							<td>Shanghai</td>-->
-		<!--							<td>Nov 29, 13:00 Wed</td>-->
-		<!--						</tr>-->
-		<!--						</tbody>-->
-		<!--					</table>-->
-		<!--				</td>-->
-		<!--			</tr>-->
+			&lt;!&ndash;Data-&ndash;&gt;
+			<tr>
+				<td class="presenter_image_container">
+					<div class="single_image_container">
+						<a href="http://www.briskorn.info/">
+							<img class="single_presenter" loading="lazy" src="photos/Dirk_Briskorn.jpg" alt="person_photo"/>
+						</a><br/>
+					</div>
+				</td>
+				<td class="information_upcoming_container">
+					<b>[Presenter]</b><br/>
+					<a href="http://www.briskorn.info/">Dirk Briskorn</a><br/>
+					(Uni of Wuppertal)<br/><br/>
+					&lt;!&ndash;TODO keywords&ndash;&gt;
+					&lt;!&ndash;<b>Keywords:</b> Scheduling, Single-machine scheduling, External resource, Complexity, Pseudo-polynomial algorithm &ndash;&gt;
+					<b>[Invited by]</b><br/>
+					<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a><br/>
+					(CTU in Prague)
+				</td>
+				<td class="time_zones_container">
+					<table class="time_table">
+						<tbody>
+						<tr class="utc">
+							<td>UTC</td>
+							<td>Oct 18, 13:00 Wed</td>
+						</tr>
+						<tr class="europe">
+							<td>Prague</td>
+							<td>Oct 18, 15:00 Wed</td>
+						</tr>
+						<tr class="america">
+							<td>New York</td>
+							<td>Oct 18, 09:00 Wed</td>
+						</tr>
+						<tr class="asia">
+							<td>Shanghai</td>
+							<td>Oct 18, 21:00 Wed</td>
+						</tr>
+						</tbody>
+					</table>
+				</td>
+			</tr>
 
-		<!--			&lt;!&ndash;Spacing-&ndash;&gt;-->
-		<!--			<table style="margin: 30px 0 0 0 !important;">-->
-		<!--				<tr>-->
-		<!--					<td colspan="100%"></td>-->
-		<!--				</tr>-->
-		<!--			</table>-->
-		<!--		</table>-->
+			&lt;!&ndash;Spacing-&ndash;&gt;
+			<table style="margin: 30px 0 0 0 !important;">
+				<tr>
+					<td colspan="100%"></td>
+				</tr>
+			</table>
+		</table>
+
+		&lt;!&ndash;Single talk&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&ndash;&gt;
+		<table style="padding-bottom: 12px;" class="europe">
+			&lt;!&ndash;Title/Abstract/PDF&ndash;&gt;
+			<tr>
+				<td colspan="3">
+					<h2 class="talk_title"><b>Enhancing project resilience: a risk-averse approach to payment delays</b><br/>
+					</h2>
+					<input type="checkbox" id="abstract_id_49" style="display:none;">
+					<label for="abstract_id_49" class="label_abstract"><a>Abstract</a></label>
+					<div class="hidden">
+						<hr style="border-top: 1px solid black;">
+						The onset of the pandemic and the conflict in Europe have disrupted our society, supply chains, and
+						economies. The effects of these global shocks are evident in every type of project - whether related to
+						the energy transition, the renewal of transport infrastructure, or the construction industry- impacted
+						by the highest rates of inflation in more than 30 years and by a significant cash flow crisis. In this
+						complex landscape, delays in payments have become a common risk factor for projects, since they create a
+						time lag between the expenses incurred by the contractor and the progress payments received from the
+						client. The challenges associated with obtaining continuous project finances often place undue financial
+						strain on contractors that may seek loans from financial institutions to maintain their daily
+						operations. These loans must be returned with interest, increasing financing costs, and considerably
+						lowering the Net Present Value. In this talk, we delve into cash flow and project scheduling strategies
+						to mitigate late payment impacts and enhancing project resilience, presenting a distributionally robust
+						risk-averse model that minimizes the financing cost by accurately estimating the amount and timing of
+						the expenses and revenues throughout the project life cycle and foreseeing possible cost overruns and
+						cash flow fluctuations.
+						Joint work with Oncu Hazir
+						<hr style="border-top: 1px solid black;">
+					</div>
+					&lt;!&ndash;TODO pdf and video&ndash;&gt;
+					&lt;!&ndash;					<a href="./presentations/SchedulingSeminar_LarsRohwedder.pdf" class="label_abstract" download>&ndash;&gt;
+					&lt;!&ndash;						Download PDF&ndash;&gt;
+					&lt;!&ndash;					</a>&ndash;&gt;
+					&lt;!&ndash;					<a href="LINK"&ndash;&gt;
+					&lt;!&ndash;					   class="label_abstract" download>&ndash;&gt;
+					&lt;!&ndash;						Download Video&ndash;&gt;
+					&lt;!&ndash;					</a>&ndash;&gt;
+				</td>
+			</tr>
+
+			&lt;!&ndash;Data-&ndash;&gt;
+			<tr>
+				<td class="presenter_image_container">
+					<div class="single_image_container">
+						<a href="https://www.unical.it/storage/teachers/gAAAAABi2D-mEiJ-DC2koDLqpcRWlGK5Iqt7PXrVZZFzO6-vUCbdNHpud2f3YD2nN-FriRbt-aqfOBGausOLqfuhcsrRp-hJSg==/?lang=en">
+							<img class="single_presenter" loading="lazy" src="photos/Maria_Elena.jpg" alt="person_photo"/>
+						</a><br/>
+					</div>
+				</td>
+				<td class="information_upcoming_container">
+					<b>[Presenter]</b><br/>
+					<a href="https://www.unical.it/storage/teachers/gAAAAABi2D-mEiJ-DC2koDLqpcRWlGK5Iqt7PXrVZZFzO6-vUCbdNHpud2f3YD2nN-FriRbt-aqfOBGausOLqfuhcsrRp-hJSg==/?lang=en">Maria Elena Bruni</a><br/>
+					(Uni of Calabria)<br/><br/>
+					&lt;!&ndash;TODO keywords&ndash;&gt;
+					&lt;!&ndash;<b>Keywords:</b> Logistics, Scheduling, Stacking cranes, Container terminal, Branch and cut &ndash;&gt;
+					<b>[Invited by]</b><br/>
+					<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a><br/>
+					(CTU in Prague)
+				</td>
+				<td class="time_zones_container">
+					<table class="time_table">
+						<tbody>
+						<tr class="utc">
+							<td>UTC</td>
+							<td>Nov 29, 14:00 Wed</td>
+						</tr>
+						<tr class="europe">
+							<td>Prague</td>
+							<td>Nov 29, 15:00 Wed</td>
+						</tr>
+						<tr class="america">
+							<td>New York</td>
+							<td>Nov 29, :00 Wed</td>
+						</tr>
+						<tr class="asia">
+							<td>Shanghai</td>
+							<td>Nov 29, :00 Wed</td>
+						</tr>
+						</tbody>
+					</table>
+				</td>
+			</tr>
+
+			&lt;!&ndash;Spacing-&ndash;&gt;
+			<table style="margin: 30px 0 0 0 !important;">
+				<tr>
+					<td colspan="100%"></td>
+				</tr>
+			</table>
+		</table>-->
 
 		</tbody>
 	</table>
@@ -277,7 +367,7 @@
 				<td class="presenter_image_container">
 					<div class="single_image_container">
 						<a href="https://www.runi.ac.il/en/faculty/tami">
-							<img class="single_presenter" src="photos/Tami_Tamir.jpg" alt="person_photo"/>
+							<img class="single_presenter" loading="lazy" src="photos/Tami_Tamir.jpg" alt="person_photo"/>
 						</a><br/>
 					</div>
 				</td>
@@ -358,7 +448,7 @@
 				<td class="presenter_image_container">
 					<div class="single_image_container">
 						<a href="https://business.vanderbilt.edu/bio/vikram-tiwari/">
-							<img class="single_presenter" src="photos/Vikram_Tiwari.jpg" alt="person_photo"/>
+							<img class="single_presenter" loading="lazy" src="photos/Vikram_Tiwari.jpg" alt="person_photo"/>
 						</a><br/>
 					</div>
 				</td>
@@ -448,7 +538,7 @@
 				<td class="presenter_image_container">
 					<div class="single_image_container">
 						<a href="https://www.wiwi.uni-siegen.de/mis/team/">
-							<img class="single_presenter" src="photos/SA-2018-Erwin.jpg" alt="person_photo"/>
+							<img class="single_presenter" loading="lazy" src="photos/SA-2018-Erwin.jpg" alt="person_photo"/>
 						</a><br/>
 					</div>
 				</td>
@@ -529,7 +619,7 @@
 				<td class="presenter_image_container">
 					<div class="single_image_container">
 						<a href="https://biblio.ugent.be/person/802001574062">
-							<img class="single_presenter" src="photos/Dries%20Goossens.jpg" alt="person_photo"/>
+							<img class="single_presenter" loading="lazy" src="photos/Dries%20Goossens.jpg" alt="person_photo"/>
 						</a><br/>
 					</div>
 				</td>
@@ -612,7 +702,7 @@
 				<td class="presenter_image_container">
 					<div class="single_image_container">
 						<a href="https://www.professors.wi.tum.de/om/team/prof-dr-rainer-kolisch/">
-							<img class="single_presenter" src="photos/Kolisch_Rainer.jpg" alt="person_photo"/>
+							<img class="single_presenter" loading="lazy" src="photos/Kolisch_Rainer.jpg" alt="person_photo"/>
 						</a><br/>
 					</div>
 				</td>
@@ -697,7 +787,7 @@
 				<td class="presenter_image_container">
 					<div class="single_image_container">
 						<a href="http://staff.iiar.pwr.wroc.pl/wojciech.bozejko/">
-							<img class="single_presenter" src="photos/Wojciech_Bozejko.JPG" alt="person_photo"/>
+							<img class="single_presenter" loading="lazy" src="photos/Wojciech_Bozejko.JPG" alt="person_photo"/>
 						</a><br/>
 					</div>
 				</td>
@@ -776,7 +866,7 @@
 				<td class="presenter_image_container">
 					<div class="single_image_container">
 						<a href="https://seng.ust.hk/about/people/faculty/xiangtong-qi">
-							<img class="single_presenter" src="photos/xiangtong_qi.jpg" alt="person_photo"/>
+							<img class="single_presenter" loading="lazy" src="photos/xiangtong_qi.jpg" alt="person_photo"/>
 						</a><br/>
 					</div>
 				</td>
@@ -857,7 +947,7 @@
 				<td class="presenter_image_container">
 					<div class="single_image_container">
 						<a href="https://msslab.kaist.ac.kr/Professor/professor">
-							<img class="single_presenter" src="photos/Hyun-Jung_Kim.jpg" alt="person_photo"/>
+							<img class="single_presenter" loading="lazy" src="photos/Hyun-Jung_Kim.jpg" alt="person_photo"/>
 						</a><br/>
 					</div>
 				</td>
@@ -935,7 +1025,7 @@
 				<td class="presenter_image_container">
 					<div class="single_image_container">
 						<a href="https://www.univ-tours.fr/annuaire/m-vincent-tkindt">
-							<img class="single_presenter" src="photos/VTkindt-head.png" alt="person_photo"/>
+							<img class="single_presenter" loading="lazy" src="photos/VTkindt-head.png" alt="person_photo"/>
 						</a><br/>
 					</div>
 				</td>
@@ -1021,7 +1111,7 @@
 				<td class="presenter_image_container">
 					<div class="single_image_container">
 						<a href="https://scholar.google.fr/citations?user=VrUXV3IAAAAJ&hl=en">
-							<img class="single_presenter" src="photos/JacquesCarlier.jpg" alt="person_photo"/>
+							<img class="single_presenter" loading="lazy" src="photos/JacquesCarlier.jpg" alt="person_photo"/>
 						</a><br/>
 					</div>
 				</td>
@@ -1097,7 +1187,7 @@
 				<td class="presenter_image_container">
 					<div class="single_image_container">
 						<a href="https://larsrohwedder.com/">
-							<img class="single_presenter" src="photos/Lars_Rohwedder.jpg" alt="person_photo"/>
+							<img class="single_presenter" loading="lazy" src="photos/Lars_Rohwedder.jpg" alt="person_photo"/>
 						</a><br/>
 					</div>
 				</td>
@@ -1184,7 +1274,7 @@
 				<td class="presenter_image_container">
 					<div class="single_image_container">
 						<a href="https://www.informatik.uni-osnabrueck.de/knust/">
-							<img class="single_presenter" src="photos/sknust.jpg" alt="person_photo"/>
+							<img class="single_presenter" loading="lazy" src="photos/sknust.jpg" alt="person_photo"/>
 						</a><br/>
 					</div>
 				</td>
@@ -1285,7 +1375,7 @@
 				<td class="presenter_image_container">
 					<div class="single_image_container">
 						<a href="https://www3.diism.unisi.it/~agnetis/">
-							<img class="single_presenter" src="photos/Alessandro_Agnetis_2.jpg" alt="person_photo"/>
+							<img class="single_presenter" loading="lazy" src="photos/Alessandro_Agnetis_2.jpg" alt="person_photo"/>
 						</a><br/>
 					</div>
 				</td>
@@ -1365,7 +1455,7 @@
 				<td class="presenter_image_container">
 					<div class="single_image_container">
 						<a href="https://www.ieor.columbia.edu/faculty/clifford-stein">
-							<img class="single_presenter" src="photos/Clifford_Stein_web.png" alt="person_photo"/>
+							<img class="single_presenter" loading="lazy" src="photos/Clifford_Stein_web.png" alt="person_photo"/>
 						</a><br/>
 					</div>
 				</td>
@@ -1451,7 +1541,7 @@
 				<td class="presenter_image_container">
 					<div class="single_image_container">
 						<a href="https://www.lip6.fr/actualite/personnes-fiche.php?ident=P653">
-							<img class="single_presenter" src="photos/Greet_Vanden_Berghe_2.jpg" alt="person_photo"/>
+							<img class="single_presenter" loading="lazy" src="photos/Greet_Vanden_Berghe_2.jpg" alt="person_photo"/>
 						</a><br/>
 					</div>
 				</td>
@@ -1539,7 +1629,7 @@
 				<td class="presenter_image_container">
 					<div class="single_image_container">
 						<a href="https://www.lip6.fr/actualite/personnes-fiche.php?ident=P653">
-							<img class="single_presenter" src="photos/Alix_Munier_Kordon.jpg" alt="person_photo"/>
+							<img class="single_presenter" loading="lazy" src="photos/Alix_Munier_Kordon.jpg" alt="person_photo"/>
 						</a><br/>
 					</div>
 				</td>
@@ -1621,7 +1711,7 @@
 				<td class="presenter_image_container">
 					<div class="single_image_container">
 						<a href="http://moya.bus.miami.edu/~czacharias/">
-							<img class="single_presenter" src="photos/Christos_Zacharias.jpg" alt="person_photo"/>
+							<img class="single_presenter" loading="lazy" src="photos/Christos_Zacharias.jpg" alt="person_photo"/>
 						</a><br/>
 					</div>
 				</td>
@@ -1708,7 +1798,7 @@
 				<td class="presenter_image_container">
 					<div class="single_image_container">
 						<a href="https://www.sauder.ubc.ca/people/maurice-queyranne">
-							<img class="single_presenter" src="photos/Maurice_Queyranne.jpg" alt="person_photo"/>
+							<img class="single_presenter" loading="lazy" src="photos/Maurice_Queyranne.jpg" alt="person_photo"/>
 						</a><br/>
 					</div>
 				</td>
@@ -1786,7 +1876,7 @@
 				<td class="presenter_image_container">
 					<div class="single_image_container">
 						<a href="https://www.uni-bremen.de/en/cslog/nmegow">
-							<img class="single_presenter" src="photos/Nicole_Megow.jpg" alt="person_photo"/>
+							<img class="single_presenter" loading="lazy" src="photos/Nicole_Megow.jpg" alt="person_photo"/>
 						</a><br/>
 					</div>
 				</td>
@@ -1865,7 +1955,7 @@
 				<td class="presenter_image_container">
 					<div class="single_image_container">
 						<a href="https://algo.wmi.amu.edu.pl/en/staff/prof-uam-dr-hab-stanislaw-gawiejnowicz/">
-							<img class="single_presenter" src="photos/Stanislaw_Gawiejnowicz.jpg" alt="person_photo"/>
+							<img class="single_presenter" loading="lazy" src="photos/Stanislaw_Gawiejnowicz.jpg" alt="person_photo"/>
 						</a><br/>
 					</div>
 				</td>
@@ -1950,7 +2040,7 @@
 				<td class="presenter_image_container">
 					<div class="single_image_container">
 						<a href="https://www.kuleuven.be/wieiswie/en/person/00003471">
-							<img class="single_presenter" src="photos/Patrick_De_Causmaecker.jpg" alt="person_photo"/>
+							<img class="single_presenter" loading="lazy" src="photos/Patrick_De_Causmaecker.jpg" alt="person_photo"/>
 						</a><br/>
 					</div>
 				</td>
@@ -2031,7 +2121,7 @@
 				<td class="presenter_image_container">
 					<div class="single_image_container">
 						<a href="https://www.hitachienergy.com/news/testimonials/2021/06/iiro-harjunkoski-germany">
-							<img class="single_presenter" src="photos/Iiro_Harjunkoski.jpg" alt="person_photo"/>
+							<img class="single_presenter" loading="lazy" src="photos/Iiro_Harjunkoski.jpg" alt="person_photo"/>
 						</a><br/>
 					</div>
 				</td>
@@ -2109,7 +2199,7 @@
 				<td class="presenter_image_container">
 					<div class="single_image_container">
 						<a href="https://sites.gatech.edu/pascal-van-hentenryck/">
-							<img class="single_presenter" src="photos/pascal_van_hentenryck.jpg" alt="person_photo"/>
+							<img class="single_presenter" loading="lazy" src="photos/pascal_van_hentenryck.jpg" alt="person_photo"/>
 						</a><br/>
 					</div>
 				</td>
@@ -2192,7 +2282,7 @@
 				<td class="presenter_image_container">
 					<div class="single_image_container">
 						<a href="https://homepages.laas.fr/artigues/drupal/node/11">
-							<img class="single_presenter" src="photos/christian_artigues_new.jpg" alt="person_photo"/>
+							<img class="single_presenter" loading="lazy" src="photos/christian_artigues_new.jpg" alt="person_photo"/>
 						</a><br/>
 					</div>
 				</td>
@@ -2275,7 +2365,7 @@
 				<td class="presenter_image_container">
 					<div class="single_image_container">
 						<a href="https://www.fernuni-hagen.de/ess/team/lars.moench.shtml">
-							<img class="single_presenter" src="photos/Lars%20Mönch.jpg" alt="person_photo"/>
+							<img class="single_presenter" loading="lazy" src="photos/Lars%20Mönch.jpg" alt="person_photo"/>
 						</a><br/>
 					</div>
 				</td>
@@ -2356,7 +2446,7 @@
 				<td class="presenter_image_container">
 					<div class="single_image_container">
 						<a href="https://isearch.asu.edu/profile/36406">
-							<img class="single_presenter" src="photos/John_Fowler.jpg" alt="person_photo"/>
+							<img class="single_presenter" loading="lazy" src="photos/John_Fowler.jpg" alt="person_photo"/>
 						</a><br/>
 					</div>
 				</td>
@@ -2436,7 +2526,7 @@
 				<td class="presenter_image_container">
 					<div class="single_image_container">
 						<a href="https://sites.google.com/site/kangbokstudy/">
-							<img class="single_presenter" src="photos/kangbok_lee.jpg" alt="person_photo"/>
+							<img class="single_presenter" loading="lazy" src="photos/kangbok_lee.jpg" alt="person_photo"/>
 						</a><br/>
 					</div>
 				</td>
@@ -2523,7 +2613,7 @@
 				<td class="presenter_image_container">
 					<div class="single_image_container">
 						<a href="http://english.aia.hust.edu.cn/info/1030/1279.htm">
-							<img class="single_presenter" src="photos/yindong_shen.jpg" alt="person_photo"/>
+							<img class="single_presenter" loading="lazy" src="photos/yindong_shen.jpg" alt="person_photo"/>
 						</a><br/>
 					</div>
 				</td>
@@ -2601,7 +2691,7 @@
 				<td class="presenter_image_container">
 					<div class="single_image_container">
 						<a href="https://in.bgu.ac.il/en/engn/iem/pages/staff/Dvir-Shabtay.aspx">
-							<img class="single_presenter" src="photos/dvir-web.png" alt="person_photo"/>
+							<img class="single_presenter" loading="lazy" src="photos/dvir-web.png" alt="person_photo"/>
 						</a><br/>
 					</div>
 				</td>
@@ -2697,7 +2787,7 @@
 				<td class="presenter_image_container">
 					<div class="single_image_container">
 						<a href="http://soa.iti.es/rruiz">
-							<img class="single_presenter" src="photos/ruben_ruiz.jpg" alt="person_photo"/>
+							<img class="single_presenter" loading="lazy" src="photos/ruben_ruiz.jpg" alt="person_photo"/>
 						</a><br/>
 					</div>
 				</td>
@@ -2781,7 +2871,7 @@
 				<td class="presenter_image_container">
 					<div class="single_image_container">
 						<a href="http://www.lip6.fr/Christoph.Durr">
-							<img class="single_presenter" src="photos/christoph_durr.jpg" alt="person_photo"/>
+							<img class="single_presenter" loading="lazy" src="photos/christoph_durr.jpg" alt="person_photo"/>
 						</a><br/>
 					</div>
 				</td>
@@ -2865,7 +2955,7 @@
 				<td class="presenter_image_container">
 					<div class="single_image_container">
 						<a href="https://www.polymtl.ca/expertises/en/gendreau-michel">
-							<img class="single_presenter" src="photos/michel_gendreau.jpg" alt="person_photo"/>
+							<img class="single_presenter" loading="lazy" src="photos/michel_gendreau.jpg" alt="person_photo"/>
 						</a><br/>
 					</div>
 				</td>
@@ -2956,7 +3046,7 @@
 				<td class="presenter_image_container">
 					<div class="single_image_container">
 						<a href="https://www.mn.uio.no/math/english/people/aca/carloman/">
-							<img class="single_presenter" src="photos/Carlo_Mannino.jpg" alt="person_photo"/>
+							<img class="single_presenter" loading="lazy" src="photos/Carlo_Mannino.jpg" alt="person_photo"/>
 						</a><br/>
 					</div>
 				</td>
@@ -3036,7 +3126,7 @@
 				<td class="presenter_image_container">
 					<div class="single_image_container">
 						<a href="http://www.andrew.cmu.edu/user/moseleyb/  ">
-							<img class="single_presenter" src="photos/ben_mosley.jpeg"
+							<img class="single_presenter" loading="lazy" src="photos/ben_mosley.jpeg"
 							     alt="person_photo"/>
 						</a><br/>
 					</div>
@@ -3122,7 +3212,7 @@
 				<td class="presenter_image_container">
 					<div class="single_image_container">
 						<a href="https://www.digep.polito.it/en/personale/scheda/(nominativo)/federico.dellacroce">
-							<img class="single_presenter" src="photos/federico_della_croce.jpg"
+							<img class="single_presenter" loading="lazy" src="photos/federico_della_croce.jpg"
 							     alt="person_photo"/>
 						</a><br/>
 					</div>
@@ -3205,7 +3295,7 @@
 				<td class="presenter_image_container">
 					<div class="single_image_container">
 						<a href="http://math.haifa.ac.il/lea/">
-							<img class="single_presenter" src="photos/Leah_Epstein_2.jpg"
+							<img class="single_presenter" loading="lazy" src="photos/Leah_Epstein_2.jpg"
 							     alt="person_photo"/>
 						</a><br/>
 					</div>
@@ -3299,7 +3389,7 @@
 				<td class="presenter_image_container">
 					<div class="single_image_container">
 						<a href="">
-							<img class="single_presenter" src="photos/nicholas_hall.JPG"
+							<img class="single_presenter" loading="lazy" src="photos/nicholas_hall.JPG"
 							     alt="person_photo"/>
 						</a><br/>
 					</div>
@@ -3378,7 +3468,7 @@
 				<td class="presenter_image_container">
 					<div class="single_image_container">
 						<a href="http://www.dpia.uniud.it/schaerf/">
-							<img class="single_presenter" src="photos/schaerf.jpg"
+							<img class="single_presenter" loading="lazy" src="photos/schaerf.jpg"
 							     alt="person_photo"/>
 						</a><br/>
 					</div>
@@ -3464,7 +3554,7 @@
 				<td class="presenter_image_container">
 					<div class="single_image_container">
 						<a href="https://che.utoronto.ca/professor-michael-w-carter/">
-							<img class="single_presenter" src="photos/CarterM_photo.jpg"
+							<img class="single_presenter" loading="lazy" src="photos/CarterM_photo.jpg"
 							     alt="person_photo"/>
 						</a><br/>
 					</div>
@@ -3560,7 +3650,7 @@
 				<td class="presenter_image_container">
 					<div class="single_image_container">
 						<a href="https://www.researchgate.net/profile/Jinjiang-Yuan">
-							<img class="single_presenter" src="photos/Jinjiang_Yuan.jpg"
+							<img class="single_presenter" loading="lazy" src="photos/Jinjiang_Yuan.jpg"
 							     alt="person_photo"/>
 						</a><br/>
 					</div>
@@ -3644,7 +3734,7 @@
 				<td class="presenter_image_container">
 					<div class="single_image_container">
 						<a href="https://www.kuleuven.be/wieiswie/en/person/00008606">
-							<img class="single_presenter" src="photos/erik_demeulemeester.jpg"
+							<img class="single_presenter" loading="lazy" src="photos/erik_demeulemeester.jpg"
 							     alt="person_photo"/>
 						</a><br/>
 					</div>
@@ -3724,7 +3814,7 @@
 				<td class="presenter_image_container">
 					<div class="single_image_container">
 						<a href="https://www.coga.tu-berlin.de/v_menue/mitarbeitende/prof_dr_martin_skutella/prof_dr_martin_skutella/parameter/en/">
-							<img class="single_presenter" src="photos/skutella.jpg"
+							<img class="single_presenter" loading="lazy" src="photos/skutella.jpg"
 							     alt="person_photo"/>
 						</a><br/>
 					</div>
@@ -3824,7 +3914,7 @@
 				<td class="presenter_image_container">
 					<div class="single_image_container">
 						<a href="http://dao.neu.edu.cn/">
-							<img class="single_presenter" src="photos/lixin_tang.jpg"
+							<img class="single_presenter" loading="lazy" src="photos/lixin_tang.jpg"
 							     alt="person_photo"/>
 						</a><br/>
 					</div>
@@ -3907,7 +3997,7 @@
 				<td class="presenter_image_container">
 					<div class="single_image_container">
 						<a href="http://www.cs.cmu.edu/~harchol/">
-							<img class="single_presenter" src="photos/harchol_balter.jpg" alt="person_photo"/>
+							<img class="single_presenter" loading="lazy" src="photos/harchol_balter.jpg" alt="person_photo"/>
 						</a><br/>
 					</div>
 				</td>
@@ -3985,12 +4075,12 @@
 				<td class="presenter_image_container">
 					<div class="double_image_container">
 						<a href="https://www.cwi.nl/people/jan-karel-lenstra">
-							<img class="double_presenter" src="photos/jan_karel_lenstra.jpg" alt="person_photo"/>
+							<img class="double_presenter" loading="lazy" src="photos/jan_karel_lenstra.jpg" alt="person_photo"/>
 						</a><br/>
 					</div>
 					<div class="double_image_container">
 						<a href="https://people.orie.cornell.edu/shmoys/">
-							<img class="double_presenter" src="photos/david_schmoys.jpg" alt="person_photo"/>
+							<img class="double_presenter" loading="lazy" src="photos/david_schmoys.jpg" alt="person_photo"/>
 						</a><br/>
 					</div>
 				</td>
