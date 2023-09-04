@@ -129,7 +129,7 @@
 			</td>
 		</tr>
 		<!--		&lt;!&ndash;Single talk&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&ndash;&gt;
-				<table style="padding-bottom: 12px;" class="europe">
+				<table class="europe">
 					&lt;!&ndash;Title/Abstract/PDF&ndash;&gt;
 					<tr>
 						<td colspan="3">
@@ -211,15 +211,13 @@
 					</tr>
 
 					&lt;!&ndash;Spacing-&ndash;&gt;
-					<table style="margin: 30px 0 0 0 !important;">
-						<tr>
-							<td colspan="100%"></td>
-						</tr>
-					</table>
+					<tr style="background-color: white">
+						<td colspan="100%"></td>
+					</tr>
 				</table>
 
 				&lt;!&ndash;Single talk&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&ndash;&gt;
-				<table style="padding-bottom: 12px;" class="europe">
+				<table class="europe">
 					&lt;!&ndash;Title/Abstract/PDF&ndash;&gt;
 					<tr>
 						<td colspan="3">
@@ -301,11 +299,9 @@
 					</tr>
 
 					&lt;!&ndash;Spacing-&ndash;&gt;
-					<table style="margin: 30px 0 0 0 !important;">
-						<tr>
-							<td colspan="100%"></td>
-						</tr>
-					</table>
+					<tr style="background-color: white">
+						<td colspan="100%"></td>
+					</tr>
 				</table>-->
 
 		</tbody>
@@ -331,7 +327,7 @@
 		<tbody>
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
-		<table style="padding-bottom: 12px;" class="europe">
+		<table class="europe">
 			<!--Title/Abstract/PDF-->
 			<tr>
 				<td colspan="3">
@@ -407,13 +403,13 @@
 			</tr>
 
 			<!--Spacing--->
-			<tr style="margin: 10px 10px 10px 10px !important; background-color: white">
+			<tr style="background-color: white">
 				<td colspan="100%"></td>
 			</tr>
 		</table>
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
-		<table style="padding-bottom: 12px;" class="america">
+		<table class="america">
 			<!--Title/Abstract/PDF-->
 			<tr>
 				<td colspan="3">
@@ -489,13 +485,13 @@
 			</tr>
 
 			<!--Spacing--->
-			<tr style="margin: 10px 10px 10px 10px !important; background-color: white">
+			<tr style="background-color: white">
 				<td colspan="100%"></td>
 			</tr>
 		</table>
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
-		<table style="padding-bottom: 12px;" class="europe">
+		<table class="europe">
 			<!--Title/Abstract/PDF-->
 			<tr>
 				<td colspan="3">
@@ -580,13 +576,13 @@
 			</tr>
 
 			<!--Spacing--->
-			<tr style="margin: 10px 10px 10px 10px !important; background-color: white">
+			<tr style="background-color: white">
 				<td colspan="100%"></td>
 			</tr>
 		</table>
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
-		<table style="padding-bottom: 12px;" class="europe">
+		<table class="europe">
 			<!--Title/Abstract/PDF-->
 			<tr>
 				<td colspan="3">
@@ -662,13 +658,13 @@
 			</tr>
 
 			<!--Spacing--->
-			<tr style="margin: 10px 10px 10px 10px !important; background-color: white">
+			<tr style="background-color: white">
 				<td colspan="100%"></td>
 			</tr>
 		</table>
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
-		<table style="padding-bottom: 12px;" class="europe">
+		<table class="europe">
 			<!--Title/Abstract/PDF-->
 			<tr>
 				<td colspan="3">
@@ -746,13 +742,13 @@
 			</tr>
 
 			<!--Spacing--->
-			<tr style="margin: 10px 10px 10px 10px !important; background-color: white">
+			<tr style="background-color: white">
 				<td colspan="100%"></td>
 			</tr>
 		</table>
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
-		<table style="padding-bottom: 12px;" class="europe">
+		<table class="europe">
 			<!--Title/Abstract/PDF-->
 			<tr>
 				<td colspan="3">
@@ -831,13 +827,13 @@
 			</tr>
 
 			<!--Spacing--->
-			<tr style="margin: 10px 10px 10px 10px !important; background-color: white">
+			<tr style="background-color: white">
 				<td colspan="100%"></td>
 			</tr>
 		</table>
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
-		<table style="padding-bottom: 12px;" class="asia">
+		<table class="asia">
 			<tr>
 				<td colspan="3">
 					<h2 class="talk_title"><b>Cooperative Games Models for Scheduling Problems</b></h2>
@@ -911,13 +907,13 @@
 			</tr>
 
 			<!--Spacing--->
-			<tr style="margin: 10px 10px 10px 10px !important; background-color: white">
+			<tr style="background-color: white">
 				<td colspan="100%"></td>
 			</tr>
 		</table>
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
-		<table style="padding-bottom: 12px;" class="asia">
+		<table class="asia">
 			<!--Title/Abstract/PDF-->
 			<tr>
 				<td colspan="3">
@@ -994,13 +990,13 @@
 			</tr>
 
 			<!--Spacing--->
-			<tr style="margin: 10px 10px 10px 10px !important; background-color: white">
+			<tr style="background-color: white">
 				<td colspan="100%"></td>
 			</tr>
 		</table>
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
-		<table style="padding-bottom: 12px;" class="europe">
+		<table class="europe">
 			<!--Title/Abstract/PDF-->
 			<tr>
 				<td colspan="3">
@@ -1072,13 +1068,13 @@
 			</tr>
 
 			<!--Spacing--->
-			<tr style="margin: 10px 10px 10px 10px !important; background-color: white">
+			<tr style="background-color: white">
 				<td colspan="100%"></td>
 			</tr>
 		</table>
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
-		<table style="padding-bottom: 12px;" class="europe">
+		<table class="europe">
 			<!--Title/Abstract/PDF-->
 			<tr>
 				<td colspan="3">
@@ -1161,13 +1157,13 @@
 			</tr>
 
 			<!--Spacing--->
-			<tr style="margin: 10px 10px 10px 10px !important; background-color: white">
+			<tr style="background-color: white">
 				<td colspan="100%"></td>
 			</tr>
 		</table>
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
-		<table style="padding-bottom: 12px;" class="europe">
+		<table class="europe">
 			<!--Title/Abstract/PDF-->
 			<tr>
 				<td colspan="3">
@@ -1237,13 +1233,13 @@
 			</tr>
 
 			<!--Spacing--->
-			<tr style="margin: 10px 10px 10px 10px !important; background-color: white">
+			<tr style="background-color: white">
 				<td colspan="100%"></td>
 			</tr>
 		</table>
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
-		<table style="padding-bottom: 12px;" class="europe">
+		<table class="europe">
 			<!--Title/Abstract/PDF-->
 			<tr>
 				<td colspan="3">
@@ -1324,13 +1320,13 @@
 			</tr>
 
 			<!--Spacing--->
-			<tr style="margin: 10px 10px 10px 10px !important; background-color: white">
+			<tr style="background-color: white">
 				<td colspan="100%"></td>
 			</tr>
 		</table>
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
-		<table style="padding-bottom: 12px;" class="europe">
+		<table class="europe">
 			<!--Title/Abstract/PDF-->
 			<tr>
 				<td colspan="3">
@@ -1425,13 +1421,13 @@
 			</tr>
 
 			<!--Spacing--->
-			<tr style="margin: 10px 10px 10px 10px !important; background-color: white">
+			<tr style="background-color: white">
 				<td colspan="100%"></td>
 			</tr>
 		</table>
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
-		<table style="padding-bottom: 12px;" class="america">
+		<table class="america">
 			<!--Title/Abstract/PDF-->
 			<tr>
 				<td colspan="3">
@@ -1506,13 +1502,13 @@
 			</tr>
 
 			<!--Spacing--->
-			<tr style="margin: 10px 10px 10px 10px !important; background-color: white">
+			<tr style="background-color: white">
 				<td colspan="100%"></td>
 			</tr>
 		</table>
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
-		<table style="padding-bottom: 12px;" class="europe">
+		<table class="europe">
 			<!--Title/Abstract/PDF-->
 			<tr>
 				<td colspan="3">
@@ -1595,13 +1591,13 @@
 			</tr>
 
 			<!--Spacing--->
-			<tr style="margin: 10px 10px 10px 10px !important; background-color: white">
+			<tr style="background-color: white">
 				<td colspan="100%"></td>
 			</tr>
 		</table>
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
-		<table style="padding-bottom: 12px;" class="europe">
+		<table class="europe">
 			<!--Title/Abstract/PDF-->
 			<tr>
 				<td colspan="3">
@@ -1685,13 +1681,13 @@
 			</tr>
 
 			<!--Spacing--->
-			<tr style="margin: 10px 10px 10px 10px !important; background-color: white">
+			<tr style="background-color: white">
 				<td colspan="100%"></td>
 			</tr>
 		</table>
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
-		<table style="padding-bottom: 12px;" class="america">
+		<table class="america">
 			<!--Title/Abstract/PDF-->
 			<tr>
 				<td colspan="3">
@@ -1766,13 +1762,13 @@
 			</tr>
 
 			<!--Spacing--->
-			<tr style="margin: 10px 10px 10px 10px !important; background-color: white">
+			<tr style="background-color: white">
 				<td colspan="100%"></td>
 			</tr>
 		</table>
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
-		<table style="padding-bottom: 12px;" class="america">
+		<table class="america">
 			<!--Title/Abstract/PDF-->
 			<tr>
 				<td colspan="3">
@@ -1853,13 +1849,13 @@
 			</tr>
 
 			<!--Spacing--->
-			<tr style="margin: 10px 10px 10px 10px !important; background-color: white">
+			<tr style="background-color: white">
 				<td colspan="100%"></td>
 			</tr>
 		</table>
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
-		<table style="padding-bottom: 12px;" class="europe">
+		<table class="europe">
 			<!--Title/Abstract/PDF-->
 			<tr>
 				<td colspan="3">
@@ -1933,13 +1929,13 @@
 			</tr>
 
 			<!--Spacing--->
-			<tr style="margin: 10px 10px 10px 10px !important; background-color: white">
+			<tr style="background-color: white">
 				<td colspan="100%"></td>
 			</tr>
 		</table>
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
-		<table style="padding-bottom: 12px;" class="europe">
+		<table class="europe">
 			<!--Title/Abstract/PDF-->
 			<tr>
 				<td colspan="3">
@@ -2015,13 +2011,13 @@
 			</tr>
 
 			<!--Spacing--->
-			<tr style="margin: 10px 10px 10px 10px !important; background-color: white">
+			<tr style="background-color: white">
 				<td colspan="100%"></td>
 			</tr>
 		</table>
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
-		<table style="padding-bottom: 12px;" class="europe">
+		<table class="europe">
 			<!--Title/Abstract/PDF-->
 			<tr>
 				<td colspan="3">
@@ -2100,13 +2096,13 @@
 			</tr>
 
 			<!--Spacing--->
-			<tr style="margin: 10px 10px 10px 10px !important; background-color: white">
+			<tr style="background-color: white">
 				<td colspan="100%"></td>
 			</tr>
 		</table>
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
-		<table style="padding-bottom: 12px;" class="europe">
+		<table class="europe">
 			<!--Title/Abstract/PDF-->
 			<tr>
 				<td colspan="3">
@@ -2182,13 +2178,13 @@
 			</tr>
 
 			<!--Spacing--->
-			<tr style="margin: 10px 10px 10px 10px !important; background-color: white">
+			<tr style="background-color: white">
 				<td colspan="100%"></td>
 			</tr>
 		</table>
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
-		<table style="padding-bottom: 12px;" class="america">
+		<table class="america">
 			<!--Title/Abstract/PDF-->
 			<tr>
 				<td colspan="3">
@@ -2260,13 +2256,13 @@
 			</tr>
 
 			<!--Spacing--->
-			<tr style="margin: 10px 10px 10px 10px !important; background-color: white">
+			<tr style="background-color: white">
 				<td colspan="100%"></td>
 			</tr>
 		</table>
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
-		<table style="padding-bottom: 12px;" class="europe">
+		<table class="europe">
 			<!--Title/Abstract/PDF-->
 			<tr>
 				<td colspan="3">
@@ -2345,13 +2341,13 @@
 			</tr>
 
 			<!--Spacing--->
-			<tr style="margin: 10px 10px 10px 10px !important; background-color: white">
+			<tr style="background-color: white">
 				<td colspan="100%"></td>
 			</tr>
 		</table>
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
-		<table style="padding-bottom: 12px;" class="europe">
+		<table class="europe">
 			<!--Title/Abstract/PDF-->
 			<tr>
 				<td colspan="3">
@@ -2428,13 +2424,13 @@
 			</tr>
 
 			<!--Spacing--->
-			<tr style="margin: 10px 10px 10px 10px !important; background-color: white">
+			<tr style="background-color: white">
 				<td colspan="100%"></td>
 			</tr>
 		</table>
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
-		<table style="padding-bottom: 12px;" class="america">
+		<table class="america">
 			<!--Title/Abstract/PDF-->
 			<tr>
 				<td colspan="3">
@@ -2509,13 +2505,13 @@
 			</tr>
 
 			<!--Spacing--->
-			<tr style="margin: 10px 10px 10px 10px !important; background-color: white">
+			<tr style="background-color: white">
 				<td colspan="100%"></td>
 			</tr>
 		</table>
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
-		<table style="padding-bottom: 12px;" class="asia">
+		<table class="asia">
 			<!--Title/Abstract/PDF-->
 			<tr>
 				<td colspan="3">
@@ -2591,13 +2587,13 @@
 			</tr>
 
 			<!--Spacing--->
-			<tr style="margin: 10px 10px 10px 10px !important; background-color: white">
+			<tr style="background-color: white">
 				<td colspan="100%"></td>
 			</tr>
 		</table>
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
-		<table style="padding-bottom: 12px;" class="asia">
+		<table class="asia">
 			<!--Title/Abstract/PDF-->
 			<tr>
 				<td colspan="3">
@@ -2679,13 +2675,13 @@
 			</tr>
 
 			<!--Spacing--->
-			<tr style="margin: 10px 10px 10px 10px !important; background-color: white">
+			<tr style="background-color: white">
 				<td colspan="100%"></td>
 			</tr>
 		</table>
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
-		<table style="padding-bottom: 12px;" class="europe">
+		<table class="europe">
 			<!--Title/Abstract/PDF-->
 			<tr>
 				<td colspan="3">
@@ -2758,13 +2754,13 @@
 			</tr>
 
 			<!--Spacing--->
-			<tr style="margin: 10px 10px 10px 10px !important; background-color: white">
+			<tr style="background-color: white">
 				<td colspan="100%"></td>
 			</tr>
 		</table>
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
-		<table style="padding-bottom: 12px;" class="europe">
+		<table class="europe">
 			<!--Title/Abstract/PDF-->
 			<tr>
 				<td colspan="3">
@@ -2854,13 +2850,13 @@
 			</tr>
 
 			<!--Spacing--->
-			<tr style="margin: 10px 10px 10px 10px !important; background-color: white">
+			<tr style="background-color: white">
 				<td colspan="100%"></td>
 			</tr>
 		</table>
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
-		<table style="padding-bottom: 12px;" class="europe">
+		<table class="europe">
 			<!--Title/Abstract/PDF-->
 			<tr>
 				<td colspan="3">
@@ -2939,13 +2935,13 @@
 			</tr>
 
 			<!--Spacing--->
-			<tr style="margin: 10px 10px 10px 10px !important; background-color: white">
+			<tr style="background-color: white">
 				<td colspan="100%"></td>
 			</tr>
 		</table>
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
-		<table style="padding-bottom: 12px;" class="america">
+		<table class="america">
 			<!--Title/Abstract/PDF-->
 			<tr>
 				<td colspan="3">
@@ -3024,13 +3020,13 @@
 			</tr>
 
 			<!--Spacing--->
-			<tr style="margin: 10px 10px 10px 10px !important; background-color: white">
+			<tr style="background-color: white">
 				<td colspan="100%"></td>
 			</tr>
 		</table>
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
-		<table style="padding-bottom: 12px;" class="europe">
+		<table class="europe">
 			<!--Title/Abstract/PDF-->
 			<tr>
 				<td colspan="3">
@@ -3116,13 +3112,13 @@
 			</tr>
 
 			<!--Spacing--->
-			<tr style="margin: 10px 10px 10px 10px !important; background-color: white">
+			<tr style="background-color: white">
 				<td colspan="100%"></td>
 			</tr>
 		</table>
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
-		<table style="padding-bottom: 12px;" class="america">
+		<table class="america">
 			<!--Title/Abstract/PDF-->
 			<tr>
 				<td colspan="3">
@@ -3198,13 +3194,13 @@
 			</tr>
 
 			<!--Spacing--->
-			<tr style="margin: 10px 10px 10px 10px !important; background-color: white">
+			<tr style="background-color: white">
 				<td colspan="100%"></td>
 			</tr>
 		</table>
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
-		<table style="padding-bottom: 12px;" class="europe">
+		<table class="europe">
 			<!--Title/Abstract/PDF-->
 			<tr>
 				<td colspan="3">
@@ -3284,13 +3280,13 @@
 			</tr>
 
 			<!--Spacing--->
-			<tr style="margin: 10px 10px 10px 10px !important; background-color: white">
+			<tr style="background-color: white">
 				<td colspan="100%"></td>
 			</tr>
 		</table>
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
-		<table style="padding-bottom: 12px;" class="europe">
+		<table class="europe">
 			<!--Title/Abstract/PDF-->
 			<tr>
 				<td colspan="3">
@@ -3367,13 +3363,13 @@
 			</tr>
 
 			<!--Spacing--->
-			<tr style="margin: 10px 10px 10px 10px !important; background-color: white">
+			<tr style="background-color: white">
 				<td colspan="100%"></td>
 			</tr>
 		</table>
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
-		<table style="padding-bottom: 12px;" class="america">
+		<table class="america">
 			<!--Title/Abstract/PDF-->
 			<tr>
 				<td colspan="3">
@@ -3460,13 +3456,13 @@
 			</tr>
 
 			<!--Spacing--->
-			<tr style="margin: 10px 10px 10px 10px !important; background-color: white">
+			<tr style="background-color: white">
 				<td colspan="100%"></td>
 			</tr>
 		</table>
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
-		<table style="padding-bottom: 12px;" class="europe">
+		<table class="europe">
 			<!--Title/Abstract/PDF-->
 			<tr>
 				<td colspan="3">
@@ -3539,13 +3535,13 @@
 			</tr>
 
 			<!--Spacing--->
-			<tr style="margin: 10px 10px 10px 10px !important; background-color: white">
+			<tr style="background-color: white">
 				<td colspan="100%"></td>
 			</tr>
 		</table>
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
-		<table style="padding-bottom: 12px;" class="america">
+		<table class="america">
 			<!--Title/Abstract/PDF-->
 			<tr>
 				<td colspan="3">
@@ -3627,13 +3623,13 @@
 			</tr>
 
 			<!--Spacing--->
-			<tr style="margin: 10px 10px 10px 10px !important; background-color: white">
+			<tr style="background-color: white">
 				<td colspan="100%"></td>
 			</tr>
 		</table>
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
-		<table style="padding-bottom: 12px;" class="asia">
+		<table class="asia">
 			<!--Title/Abstract/PDF-->
 			<tr>
 				<td colspan="3">
@@ -3721,13 +3717,13 @@
 			</tr>
 
 			<!--Spacing--->
-			<tr style="margin: 10px 10px 10px 10px !important; background-color: white">
+			<tr style="background-color: white">
 				<td colspan="100%"></td>
 			</tr>
 		</table>
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
-		<table style="padding-bottom: 12px;" class="europe">
+		<table class="europe">
 			<!--Title/Abstract/PDF-->
 			<tr>
 				<td colspan="3">
@@ -3806,13 +3802,13 @@
 			</tr>
 
 			<!--Spacing--->
-			<tr style="margin: 10px 10px 10px 10px !important; background-color: white">
+			<tr style="background-color: white">
 				<td colspan="100%"></td>
 			</tr>
 		</table>
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
-		<table style="padding-bottom: 12px;" class="europe">
+		<table class="europe">
 			<!--Title/Abstract/PDF-->
 			<tr>
 				<td colspan="3">
@@ -3887,13 +3883,13 @@
 			</tr>
 
 			<!--Spacing--->
-			<tr style="margin: 10px 10px 10px 10px !important; background-color: white">
+			<tr style="background-color: white">
 				<td colspan="100%"></td>
 			</tr>
 		</table>
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
-		<table style="padding-bottom: 12px;" class="asia">
+		<table class="asia">
 			<!--Title/Abstract/PDF-->
 			<tr class="asia">
 				<td colspan="3">
@@ -3984,13 +3980,13 @@
 			</tr>
 
 			<!--Spacing--->
-			<tr style="margin: 10px 10px 10px 10px !important; background-color: white">
+			<tr style="background-color: white">
 				<td colspan="100%"></td>
 			</tr>
 		</table>
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
-		<table style="padding-bottom: 12px;" class="america">
+		<table class="america">
 			<!--Title/Abstract/PDF-->
 			<tr class="america">
 				<td colspan="3">
@@ -4069,13 +4065,13 @@
 			</tr>
 
 			<!--Spacing--->
-			<tr style="margin: 10px 10px 10px 10px !important; background-color: white">
+			<tr style="background-color: white">
 				<td colspan="100%"></td>
 			</tr>
 		</table>
 
 		<!--Dual talk-------------------------------------------------------------------------------------------------->
-		<table style="padding-bottom: 12px;" class="europe">
+		<table class="europe">
 			<!--Title/Abstract/PDF-->
 			<tr class="europe">
 				<td colspan="3">
