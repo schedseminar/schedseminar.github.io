@@ -1,3 +1,9 @@
+Fix Readme.md that tr/td creates more spacing to talks that wanted to and other td cant be here
+
+Add Download All button
+
+Default.html fix errors
+
 Youtube lazy loading
 https://css-tricks.com/lazy-load-embedded-youtube-videos/
 
