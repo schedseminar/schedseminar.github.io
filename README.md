@@ -4172,6 +4172,7 @@
 			<!--Person-->
 			<td class="europe" style="margin: 0 10px 0 0;">
 				<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">
+					<!--Div due to placeholder for lazy loading-->
 					<div class="small_image_placeholder">
 						<img src="photos/Zdenek.jpg" loading="lazy" height="200px" width="150px" alt="person_photo"/>
 					</div>
@@ -4182,16 +4183,18 @@
 			<!--Person-->
 			<td class="america" style="margin: 0 10px 0 0;">
 				<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">
+					<!--Div due to placeholder for lazy loading-->
 					<div class="small_image_placeholder">
 						<img src="photos/mpinedo.jpg" loading="lazy" height="200px" width="150px" alt="person_photo"/>
 					</div>
 					Michael Pinedo<br/>
-					New York University </a>
+					New York University</a>
 			</td>
 
 			<!--Person-->
 			<td class="asia">
 				<a href="http://www.acem.sjtu.edu.cn/en/faculty/wanguohua.html">
+					<!--Div due to placeholder for lazy loading-->
 					<div class="small_image_placeholder">
 						<img src="photos/guohua_wan.jpg" loading="lazy" height="200px" width="150px"
 						     alt="person_photo"/>
@@ -4217,7 +4220,11 @@
 			<!--Alessandro Agnetis-->
 			<td>
 				<a href="https://www3.diism.unisi.it/~agnetis/">
-					<img src="photos/alessandro_agnetis.jpg" height="200" width="150" alt="person_photo"/><br/>
+					<!--Div due to placeholder for lazy loading-->
+					<div class="small_image_placeholder">
+						<img src="photos/alessandro_agnetis.jpg" loading="lazy" height="200" width="150"
+						     alt="person_photo"/>
+					</div>
 					Alessandro Agnetis<br/>
 					University of Siena</a>
 			</td>
@@ -4225,7 +4232,10 @@
 			<!--M. Selim Akturk-->
 			<td>
 				<a href="//akturk.bilkent.edu.tr">
-					<img src="photos/Akturk.jpg" height="200" width="150" alt="person_photo"/><br/>
+					<!--Div due to placeholder for lazy loading-->
+					<div class="small_image_placeholder">
+						<img src="photos/Akturk.jpg" loading="lazy" height="200" width="150" alt="person_photo"/>
+					</div>
 					M. Selim Akturk<br/>
 					Bilkent University</a>
 			</td>
@@ -4233,7 +4243,11 @@
 			<!--Christian Artigues-->
 			<td>
 				<a href="https://homepages.laas.fr/artigues/drupal/node/11">
-					<img src="photos/christian_artigues_new.jpg" height="200" width="150" alt="person_photo"/><br/>
+					<!--Div due to placeholder for lazy loading-->
+					<div class="small_image_placeholder">
+						<img src="photos/christian_artigues_new.jpg" loading="lazy" height="200" width="150"
+						     alt="person_photo"/>
+					</div>
 					Christian Artigues<br/>
 					LAAS - CNRS</a>
 			</td>
@@ -4241,7 +4255,11 @@
 			<!--Sanjoy Baruah-->
 			<td>
 				<a href="https://engineering.wustl.edu/faculty/Sanjoy-Baruah.html ">
-					<img src="photos/sanjoy_baruah.jpg" height="200" width="150" alt="person_photo"/><br/>
+					<!--Div due to placeholder for lazy loading-->
+					<div class="small_image_placeholder">
+						<img src="photos/sanjoy_baruah.jpg" loading="lazy" height="200" width="150"
+						     alt="person_photo"/>
+					</div>
 					Sanjoy Baruah<br/>
 					Washington U, STL</a>
 			</td>
@@ -4249,7 +4267,10 @@
 			<!--Edmund Burke-->
 			<td>
 				<a href="https://le.ac.uk/about/senior-management/profiles/deputy-vice-chancellor">
-					<img src="photos/Prof_Burke.jpg" height="200" width="150" alt="person_photo"/><br/>
+					<!--Div due to placeholder for lazy loading-->
+					<div class="small_image_placeholder">
+						<img src="photos/Prof_Burke.jpg" loading="lazy" height="200" width="150" alt="person_photo"/>
+					</div>
 					Edmund Burke<br/>
 					Uni of Leicester</a>
 			</td>
@@ -4257,7 +4278,10 @@
 			<!--Zhi-Long Chen-->
 			<td>
 				<a href="https://scholar.google.com/citations?hl=en&user=AWOfe_QAAAAJ&view_op=list_works&sortby=pubdate">
-					<img src="photos/ZL-Chen.JPG" height="200" width="150" alt="person_photo"/><br/>
+					<!--Div due to placeholder for lazy loading-->
+					<div class="small_image_placeholder">
+						<img src="photos/ZL-Chen.JPG" loading="lazy" height="200" width="150" alt="person_photo"/>
+					</div>
 					Zhi-Long Chen<br/>
 					Uni of Maryland</a>
 			</td>
@@ -4265,7 +4289,10 @@
 			<!--Liang Gao-->
 			<td>
 				<a href="https://scholar.google.com/citations?user=NqIi8_8AAAAJ&hl=en">
-					<img src="photos/liang_gao.jpg" height="200" width="150" alt="person_photo"/><br/>
+					<!--Div due to placeholder for lazy loading-->
+					<div class="small_image_placeholder">
+						<img src="photos/liang_gao.jpg" loading="lazy" height="200" width="150" alt="person_photo"/>
+					</div>
 					Liang Gao<br/>
 					HUST, Wuhan</a>
 			</td>
@@ -4273,7 +4300,11 @@
 			<!--Nicholas G. Hall-->
 			<td>
 				<a href="https://fisher.osu.edu/people/hall.33">
-					<img src="photos/nicholas_g_hall.jpg" height="200" width="150" alt="person_photo"/><br/>
+					<!--Div due to placeholder for lazy loading-->
+					<div class="small_image_placeholder">
+						<img src="photos/nicholas_g_hall.jpg" loading="lazy" height="200" width="150"
+						     alt="person_photo"/>
+					</div>
 					Nicholas G. Hall<br/>
 					The Ohio State Uni</a>
 			</td>
@@ -4281,7 +4312,10 @@
 			<!--Claire Hanen-->
 			<td>
 				<a href="https://ufr-segmi.parisnanterre.fr/organisation-et-contacts/espace-reserve-enseignants/site-des-enseignants/les-enseignants-de-segmi/hanen-claire/hanen-claire-93518.kjsp">
-					<img src="photos/claire_hanen.jpg" height="200" width="150" alt="person_photo"/><br/>
+					<!--Div due to placeholder for lazy loading-->
+					<div class="small_image_placeholder">
+						<img src="photos/claire_hanen.jpg" loading="lazy" height="200" width="150" alt="person_photo"/>
+					</div>
 					Claire Hanen<br/>
 					Sorbonne Uni</a>
 			</td>
@@ -4289,7 +4323,10 @@
 			<!--Sigrid Knust-->
 			<td>
 				<a href="https://www.informatik.uni-osnabrueck.de/knust/">
-					<img src="photos/sknust.jpg" height="200" width="150" alt="person_photo"/><br/>
+					<!--Div due to placeholder for lazy loading-->
+					<div class="small_image_placeholder">
+						<img src="photos/sknust.jpg" loading="lazy" height="200" width="150" alt="person_photo"/>
+					</div>
 					Sigrid Knust<br/>
 					Uni of Osnabrück</a>
 			</td>
@@ -4297,7 +4334,11 @@
 			<!--Rainer Kolisch-->
 			<td>
 				<a href="https://www.professors.wi.tum.de/om/team/prof-dr-rainer-kolisch/">
-					<img src="photos/Kolisch_Rainer.jpg" height="200" width="150" alt="person_photo"/><br/>
+					<!--Div due to placeholder for lazy loading-->
+					<div class="small_image_placeholder">
+						<img src="photos/Kolisch_Rainer.jpg" loading="lazy" height="200" width="150"
+						     alt="person_photo"/>
+					</div>
 					Rainer Kolisch<br/>
 					TU Munich</a>
 			</td>
@@ -4305,7 +4346,11 @@
 			<!--Mikhail Kovalyov-->
 			<td>
 				<a href="http://uiip.bas-net.by/eng/contacts.php">
-					<img src="photos/Mikhail_Kovalyov.jpg" height="200" width="150" alt="person_photo"/><br/>
+					<!--Div due to placeholder for lazy loading-->
+					<div class="small_image_placeholder">
+						<img src="photos/Mikhail_Kovalyov.jpg" loading="lazy" height="200" width="150"
+						     alt="person_photo"/>
+					</div>
 					Mikhail Kovalyov<br/>
 					UIIP NAS Belarus</a>
 			</td>
@@ -4313,7 +4358,10 @@
 			<!--KANGBOK LEE-->
 			<td>
 				<a href="https://sites.google.com/site/kangbokstudy/">
-					<img src="photos/kangbok_lee.jpg" height="200" width="150" alt="person_photo"/><br/>
+					<!--Div due to placeholder for lazy loading-->
+					<div class="small_image_placeholder">
+						<img src="photos/kangbok_lee.jpg" loading="lazy" height="200" width="150" alt="person_photo"/>
+					</div>
 					Kangbok Lee<br/>
 					POSTECH</a>
 			</td>
@@ -4321,7 +4369,10 @@
 			<!--Chung-Lun Li-->
 			<td>
 				<a href="https://lms.polyu.edu.hk/people/academic-staff/prof-chung-lun-li/">
-					<img src="photos/chung-lun_li.jpg" height="200" width="150" alt="person_photo"/><br/>
+					<!--Div due to placeholder for lazy loading-->
+					<div class="small_image_placeholder">
+						<img src="photos/chung-lun_li.jpg" loading="lazy" height="200" width="150" alt="person_photo"/>
+					</div>
 					Chung-Lun Li<br/>
 					Hong Kong PolyU</a>
 			</td>
@@ -4329,7 +4380,10 @@
 			<!--Bertrand Lin-->
 			<td>
 				<a href="https://www.iim.nctu.edu.tw/en/teacher/Lin-Bertrand%20M.T.">
-					<img src="photos/bertrand_lin.jpg" height="200" width="150" alt="person_photo"/><br/>
+					<!--Div due to placeholder for lazy loading-->
+					<div class="small_image_placeholder">
+						<img src="photos/bertrand_lin.jpg" loading="lazy" height="200" width="150" alt="person_photo"/>
+					</div>
 					Bertrand Lin<br/>
 					NCTU, Taiwan</a>
 			</td>
@@ -4346,7 +4400,11 @@
 			<!--Hirofumi Matsuo-->
 			<td>
 				<a href="https://scholar.google.com/citations?user=VQwcdN4AAAAJ&hl=en">
-					<img src="photos/hirofumi_matsuo.jpg" height="200" width="150" alt="person_photo"/><br/>
+					<!--Div due to placeholder for lazy loading-->
+					<div class="small_image_placeholder">
+						<img src="photos/hirofumi_matsuo.jpg" loading="lazy" height="200" width="150"
+						     alt="person_photo"/>
+					</div>
 					Hirofumi Matsuo<br/>
 					TIU, Tokyo</a>
 			</td>
@@ -4354,15 +4412,21 @@
 			<!--Erwin Pesch-->
 			<td>
 				<a href="https://www.wiwi.uni-siegen.de/mis/team/">
-					<img src="photos/SA-2018-Erwin.jpg" height="200" width="150" alt="person_photo"/><br/>
+					<!--Div due to placeholder for lazy loading-->
+					<div class="small_image_placeholder">
+						<img src="photos/SA-2018-Erwin.jpg" loading="lazy" height="200" width="150" alt="person_photo"/>
+					</div>
 					Erwin Pesch<br/>
 					Uni of Siegen</a>
 			</td>
 
 			<!--Marc E. Posner-->
 			<td>
-				<a href="">
-					<img src="photos/MPosner.jpg" height="200" width="150" alt="person_photo"/><br/>
+				<a href="https://ise.osu.edu/people/posner.1">
+					<!--Div due to placeholder for lazy loading-->
+					<div class="small_image_placeholder">
+						<img src="photos/MPosner.jpg" loading="lazy" height="200" width="150" alt="person_photo"/>
+					</div>
 					Marc Posner<br/>
 					The Ohio State Uni</a>
 			</td>
@@ -4370,7 +4434,10 @@
 			<!--Chris Potts-->
 			<td>
 				<a href="https://www.southampton.ac.uk/maths/about/staff/cnp1.page">
-					<img src="photos/chris_potts.JPG" height="200" width="150" alt="person_photo"/><br/>
+					<!--Div due to placeholder for lazy loading-->
+					<div class="small_image_placeholder">
+						<img src="photos/chris_potts.JPG" loading="lazy" height="200" width="150" alt="person_photo"/>
+					</div>
 					Chris Potts<br/>
 					Southampton Uni</a>
 			</td>
@@ -4378,7 +4445,10 @@
 			<!-- Xiangtong Qi-->
 			<td>
 				<a href="https://seng.ust.hk/about/people/faculty/xiangtong-qi">
-					<img src="photos/xiangtong_qi.jpg" height="200" width="150" alt="person_photo"/><br/>
+					<!--Div due to placeholder for lazy loading-->
+					<div class="small_image_placeholder">
+						<img src="photos/xiangtong_qi.jpg" loading="lazy" height="200" width="150" alt="person_photo"/>
+					</div>
 					Xiangtong Qi<br/>
 					HKUST</a>
 			</td>
@@ -4386,7 +4456,11 @@
 			<!--Rhonda Righter-->
 			<td>
 				<a href="https://rrighter.ieor.berkeley.edu/">
-					<img src="photos/rhonda-righter-2015_0.jpg" height="200" width="150" alt="person_photo"/><br/>
+					<!--Div due to placeholder for lazy loading-->
+					<div class="small_image_placeholder">
+						<img src="photos/rhonda-righter-2015_0.jpg" loading="lazy" height="200" width="150"
+						     alt="person_photo"/>
+					</div>
 					Rhonda Righter<br/>
 					UC Berkeley</a>
 			</td>
@@ -4394,7 +4468,10 @@
 			<!--Rubén Ruiz García-->
 			<td>
 				<a href="http://soa.iti.es/rruiz">
-					<img src="photos/Rubén_Ruiz_1.jpg" height="200" width="150" alt="person_photo"/><br/>
+					<!--Div due to placeholder for lazy loading-->
+					<div class="small_image_placeholder">
+						<img src="photos/Rubén_Ruiz_1.jpg" loading="lazy" height="200" width="150" alt="person_photo"/>
+					</div>
 					Rubén Ruiz<br/>
 					UP València</a>
 			</td>
@@ -4402,7 +4479,10 @@
 			<!--Andrea Schaerf-->
 			<td>
 				<a href="http://www.dpia.uniud.it/schaerf/">
-					<img src="photos/Andrea.jpg" height="200" width="150" alt="person_photo"/><br/>
+					<!--Div due to placeholder for lazy loading-->
+					<div class="small_image_placeholder">
+						<img src="photos/Andrea.jpg" loading="lazy" height="200" width="150" alt="person_photo"/>
+					</div>
 					Andrea Schaerf<br/>
 					Uni of Udine</a>
 			</td>
@@ -4410,7 +4490,10 @@
 			<!--Dvir Shabtay-->
 			<td>
 				<a href="https://in.bgu.ac.il/en/engn/iem/pages/staff/Dvir-Shabtay.aspx">
-					<img src="photos/dvir-web.jpg" height="200" width="150" alt="person_photo"/><br/>
+					<!--Div due to placeholder for lazy loading-->
+					<div class="small_image_placeholder">
+						<img src="photos/dvir-web.jpg" loading="lazy" height="200" width="150" alt="person_photo"/>
+					</div>
 					Dvir Shabtay<br/>
 					Ben Gurion Uni</a>
 			</td>
@@ -4418,7 +4501,11 @@
 			<!--Roman Słowiński-->
 			<td>
 				<a href="http://idss.cs.put.poznan.pl/site/rslowinski.html">
-					<img src="photos/R.Slowinski 4,5x6,5.jpg" height="200" width="150" alt="person_photo"/><br/>
+					<!--Div due to placeholder for lazy loading-->
+					<div class="small_image_placeholder">
+						<img src="photos/R.Slowinski 4,5x6,5.jpg" loading="lazy" height="200" width="150"
+						     alt="person_photo"/>
+					</div>
 					Roman Słowiński<br/>
 					Poznań Uni Tech.</a>
 			</td>
@@ -4426,7 +4513,10 @@
 			<!--Stephen F. Smith-->
 			<td>
 				<a href="https://www.ri.cmu.edu/ri-faculty/stephen-smith/">
-					<img src="photos/smith_steve.jpg" height="200" width="150" alt="person_photo"/><br/>
+					<!--Div due to placeholder for lazy loading-->
+					<div class="small_image_placeholder">
+						<img src="photos/smith_steve.jpg" loading="lazy" height="200" width="150" alt="person_photo"/>
+					</div>
 					Stephen Smith<br/>
 					CMU</a>
 			</td>
@@ -4434,7 +4524,11 @@
 			<!--Clifford Stein-->
 			<td>
 				<a href="https://www.ieor.columbia.edu/faculty/clifford-stein">
-					<img src="photos/Clifford_Stein_web.jpg" height="200" width="150" alt="person_photo"/><br/>
+					<!--Div due to placeholder for lazy loading-->
+					<div class="small_image_placeholder">
+						<img src="photos/Clifford_Stein_web.jpg" loading="lazy" height="200" width="150"
+						     alt="person_photo"/>
+					</div>
 					Clifford Stein<br/>
 					Columbia Uni</a>
 			</td>
@@ -4442,7 +4536,10 @@
 			<!--Přemysl Šůcha-->
 			<td>
 				<a href="http://people.ciirc.cvut.cz/~suchap/">
-					<img src="photos/Premysl_Sucha.jpg" height="200" width="150" alt="person_photo"/><br/>
+					<!--Div due to placeholder for lazy loading-->
+					<div class="small_image_placeholder">
+						<img src="photos/Premysl_Sucha.jpg" loading="lazy" height="200" width="150" alt="person_photo"/>
+					</div>
 					Přemysl Šůcha<br/>
 					CTU in Prague</a>
 			</td>
@@ -4450,7 +4547,10 @@
 			<!--Vincent T'kindt-->
 			<td>
 				<a href="https://www.univ-tours.fr/annuaire/m-vincent-tkindt">
-					<img src="photos/VTkindt-head.jpg" height="200" width="150" alt="person_photo"/><br/>
+					<!--Div due to placeholder for lazy loading-->
+					<div class="small_image_placeholder">
+						<img src="photos/VTkindt-head.jpg" loading="lazy" height="200" width="150" alt="person_photo"/>
+					</div>
 					Vincent T'kindt<br/>
 					Uni de Tours</a>
 			</td>
@@ -4458,7 +4558,10 @@
 			<!--Li-Xin Tang-->
 			<td>
 				<a href="http://dao.neu.edu.cn/">
-					<img src="photos/lixin_tang.jpg" height="200" width="150" alt="person_photo"/><br/>
+					<!--Div due to placeholder for lazy loading-->
+					<div class="small_image_placeholder">
+						<img src="photos/lixin_tang.jpg" loading="lazy" height="200" width="150" alt="person_photo"/>
+					</div>
 					Li-Xin Tang<br/>
 					NEU, Shenyang</a>
 			</td>
@@ -4466,7 +4569,11 @@
 			<!--Reza Tavakkoli-Moghaddam-->
 			<td>
 				<a href="https://scholar.google.com/citations?user=gqVUx4cAAAAJ&hl=en">
-					<img src="photos/reza_moghaddam.jpg" height="200" width="150" alt="person_photo"/><br/>
+					<!--Div due to placeholder for lazy loading-->
+					<div class="small_image_placeholder">
+						<img src="photos/reza_moghaddam.jpg" loading="lazy" height="200" width="150"
+						     alt="person_photo"/>
+					</div>
 					Reza Tavakkoli<br/>
 					Uni of Tehran</a>
 			</td>
@@ -4474,7 +4581,10 @@
 			<!--Marc Uetz-->
 			<td>
 				<a href="https://people.utwente.nl/m.uetz">
-					<img src="photos/mark_uetz.jpg" height="200" width="150" alt="person_photo"/><br/>
+					<!--Div due to placeholder for lazy loading-->
+					<div class="small_image_placeholder">
+						<img src="photos/mark_uetz.jpg" loading="lazy" height="200" width="150" alt="person_photo"/>
+					</div>
 					Marc Uetz<br/>
 					Uni of Twente</a>
 			</td>
@@ -4482,7 +4592,11 @@
 			<!--Greet Vanden Berghe-->
 			<td>
 				<a href="https://www.kuleuven.be/wieiswie/nl/person/00053376">
-					<img src="photos/greet_vanden_berghe.jpg" height="200" width="150" alt="person_photo"/><br/>
+					<!--Div due to placeholder for lazy loading-->
+					<div class="small_image_placeholder">
+						<img src="photos/greet_vanden_berghe.jpg" loading="lazy" height="200" width="150"
+						     alt="person_photo"/>
+					</div>
 					G. Vanden Berghe<br/>
 					KU Leuven</a>
 			</td>
@@ -4490,7 +4604,11 @@
 			<!--Mario Vanhoucke-->
 			<td>
 				<a href="https://www.or-as.be">
-					<img src="photos/Mario_Vanhoucke_Pasfoto.jpg" height="200" width="150" alt="person_photo"/><br/>
+					<!--Div due to placeholder for lazy loading-->
+					<div class="small_image_placeholder">
+						<img src="photos/Mario_Vanhoucke_Pasfoto.jpg" loading="lazy" height="200" width="150"
+						     alt="person_photo"/>
+					</div>
 					Mario Vanhoucke<br/>
 					Ghent University</a>
 			</td>
@@ -4498,7 +4616,10 @@
 			<!--Yakov Zinder-->
 			<td>
 				<a href="https://profiles.uts.edu.au/Yakov.Zinder">
-					<img src="photos/Yakov-Zinder.jpg" height="200" width="150" alt="person_photo"/><br/>
+					<!--Div due to placeholder for lazy loading-->
+					<div class="small_image_placeholder">
+						<img src="photos/Yakov-Zinder.jpg" loading="lazy" height="200" width="150" alt="person_photo"/>
+					</div>
 					Yakov Zinder<br/>
 					UT Sydney</a>
 			</td>
