@@ -363,7 +363,7 @@
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
 		<tr>
-			<td>
+			<td style="padding: 0">
 				<table class="europe">
 					<!--Title/Abstract/PDF-->
 					<tr>
@@ -440,7 +440,7 @@
 									Equilibrium inefficiency <br/><br/>
 									<b>[Invited by]</b>
 									<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a>
-									(New York University)
+									(New York Uni)
 								</td>
 							</table>
 						</td>
@@ -456,7 +456,7 @@
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
 		<tr>
-			<td>
+			<td style="padding: 0">
 				<table class="america">
 					<!--Title/Abstract/PDF-->
 					<tr>
@@ -537,7 +537,7 @@
 									Optimization <br/><br/>
 									<b>[Invited by]</b>
 									<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a>
-									(New York University)
+									(New York Uni)
 								</td>
 							</table>
 						</td>
@@ -553,7 +553,7 @@
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
 		<tr>
-			<td>
+			<td style="padding: 0">
 				<table class="europe">
 					<!--Title/Abstract/PDF-->
 					<tr>
@@ -649,7 +649,7 @@
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
 		<tr>
-			<td>
+			<td style="padding: 0">
 				<table class="europe">
 					<!--Title/Abstract/PDF-->
 					<tr>
@@ -747,7 +747,7 @@
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
 		<tr>
-			<td>
+			<td style="padding: 0">
 				<table class="europe">
 					<!--Title/Abstract/PDF-->
 					<tr>
@@ -845,7 +845,7 @@
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
 		<tr>
-			<td>
+			<td style="padding: 0">
 				<table class="europe">
 					<!--Title/Abstract/PDF-->
 					<tr>
@@ -933,7 +933,7 @@
 								<td colspan="2">
 									<b>Keywords:</b> Scheduling, Quantum Annealing, Single machine, Exact algorithm
 									<br/><br/>
-									<b>[Invited by]</b><br/>
+									<b>[Invited by]</b>
 									<a href="http://people.ciirc.cvut.cz/~suchap/">Přemysl Šůcha</a>
 									(CTU in Prague)
 								</td>
@@ -951,7 +951,7 @@
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
 		<tr>
-			<td>
+			<td style="padding: 0">
 				<table class="asia">
 					<tr>
 						<td colspan="3">
@@ -1026,9 +1026,9 @@
 							<table class="panelists_past_container_single">
 								<td colspan="2">
 									<b>Keywords:</b> Scheduling, Cooperative game, Core <br/><br/>
-									<b>[Invited by]</b><br/>
+									<b>[Invited by]</b>
 									<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a>
-									(New York University)
+									(New York Uni)
 								</td>
 							</table>
 						</td>
@@ -1044,7 +1044,7 @@
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
 		<tr>
-			<td>
+			<td style="padding: 0">
 				<table class="asia">
 					<!--Title/Abstract/PDF-->
 					<tr>
@@ -1123,9 +1123,9 @@
 								<td colspan="2">
 									<b>Keywords:</b> Scheduling, Manufacturing Systems, Machine Learning, Real
 									Applications<br/><br/>
-									<b>[Invited by]</b><br/>
+									<b>[Invited by]</b>
 									<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a>
-									(New York University)
+									(New York Uni)
 								</td>
 							</table>
 						</td>
@@ -1141,7 +1141,7 @@
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
 		<tr>
-			<td>
+			<td style="padding: 0">
 				<table class="europe">
 					<!--Title/Abstract/PDF-->
 					<tr>
@@ -1230,7 +1230,7 @@
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
 		<tr>
-			<td>
+			<td style="padding: 0">
 				<table class="europe">
 					<!--Title/Abstract/PDF-->
 					<tr>
@@ -1336,7 +1336,7 @@
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
 		<tr>
-			<td>
+			<td style="padding: 0">
 				<table class="europe">
 					<!--Title/Abstract/PDF-->
 					<tr>
@@ -1421,7 +1421,7 @@
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
 		<tr>
-			<td>
+			<td style="padding: 0">
 				<table class="europe">
 					<!--Title/Abstract/PDF-->
 					<tr>
@@ -1514,7 +1514,7 @@
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
 		<tr>
-			<td>
+			<td style="padding: 0">
 				<table class="europe">
 					<!--Title/Abstract/PDF-->
 					<tr>
@@ -1647,7 +1647,7 @@
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
 		<tr>
-			<td>
+			<td style="padding: 0">
 				<table class="america">
 					<!--Title/Abstract/PDF-->
 					<tr>
@@ -1726,7 +1726,7 @@
 									<b>Keywords:</b> Scheduling, Machine learning, Predictions, On-line algorithms <br/><br/>
 									<b>[Invited by]</b>
 									<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a>
-									(New York University)
+									(New York Uni)
 								</td>
 							</table>
 						</td>
@@ -1742,7 +1742,7 @@
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
 		<tr>
-			<td>
+			<td style="padding: 0">
 				<table class="europe">
 					<!--Title/Abstract/PDF-->
 					<tr>
@@ -1849,7 +1849,7 @@
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
 		<tr>
-			<td>
+			<td style="padding: 0">
 				<table class="europe">
 					<!--Title/Abstract/PDF-->
 					<tr>
@@ -1948,7 +1948,7 @@
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
 		<tr>
-			<td>
+			<td style="padding: 0">
 				<table class="america">
 					<!--Title/Abstract/PDF-->
 					<tr>
@@ -2028,7 +2028,7 @@
 									scheduling <br/><br/>
 									<b>[Invited by]</b>
 									<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a>
-									(New York University)
+									(New York Uni)
 								</td>
 							</table>
 						</td>
@@ -2044,7 +2044,7 @@
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
 		<tr>
-			<td>
+			<td style="padding: 0">
 				<table class="america">
 					<!--Title/Abstract/PDF-->
 					<tr>
@@ -2133,7 +2133,7 @@
 									<b>Keywords:</b> Scheduling, Polyhedra, Formulations <br/><br/>
 									<b>[Invited by]</b>
 									<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a>
-									(New York University)
+									(New York Uni)
 								</td>
 							</table>
 						</td>
@@ -2149,7 +2149,7 @@
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
 		<tr>
-			<td>
+			<td style="padding: 0">
 				<table class="europe">
 					<!--Title/Abstract/PDF-->
 					<tr>
@@ -2226,7 +2226,7 @@
 									Learning-augmented algorithms, Non-clairvoyant scheduling, Online TSP <br/><br/>
 									<b>[Invited by]</b>
 									<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a>
-									(New York University)
+									(New York Uni)
 								</td>
 							</table>
 						</td>
@@ -2242,7 +2242,7 @@
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
 		<tr>
-			<td>
+			<td style="padding: 0">
 				<table class="europe">
 					<!--Title/Abstract/PDF-->
 					<tr>
@@ -2337,7 +2337,7 @@
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
 		<tr>
-			<td>
+			<td style="padding: 0">
 				<table class="europe">
 					<!--Title/Abstract/PDF-->
 					<tr>
@@ -2438,7 +2438,7 @@
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
 		<tr>
-			<td>
+			<td style="padding: 0">
 				<table class="europe">
 					<!--Title/Abstract/PDF-->
 					<tr>
@@ -2535,7 +2535,7 @@
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
 		<tr>
-			<td>
+			<td style="padding: 0">
 				<table class="america">
 					<!--Title/Abstract/PDF-->
 					<tr>
@@ -2619,7 +2619,7 @@
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
 		<tr>
-			<td>
+			<td style="padding: 0">
 				<table class="europe">
 					<!--Title/Abstract/PDF-->
 					<tr>
@@ -2720,7 +2720,7 @@
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
 		<tr>
-			<td>
+			<td style="padding: 0">
 				<table class="europe">
 					<!--Title/Abstract/PDF-->
 					<tr>
@@ -2816,7 +2816,7 @@
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
 		<tr>
-			<td>
+			<td style="padding: 0">
 				<table class="america">
 					<!--Title/Abstract/PDF-->
 					<tr>
@@ -2892,7 +2892,7 @@
 									<b>Keywords:</b> Semiconductor Manufacturing, Scheduling <br/><br/>
 									<b>[Invited by]</b>
 									<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a>
-									(New York University)
+									(New York Uni)
 								</td>
 							</table>
 						</td>
@@ -2908,7 +2908,7 @@
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
 		<tr>
-			<td>
+			<td style="padding: 0">
 				<table class="asia">
 					<!--Title/Abstract/PDF-->
 					<tr>
@@ -2983,7 +2983,7 @@
 									programming, Matheuristic <br/><br/>
 									<b>[Invited by]</b>
 									<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a>
-									(New York University)
+									(New York Uni)
 								</td>
 							</table>
 						</td>
@@ -2999,7 +2999,7 @@
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
 		<tr>
-			<td>
+			<td style="padding: 0">
 				<table class="asia">
 					<!--Title/Abstract/PDF-->
 					<tr>
@@ -3109,7 +3109,7 @@
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
 		<tr>
-			<td>
+			<td style="padding: 0">
 				<table class="europe">
 					<!--Title/Abstract/PDF-->
 					<tr>
@@ -3183,7 +3183,7 @@
 									design, Optimization <br/><br/>
 									<b>[Invited by]</b>
 									<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a>
-									(New York University)
+									(New York Uni)
 								</td>
 							</table>
 						</td>
@@ -3199,7 +3199,7 @@
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
 		<tr>
-			<td>
+			<td style="padding: 0">
 				<table class="europe">
 					<!--Title/Abstract/PDF-->
 					<tr>
@@ -3318,7 +3318,7 @@
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
 		<tr>
-			<td>
+			<td style="padding: 0">
 				<table class="europe">
 					<!--Title/Abstract/PDF-->
 					<tr>
@@ -3409,7 +3409,7 @@
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
 		<tr>
-			<td>
+			<td style="padding: 0">
 				<table class="america">
 					<!--Title/Abstract/PDF-->
 					<tr>
@@ -3509,7 +3509,7 @@
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
 		<tr>
-			<td>
+			<td style="padding: 0">
 				<table class="europe">
 					<!--Title/Abstract/PDF-->
 					<tr>
@@ -3620,7 +3620,7 @@
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
 		<tr>
-			<td>
+			<td style="padding: 0">
 				<table class="america">
 					<!--Title/Abstract/PDF-->
 					<tr>
@@ -3707,7 +3707,7 @@
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
 		<tr>
-			<td>
+			<td style="padding: 0">
 				<table class="europe">
 					<!--Title/Abstract/PDF-->
 					<tr>
@@ -3809,7 +3809,7 @@
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
 		<tr>
-			<td>
+			<td style="padding: 0">
 				<table class="europe">
 					<!--Title/Abstract/PDF-->
 					<tr>
@@ -3907,7 +3907,7 @@
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
 		<tr>
-			<td>
+			<td style="padding: 0">
 				<table class="america">
 					<!--Title/Abstract/PDF-->
 					<tr>
@@ -4023,7 +4023,7 @@
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
 		<tr>
-			<td>
+			<td style="padding: 0">
 				<table class="europe">
 					<!--Title/Abstract/PDF-->
 					<tr>
@@ -4107,7 +4107,7 @@
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
 		<tr>
-			<td>
+			<td style="padding: 0">
 				<table class="america">
 					<!--Title/Abstract/PDF-->
 					<tr>
@@ -4194,7 +4194,7 @@
 									<br/><br/>
 									<b>[Invited by]</b>
 									<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a>
-									(New York University)
+									(New York Uni)
 								</td>
 							</table>
 						</td>
@@ -4210,7 +4210,7 @@
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
 		<tr>
-			<td>
+			<td style="padding: 0">
 				<table class="asia">
 					<!--Title/Abstract/PDF-->
 					<tr>
@@ -4322,7 +4322,7 @@
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
 		<tr>
-			<td>
+			<td style="padding: 0">
 				<table class="europe">
 					<!--Title/Abstract/PDF-->
 					<tr>
@@ -4424,7 +4424,7 @@
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
 		<tr>
-			<td>
+			<td style="padding: 0">
 				<table class="europe">
 					<!--Title/Abstract/PDF-->
 					<tr>
@@ -4518,7 +4518,7 @@
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
 		<tr>
-			<td>
+			<td style="padding: 0">
 				<table class="asia">
 					<!--Title/Abstract/PDF-->
 					<tr class="asia">
@@ -4637,7 +4637,7 @@
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
 		<tr>
-			<td>
+			<td style="padding: 0">
 				<table class="america">
 					<!--Title/Abstract/PDF-->
 					<tr class="america">
@@ -4721,7 +4721,7 @@
 									<br/><br/>
 									<b>[Invited by]</b>
 									<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a>
-									(New York University)
+									(New York Uni)
 								</td>
 							</table>
 						</td>
@@ -4737,7 +4737,7 @@
 
 		<!--Dual talk-------------------------------------------------------------------------------------------------->
 		<tr>
-			<td>
+			<td style="padding: 0">
 				<table class="europe">
 					<!--Title/Abstract/PDF-->
 					<tr class="europe">
@@ -4863,7 +4863,7 @@
 						<img src="photos/mpinedo.jpg" loading="lazy" height="200px" width="150px" alt="person_photo"/>
 					</div>
 					Michael Pinedo<br/>
-					New York University</a>
+					New York Uni</a>
 			</td>
 
 			<!--Person-->
