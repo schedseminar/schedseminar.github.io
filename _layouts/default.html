@@ -100,14 +100,14 @@
                 float: left;
                 text-align: left;
                 margin-top: 30px;
-                margin-right: 0px;
+                margin-right: 0;
             }
 
             div.inline-right {
                 float: right;
                 text-align: right;
                 margin-top: 5px;
-                margin-right: 0px;
+                margin-right: 0;
             }
 
             .clearBoth {
@@ -200,7 +200,7 @@
             background: #ffffff;
             opacity: 0.4;
             filter: alpha(opacity=40); /* For IE8 and earlier */
-            box-shadow: 0 0 0px #000000 !important;
+            box-shadow: 0 0 0 #000000 !important;
         }
 
         .ignore_hover {
@@ -458,9 +458,9 @@
         .resizable_calendar {
             width: 95%; /* width of iframe wrapper */
             height: 100%;
-            padding: 0 0 0%; /* 16:9 ratio */
+            padding: 0 0 0; /* 16:9 ratio */
             margin-top: 20px !important;
-            margin-left: 0px !important;
+            margin-left: 0 !important;
             overflow: auto;
         }
 
@@ -473,7 +473,7 @@
         .resizable_feedback {
             width: 100%; /* width of iframe wrapper */
             height: 100%;
-            padding: 0 0 0%; /* 16:9 ratio */
+            padding: 0 0 0; /* 16:9 ratio */
             margin-top: 10px !important;
             margin-left: -20px !important;
             overflow: auto;
@@ -501,17 +501,17 @@
 	<!--JS script for showing/hiding tags-->
 	<script>
         // document.write('TEST!');
-        var hidden = false;
+        let hidden = false;
 
         function hide_not_tagged(key) {
             hidden = !hidden;
             if (hidden) {
-                collection = document.getElementsByClassName(key);
+                let collection = document.getElementsByClassName(key);
                 for (let i = 0; i < collection.length; i++) {
                     collection[i].style.display = "none";
                 }
             } else {
-                collection = document.getElementsByClassName(key);
+                let collection = document.getElementsByClassName(key);
                 for (let i = 0; i < collection.length; i++) {
                     collection[i].style.display = "block";
                 }
