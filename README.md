@@ -128,216 +128,216 @@
 				</i>
 			</td>
 		</tr>
-<!--		&lt;!&ndash;Single talk&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&ndash;&gt;-->
-<!--		<tr>-->
-<!--			<td>-->
-<!--				<table class="europe">-->
-<!--					&lt;!&ndash;Title/Abstract/PDF&ndash;&gt;-->
-<!--					<tr>-->
-<!--						<td colspan="3">-->
-<!--							<h2 class="talk_title"><b>Single-machine scheduling with an external resource</b><br/>-->
-<!--							</h2>-->
-<!--							<input type="checkbox" id="abstract_id_46" style="display:none;">-->
-<!--							<label for="abstract_id_46" class="label_abstract"><a>Abstract</a></label>-->
-<!--							<div class="hidden">-->
-<!--								<hr style="border-top: 1px solid black;">-->
-<!--								We study a single-machine scheduling problem with an external-->
-<!--								resource, which is rented for a non-interrupted period. Jobs that need-->
-<!--								this external resource are executed only when the external resource is-->
-<!--								available. There is a cost associated with the scheduling of jobs and a-->
-<!--								cost associated with the duration of the renting period of the external-->
-<!--								resource. We look at four classes of problems with an external resource:-->
-<!--								a class of problems where the renting period is budgeted and the-->
-<!--								scheduling cost needs to be minimized, a class of problems where the-->
-<!--								scheduling cost is budgeted and the renting period needs to be-->
-<!--								minimized, a class of two-objective problems where both, the renting-->
-<!--								period and the scheduling cost, are to be minimized, and a class of-->
-<!--								problems where a linear combination of the scheduling cost and the-->
-<!--								renting period is minimized. We provide a thorough complexity analysis-->
-<!--								(NP-hardness proofs and (pseudo-)polynomial algorithms) for different-->
-<!--								members of these four classes.-->
-<!--								<hr style="border-top: 1px solid black;">-->
-<!--							</div>-->
-<!--							&lt;!&ndash;TODO pdf and video&ndash;&gt;-->
-<!--							&lt;!&ndash;					<a href="./presentations/SchedulingSeminar_LarsRohwedder.pdf" class="label_abstract" download>&ndash;&gt;-->
-<!--							&lt;!&ndash;						Download PDF&ndash;&gt;-->
-<!--							&lt;!&ndash;					</a>&ndash;&gt;-->
-<!--							&lt;!&ndash;					<a href="LINK"&ndash;&gt;-->
-<!--							&lt;!&ndash;					   class="label_abstract" download>&ndash;&gt;-->
-<!--							&lt;!&ndash;						Download Video&ndash;&gt;-->
-<!--							&lt;!&ndash;					</a>&ndash;&gt;-->
-<!--						</td>-->
-<!--					</tr>-->
+		<!--		&lt;!&ndash;Single talk&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&ndash;&gt;-->
+		<!--		<tr>-->
+		<!--			<td>-->
+		<!--				<table class="europe">-->
+		<!--					&lt;!&ndash;Title/Abstract/PDF&ndash;&gt;-->
+		<!--					<tr>-->
+		<!--						<td colspan="3">-->
+		<!--							<h2 class="talk_title"><b>Single-machine scheduling with an external resource</b><br/>-->
+		<!--							</h2>-->
+		<!--							<input type="checkbox" id="abstract_id_46" style="display:none;">-->
+		<!--							<label for="abstract_id_46" class="label_abstract"><a>Abstract</a></label>-->
+		<!--							<div class="hidden">-->
+		<!--								<hr style="border-top: 1px solid black;">-->
+		<!--								We study a single-machine scheduling problem with an external-->
+		<!--								resource, which is rented for a non-interrupted period. Jobs that need-->
+		<!--								this external resource are executed only when the external resource is-->
+		<!--								available. There is a cost associated with the scheduling of jobs and a-->
+		<!--								cost associated with the duration of the renting period of the external-->
+		<!--								resource. We look at four classes of problems with an external resource:-->
+		<!--								a class of problems where the renting period is budgeted and the-->
+		<!--								scheduling cost needs to be minimized, a class of problems where the-->
+		<!--								scheduling cost is budgeted and the renting period needs to be-->
+		<!--								minimized, a class of two-objective problems where both, the renting-->
+		<!--								period and the scheduling cost, are to be minimized, and a class of-->
+		<!--								problems where a linear combination of the scheduling cost and the-->
+		<!--								renting period is minimized. We provide a thorough complexity analysis-->
+		<!--								(NP-hardness proofs and (pseudo-)polynomial algorithms) for different-->
+		<!--								members of these four classes.-->
+		<!--								<hr style="border-top: 1px solid black;">-->
+		<!--							</div>-->
+		<!--							&lt;!&ndash;TODO pdf and video&ndash;&gt;-->
+		<!--							&lt;!&ndash;					<a href="./presentations/SchedulingSeminar_LarsRohwedder.pdf" class="label_abstract" download>&ndash;&gt;-->
+		<!--							&lt;!&ndash;						Download PDF&ndash;&gt;-->
+		<!--							&lt;!&ndash;					</a>&ndash;&gt;-->
+		<!--							&lt;!&ndash;					<a href="LINK"&ndash;&gt;-->
+		<!--							&lt;!&ndash;					   class="label_abstract" download>&ndash;&gt;-->
+		<!--							&lt;!&ndash;						Download Video&ndash;&gt;-->
+		<!--							&lt;!&ndash;					</a>&ndash;&gt;-->
+		<!--						</td>-->
+		<!--					</tr>-->
 
-<!--					&lt;!&ndash;Data-&ndash;&gt;-->
-<!--					<tr>-->
-<!--						<td class="presenter_image_container">-->
-<!--							<div class="single_image_container">-->
-<!--								<a href="http://www.briskorn.info/">-->
-<!--									<img class="single_presenter" loading="lazy" src="photos/Dirk_Briskorn.jpg"-->
-<!--									     alt="person_photo"/>-->
-<!--								</a><br/>-->
-<!--							</div>-->
-<!--						</td>-->
-<!--						<td class="information_upcoming_container">-->
-<!--							<b>[Presenter]</b><br/>-->
-<!--							<a href="http://www.briskorn.info/">Dirk Briskorn</a><br/>-->
-<!--							(Uni of Wuppertal)<br/><br/>-->
-<!--							&lt;!&ndash;TODO keywords&ndash;&gt;-->
-<!--							&lt;!&ndash;<b>Keywords:</b> Scheduling, Single-machine scheduling, External resource, Complexity, Pseudo-polynomial algorithm &ndash;&gt;-->
-<!--							<b>[Invited by]</b><br/>-->
-<!--							<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a><br/>-->
-<!--							(CTU in Prague)-->
-<!--						</td>-->
-<!--						<td class="time_zones_container">-->
-<!--							<table class="time_table">-->
-<!--								<tbody>-->
-<!--								<tr class="utc">-->
-<!--									<td>UTC</td>-->
-<!--									<td>Oct 18, 13:00 Wed</td>-->
-<!--								</tr>-->
-<!--								<tr class="europe">-->
-<!--									<td>Prague</td>-->
-<!--									<td>Oct 18, 15:00 Wed</td>-->
-<!--								</tr>-->
-<!--								<tr class="america">-->
-<!--									<td>New York</td>-->
-<!--									<td>Oct 18, 09:00 Wed</td>-->
-<!--								</tr>-->
-<!--								<tr class="asia">-->
-<!--									<td>Shanghai</td>-->
-<!--									<td>Oct 18, 21:00 Wed</td>-->
-<!--								</tr>-->
-<!--								</tbody>-->
-<!--							</table>-->
-<!--						</td>-->
-<!--					</tr>-->
+		<!--					&lt;!&ndash;Data-&ndash;&gt;-->
+		<!--					<tr>-->
+		<!--						<td class="presenter_image_container">-->
+		<!--							<div class="single_image_container">-->
+		<!--								<a href="http://www.briskorn.info/">-->
+		<!--									<img class="single_presenter" loading="lazy" src="photos/Dirk_Briskorn.jpg"-->
+		<!--									     alt="person_photo"/>-->
+		<!--								</a><br/>-->
+		<!--							</div>-->
+		<!--						</td>-->
+		<!--						<td class="information_upcoming_container">-->
+		<!--							<b>[Presenter]</b><br/>-->
+		<!--							<a href="http://www.briskorn.info/">Dirk Briskorn</a><br/>-->
+		<!--							(Uni of Wuppertal)<br/><br/>-->
+		<!--							&lt;!&ndash;TODO keywords&ndash;&gt;-->
+		<!--							&lt;!&ndash;<b>Keywords:</b> Scheduling, Single-machine scheduling, External resource, Complexity, Pseudo-polynomial algorithm &ndash;&gt;-->
+		<!--							<b>[Invited by]</b><br/>-->
+		<!--							<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a><br/>-->
+		<!--							(CTU in Prague)-->
+		<!--						</td>-->
+		<!--						<td class="time_zones_container">-->
+		<!--							<table class="time_table">-->
+		<!--								<tbody>-->
+		<!--								<tr class="utc">-->
+		<!--									<td>UTC</td>-->
+		<!--									<td>Oct 18, 13:00 Wed</td>-->
+		<!--								</tr>-->
+		<!--								<tr class="europe">-->
+		<!--									<td>Prague</td>-->
+		<!--									<td>Oct 18, 15:00 Wed</td>-->
+		<!--								</tr>-->
+		<!--								<tr class="america">-->
+		<!--									<td>New York</td>-->
+		<!--									<td>Oct 18, 09:00 Wed</td>-->
+		<!--								</tr>-->
+		<!--								<tr class="asia">-->
+		<!--									<td>Shanghai</td>-->
+		<!--									<td>Oct 18, 21:00 Wed</td>-->
+		<!--								</tr>-->
+		<!--								</tbody>-->
+		<!--							</table>-->
+		<!--						</td>-->
+		<!--					</tr>-->
 
-<!--					&lt;!&ndash;Spacing-&ndash;&gt;-->
-<!--					<tr style="background-color: white">-->
-<!--						<td colspan="100%"></td>-->
-<!--					</tr>-->
-<!--				</table>-->
-<!--			</td>-->
-<!--		</tr>-->
+		<!--					&lt;!&ndash;Spacing-&ndash;&gt;-->
+		<!--					<tr style="background-color: white">-->
+		<!--						<td colspan="100%"></td>-->
+		<!--					</tr>-->
+		<!--				</table>-->
+		<!--			</td>-->
+		<!--		</tr>-->
 
-<!--		&lt;!&ndash;Single talk&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&ndash;&gt;-->
-<!--		<tr>-->
-<!--			<td>-->
-<!--				<table class="europe">-->
-<!--					&lt;!&ndash;Title/Abstract/PDF&ndash;&gt;-->
-<!--					<tr>-->
-<!--						<td colspan="3">-->
-<!--							<h2 class="talk_title"><b>Enhancing project resilience: a risk-averse approach to payment-->
-<!--								delays</b><br/>-->
-<!--							</h2>-->
-<!--							<input type="checkbox" id="abstract_id_49" style="display:none;">-->
-<!--							<label for="abstract_id_49" class="label_abstract"><a>Abstract</a></label>-->
-<!--							<div class="hidden">-->
-<!--								<hr style="border-top: 1px solid black;">-->
-<!--								The onset of the pandemic and the conflict in Europe have disrupted our society, supply-->
-<!--								chains,-->
-<!--								and-->
-<!--								economies. The effects of these global shocks are evident in every type of project - -->
-<!--								whether-->
-<!--								related to-->
-<!--								the energy transition, the renewal of transport infrastructure, or the construction-->
-<!--								industry- -->
-<!--								impacted-->
-<!--								by the highest rates of inflation in more than 30 years and by a significant cash flow-->
-<!--								crisis.-->
-<!--								In this-->
-<!--								complex landscape, delays in payments have become a common risk factor for projects,-->
-<!--								since they-->
-<!--								create a-->
-<!--								time lag between the expenses incurred by the contractor and the progress payments-->
-<!--								received from-->
-<!--								the-->
-<!--								client. The challenges associated with obtaining continuous project finances often place-->
-<!--								undue-->
-<!--								financial-->
-<!--								strain on contractors that may seek loans from financial institutions to maintain their-->
-<!--								daily-->
-<!--								operations. These loans must be returned with interest, increasing financing costs, and-->
-<!--								considerably-->
-<!--								lowering the Net Present Value. In this talk, we delve into cash flow and project-->
-<!--								scheduling-->
-<!--								strategies-->
-<!--								to mitigate late payment impacts and enhancing project resilience, presenting a-->
-<!--								distributionally-->
-<!--								robust-->
-<!--								risk-averse model that minimizes the financing cost by accurately estimating the amount-->
-<!--								and-->
-<!--								timing of-->
-<!--								the expenses and revenues throughout the project life cycle and foreseeing possible cost-->
-<!--								overruns and-->
-<!--								cash flow fluctuations.-->
-<!--								Joint work with Oncu Hazir-->
-<!--								<hr style="border-top: 1px solid black;">-->
-<!--							</div>-->
-<!--							&lt;!&ndash;TODO pdf and video&ndash;&gt;-->
-<!--							&lt;!&ndash;					<a href="./presentations/SchedulingSeminar_LarsRohwedder.pdf" class="label_abstract" download>&ndash;&gt;-->
-<!--							&lt;!&ndash;						Download PDF&ndash;&gt;-->
-<!--							&lt;!&ndash;					</a>&ndash;&gt;-->
-<!--							&lt;!&ndash;					<a href="LINK"&ndash;&gt;-->
-<!--							&lt;!&ndash;					   class="label_abstract" download>&ndash;&gt;-->
-<!--							&lt;!&ndash;						Download Video&ndash;&gt;-->
-<!--							&lt;!&ndash;					</a>&ndash;&gt;-->
-<!--						</td>-->
-<!--					</tr>-->
+		<!--		&lt;!&ndash;Single talk&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&ndash;&gt;-->
+		<!--		<tr>-->
+		<!--			<td>-->
+		<!--				<table class="europe">-->
+		<!--					&lt;!&ndash;Title/Abstract/PDF&ndash;&gt;-->
+		<!--					<tr>-->
+		<!--						<td colspan="3">-->
+		<!--							<h2 class="talk_title"><b>Enhancing project resilience: a risk-averse approach to payment-->
+		<!--								delays</b><br/>-->
+		<!--							</h2>-->
+		<!--							<input type="checkbox" id="abstract_id_49" style="display:none;">-->
+		<!--							<label for="abstract_id_49" class="label_abstract"><a>Abstract</a></label>-->
+		<!--							<div class="hidden">-->
+		<!--								<hr style="border-top: 1px solid black;">-->
+		<!--								The onset of the pandemic and the conflict in Europe have disrupted our society, supply-->
+		<!--								chains,-->
+		<!--								and-->
+		<!--								economies. The effects of these global shocks are evident in every type of project - -->
+		<!--								whether-->
+		<!--								related to-->
+		<!--								the energy transition, the renewal of transport infrastructure, or the construction-->
+		<!--								industry- -->
+		<!--								impacted-->
+		<!--								by the highest rates of inflation in more than 30 years and by a significant cash flow-->
+		<!--								crisis.-->
+		<!--								In this-->
+		<!--								complex landscape, delays in payments have become a common risk factor for projects,-->
+		<!--								since they-->
+		<!--								create a-->
+		<!--								time lag between the expenses incurred by the contractor and the progress payments-->
+		<!--								received from-->
+		<!--								the-->
+		<!--								client. The challenges associated with obtaining continuous project finances often place-->
+		<!--								undue-->
+		<!--								financial-->
+		<!--								strain on contractors that may seek loans from financial institutions to maintain their-->
+		<!--								daily-->
+		<!--								operations. These loans must be returned with interest, increasing financing costs, and-->
+		<!--								considerably-->
+		<!--								lowering the Net Present Value. In this talk, we delve into cash flow and project-->
+		<!--								scheduling-->
+		<!--								strategies-->
+		<!--								to mitigate late payment impacts and enhancing project resilience, presenting a-->
+		<!--								distributionally-->
+		<!--								robust-->
+		<!--								risk-averse model that minimizes the financing cost by accurately estimating the amount-->
+		<!--								and-->
+		<!--								timing of-->
+		<!--								the expenses and revenues throughout the project life cycle and foreseeing possible cost-->
+		<!--								overruns and-->
+		<!--								cash flow fluctuations.-->
+		<!--								Joint work with Oncu Hazir-->
+		<!--								<hr style="border-top: 1px solid black;">-->
+		<!--							</div>-->
+		<!--							&lt;!&ndash;TODO pdf and video&ndash;&gt;-->
+		<!--							&lt;!&ndash;					<a href="./presentations/SchedulingSeminar_LarsRohwedder.pdf" class="label_abstract" download>&ndash;&gt;-->
+		<!--							&lt;!&ndash;						Download PDF&ndash;&gt;-->
+		<!--							&lt;!&ndash;					</a>&ndash;&gt;-->
+		<!--							&lt;!&ndash;					<a href="LINK"&ndash;&gt;-->
+		<!--							&lt;!&ndash;					   class="label_abstract" download>&ndash;&gt;-->
+		<!--							&lt;!&ndash;						Download Video&ndash;&gt;-->
+		<!--							&lt;!&ndash;					</a>&ndash;&gt;-->
+		<!--						</td>-->
+		<!--					</tr>-->
 
-<!--					&lt;!&ndash;Data-&ndash;&gt;-->
-<!--					<tr>-->
-<!--						<td class="presenter_image_container">-->
-<!--							<div class="single_image_container">-->
-<!--								<a href="https://www.unical.it/storage/teachers/gAAAAABi2D-mEiJ-DC2koDLqpcRWlGK5Iqt7PXrVZZFzO6-vUCbdNHpud2f3YD2nN-FriRbt-aqfOBGausOLqfuhcsrRp-hJSg==/?lang=en">-->
-<!--									<img class="single_presenter" loading="lazy" src="photos/Maria_Elena.jpg"-->
-<!--									     alt="person_photo"/>-->
-<!--								</a><br/>-->
-<!--							</div>-->
-<!--						</td>-->
-<!--						<td class="information_upcoming_container">-->
-<!--							<b>[Presenter]</b><br/>-->
-<!--							<a href="https://www.unical.it/storage/teachers/gAAAAABi2D-mEiJ-DC2koDLqpcRWlGK5Iqt7PXrVZZFzO6-vUCbdNHpud2f3YD2nN-FriRbt-aqfOBGausOLqfuhcsrRp-hJSg==/?lang=en">Maria-->
-<!--								Elena Bruni</a><br/>-->
-<!--							(Uni of Calabria)<br/><br/>-->
-<!--							&lt;!&ndash;TODO keywords&ndash;&gt;-->
-<!--							&lt;!&ndash;<b>Keywords:</b> Logistics, Scheduling, Stacking cranes, Container terminal, Branch and cut &ndash;&gt;-->
-<!--							<b>[Invited by]</b><br/>-->
-<!--							<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a><br/>-->
-<!--							(CTU in Prague)-->
-<!--						</td>-->
-<!--						<td class="time_zones_container">-->
-<!--							<table class="time_table">-->
-<!--								<tbody>-->
-<!--								<tr class="utc">-->
-<!--									<td>UTC</td>-->
-<!--									<td>Nov 29, 14:00 Wed</td>-->
-<!--								</tr>-->
-<!--								<tr class="europe">-->
-<!--									<td>Prague</td>-->
-<!--									<td>Nov 29, 15:00 Wed</td>-->
-<!--								</tr>-->
-<!--								<tr class="america">-->
-<!--									<td>New York</td>-->
-<!--									<td>Nov 29, :00 Wed</td>-->
-<!--								</tr>-->
-<!--								<tr class="asia">-->
-<!--									<td>Shanghai</td>-->
-<!--									<td>Nov 29, :00 Wed</td>-->
-<!--								</tr>-->
-<!--								</tbody>-->
-<!--							</table>-->
-<!--						</td>-->
-<!--					</tr>-->
+		<!--					&lt;!&ndash;Data-&ndash;&gt;-->
+		<!--					<tr>-->
+		<!--						<td class="presenter_image_container">-->
+		<!--							<div class="single_image_container">-->
+		<!--								<a href="https://www.unical.it/storage/teachers/gAAAAABi2D-mEiJ-DC2koDLqpcRWlGK5Iqt7PXrVZZFzO6-vUCbdNHpud2f3YD2nN-FriRbt-aqfOBGausOLqfuhcsrRp-hJSg==/?lang=en">-->
+		<!--									<img class="single_presenter" loading="lazy" src="photos/Maria_Elena.jpg"-->
+		<!--									     alt="person_photo"/>-->
+		<!--								</a><br/>-->
+		<!--							</div>-->
+		<!--						</td>-->
+		<!--						<td class="information_upcoming_container">-->
+		<!--							<b>[Presenter]</b><br/>-->
+		<!--							<a href="https://www.unical.it/storage/teachers/gAAAAABi2D-mEiJ-DC2koDLqpcRWlGK5Iqt7PXrVZZFzO6-vUCbdNHpud2f3YD2nN-FriRbt-aqfOBGausOLqfuhcsrRp-hJSg==/?lang=en">Maria-->
+		<!--								Elena Bruni</a><br/>-->
+		<!--							(Uni of Calabria)<br/><br/>-->
+		<!--							&lt;!&ndash;TODO keywords&ndash;&gt;-->
+		<!--							&lt;!&ndash;<b>Keywords:</b> Logistics, Scheduling, Stacking cranes, Container terminal, Branch and cut &ndash;&gt;-->
+		<!--							<b>[Invited by]</b><br/>-->
+		<!--							<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a><br/>-->
+		<!--							(CTU in Prague)-->
+		<!--						</td>-->
+		<!--						<td class="time_zones_container">-->
+		<!--							<table class="time_table">-->
+		<!--								<tbody>-->
+		<!--								<tr class="utc">-->
+		<!--									<td>UTC</td>-->
+		<!--									<td>Nov 29, 14:00 Wed</td>-->
+		<!--								</tr>-->
+		<!--								<tr class="europe">-->
+		<!--									<td>Prague</td>-->
+		<!--									<td>Nov 29, 15:00 Wed</td>-->
+		<!--								</tr>-->
+		<!--								<tr class="america">-->
+		<!--									<td>New York</td>-->
+		<!--									<td>Nov 29, :00 Wed</td>-->
+		<!--								</tr>-->
+		<!--								<tr class="asia">-->
+		<!--									<td>Shanghai</td>-->
+		<!--									<td>Nov 29, :00 Wed</td>-->
+		<!--								</tr>-->
+		<!--								</tbody>-->
+		<!--							</table>-->
+		<!--						</td>-->
+		<!--					</tr>-->
 
-<!--					&lt;!&ndash;Spacing-&ndash;&gt;-->
-<!--					<tr style="background-color: white">-->
-<!--						<td colspan="100%"></td>-->
-<!--					</tr>-->
-<!--				</table>-->
-<!--			</td>-->
-<!--		</tr>-->
+		<!--					&lt;!&ndash;Spacing-&ndash;&gt;-->
+		<!--					<tr style="background-color: white">-->
+		<!--						<td colspan="100%"></td>-->
+		<!--					</tr>-->
+		<!--				</table>-->
+		<!--			</td>-->
+		<!--		</tr>-->
 
 		</tbody>
 	</table>
@@ -434,14 +434,17 @@
 
 						<td>
 							<table class="panelists_past_container_single">
-								<td colspan="2">
-									<b>Keywords:</b> Machines' priority lists, Coordinated mechanisms, Minimum
-									completion time,
-									Equilibrium inefficiency <br/><br/>
-									<b>[Invited by]</b>
-									<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a>
-									(New York Uni)
-								</td>
+								<tr>
+									<td colspan="2">
+										<b>Keywords:</b> Machines' priority lists, Coordinated mechanisms, Minimum
+										completion time,
+										Equilibrium inefficiency <br/><br/>
+										<b>[Invited by]</b>
+										<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael
+											Pinedo</a>
+										(New York Uni)
+									</td>
+								</tr>
 							</table>
 						</td>
 					</tr>
@@ -531,14 +534,17 @@
 
 						<td>
 							<table class="panelists_past_container_single">
-								<td colspan="2">
-									<b>Keywords:</b> Surgery, Scheduling, Operating Room, Healthcare, Capacity
-									Management,
-									Optimization <br/><br/>
-									<b>[Invited by]</b>
-									<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a>
-									(New York Uni)
-								</td>
+								<tr>
+									<td colspan="2">
+										<b>Keywords:</b> Surgery, Scheduling, Operating Room, Healthcare, Capacity
+										Management,
+										Optimization <br/><br/>
+										<b>[Invited by]</b>
+										<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael
+											Pinedo</a>
+										(New York Uni)
+									</td>
+								</tr>
 							</table>
 						</td>
 					</tr>
@@ -627,14 +633,17 @@
 
 						<td>
 							<table class="panelists_past_container_single">
-								<td colspan="2">
-									<b>Keywords:</b> Logistics, Scheduling, Stacking cranes, Container terminal, Branch
-									and cut
-									<br/><br/>
-									<b>[Invited by]</b>
-									<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a>
-									(CTU in Prague)
-								</td>
+								<tr>
+									<td colspan="2">
+										<b>Keywords:</b> Logistics, Scheduling, Stacking cranes, Container terminal,
+										Branch
+										and cut
+										<br/><br/>
+										<b>[Invited by]</b>
+										<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a>
+										(CTU in Prague)
+									</td>
+								</tr>
 							</table>
 						</td>
 					</tr>
@@ -726,13 +735,18 @@
 
 						<td>
 							<table class="panelists_past_container_single">
-								<td colspan="2">
-									<b>Keywords:</b> Sports scheduling, Unified data format, International timetabling
-									competition, Benchmarking, Instance space analysis, Algorithm selection <br/><br/>
-									<b>[Invited by]</b>
-									<a href="https://www.southampton.ac.uk/maths/about/staff/cnp1.page">Chris Potts</a>
-									(Southampton Uni)
-								</td>
+								<tr>
+									<td colspan="2">
+										<b>Keywords:</b> Sports scheduling, Unified data format, International
+										timetabling
+										competition, Benchmarking, Instance space analysis, Algorithm selection
+										<br/><br/>
+										<b>[Invited by]</b>
+										<a href="https://www.southampton.ac.uk/maths/about/staff/cnp1.page">Chris
+											Potts</a>
+										(Southampton Uni)
+									</td>
+								</tr>
 							</table>
 						</td>
 					</tr>
@@ -824,13 +838,15 @@
 
 						<td>
 							<table class="panelists_past_container_single">
-								<td colspan="2">
-									<b>Keywords:</b> Project scheduling, Flexible resource profiles, Work content,
-									MIP-formulations, Metaheuristic, Applications <br/><br/>
-									<b>[Invited by]</b>
-									<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a>
-									(CTU in Prague)
-								</td>
+								<tr>
+									<td colspan="2">
+										<b>Keywords:</b> Project scheduling, Flexible resource profiles, Work content,
+										MIP-formulations, Metaheuristic, Applications <br/><br/>
+										<b>[Invited by]</b>
+										<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a>
+										(CTU in Prague)
+									</td>
+								</tr>
 							</table>
 						</td>
 					</tr>
@@ -930,13 +946,15 @@
 
 						<td>
 							<table class="panelists_past_container_single">
-								<td colspan="2">
-									<b>Keywords:</b> Scheduling, Quantum Annealing, Single machine, Exact algorithm
-									<br/><br/>
-									<b>[Invited by]</b>
-									<a href="http://people.ciirc.cvut.cz/~suchap/">Přemysl Šůcha</a>
-									(CTU in Prague)
-								</td>
+								<tr>
+									<td colspan="2">
+										<b>Keywords:</b> Scheduling, Quantum Annealing, Single machine, Exact algorithm
+										<br/><br/>
+										<b>[Invited by]</b>
+										<a href="http://people.ciirc.cvut.cz/~suchap/">Přemysl Šůcha</a>
+										(CTU in Prague)
+									</td>
+								</tr>
 							</table>
 						</td>
 					</tr>
@@ -1024,12 +1042,15 @@
 
 						<td>
 							<table class="panelists_past_container_single">
-								<td colspan="2">
-									<b>Keywords:</b> Scheduling, Cooperative game, Core <br/><br/>
-									<b>[Invited by]</b>
-									<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a>
-									(New York Uni)
-								</td>
+								<tr>
+									<td colspan="2">
+										<b>Keywords:</b> Scheduling, Cooperative game, Core <br/><br/>
+										<b>[Invited by]</b>
+										<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael
+											Pinedo</a>
+										(New York Uni)
+									</td>
+								</tr>
 							</table>
 						</td>
 					</tr>
@@ -1120,13 +1141,16 @@
 
 						<td>
 							<table class="panelists_past_container_single">
-								<td colspan="2">
-									<b>Keywords:</b> Scheduling, Manufacturing Systems, Machine Learning, Real
-									Applications<br/><br/>
-									<b>[Invited by]</b>
-									<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a>
-									(New York Uni)
-								</td>
+								<tr>
+									<td colspan="2">
+										<b>Keywords:</b> Scheduling, Manufacturing Systems, Machine Learning, Real
+										Applications<br/><br/>
+										<b>[Invited by]</b>
+										<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael
+											Pinedo</a>
+										(New York Uni)
+									</td>
+								</tr>
 							</table>
 						</td>
 					</tr>
@@ -1210,12 +1234,15 @@
 
 						<td>
 							<table class="panelists_past_container_single">
-								<td colspan="2">
-									<b>Keywords:</b> Machine scheduling, Mathematical Programming, Heuristics <br/><br/>
-									<b>[Invited by]</b>
-									<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a>
-									(CTU in Prague)
-								</td>
+								<tr>
+									<td colspan="2">
+										<b>Keywords:</b> Machine scheduling, Mathematical Programming, Heuristics
+										<br/><br/>
+										<b>[Invited by]</b>
+										<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a>
+										(CTU in Prague)
+									</td>
+								</tr>
 							</table>
 						</td>
 					</tr>
@@ -1315,13 +1342,17 @@
 
 						<td>
 							<table class="panelists_past_container_single">
-								<td colspan="2">
-									<b>Keywords:</b> Scheduling, Cumulative resource, Lower bound, Algorithms, Energetic
-									reasoning <br/><br/>
-									<b>[Invited by]</b>
-									<a href="https://homepages.laas.fr/artigues/drupal/node/11">Christian Artigues</a>
-									(LAAS - CNRS)
-								</td>
+								<tr>
+									<td colspan="2">
+										<b>Keywords:</b> Scheduling, Cumulative resource, Lower bound, Algorithms,
+										Energetic
+										reasoning <br/><br/>
+										<b>[Invited by]</b>
+										<a href="https://homepages.laas.fr/artigues/drupal/node/11">Christian
+											Artigues</a>
+										(LAAS - CNRS)
+									</td>
+								</tr>
 							</table>
 						</td>
 					</tr>
@@ -1400,13 +1431,16 @@
 
 						<td>
 							<table class="panelists_past_container_single">
-								<td colspan="2">
-									<b>Keywords:</b> Scheduling, Flow time, Integer programming, Discrepancy, Dynamic
-									programming <br/><br/>
-									<b>[Invited by]</b>
-									<a href="https://www.cwi.nl/people/jan-karel-lenstra">Jan Karel Lenstra</a>
-									(CWI)
-								</td>
+								<tr>
+									<td colspan="2">
+										<b>Keywords:</b> Scheduling, Flow time, Integer programming, Discrepancy,
+										Dynamic
+										programming <br/><br/>
+										<b>[Invited by]</b>
+										<a href="https://www.cwi.nl/people/jan-karel-lenstra">Jan Karel Lenstra</a>
+										(CWI)
+									</td>
+								</tr>
 							</table>
 						</td>
 					</tr>
@@ -1492,14 +1526,16 @@
 
 						<td>
 							<table class="panelists_past_container_single">
-								<td colspan="2">
-									<b>Keywords:</b> Scheduling, Flow shop, Synchronized movement, Shelf board
-									production
-									<br/><br/>
-									<b>[Invited by]</b>
-									<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a>
-									(CTU in Prague)
-								</td>
+								<tr>
+									<td colspan="2">
+										<b>Keywords:</b> Scheduling, Flow shop, Synchronized movement, Shelf board
+										production
+										<br/><br/>
+										<b>[Invited by]</b>
+										<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a>
+										(CTU in Prague)
+									</td>
+								</tr>
 							</table>
 						</td>
 					</tr>
@@ -1627,12 +1663,14 @@
 
 						<td>
 							<table class="panelists_past_container_single">
-								<td colspan="2">
-									<b>Keywords:</b> Scheduling, Machine breakdowns, Testing <br/><br/>
-									<b>[Invited by]</b>
-									<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a>
-									(CTU in Prague)
-								</td>
+								<tr>
+									<td colspan="2">
+										<b>Keywords:</b> Scheduling, Machine breakdowns, Testing <br/><br/>
+										<b>[Invited by]</b>
+										<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a>
+										(CTU in Prague)
+									</td>
+								</tr>
 							</table>
 						</td>
 					</tr>
@@ -1722,12 +1760,16 @@
 
 						<td>
 							<table class="panelists_past_container_single">
-								<td colspan="2">
-									<b>Keywords:</b> Scheduling, Machine learning, Predictions, On-line algorithms <br/><br/>
-									<b>[Invited by]</b>
-									<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a>
-									(New York Uni)
-								</td>
+								<tr>
+									<td colspan="2">
+										<b>Keywords:</b> Scheduling, Machine learning, Predictions, On-line algorithms
+										<br/><br/>
+										<b>[Invited by]</b>
+										<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael
+											Pinedo</a>
+										(New York Uni)
+									</td>
+								</tr>
 							</table>
 						</td>
 					</tr>
@@ -1827,14 +1869,17 @@
 
 						<td>
 							<table class="panelists_past_container_single">
-								<td colspan="2">
-									<b>Keywords:</b> Vehicle routing, Local search operators, Ruin and recreate, Spatial
-									slack,
-									Capacity slack, Fleet minimization <br/><br/>
-									<b>[Invited by]</b>
-									<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a>
-									(CTU in Prague)
-								</td>
+								<tr>
+									<td colspan="2">
+										<b>Keywords:</b> Vehicle routing, Local search operators, Ruin and recreate,
+										Spatial
+										slack,
+										Capacity slack, Fleet minimization <br/><br/>
+										<b>[Invited by]</b>
+										<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a>
+										(CTU in Prague)
+									</td>
+								</tr>
 							</table>
 						</td>
 					</tr>
@@ -1925,15 +1970,17 @@
 
 						<td>
 							<table class="panelists_past_container_single">
-								<td colspan="2">
-									<b>Keywords:</b> Synchronous DataFlow, Precedence constraints, Normalization,
-									Liveness,
-									Throughput evaluation <br/><br/>
-									<b>[Invited by]</b>
-									<a href="https://ufr-segmi.parisnanterre.fr/organisation-et-contacts/espace-reserve-enseignants/site-des-enseignants/les-enseignants-de-segmi/hanen-claire/hanen-claire-93518.kjsp">Claire
-										Hanen</a>
-									(Sorbonne Uni)
-								</td>
+								<tr>
+									<td colspan="2">
+										<b>Keywords:</b> Synchronous DataFlow, Precedence constraints, Normalization,
+										Liveness,
+										Throughput evaluation <br/><br/>
+										<b>[Invited by]</b>
+										<a href="https://ufr-segmi.parisnanterre.fr/organisation-et-contacts/espace-reserve-enseignants/site-des-enseignants/les-enseignants-de-segmi/hanen-claire/hanen-claire-93518.kjsp">Claire
+											Hanen</a>
+										(Sorbonne Uni)
+									</td>
+								</tr>
 							</table>
 						</td>
 					</tr>
@@ -2022,14 +2069,17 @@
 
 						<td>
 							<table class="panelists_past_container_single">
-								<td colspan="2">
-									<b>Keywords:</b> Dynamic programming, Discrete convexity, Stochastic models,
-									Appointment
-									scheduling <br/><br/>
-									<b>[Invited by]</b>
-									<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a>
-									(New York Uni)
-								</td>
+								<tr>
+									<td colspan="2">
+										<b>Keywords:</b> Dynamic programming, Discrete convexity, Stochastic models,
+										Appointment
+										scheduling <br/><br/>
+										<b>[Invited by]</b>
+										<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael
+											Pinedo</a>
+										(New York Uni)
+									</td>
+								</tr>
 							</table>
 						</td>
 					</tr>
@@ -2129,12 +2179,15 @@
 
 						<td>
 							<table class="panelists_past_container_single">
-								<td colspan="2">
-									<b>Keywords:</b> Scheduling, Polyhedra, Formulations <br/><br/>
-									<b>[Invited by]</b>
-									<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a>
-									(New York Uni)
-								</td>
+								<tr>
+									<td colspan="2">
+										<b>Keywords:</b> Scheduling, Polyhedra, Formulations <br/><br/>
+										<b>[Invited by]</b>
+										<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael
+											Pinedo</a>
+										(New York Uni)
+									</td>
+								</tr>
 							</table>
 						</td>
 					</tr>
@@ -2221,13 +2274,16 @@
 
 						<td>
 							<table class="panelists_past_container_single">
-								<td colspan="2">
-									<b>Keywords:</b> Scheduling under uncertainty, Algorithms with predictions,
-									Learning-augmented algorithms, Non-clairvoyant scheduling, Online TSP <br/><br/>
-									<b>[Invited by]</b>
-									<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a>
-									(New York Uni)
-								</td>
+								<tr>
+									<td colspan="2">
+										<b>Keywords:</b> Scheduling under uncertainty, Algorithms with predictions,
+										Learning-augmented algorithms, Non-clairvoyant scheduling, Online TSP <br/><br/>
+										<b>[Invited by]</b>
+										<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael
+											Pinedo</a>
+										(New York Uni)
+									</td>
+								</tr>
 							</table>
 						</td>
 					</tr>
@@ -2313,16 +2369,19 @@
 
 						<td>
 							<table class="panelists_past_container_single">
-								<td colspan="2">
-									<b>Keywords:</b> Time-dependent scheduling, Variable job processing times,
-									Approximation
-									algorithms, Approximation schemes, Heuristics, Single machine, Parallel machines,
-									Dedicated
-									machines <br/><br/>
-									<b>[Invited by]</b>
-									<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a>
-									(CTU in Prague)
-								</td>
+								<tr>
+									<td colspan="2">
+										<b>Keywords:</b> Time-dependent scheduling, Variable job processing times,
+										Approximation
+										algorithms, Approximation schemes, Heuristics, Single machine, Parallel
+										machines,
+										Dedicated
+										machines <br/><br/>
+										<b>[Invited by]</b>
+										<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a>
+										(CTU in Prague)
+									</td>
+								</tr>
 							</table>
 						</td>
 					</tr>
@@ -2415,15 +2474,18 @@
 
 						<td>
 							<table class="panelists_past_container_single">
-								<td colspan="2">
-									<b>Keywords:</b> Data Science, Machine learning, Combinatorial optimization,
-									Scheduling,
-									Algorithms, Landscape analysis, Automated tuning, Automated construction, Automated
-									selection, Instance hardness <br/><br/>
-									<b>[Invited by]</b>
-									<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a>
-									(CTU in Prague)
-								</td>
+								<tr>
+									<td colspan="2">
+										<b>Keywords:</b> Data Science, Machine learning, Combinatorial optimization,
+										Scheduling,
+										Algorithms, Landscape analysis, Automated tuning, Automated construction,
+										Automated
+										selection, Instance hardness <br/><br/>
+										<b>[Invited by]</b>
+										<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a>
+										(CTU in Prague)
+									</td>
+								</tr>
 							</table>
 						</td>
 					</tr>
@@ -2513,14 +2575,16 @@
 
 						<td>
 							<table class="panelists_past_container_single">
-								<td colspan="2">
-									<b>Keywords:</b> Energy, MILP, Bilevel optimization, Real-world application,
-									Industry,
-									Sustainability <br/><br/>
-									<b>[Invited by]</b>
-									<a href="http://people.ciirc.cvut.cz/~suchap/">Přemysl Šůcha</a>
-									(CTU in Prague)
-								</td>
+								<tr>
+									<td colspan="2">
+										<b>Keywords:</b> Energy, MILP, Bilevel optimization, Real-world application,
+										Industry,
+										Sustainability <br/><br/>
+										<b>[Invited by]</b>
+										<a href="http://people.ciirc.cvut.cz/~suchap/">Přemysl Šůcha</a>
+										(CTU in Prague)
+									</td>
+								</tr>
 							</table>
 						</td>
 					</tr>
@@ -2597,14 +2661,16 @@
 
 						<td>
 							<table class="panelists_past_container_single">
-								<td colspan="2">
-									<b>Keywords:</b> Constraint programming, Scheduling, Machine learning, Hybrid
-									optimization
-									<br/><br/>
-									<b>[Invited by]</b>
-									<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a>
-									(CTU in Prague)
-								</td>
+								<tr>
+									<td colspan="2">
+										<b>Keywords:</b> Constraint programming, Scheduling, Machine learning, Hybrid
+										optimization
+										<br/><br/>
+										<b>[Invited by]</b>
+										<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a>
+										(CTU in Prague)
+									</td>
+								</tr>
 							</table>
 						</td>
 					</tr>
@@ -2697,15 +2763,17 @@
 
 						<td>
 							<table class="panelists_past_container_single">
-								<td colspan="2">
-									<b>Keywords:</b> Mixed-integer linear programming (MILP), Resource-constrained
-									project
-									scheduling problem (RCPSP), solvers, relaxation, CP, SAT <br/><br/>
-									<b>[Invited by]</b>
-									<a href="https://www.professors.wi.tum.de/om/team/prof-dr-rainer-kolisch/">Rainer
-										Kolisch</a>
-									(TU Munich)
-								</td>
+								<tr>
+									<td colspan="2">
+										<b>Keywords:</b> Mixed-integer linear programming (MILP), Resource-constrained
+										project
+										scheduling problem (RCPSP), solvers, relaxation, CP, SAT <br/><br/>
+										<b>[Invited by]</b>
+										<a href="https://www.professors.wi.tum.de/om/team/prof-dr-rainer-kolisch/">Rainer
+											Kolisch</a>
+										(TU Munich)
+									</td>
+								</tr>
 							</table>
 						</td>
 					</tr>
@@ -2794,14 +2862,17 @@
 
 						<td>
 							<table class="panelists_past_container_single">
-								<td colspan="2">
-									<b>Keywords:</b> Scheduling, Batching, Semiconductor manufacturing, Decomposition
-									methods
-									<br/><br/>
-									<b>[Invited by]</b>
-									<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a>
-									(CTU in Prague)
-								</td>
+								<tr>
+									<td colspan="2">
+										<b>Keywords:</b> Scheduling, Batching, Semiconductor manufacturing,
+										Decomposition
+										methods
+										<br/><br/>
+										<b>[Invited by]</b>
+										<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a>
+										(CTU in Prague)
+									</td>
+								</tr>
 							</table>
 						</td>
 					</tr>
@@ -2888,12 +2959,15 @@
 
 						<td>
 							<table class="panelists_past_container_single">
-								<td colspan="2">
-									<b>Keywords:</b> Semiconductor Manufacturing, Scheduling <br/><br/>
-									<b>[Invited by]</b>
-									<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a>
-									(New York Uni)
-								</td>
+								<tr>
+									<td colspan="2">
+										<b>Keywords:</b> Semiconductor Manufacturing, Scheduling <br/><br/>
+										<b>[Invited by]</b>
+										<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael
+											Pinedo</a>
+										(New York Uni)
+									</td>
+								</tr>
 							</table>
 						</td>
 					</tr>
@@ -2978,13 +3052,16 @@
 
 						<td>
 							<table class="panelists_past_container_single">
-								<td colspan="2">
-									<b>Keywords:</b> Steelmaking-continuous casting, Hybrid flow shop, Mixed-integer
-									programming, Matheuristic <br/><br/>
-									<b>[Invited by]</b>
-									<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a>
-									(New York Uni)
-								</td>
+								<tr>
+									<td colspan="2">
+										<b>Keywords:</b> Steelmaking-continuous casting, Hybrid flow shop, Mixed-integer
+										programming, Matheuristic <br/><br/>
+										<b>[Invited by]</b>
+										<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael
+											Pinedo</a>
+										(New York Uni)
+									</td>
+								</tr>
 							</table>
 						</td>
 					</tr>
@@ -3087,14 +3164,17 @@
 
 						<td>
 							<table class="panelists_past_container_single">
-								<td colspan="2">
-									<b>Keywords:</b> Public transit planning, Vehicle scheduling, Timetabling, AVL data,
-									Public
-									transport <br/><br/>
-									<b>[Invited by]</b>
-									<a href="http://www.acem.sjtu.edu.cn/en/faculty/wanguohua.html">Guohua Wan</a>
-									(Shanghai Jiao Tong)
-								</td>
+								<tr>
+									<td colspan="2">
+										<b>Keywords:</b> Public transit planning, Vehicle scheduling, Timetabling, AVL
+										data,
+										Public
+										transport <br/><br/>
+										<b>[Invited by]</b>
+										<a href="http://www.acem.sjtu.edu.cn/en/faculty/wanguohua.html">Guohua Wan</a>
+										(Shanghai Jiao Tong)
+									</td>
+								</tr>
 							</table>
 						</td>
 					</tr>
@@ -3177,14 +3257,17 @@
 
 						<td>
 							<table class="panelists_past_container_single">
-								<td colspan="2">
-									<b>Keywords:</b> Scheduling, NP-hard, Fixed parameterized tractability (FPT),
-									Algorithmic
-									design, Optimization <br/><br/>
-									<b>[Invited by]</b>
-									<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a>
-									(New York Uni)
-								</td>
+								<tr>
+									<td colspan="2">
+										<b>Keywords:</b> Scheduling, NP-hard, Fixed parameterized tractability (FPT),
+										Algorithmic
+										design, Optimization <br/><br/>
+										<b>[Invited by]</b>
+										<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael
+											Pinedo</a>
+										(New York Uni)
+									</td>
+								</tr>
 							</table>
 						</td>
 					</tr>
@@ -3297,13 +3380,17 @@
 
 						<td>
 							<table class="panelists_past_container_single">
-								<td colspan="2">
-									<b>Keywords:</b> Scheduling, Flowshop, Heuristics, Metaheuristics, Iterated greedy
-									<br/><br/>
-									<b>[Invited by]</b>
-									<a href="https://www.kuleuven.be/wieiswie/nl/person/00053376">G. Vanden Berghe</a>
-									(KU Leuven)
-								</td>
+								<tr>
+									<td colspan="2">
+										<b>Keywords:</b> Scheduling, Flowshop, Heuristics, Metaheuristics, Iterated
+										greedy
+										<br/><br/>
+										<b>[Invited by]</b>
+										<a href="https://www.kuleuven.be/wieiswie/nl/person/00053376">G. Vanden
+											Berghe</a>
+										(KU Leuven)
+									</td>
+								</tr>
 							</table>
 						</td>
 					</tr>
@@ -3387,14 +3474,17 @@
 
 						<td>
 							<table class="panelists_past_container_single">
-								<td colspan="2">
-									<b>Keywords:</b> Scheduling, uncertainty, Sum of completion times, Processing time
-									oracle,
-									Competitive ratio <br/><br/>
-									<b>[Invited by]</b>
-									<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a>
-									(CTU in Prague)
-								</td>
+								<tr>
+									<td colspan="2">
+										<b>Keywords:</b> Scheduling, uncertainty, Sum of completion times, Processing
+										time
+										oracle,
+										Competitive ratio <br/><br/>
+										<b>[Invited by]</b>
+										<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a>
+										(CTU in Prague)
+									</td>
+								</tr>
 							</table>
 						</td>
 					</tr>
@@ -3487,14 +3577,17 @@
 
 						<td>
 							<table class="panelists_past_container_single">
-								<td colspan="2">
-									<b>Keywords:</b> Routing, Time windows, Time-dependent travel times, Road network,
-									Tabu
-									search <br/><br/>
-									<b>[Invited by]</b>
-									<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a>
-									(CTU in Prague) <br/>
-								</td>
+								<tr>
+									<td colspan="2">
+										<b>Keywords:</b> Routing, Time windows, Time-dependent travel times, Road
+										network,
+										Tabu
+										search <br/><br/>
+										<b>[Invited by]</b>
+										<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a>
+										(CTU in Prague) <br/>
+									</td>
+								</tr>
 							</table>
 						</td>
 					</tr>
@@ -3598,14 +3691,17 @@
 
 						<td>
 							<table class="panelists_past_container_single">
-								<td colspan="2">
-									<b>Keywords:</b> Train scheduling, Job-shop scheduling, Combinatorial optimization,
-									Integer
-									programming, Decomposition methods <br/><br/>
-									<b>[Invited by]</b>
-									<a href="https://www3.diism.unisi.it/~agnetis/">Alessandro Agnetis</a>
-									(University of Siena)
-								</td>
+								<tr>
+									<td colspan="2">
+										<b>Keywords:</b> Train scheduling, Job-shop scheduling, Combinatorial
+										optimization,
+										Integer
+										programming, Decomposition methods <br/><br/>
+										<b>[Invited by]</b>
+										<a href="https://www3.diism.unisi.it/~agnetis/">Alessandro Agnetis</a>
+										(University of Siena)
+									</td>
+								</tr>
 							</table>
 						</td>
 					</tr>
@@ -3686,13 +3782,17 @@
 
 						<td>
 							<table class="panelists_past_container_single">
-								<td colspan="2">
-									<b>Keywords:</b> Scheduling, Learning augmented, Optimization, Sample complexity,
-									Robustness, Error, Competitive, Approximation <br/><br/>
-									<b>[Invited by]</b>
-									<a href="https://www.ieor.columbia.edu/faculty/clifford-stein">Clifford Stein</a>
-									(Columbia Uni)
-								</td>
+								<tr>
+									<td colspan="2">
+										<b>Keywords:</b> Scheduling, Learning augmented, Optimization, Sample
+										complexity,
+										Robustness, Error, Competitive, Approximation <br/><br/>
+										<b>[Invited by]</b>
+										<a href="https://www.ieor.columbia.edu/faculty/clifford-stein">Clifford
+											Stein</a>
+										(Columbia Uni)
+									</td>
+								</tr>
 							</table>
 						</td>
 					</tr>
@@ -3787,14 +3887,17 @@
 
 						<td>
 							<table class="panelists_past_container_single">
-								<td colspan="2">
-									<b>Keywords:</b> Identical parallel machine scheduling, LPT rule, Linear
-									programming,
-									Approximation <br/><br/>
-									<b>[Invited by]</b>
-									<a href="https://www.univ-tours.fr/annuaire/m-vincent-tkindt">Vincent T’kindt</a>
-									(Uni de Tours)
-								</td>
+								<tr>
+									<td colspan="2">
+										<b>Keywords:</b> Identical parallel machine scheduling, LPT rule, Linear
+										programming,
+										Approximation <br/><br/>
+										<b>[Invited by]</b>
+										<a href="https://www.univ-tours.fr/annuaire/m-vincent-tkindt">Vincent
+											T’kindt</a>
+										(Uni de Tours)
+									</td>
+								</tr>
 							</table>
 						</td>
 					</tr>
@@ -3884,15 +3987,18 @@
 
 						<td>
 							<table class="panelists_past_container_single">
-								<td colspan="2">
-									<b>Keywords:</b> Preemptive scheduling, Uniformly related machines, Total completion
-									time,
-									Makespan <br/><br/>
-									<b>[Invited by]</b>
-									<a href="https://in.bgu.ac.il/en/engn/iem/pages/staff/Dvir-Shabtay.aspx">Dvir
-										Shabtay</a>
-									(Ben Gurion Uni)
-								</td>
+								<tr>
+									<td colspan="2">
+										<b>Keywords:</b> Preemptive scheduling, Uniformly related machines, Total
+										completion
+										time,
+										Makespan <br/><br/>
+										<b>[Invited by]</b>
+										<a href="https://in.bgu.ac.il/en/engn/iem/pages/staff/Dvir-Shabtay.aspx">Dvir
+											Shabtay</a>
+										(Ben Gurion Uni)
+									</td>
+								</tr>
 							</table>
 						</td>
 					</tr>
@@ -4001,14 +4107,17 @@
 
 						<td>
 							<table class="panelists_past_container_single">
-								<td colspan="2">
-									<b>Keywords:</b> Multiple round sports tournament, Choice of opponent, Performance
-									criteria,
-									Professional tennis <br/><br/>
-									<b>[Invited by]</b>
-									<a href="https://www.or-as.be">Mario Vanhoucke</a>
-									(Ghent University)
-								</td>
+								<tr>
+									<td colspan="2">
+										<b>Keywords:</b> Multiple round sports tournament, Choice of opponent,
+										Performance
+										criteria,
+										Professional tennis <br/><br/>
+										<b>[Invited by]</b>
+										<a href="https://www.or-as.be">Mario Vanhoucke</a>
+										(Ghent University)
+									</td>
+								</tr>
 							</table>
 						</td>
 					</tr>
@@ -4086,13 +4195,16 @@
 
 						<td>
 							<table class="panelists_past_container_single">
-								<td colspan="2">
-									<b>Keywords:</b> Timetabling, Scheduling, Optimization, Metaheuristics, Local Search
-									<br/><br/>
-									<b>[Invited by]</b>
-									<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a>
-									(CTU in Prague)
-								</td>
+								<tr>
+									<td colspan="2">
+										<b>Keywords:</b> Timetabling, Scheduling, Optimization, Metaheuristics, Local
+										Search
+										<br/><br/>
+										<b>[Invited by]</b>
+										<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a>
+										(CTU in Prague)
+									</td>
+								</tr>
 							</table>
 						</td>
 					</tr>
@@ -4184,18 +4296,22 @@
 
 						<td>
 							<table class="panelists_past_container_single">
-								<td colspan="2">
-									<b>Keywords:</b> Healthcare scheduling applications, Diagnostic imaging, Cancer
-									treatment
-									(chemotherapy and radiation), Nurse/physician scheduling, Surgical scheduling, 911
-									call
-									centres, Home care routing, Medical resident scheduling and primary care
-									appointments
-									<br/><br/>
-									<b>[Invited by]</b>
-									<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a>
-									(New York Uni)
-								</td>
+								<tr>
+									<td colspan="2">
+										<b>Keywords:</b> Healthcare scheduling applications, Diagnostic imaging, Cancer
+										treatment
+										(chemotherapy and radiation), Nurse/physician scheduling, Surgical scheduling,
+										911
+										call
+										centres, Home care routing, Medical resident scheduling and primary care
+										appointments
+										<br/><br/>
+										<b>[Invited by]</b>
+										<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael
+											Pinedo</a>
+										(New York Uni)
+									</td>
+								</tr>
 							</table>
 						</td>
 					</tr>
@@ -4300,14 +4416,16 @@
 
 						<td>
 							<table class="panelists_past_container_single">
-								<td colspan="2">
-									<b>Keywords:</b> Single-machine scheduling, Promary-secondary criteria,
-									Computational
-									complexity <br/><br/>
-									<b>[Invited by]</b>
-									<a href="http://www.acem.sjtu.edu.cn/en/faculty/wanguohua.html">Guohua Wan</a>
-									(Shanghai Jiao Tong)
-								</td>
+								<tr>
+									<td colspan="2">
+										<b>Keywords:</b> Single-machine scheduling, Promary-secondary criteria,
+										Computational
+										complexity <br/><br/>
+										<b>[Invited by]</b>
+										<a href="http://www.acem.sjtu.edu.cn/en/faculty/wanguohua.html">Guohua Wan</a>
+										(Shanghai Jiao Tong)
+									</td>
+								</tr>
 							</table>
 						</td>
 					</tr>
@@ -4402,14 +4520,16 @@
 
 						<td>
 							<table class="panelists_past_container_single">
-								<td colspan="2">
-									<b>Keywords:</b> Project scheduling, Stochastic activity durations,
-									Proactive/reactive
-									scheduling, Markov decision process <br/><br/>
-									<b>[Invited by]</b>
-									<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a>
-									(CTU in Prague)
-								</td>
+								<tr>
+									<td colspan="2">
+										<b>Keywords:</b> Project scheduling, Stochastic activity durations,
+										Proactive/reactive
+										scheduling, Markov decision process <br/><br/>
+										<b>[Invited by]</b>
+										<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a>
+										(CTU in Prague)
+									</td>
+								</tr>
 							</table>
 						</td>
 					</tr>
@@ -4496,14 +4616,16 @@
 
 						<td>
 							<table class="panelists_past_container_single">
-								<td colspan="2">
-									<b>Keywords:</b> Machine scheduling, List scheduling, Approximation algorithm,
-									Performance
-									guarantee, Total weighted completion time <br/><br/>
-									<b>[Invited by]</b>
-									<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a>
-									(CTU in Prague)
-								</td>
+								<tr>
+									<td colspan="2">
+										<b>Keywords:</b> Machine scheduling, List scheduling, Approximation algorithm,
+										Performance
+										guarantee, Total weighted completion time <br/><br/>
+										<b>[Invited by]</b>
+										<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a>
+										(CTU in Prague)
+									</td>
+								</tr>
 							</table>
 						</td>
 					</tr>
@@ -4615,14 +4737,16 @@
 
 						<td>
 							<table class="panelists_past_container_single">
-								<td colspan="2">
-									<b>Keywords:</b> Production scheduling, Logistics scheduling, Energy scheduling,
-									Data
-									analytics, System optimization, Engineering application <br/><br/>
-									<b>[Invited by]</b>
-									<a href="http://www.acem.sjtu.edu.cn/en/faculty/wanguohua.html">Guohua Wan</a>
-									(Shanghai Jiao Tong)
-								</td>
+								<tr>
+									<td colspan="2">
+										<b>Keywords:</b> Production scheduling, Logistics scheduling, Energy scheduling,
+										Data
+										analytics, System optimization, Engineering application <br/><br/>
+										<b>[Invited by]</b>
+										<a href="http://www.acem.sjtu.edu.cn/en/faculty/wanguohua.html">Guohua Wan</a>
+										(Shanghai Jiao Tong)
+									</td>
+								</tr>
 							</table>
 						</td>
 					</tr>
@@ -4713,16 +4837,19 @@
 
 						<td>
 							<table class="panelists_past_container_single">
-								<td colspan="2">
-									<b>Keywords:</b> Stochastic scheduling, Job scheduling, M/G/1, M/G/k, SRPT,
-									Shortest-job-first, Gittins, Queuing theory, Priority queues, Preemption, Data
-									centers, High
-									variability, Job sizes, SOAP, Sigmetrics, Performance modeling, Google workloads
-									<br/><br/>
-									<b>[Invited by]</b>
-									<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a>
-									(New York Uni)
-								</td>
+								<tr>
+									<td colspan="2">
+										<b>Keywords:</b> Stochastic scheduling, Job scheduling, M/G/1, M/G/k, SRPT,
+										Shortest-job-first, Gittins, Queuing theory, Priority queues, Preemption, Data
+										centers, High
+										variability, Job sizes, SOAP, Sigmetrics, Performance modeling, Google workloads
+										<br/><br/>
+										<b>[Invited by]</b>
+										<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael
+											Pinedo</a>
+										(New York Uni)
+									</td>
+								</tr>
 							</table>
 						</td>
 					</tr>
@@ -4812,13 +4939,17 @@
 
 						<td>
 							<table class="panelists_past_container_single">
-								<td colspan="2">
-									<b>Keywords:</b> Scheduling, Scheduling history, Classification, Complexity, Online
-									analysis, Data-driven decision-making, Algorithmic game theory <br/><br/>
-									<b>[Invited by]</b>
-									<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a>
-									(New York University)
-								</td>
+								<tr>
+									<td colspan="2">
+										<b>Keywords:</b> Scheduling, Scheduling history, Classification, Complexity,
+										Online
+										analysis, Data-driven decision-making, Algorithmic game theory <br/><br/>
+										<b>[Invited by]</b>
+										<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael
+											Pinedo</a>
+										(New York University)
+									</td>
+								</tr>
 							</table>
 						</td>
 					</tr>
