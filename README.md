@@ -5194,15 +5194,6 @@
 					NCTU, Taiwan</a>
 			</td>
 
-			<!--TODO-->
-			<!--            &lt;!&ndash;Xiwen Lun&ndash;&gt;-->
-			<!--            <td>-->
-			<!--                <a href="https://www.iim.nctu.edu.tw/en/teacher/Lin-Bertrand%20M.T.">-->
-			<!--                    <img src="./photos/bertrand_lin.jpg" height="200" width="150" alt="person_photo"/><br/>-->
-			<!--                    Xiwen Lu<br/>-->
-			<!--                    East China U. of Sci. & Tech</a>-->
-			<!--            </td>-->
-
 			<!--Hirofumi Matsuo-->
 			<td>
 				<a href="https://scholar.google.com/citations?user=VQwcdN4AAAAJ&hl=en">
