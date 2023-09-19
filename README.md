@@ -110,116 +110,185 @@
 	<br/>
 	<table>
 		<tbody>
+
+		<!--Single talk------------------------------------------------------------------------------------------------>
 		<tr>
 			<td>
-				<i>
-					Currently, new talks are being planned, and the seminar will start again in September 2023. Consider
-					subscribing to the mailing list
-					<a href='https://list.iid.ciirc.cvut.cz/mailman3/lists/schedulingseminar.rtime.felk.cvut.cz/'
-					   style="margin-left: 5px; margin-right: 5px">
-						<img src="icons/email.png" height="25px" width="25px" alt="email"/>
-					</a>
-					and YouTube channel
-					<a href='https://www.youtube.com/channel/UCUoCNnaAfw5NAntItILFn4A'
-					   style="margin-left: 5px; margin-right: 5px">
-						<img src="icons/youtube.png" height="25px" width="25px" alt="youtube"/>
-					</a>
-					to never miss out on new upcoming seminars.
-				</i>
+				<table class="europe">
+					<!--Title/Abstract/PDF-->
+					<tr>
+						<td colspan="3">
+							<h2 class="talk_title"><b>Single machine scheduling in additive manufacturing with
+								two-dimensional packing constraints</b><br/>
+							</h2>
+							<input type="checkbox" id="abstract_id_46" style="display:none;">
+							<label for="abstract_id_46" class="label_abstract"><a>Abstract</a></label>
+							<div class="hidden">
+								<hr style="border-top: 1px solid black;">
+								In this talk, we focus on a single machine scheduling in additive manufacturing, in
+								which parts can be produced simultaneously in a batch with two-dimensional packing
+								constraints, and the objective is to minimize the makespan. In order to solve this
+								problem, we propose an approximation algorithm with constant approximation ratio, and
+								develop a combinatorial Benders decomposition based exact algorithm with various Benders
+								cuts and acceleration strategies. We also conduct extensive computational experiments to
+								test the performance of our proposed solution approaches.
+								<hr style="border-top: 1px solid black;">
+							</div>
+							<!--TODO pdf and video-->
+							<!--					<a href="./presentations/SchedulingSeminar_LarsRohwedder.pdf" class="label_abstract" download>-->
+							<!--						Download PDF-->
+							<!--					</a>-->
+							<!--					<a href="LINK"-->
+							<!--					   class="label_abstract" download>-->
+							<!--						Download Video-->
+							<!--					</a>-->
+						</td>
+					</tr>
+
+					<!--Data--->
+					<tr>
+						<td class="presenter_image_container">
+							<div class="single_image_container">
+								<a href="https://kfang.weebly.com/">
+									<img class="single_presenter" loading="lazy" src="photos/Kan_Fang.jpg"
+									     alt="person_photo"/>
+								</a><br/>
+							</div>
+						</td>
+						<td class="information_upcoming_container">
+							<b>[Presenter]</b><br/>
+							<a href="https://kfang.weebly.com/">Kan Fang</a><br/>
+							(Tianjin University)<br/><br/>
+							<!--TODO keywords-->
+							<!--<b>Keywords:</b> Scheduling, Additive manufacturing, Two-dimensional bin packing, Approximation algorithm, Combinatorial Benders decomposition -->
+							<b>[Invited by]</b><br/>
+							<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a><br/>
+							(New York Uni)
+						</td>
+						<td class="time_zones_container">
+							<table class="time_table">
+								<tbody>
+								<tr class="utc">
+									<td>UTC</td>
+									<td>Oct 4, 13:00 Wed</td>
+								</tr>
+								<tr class="europe">
+									<td>Prague</td>
+									<td>Oct 4, 15:00 Wed</td>
+								</tr>
+								<tr class="america">
+									<td>New York</td>
+									<td>Oct 4, 09:00 Wed</td>
+								</tr>
+								<tr class="asia">
+									<td>Shanghai</td>
+									<td>Oct 4, 21:00 Wed</td>
+								</tr>
+								</tbody>
+							</table>
+						</td>
+					</tr>
+
+					<!--Spacing--->
+					<tr style="background-color: white">
+						<td colspan="100%"></td>
+					</tr>
+				</table>
 			</td>
 		</tr>
-		<!--		&lt;!&ndash;Single talk&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&ndash;&gt;-->
-		<!--		<tr>-->
-		<!--			<td>-->
-		<!--				<table class="europe">-->
-		<!--					&lt;!&ndash;Title/Abstract/PDF&ndash;&gt;-->
-		<!--					<tr>-->
-		<!--						<td colspan="3">-->
-		<!--							<h2 class="talk_title"><b>Single-machine scheduling with an external resource</b><br/>-->
-		<!--							</h2>-->
-		<!--							<input type="checkbox" id="abstract_id_46" style="display:none;">-->
-		<!--							<label for="abstract_id_46" class="label_abstract"><a>Abstract</a></label>-->
-		<!--							<div class="hidden">-->
-		<!--								<hr style="border-top: 1px solid black;">-->
-		<!--								We study a single-machine scheduling problem with an external-->
-		<!--								resource, which is rented for a non-interrupted period. Jobs that need-->
-		<!--								this external resource are executed only when the external resource is-->
-		<!--								available. There is a cost associated with the scheduling of jobs and a-->
-		<!--								cost associated with the duration of the renting period of the external-->
-		<!--								resource. We look at four classes of problems with an external resource:-->
-		<!--								a class of problems where the renting period is budgeted and the-->
-		<!--								scheduling cost needs to be minimized, a class of problems where the-->
-		<!--								scheduling cost is budgeted and the renting period needs to be-->
-		<!--								minimized, a class of two-objective problems where both, the renting-->
-		<!--								period and the scheduling cost, are to be minimized, and a class of-->
-		<!--								problems where a linear combination of the scheduling cost and the-->
-		<!--								renting period is minimized. We provide a thorough complexity analysis-->
-		<!--								(NP-hardness proofs and (pseudo-)polynomial algorithms) for different-->
-		<!--								members of these four classes.-->
-		<!--								<hr style="border-top: 1px solid black;">-->
-		<!--							</div>-->
-		<!--							&lt;!&ndash;TODO pdf and video&ndash;&gt;-->
-		<!--							&lt;!&ndash;					<a href="./presentations/SchedulingSeminar_LarsRohwedder.pdf" class="label_abstract" download>&ndash;&gt;-->
-		<!--							&lt;!&ndash;						Download PDF&ndash;&gt;-->
-		<!--							&lt;!&ndash;					</a>&ndash;&gt;-->
-		<!--							&lt;!&ndash;					<a href="LINK"&ndash;&gt;-->
-		<!--							&lt;!&ndash;					   class="label_abstract" download>&ndash;&gt;-->
-		<!--							&lt;!&ndash;						Download Video&ndash;&gt;-->
-		<!--							&lt;!&ndash;					</a>&ndash;&gt;-->
-		<!--						</td>-->
-		<!--					</tr>-->
 
-		<!--					&lt;!&ndash;Data-&ndash;&gt;-->
-		<!--					<tr>-->
-		<!--						<td class="presenter_image_container">-->
-		<!--							<div class="single_image_container">-->
-		<!--								<a href="http://www.briskorn.info/">-->
-		<!--									<img class="single_presenter" loading="lazy" src="photos/Dirk_Briskorn.jpg"-->
-		<!--									     alt="person_photo"/>-->
-		<!--								</a><br/>-->
-		<!--							</div>-->
-		<!--						</td>-->
-		<!--						<td class="information_upcoming_container">-->
-		<!--							<b>[Presenter]</b><br/>-->
-		<!--							<a href="http://www.briskorn.info/">Dirk Briskorn</a><br/>-->
-		<!--							(Uni of Wuppertal)<br/><br/>-->
-		<!--							&lt;!&ndash;TODO keywords&ndash;&gt;-->
-		<!--							&lt;!&ndash;<b>Keywords:</b> Scheduling, Single-machine scheduling, External resource, Complexity, Pseudo-polynomial algorithm &ndash;&gt;-->
-		<!--							<b>[Invited by]</b><br/>-->
-		<!--							<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a><br/>-->
-		<!--							(CTU in Prague)-->
-		<!--						</td>-->
-		<!--						<td class="time_zones_container">-->
-		<!--							<table class="time_table">-->
-		<!--								<tbody>-->
-		<!--								<tr class="utc">-->
-		<!--									<td>UTC</td>-->
-		<!--									<td>Oct 18, 13:00 Wed</td>-->
-		<!--								</tr>-->
-		<!--								<tr class="europe">-->
-		<!--									<td>Prague</td>-->
-		<!--									<td>Oct 18, 15:00 Wed</td>-->
-		<!--								</tr>-->
-		<!--								<tr class="america">-->
-		<!--									<td>New York</td>-->
-		<!--									<td>Oct 18, 09:00 Wed</td>-->
-		<!--								</tr>-->
-		<!--								<tr class="asia">-->
-		<!--									<td>Shanghai</td>-->
-		<!--									<td>Oct 18, 21:00 Wed</td>-->
-		<!--								</tr>-->
-		<!--								</tbody>-->
-		<!--							</table>-->
-		<!--						</td>-->
-		<!--					</tr>-->
+		<!--Single talk------------------------------------------------------------------------------------------------>
+		<tr>
+			<td>
+				<table class="europe">
+					<!--Title/Abstract/PDF-->
+					<tr>
+						<td colspan="3">
+							<h2 class="talk_title"><b>Single-machine scheduling with an external resource</b><br/>
+							</h2>
+							<input type="checkbox" id="abstract_id_47" style="display:none;">
+							<label for="abstract_id_47" class="label_abstract"><a>Abstract</a></label>
+							<div class="hidden">
+								<hr style="border-top: 1px solid black;">
+								We study a single-machine scheduling problem with an external
+								resource, which is rented for a non-interrupted period. Jobs that need
+								this external resource are executed only when the external resource is
+								available. There is a cost associated with the scheduling of jobs and a
+								cost associated with the duration of the renting period of the external
+								resource. We look at four classes of problems with an external resource:
+								a class of problems where the renting period is budgeted and the
+								scheduling cost needs to be minimized, a class of problems where the
+								scheduling cost is budgeted and the renting period needs to be
+								minimized, a class of two-objective problems where both, the renting
+								period and the scheduling cost, are to be minimized, and a class of
+								problems where a linear combination of the scheduling cost and the
+								renting period is minimized. We provide a thorough complexity analysis
+								(NP-hardness proofs and (pseudo-)polynomial algorithms) for different
+								members of these four classes.
+								<hr style="border-top: 1px solid black;">
+							</div>
+							<!--TODO pdf and video-->
+							<!--					<a href="./presentations/SchedulingSeminar_LarsRohwedder.pdf" class="label_abstract" download>-->
+							<!--						Download PDF-->
+							<!--					</a>-->
+							<!--					<a href="LINK"-->
+							<!--					   class="label_abstract" download>-->
+							<!--						Download Video-->
+							<!--					</a>-->
+						</td>
+					</tr>
 
-		<!--					&lt;!&ndash;Spacing-&ndash;&gt;-->
-		<!--					<tr style="background-color: white">-->
-		<!--						<td colspan="100%"></td>-->
-		<!--					</tr>-->
-		<!--				</table>-->
-		<!--			</td>-->
-		<!--		</tr>-->
+					<!--Data--->
+					<tr>
+						<td class="presenter_image_container">
+							<div class="single_image_container">
+								<a href="http://www.briskorn.info/">
+									<img class="single_presenter" loading="lazy" src="photos/Dirk_Briskorn.jpg"
+									     alt="person_photo"/>
+								</a><br/>
+							</div>
+						</td>
+						<td class="information_upcoming_container">
+							<b>[Presenter]</b><br/>
+							<a href="http://www.briskorn.info/">Dirk Briskorn</a><br/>
+							(Uni of Wuppertal)<br/><br/>
+							<!--TODO keywords-->
+							<!--<b>Keywords:</b> Scheduling, Single-machine scheduling, External resource, Complexity, Pseudo-polynomial algorithm -->
+							<b>[Invited by]</b><br/>
+							<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a><br/>
+							(CTU in Prague)
+						</td>
+						<td class="time_zones_container">
+							<table class="time_table">
+								<tbody>
+								<tr class="utc">
+									<td>UTC</td>
+									<td>Oct 18, 13:00 Wed</td>
+								</tr>
+								<tr class="europe">
+									<td>Prague</td>
+									<td>Oct 18, 15:00 Wed</td>
+								</tr>
+								<tr class="america">
+									<td>New York</td>
+									<td>Oct 18, 09:00 Wed</td>
+								</tr>
+								<tr class="asia">
+									<td>Shanghai</td>
+									<td>Oct 18, 21:00 Wed</td>
+								</tr>
+								</tbody>
+							</table>
+						</td>
+					</tr>
+
+					<!--Spacing--->
+					<tr style="background-color: white">
+						<td colspan="100%"></td>
+					</tr>
+				</table>
+			</td>
+		</tr>
 
 		<!--		&lt;!&ndash;Single talk&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&ndash;&gt;-->
 		<!--		<tr>-->
