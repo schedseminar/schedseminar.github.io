@@ -159,7 +159,6 @@
 							<b>[Presenter]</b><br/>
 							<a href="https://kfang.weebly.com/">Kan Fang</a><br/>
 							(Tianjin University)<br/><br/>
-							<!--TODO keywords-->
 							<!--<b>Keywords:</b> Scheduling, Additive manufacturing, Two-dimensional bin packing, Approximation algorithm, Combinatorial Benders decomposition -->
 							<b>[Invited by]</b><br/>
 							<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a><br/>
@@ -252,7 +251,6 @@
 							<b>[Presenter]</b><br/>
 							<a href="http://www.briskorn.info/">Dirk Briskorn</a><br/>
 							(Uni of Wuppertal)<br/><br/>
-							<!--TODO keywords-->
 							<!--<b>Keywords:</b> Scheduling, Single-machine scheduling, External resource, Complexity, Pseudo-polynomial algorithm -->
 							<b>[Invited by]</b><br/>
 							<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a><br/>
