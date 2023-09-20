@@ -114,7 +114,7 @@
 		<!--Single talk------------------------------------------------------------------------------------------------>
 		<tr>
 			<td style="padding: 0">
-				<table class="europe">
+				<table class="asia">
 					<!--Title/Abstract/PDF-->
 					<tr>
 						<td colspan="3">
