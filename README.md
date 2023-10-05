@@ -114,90 +114,6 @@
 		<!--Single talk------------------------------------------------------------------------------------------------>
 		<tr>
 			<td style="padding: 0">
-				<table class="asia">
-					<!--Title/Abstract/PDF-->
-					<tr>
-						<td colspan="3">
-							<h2 class="talk_title"><b>Single machine scheduling in additive manufacturing with
-								two-dimensional packing constraints</b><br/>
-							</h2>
-							<input type="checkbox" id="abstract_id_46" style="display:none;">
-							<label for="abstract_id_46" class="label_abstract"><a>Abstract</a></label>
-							<div class="hidden">
-								<hr style="border-top: 1px solid black;">
-								In this talk, we focus on a single machine scheduling in additive manufacturing, in
-								which parts can be produced simultaneously in a batch with two-dimensional packing
-								constraints, and the objective is to minimize the makespan. In order to solve this
-								problem, we propose an approximation algorithm with constant approximation ratio, and
-								develop a combinatorial Benders decomposition based exact algorithm with various Benders
-								cuts and acceleration strategies. We also conduct extensive computational experiments to
-								test the performance of our proposed solution approaches.
-								<hr style="border-top: 1px solid black;">
-							</div>
-							<a href="./presentations/SchedulingSeminar_KanFang.pdf" class="label_abstract" download>
-								Download PDF
-							</a>
-<!--							<a href="LINK"-->
-<!--							   class="label_abstract" download>-->
-<!--								Download Video-->
-<!--							</a>-->
-						</td>
-					</tr>
-
-					<!--Data--->
-					<tr>
-						<td class="presenter_image_container">
-							<div class="single_image_container">
-								<a href="https://kfang.weebly.com/">
-									<img class="single_presenter" loading="lazy" src="photos/Kan_Fang.jpg"
-									     alt="person_photo"/>
-								</a><br/>
-							</div>
-						</td>
-						<td class="information_upcoming_container">
-							<b>[Presenter]</b><br/>
-							<a href="https://kfang.weebly.com/">Kan Fang</a><br/>
-							(Tianjin University)<br/><br/>
-							<!--<b>Keywords:</b> Scheduling, Additive manufacturing, Two-dimensional bin packing, Approximation algorithm, Combinatorial Benders decomposition -->
-							<b>[Invited by]</b><br/>
-							<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a><br/>
-							(New York Uni)
-						</td>
-						<td class="time_zones_container">
-							<table class="time_table">
-								<tbody>
-								<tr class="utc">
-									<td>UTC</td>
-									<td>Oct 4, 13:00 Wed</td>
-								</tr>
-								<tr class="europe">
-									<td>Prague</td>
-									<td>Oct 4, 15:00 Wed</td>
-								</tr>
-								<tr class="america">
-									<td>New York</td>
-									<td>Oct 4, 09:00 Wed</td>
-								</tr>
-								<tr class="asia">
-									<td>Shanghai</td>
-									<td>Oct 4, 21:00 Wed</td>
-								</tr>
-								</tbody>
-							</table>
-						</td>
-					</tr>
-
-					<!--Spacing--->
-					<tr style="background-color: white">
-						<td colspan="100%"></td>
-					</tr>
-				</table>
-			</td>
-		</tr>
-
-		<!--Single talk------------------------------------------------------------------------------------------------>
-		<tr>
-			<td style="padding: 0">
 				<table class="europe">
 					<!--Title/Abstract/PDF-->
 					<tr>
@@ -418,7 +334,7 @@
 
 <!--Past talks-->
 <div class="column column_right">
-	<h2>Past talks (45)</h2>
+	<h2>Past talks (46)</h2>
 	<div class="inline-right"><a
 			href="https://docs.google.com/spreadsheets/d/1Glyd6FGzoKtZGfClNA_XaIK8vJZtnu8K4OdNcPr_yHc/edit#gid=0"
 			target="_blank"
@@ -426,6 +342,89 @@
 
 	<table class="past_talk_table">
 		<tbody>
+
+		<!--Single talk------------------------------------------------------------------------------------------------>
+		<tr>
+			<td style="padding: 0">
+				<table class="asia">
+					<!--Title/Abstract/PDF-->
+					<tr>
+						<td colspan="3">
+							<h2 class="talk_title"><b>Single machine scheduling in additive manufacturing with
+								two-dimensional packing constraints</b><br/>
+							</h2>
+							<input type="checkbox" id="abstract_id_46" style="display:none;">
+							<label for="abstract_id_46" class="label_abstract"><a>Abstract</a></label>
+							<div class="hidden">
+								<hr style="border-top: 1px solid black;">
+								In this talk, we focus on a single machine scheduling in additive manufacturing, in
+								which parts can be produced simultaneously in a batch with two-dimensional packing
+								constraints, and the objective is to minimize the makespan. In order to solve this
+								problem, we propose an approximation algorithm with constant approximation ratio, and
+								develop a combinatorial Benders decomposition based exact algorithm with various Benders
+								cuts and acceleration strategies. We also conduct extensive computational experiments to
+								test the performance of our proposed solution approaches.
+								<hr style="border-top: 1px solid black;">
+							</div>
+							<a href="./presentations/SchedulingSeminar_KanFang.pdf" class="label_abstract" download>
+								Download PDF
+							</a>
+							<!--							<a href="LINK"-->
+							<!--							   class="label_abstract" download>-->
+							<!--								Download Video-->
+							<!--							</a>-->
+						</td>
+					</tr>
+
+					<!--Photo and video-->
+					<tr>
+						<td class="presenter_image_container">
+							<div class="single_image_container">
+								<a href="https://kfang.weebly.com/">
+									<img class="single_presenter" loading="lazy" src="photos/Kan_Fang.jpg"
+									     alt="person_photo"/>
+								</a><br/>
+							</div>
+						</td>
+
+						<td colspan="2">
+							<div class="resizable_youtube_single">
+								<iframe width="400" height="250" src="https://www.youtube.com/embed/OGWGrckP17g?si=kRy-tBCiR_KDdZdt"
+								        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+								        allowfullscreen></iframe>
+							</div>
+						</td>
+					</tr>
+
+					<!--Text description-->
+					<tr>
+						<td class="presenter_past_info_container">
+							<b>[Presenter]</b><br/>
+							<a href="https://kfang.weebly.com/">Kan Fang</a><br/>
+							(Tianjin University)<br/>
+						</td>
+
+						<td>
+							<table class="panelists_past_container_single">
+								<tr>
+									<td colspan="2">
+										<b>Keywords:</b> Scheduling, Additive manufacturing, Two-dimensional bin packing, Approximation algorithm, Combinatorial Benders decomposition <br/><br/>
+										<b>[Invited by]</b>
+										<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a>
+										(New York Uni)
+									</td>
+								</tr>
+							</table>
+						</td>
+					</tr>
+
+					<!--Spacing--->
+					<tr style="background-color: white">
+						<td colspan="100%"></td>
+					</tr>
+				</table>
+			</td>
+		</tr>
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
 		<tr>
