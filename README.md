@@ -369,10 +369,10 @@
 							<a href="./presentations/SchedulingSeminar_KanFang.pdf" class="label_abstract" download>
 								Download PDF
 							</a>
-							<!--							<a href="LINK"-->
-							<!--							   class="label_abstract" download>-->
-							<!--								Download Video-->
-							<!--							</a>-->
+							<a href="https://scheduling-seminar.iid.ciirc.cvut.cz/videos/23_3_Fall/23_10_4%20Kan%20Fang%20(Tianjin%20University)%20_%20Single%20machine%20scheduling%20in%20additive%20manufacturing%20with%20two-dimensional%20packing%20constraints.mp4"
+							   class="label_abstract" download>
+								Download Video
+							</a>
 						</td>
 					</tr>
 
