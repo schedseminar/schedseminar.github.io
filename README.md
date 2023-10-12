@@ -203,6 +203,91 @@
 			</td>
 		</tr>
 
+		<tr>
+			<td style="padding: 0">
+				<table class="asia">
+					<!--Title/Abstract/PDF-->
+					<tr>
+						<td colspan="3">
+							<h2 class="talk_title"><b>Sublinear Space and Sublinear Time Algorithms for the Scheduling
+								Problems</b><br/>
+							</h2>
+							<input type="checkbox" id="abstract_id_48" style="display:none;">
+							<label for="abstract_id_48" class="label_abstract"><a>Abstract</a></label>
+							<div class="hidden">
+								<hr style="border-top: 1px solid black;">
+								Our research focuses on algorithmic big data solutions for scheduling problems, with a
+								goal of devising efficient algorithm design principles in two key areas: sub-linear
+								space algorithms and sub-linear time algorithms. The sub-linear space algorithm design
+								aims to develop streaming algorithms that can approximate the optimal solution in just a
+								few passes (often just one) over the data, utilizing limited space. On the other hand,
+								the sub-linear time algorithm design strives to develop sampling algorithms that can
+								approximate the optimal solution using a small portion of the input data and operate
+								within sub-linear time.
+								<hr style="border-top: 1px solid black;">
+							</div>
+							<!--TODO pdf and video-->
+							<!--					<a href="./presentations/SchedulingSeminar_LarsRohwedder.pdf" class="label_abstract" download>-->
+							<!--						Download PDF-->
+							<!--					</a>-->
+							<!--					<a href="LINK"-->
+							<!--					   class="label_abstract" download>-->
+							<!--						Download Video-->
+							<!--					</a>-->
+						</td>
+					</tr>
+
+					<!--Data--->
+					<tr>
+						<td class="presenter_image_container">
+							<div class="single_image_container">
+								<a href="https://www.cs.csi.cuny.edu/~yumei/">
+									<img class="single_presenter" loading="lazy" src="photos/yumei_huo.jpg"
+									     alt="person_photo"/>
+								</a><br/>
+							</div>
+						</td>
+						<td class="information_upcoming_container">
+							<b>[Presenter]</b><br/>
+							<a href="https://www.cs.csi.cuny.edu/~yumei/">Yumei Huo</a><br/>
+							(CUNY)<br/><br/>
+							<!--<b>Keywords:</b> Streaming Algorithm, Sub-linear Time Algorithm, Scheduling Problems -->
+							<b>[Invited by]</b><br/>
+							<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a><br/>
+							(New York Uni)
+						</td>
+						<td class="time_zones_container">
+							<table class="time_table">
+								<tbody>
+								<tr class="utc">
+									<td>UTC</td>
+									<td>Nov 1, 14:00 Wed</td>
+								</tr>
+								<tr class="europe">
+									<td>Prague</td>
+									<td>Nov 1, 15:00 Wed</td>
+								</tr>
+								<tr class="america">
+									<td>New York</td>
+									<td>Nov 1, 10:00 Wed</td>
+								</tr>
+								<tr class="asia">
+									<td>Shanghai</td>
+									<td>Nov 1, 22:00 Wed</td>
+								</tr>
+								</tbody>
+							</table>
+						</td>
+					</tr>
+
+					<!--Spacing--->
+					<tr style="background-color: white">
+						<td colspan="100%"></td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+
 		<!--		&lt;!&ndash;Single talk&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&ndash;&gt;-->
 		<!--		<tr>-->
 		<!--			<td style="padding: 0">-->
@@ -389,7 +474,8 @@
 
 						<td colspan="2">
 							<div class="resizable_youtube_single">
-								<iframe width="400" height="250" src="https://www.youtube.com/embed/OGWGrckP17g?si=kRy-tBCiR_KDdZdt"
+								<iframe width="400" height="250"
+								        src="https://www.youtube.com/embed/OGWGrckP17g?si=kRy-tBCiR_KDdZdt"
 								        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
 								        allowfullscreen></iframe>
 							</div>
@@ -408,9 +494,11 @@
 							<table class="panelists_past_container_single">
 								<tr>
 									<td colspan="2">
-										<b>Keywords:</b> Scheduling, Additive manufacturing, Two-dimensional bin packing, Approximation algorithm, Combinatorial Benders decomposition <br/><br/>
+										<b>Keywords:</b> Scheduling, Additive manufacturing, Two-dimensional bin
+										packing, Approximation algorithm, Combinatorial Benders decomposition <br/><br/>
 										<b>[Invited by]</b>
-										<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a>
+										<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael
+											Pinedo</a>
 										(New York Uni)
 									</td>
 								</tr>
