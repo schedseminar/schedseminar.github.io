@@ -311,6 +311,8 @@
 								algorithm for a scheduling problem with unit processing times. Then, a para-NP-Hardness
 								result assuming arbitrary processing times and finally we outline a FPT algorithm for
 								this problem by considering two parameters.
+
+								Authors: Claire Hanen and Alix Munier-Kordon
 								<hr style="border-top: 1px solid black;">
 							</div>
 							<!--TODO pdf and video-->
@@ -337,7 +339,7 @@
 						<td class="information_upcoming_container">
 							<b>[Presenter]</b><br/>
 							<a href="https://www.lip6.fr/actualite/personnes-fiche.php?ident=P41">Claire Hanen</a><br/>
-							LIP6, Sorbonne University<br/><br/>
+							(Sorbonne U., LIP6)<br/><br/>
 							<!--<b>Keywords:</b> Parameterized complexity, Typed tasks, Precedence constraints, Fixed parameter tractable algorithm -->
 							<b>[Invited by]</b><br/>
 							<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a><br/>
