@@ -535,7 +535,7 @@
 						<td class="information_upcoming_container">
 							<b>[Presenter]</b><br/>
 							<a href="http://cswennenhuis.win.tue.nl/">Céline Swennenhuis</a><br/>
-							(ALGO, TU Eindhoven)<br/><br/>
+							(ALGO, TU Eindhov.)<br/><br/>
 							<!--<b>Keywords:</b> Scheduling, Subexponential time, Precedence constraints -->
 							<b>[Invited by]</b><br/>
 							<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a><br/>
