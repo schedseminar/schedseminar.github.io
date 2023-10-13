@@ -203,6 +203,7 @@
 			</td>
 		</tr>
 
+		<!--Single talk------------------------------------------------------------------------------------------------>
 		<tr>
 			<td style="padding: 0">
 				<table class="america">
@@ -274,6 +275,84 @@
 								<tr class="asia">
 									<td>Shanghai</td>
 									<td>Nov 1, 22:00 Wed</td>
+								</tr>
+								</tbody>
+							</table>
+						</td>
+					</tr>
+
+					<!--Spacing--->
+					<tr style="background-color: white">
+						<td colspan="100%"></td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+
+		<!--Single talk------------------------------------------------------------------------------------------------>
+		<tr>
+			<td style="padding: 0">
+				<table class="europe">
+					<!--Title/Abstract/PDF-->
+					<tr>
+						<td colspan="3">
+							<h2 class="talk_title"><b>Fixed Parameter Tractability of scheduling dependent typed tasks with time windows</b><br/>
+							</h2>
+							<input type="checkbox" id="abstract_id_49" style="display:none;">
+							<label for="abstract_id_49" class="label_abstract"><a>Abstract</a></label>
+							<div class="hidden">
+								<hr style="border-top: 1px solid black;">
+								This talk discusses the parameterized complexity of scheduling problems, assuming precedence constraints, time windows and typed tasks resource constraints. We recall the usual parameters used for scheduling problems and focus on a parameter suitable for problems with time windows, the pathwitdth of the underlying interval graph.  We present three results involving this parameter. First we show a fixed parameter tractable (FPT) algorithm for a scheduling problem with unit processing times. Then,  a para-NP-Hardness result assuming arbitrary processing times and finally we outline a FPT algorithm for this problem by considering two parameters.
+								<hr style="border-top: 1px solid black;">
+							</div>
+							<!--TODO pdf and video-->
+							<!--					<a href="./presentations/SchedulingSeminar_LarsRohwedder.pdf" class="label_abstract" download>-->
+							<!--						Download PDF-->
+							<!--					</a>-->
+							<!--					<a href="LINK"-->
+							<!--					   class="label_abstract" download>-->
+							<!--						Download Video-->
+							<!--					</a>-->
+						</td>
+					</tr>
+
+					<!--Data--->
+					<tr>
+						<td class="presenter_image_container">
+							<div class="single_image_container">
+								<a href="https://www.lip6.fr/actualite/personnes-fiche.php?ident=P41">
+									<img class="single_presenter" loading="lazy" src="photos/Claire_Hanen_2.jpg"
+									     alt="person_photo"/>
+								</a><br/>
+							</div>
+						</td>
+						<td class="information_upcoming_container">
+							<b>[Presenter]</b><br/>
+							<a href="https://www.lip6.fr/actualite/personnes-fiche.php?ident=P41">Claire Hanen</a><br/>
+							LIP6, Sorbonne University<br/><br/>
+							<!--<b>Keywords:</b> Parameterized complexity, Typed tasks, Precedence constraints, Fixed parameter tractable algorithm -->
+							<b>[Invited by]</b><br/>
+							<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a><br/>
+							(New York Uni)
+						</td>
+						<td class="time_zones_container">
+							<table class="time_table">
+								<tbody>
+								<tr class="utc">
+									<td>UTC</td>
+									<td>Nov 15, 14:00 Wed</td>
+								</tr>
+								<tr class="europe">
+									<td>Prague</td>
+									<td>Nov 15, 15:00 Wed</td>
+								</tr>
+								<tr class="america">
+									<td>New York</td>
+									<td>Nov 15, 09:00 Wed</td>
+								</tr>
+								<tr class="asia">
+									<td>Shanghai</td>
+									<td>Nov 15, 22:00 Wed</td>
 								</tr>
 								</tbody>
 							</table>
