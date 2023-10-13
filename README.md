@@ -476,11 +476,11 @@
 								</tr>
 								<tr class="america">
 									<td>New York</td>
-									<td>Nov 29, :00 Wed</td>
+									<td>Nov 29, 09:00 Wed</td>
 								</tr>
 								<tr class="asia">
 									<td>Shanghai</td>
-									<td>Nov 29, :00 Wed</td>
+									<td>Nov 29, 22:00 Wed</td>
 								</tr>
 								</tbody>
 							</table>
