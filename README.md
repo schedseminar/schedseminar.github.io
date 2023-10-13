@@ -495,6 +495,84 @@
 			</td>
 		</tr>
 
+		<!--Single talk------------------------------------------------------------------------------------------------>
+		<tr>
+			<td style="padding: 0">
+				<table class="europe">
+					<!--Title/Abstract/PDF-->
+					<tr>
+						<td colspan="3">
+							<h2 class="talk_title"><b>A Subexponential Time Algorithm for Makespan Scheduling of Unit Jobs with Precedence Constraints</b><br/>
+							</h2>
+							<input type="checkbox" id="abstract_id_51" style="display:none;">
+							<label for="abstract_id_51" class="label_abstract"><a>Abstract</a></label>
+							<div class="hidden">
+								<hr style="border-top: 1px solid black;">
+								In a classical scheduling problem, we are given a set of n jobs of unit length along with precedence constraints, and the goal is to find a schedule of these jobs on m identical parallel machines that minimizes the makespan. Using the standard 3-field notation, it is known as Pm|prec, p_j=1|Cmax. Settling the complexity of Pm|prec, p_j=1|Cmax even for m=3 machines is, together with Subgraph Isomorphism, among the last two open problems from the book of Garey and Johnson [GJ79] for which the computational complexity remains a mystery. We present an algorithm for this problem that runs in subexponential time (2^{O(sqrt(n)log(n))} time) when m = o(n).
+								<hr style="border-top: 1px solid black;">
+							</div>
+							<!--TODO pdf and video-->
+							<!--					<a href="./presentations/SchedulingSeminar_LarsRohwedder.pdf" class="label_abstract" download>-->
+							<!--						Download PDF-->
+							<!--					</a>-->
+							<!--					<a href="LINK"-->
+							<!--					   class="label_abstract" download>-->
+							<!--						Download Video-->
+							<!--					</a>-->
+						</td>
+					</tr>
+
+					<!--Data--->
+					<tr>
+						<td class="presenter_image_container">
+							<div class="single_image_container">
+								<a href="http://cswennenhuis.win.tue.nl/">
+									<img class="single_presenter" loading="lazy" src="photos/Celine_Swennenhuis.jpg"
+									     alt="person_photo"/>
+								</a><br/>
+							</div>
+						</td>
+						<td class="information_upcoming_container">
+							<b>[Presenter]</b><br/>
+							<a href="http://cswennenhuis.win.tue.nl/">Céline Swennenhuis</a><br/>
+							(ALGO, TU Eindhoven)<br/><br/>
+							<!--<b>Keywords:</b> Scheduling, Subexponential time, Precedence constraints -->
+							<b>[Invited by]</b><br/>
+							<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a><br/>
+							(New York Uni)
+						</td>
+						<td class="time_zones_container">
+							<table class="time_table">
+								<tbody>
+								<tr class="utc">
+									<td>UTC</td>
+									<td>Dec 12, 14:00 Wed</td>
+								</tr>
+								<tr class="europe">
+									<td>Prague</td>
+									<td>Dec 12, 15:00 Wed</td>
+								</tr>
+								<tr class="america">
+									<td>New York</td>
+									<td>Dec 12, 09:00 Wed</td>
+								</tr>
+								<tr class="asia">
+									<td>Shanghai</td>
+									<td>Dec 12, 22:00 Wed</td>
+								</tr>
+								</tbody>
+							</table>
+						</td>
+					</tr>
+
+					<!--Spacing--->
+					<tr style="background-color: white">
+						<td colspan="100%"></td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+
 		</tbody>
 	</table>
 
