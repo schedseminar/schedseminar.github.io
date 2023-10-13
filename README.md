@@ -546,19 +546,19 @@
 								<tbody>
 								<tr class="utc">
 									<td>UTC</td>
-									<td>Dec 12, 14:00 Wed</td>
+									<td>Dec 13, 14:00 Wed</td>
 								</tr>
 								<tr class="europe">
 									<td>Prague</td>
-									<td>Dec 12, 15:00 Wed</td>
+									<td>Dec 13, 15:00 Wed</td>
 								</tr>
 								<tr class="america">
 									<td>New York</td>
-									<td>Dec 12, 09:00 Wed</td>
+									<td>Dec 13, 09:00 Wed</td>
 								</tr>
 								<tr class="asia">
 									<td>Shanghai</td>
-									<td>Dec 12, 22:00 Wed</td>
+									<td>Dec 13, 22:00 Wed</td>
 								</tr>
 								</tbody>
 							</table>
