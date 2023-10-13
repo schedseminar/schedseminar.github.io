@@ -5440,7 +5440,7 @@
 				<a href="https://ufr-segmi.parisnanterre.fr/organisation-et-contacts/espace-reserve-enseignants/site-des-enseignants/les-enseignants-de-segmi/hanen-claire/hanen-claire-93518.kjsp">
 					<!--Div due to placeholder for lazy loading-->
 					<div class="small_image_placeholder">
-						<img src="photos/claire_hanen.jpg" loading="lazy" height="200" width="150" alt="person_photo"/>
+						<img src="photos/Claire_Hanen.jpg" loading="lazy" height="200" width="150" alt="person_photo"/>
 					</div>
 					Claire Hanen<br/>
 					Sorbonne Uni</a>
