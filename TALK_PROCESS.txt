@@ -1,0 +1,14 @@
+1) Upcoming talk
+    - Oriznout obrazek a preformatovat kvuli velikosti
+    - Vytvorit entry (ze sablony Single/Dual talk)
+    - Google Calendar entry
+    - Upload PDF
+2) Past talk
+    - Premistit talk podle sablony published talk
+    - Zmenit cislo past talku
+    - Youtube edit
+        - Jméno, popis...
+        - Ořez (predtim stahnout)
+        - Přidat do playlistu (pokud novy playlist tak ho zobrazit v nastaveni kanalu)
+    - Uploadnout orizle video na RTIME (https://scheduling-seminar.iid.ciirc.cvut.cz/videos/)
+    - Update Speaker list
