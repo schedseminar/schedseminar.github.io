@@ -203,6 +203,7 @@
 			</td>
 		</tr>
 
+		<!--Single talk------------------------------------------------------------------------------------------------>
 		<tr>
 			<td style="padding: 0">
 				<table class="america">
@@ -288,123 +289,289 @@
 			</td>
 		</tr>
 
-		<!--		&lt;!&ndash;Single talk&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&ndash;&gt;-->
-		<!--		<tr>-->
-		<!--			<td style="padding: 0">-->
-		<!--				<table class="europe">-->
-		<!--					&lt;!&ndash;Title/Abstract/PDF&ndash;&gt;-->
-		<!--					<tr>-->
-		<!--						<td colspan="3">-->
-		<!--							<h2 class="talk_title"><b>Enhancing project resilience: a risk-averse approach to payment-->
-		<!--								delays</b><br/>-->
-		<!--							</h2>-->
-		<!--							<input type="checkbox" id="abstract_id_49" style="display:none;">-->
-		<!--							<label for="abstract_id_49" class="label_abstract"><a>Abstract</a></label>-->
-		<!--							<div class="hidden">-->
-		<!--								<hr style="border-top: 1px solid black;">-->
-		<!--								The onset of the pandemic and the conflict in Europe have disrupted our society, supply-->
-		<!--								chains,-->
-		<!--								and-->
-		<!--								economies. The effects of these global shocks are evident in every type of project - -->
-		<!--								whether-->
-		<!--								related to-->
-		<!--								the energy transition, the renewal of transport infrastructure, or the construction-->
-		<!--								industry- -->
-		<!--								impacted-->
-		<!--								by the highest rates of inflation in more than 30 years and by a significant cash flow-->
-		<!--								crisis.-->
-		<!--								In this-->
-		<!--								complex landscape, delays in payments have become a common risk factor for projects,-->
-		<!--								since they-->
-		<!--								create a-->
-		<!--								time lag between the expenses incurred by the contractor and the progress payments-->
-		<!--								received from-->
-		<!--								the-->
-		<!--								client. The challenges associated with obtaining continuous project finances often place-->
-		<!--								undue-->
-		<!--								financial-->
-		<!--								strain on contractors that may seek loans from financial institutions to maintain their-->
-		<!--								daily-->
-		<!--								operations. These loans must be returned with interest, increasing financing costs, and-->
-		<!--								considerably-->
-		<!--								lowering the Net Present Value. In this talk, we delve into cash flow and project-->
-		<!--								scheduling-->
-		<!--								strategies-->
-		<!--								to mitigate late payment impacts and enhancing project resilience, presenting a-->
-		<!--								distributionally-->
-		<!--								robust-->
-		<!--								risk-averse model that minimizes the financing cost by accurately estimating the amount-->
-		<!--								and-->
-		<!--								timing of-->
-		<!--								the expenses and revenues throughout the project life cycle and foreseeing possible cost-->
-		<!--								overruns and-->
-		<!--								cash flow fluctuations.-->
-		<!--								Joint work with Oncu Hazir-->
-		<!--								<hr style="border-top: 1px solid black;">-->
-		<!--							</div>-->
-		<!--							&lt;!&ndash;TODO pdf and video&ndash;&gt;-->
-		<!--							&lt;!&ndash;					<a href="./presentations/SchedulingSeminar_LarsRohwedder.pdf" class="label_abstract" download>&ndash;&gt;-->
-		<!--							&lt;!&ndash;						Download PDF&ndash;&gt;-->
-		<!--							&lt;!&ndash;					</a>&ndash;&gt;-->
-		<!--							&lt;!&ndash;					<a href="LINK"&ndash;&gt;-->
-		<!--							&lt;!&ndash;					   class="label_abstract" download>&ndash;&gt;-->
-		<!--							&lt;!&ndash;						Download Video&ndash;&gt;-->
-		<!--							&lt;!&ndash;					</a>&ndash;&gt;-->
-		<!--						</td>-->
-		<!--					</tr>-->
+		<!--Single talk------------------------------------------------------------------------------------------------>
+		<tr>
+			<td style="padding: 0">
+				<table class="europe">
+					<!--Title/Abstract/PDF-->
+					<tr>
+						<td colspan="3">
+							<h2 class="talk_title"><b>Fixed Parameter Tractability of scheduling dependent typed tasks
+								with time windows</b><br/>
+							</h2>
+							<input type="checkbox" id="abstract_id_49" style="display:none;">
+							<label for="abstract_id_49" class="label_abstract"><a>Abstract</a></label>
+							<div class="hidden">
+								<hr style="border-top: 1px solid black;">
+								This talk discusses the parameterized complexity of scheduling problems, assuming
+								precedence constraints, time windows and typed tasks resource constraints. We recall the
+								usual parameters used for scheduling problems and focus on a parameter suitable for
+								problems with time windows, the pathwitdth of the underlying interval graph. We present
+								three results involving this parameter. First we show a fixed parameter tractable (FPT)
+								algorithm for a scheduling problem with unit processing times. Then, a para-NP-Hardness
+								result assuming arbitrary processing times and finally we outline a FPT algorithm for
+								this problem by considering two parameters.
 
-		<!--					&lt;!&ndash;Data-&ndash;&gt;-->
-		<!--					<tr>-->
-		<!--						<td class="presenter_image_container">-->
-		<!--							<div class="single_image_container">-->
-		<!--								<a href="https://www.unical.it/storage/teachers/gAAAAABi2D-mEiJ-DC2koDLqpcRWlGK5Iqt7PXrVZZFzO6-vUCbdNHpud2f3YD2nN-FriRbt-aqfOBGausOLqfuhcsrRp-hJSg==/?lang=en">-->
-		<!--									<img class="single_presenter" loading="lazy" src="photos/Maria_Elena.jpg"-->
-		<!--									     alt="person_photo"/>-->
-		<!--								</a><br/>-->
-		<!--							</div>-->
-		<!--						</td>-->
-		<!--						<td class="information_upcoming_container">-->
-		<!--							<b>[Presenter]</b><br/>-->
-		<!--							<a href="https://www.unical.it/storage/teachers/gAAAAABi2D-mEiJ-DC2koDLqpcRWlGK5Iqt7PXrVZZFzO6-vUCbdNHpud2f3YD2nN-FriRbt-aqfOBGausOLqfuhcsrRp-hJSg==/?lang=en">Maria-->
-		<!--								Elena Bruni</a><br/>-->
-		<!--							(Uni of Calabria)<br/><br/>-->
-		<!--							&lt;!&ndash;TODO keywords&ndash;&gt;-->
-		<!--							&lt;!&ndash;<b>Keywords:</b> Logistics, Scheduling, Stacking cranes, Container terminal, Branch and cut &ndash;&gt;-->
-		<!--							<b>[Invited by]</b><br/>-->
-		<!--							<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a><br/>-->
-		<!--							(CTU in Prague)-->
-		<!--						</td>-->
-		<!--						<td class="time_zones_container">-->
-		<!--							<table class="time_table">-->
-		<!--								<tbody>-->
-		<!--								<tr class="utc">-->
-		<!--									<td>UTC</td>-->
-		<!--									<td>Nov 29, 14:00 Wed</td>-->
-		<!--								</tr>-->
-		<!--								<tr class="europe">-->
-		<!--									<td>Prague</td>-->
-		<!--									<td>Nov 29, 15:00 Wed</td>-->
-		<!--								</tr>-->
-		<!--								<tr class="america">-->
-		<!--									<td>New York</td>-->
-		<!--									<td>Nov 29, :00 Wed</td>-->
-		<!--								</tr>-->
-		<!--								<tr class="asia">-->
-		<!--									<td>Shanghai</td>-->
-		<!--									<td>Nov 29, :00 Wed</td>-->
-		<!--								</tr>-->
-		<!--								</tbody>-->
-		<!--							</table>-->
-		<!--						</td>-->
-		<!--					</tr>-->
+								Authors: Claire Hanen and Alix Munier-Kordon
+								<hr style="border-top: 1px solid black;">
+							</div>
+							<!--TODO pdf and video-->
+							<!--					<a href="./presentations/SchedulingSeminar_LarsRohwedder.pdf" class="label_abstract" download>-->
+							<!--						Download PDF-->
+							<!--					</a>-->
+							<!--					<a href="LINK"-->
+							<!--					   class="label_abstract" download>-->
+							<!--						Download Video-->
+							<!--					</a>-->
+						</td>
+					</tr>
 
-		<!--					&lt;!&ndash;Spacing-&ndash;&gt;-->
-		<!--					<tr style="background-color: white">-->
-		<!--						<td colspan="100%"></td>-->
-		<!--					</tr>-->
-		<!--				</table>-->
-		<!--			</td>-->
-		<!--		</tr>-->
+					<!--Data--->
+					<tr>
+						<td class="presenter_image_container">
+							<div class="single_image_container">
+								<a href="https://www.lip6.fr/actualite/personnes-fiche.php?ident=P41">
+									<img class="single_presenter" loading="lazy" src="photos/Claire_Hanen_2.jpg"
+									     alt="person_photo"/>
+								</a><br/>
+							</div>
+						</td>
+						<td class="information_upcoming_container">
+							<b>[Presenter]</b><br/>
+							<a href="https://www.lip6.fr/actualite/personnes-fiche.php?ident=P41">Claire Hanen</a><br/>
+							(Sorbonne U., LIP6)<br/><br/>
+							<!--<b>Keywords:</b> Parameterized complexity, Typed tasks, Precedence constraints, Fixed parameter tractable algorithm -->
+							<b>[Invited by]</b><br/>
+							<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a><br/>
+							(CTU in Prague)
+						</td>
+						<td class="time_zones_container">
+							<table class="time_table">
+								<tbody>
+								<tr class="utc">
+									<td>UTC</td>
+									<td>Nov 15, 14:00 Wed</td>
+								</tr>
+								<tr class="europe">
+									<td>Prague</td>
+									<td>Nov 15, 15:00 Wed</td>
+								</tr>
+								<tr class="america">
+									<td>New York</td>
+									<td>Nov 15, 09:00 Wed</td>
+								</tr>
+								<tr class="asia">
+									<td>Shanghai</td>
+									<td>Nov 15, 22:00 Wed</td>
+								</tr>
+								</tbody>
+							</table>
+						</td>
+					</tr>
+
+					<!--Spacing--->
+					<tr style="background-color: white">
+						<td colspan="100%"></td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+
+		<!--Single talk------------------------------------------------------------------------------------------------>
+		<tr>
+			<td style="padding: 0">
+				<table class="europe">
+					<!--Title/Abstract/PDF-->
+					<tr>
+						<td colspan="3">
+							<h2 class="talk_title"><b>Enhancing project resilience: a risk-averse approach to payment
+								delays</b><br/>
+							</h2>
+							<input type="checkbox" id="abstract_id_50" style="display:none;">
+							<label for="abstract_id_50" class="label_abstract"><a>Abstract</a></label>
+							<div class="hidden">
+								<hr style="border-top: 1px solid black;">
+								The onset of the pandemic and the conflict in Europe have disrupted our society, supply
+								chains,
+								and
+								economies. The effects of these global shocks are evident in every type of project -
+								whether
+								related to
+								the energy transition, the renewal of transport infrastructure, or the construction
+								industry-
+								impacted
+								by the highest rates of inflation in more than 30 years and by a significant cash flow
+								crisis.
+								In this
+								complex landscape, delays in payments have become a common risk factor for projects,
+								since they
+								create a
+								time lag between the expenses incurred by the contractor and the progress payments
+								received from
+								the
+								client. The challenges associated with obtaining continuous project finances often place
+								undue
+								financial
+								strain on contractors that may seek loans from financial institutions to maintain their
+								daily
+								operations. These loans must be returned with interest, increasing financing costs, and
+								considerably
+								lowering the Net Present Value. In this talk, we delve into cash flow and project
+								scheduling
+								strategies
+								to mitigate late payment impacts and enhancing project resilience, presenting a
+								distributionally
+								robust
+								risk-averse model that minimizes the financing cost by accurately estimating the amount
+								and
+								timing of
+								the expenses and revenues throughout the project life cycle and foreseeing possible cost
+								overruns and
+								cash flow fluctuations.
+								Joint work with Oncu Hazir
+								<hr style="border-top: 1px solid black;">
+							</div>
+							<!--TODO pdf and video-->
+							<!--					<a href="./presentations/SchedulingSeminar_LarsRohwedder.pdf" class="label_abstract" download>-->
+							<!--						Download PDF-->
+							<!--					</a>-->
+							<!--					<a href="LINK"-->
+							<!--					   class="label_abstract" download>-->
+							<!--						Download Video-->
+							<!--					</a>-->
+						</td>
+					</tr>
+
+					<!--Data--->
+					<tr>
+						<td class="presenter_image_container">
+							<div class="single_image_container">
+								<a href="https://www.unical.it/storage/teachers/gAAAAABi2D-mEiJ-DC2koDLqpcRWlGK5Iqt7PXrVZZFzO6-vUCbdNHpud2f3YD2nN-FriRbt-aqfOBGausOLqfuhcsrRp-hJSg==/?lang=en">
+									<img class="single_presenter" loading="lazy" src="photos/Maria_Elena.jpg"
+									     alt="person_photo"/>
+								</a><br/>
+							</div>
+						</td>
+						<td class="information_upcoming_container">
+							<b>[Presenter]</b><br/>
+							<a href="https://www.unical.it/storage/teachers/gAAAAABi2D-mEiJ-DC2koDLqpcRWlGK5Iqt7PXrVZZFzO6-vUCbdNHpud2f3YD2nN-FriRbt-aqfOBGausOLqfuhcsrRp-hJSg==/?lang=en">Maria
+								Elena Bruni</a><br/>
+							(Uni of Calabria)<br/><br/>
+							<!--TODO keywords-->
+							<!--<b>Keywords:</b> Logistics, Scheduling, Stacking cranes, Container terminal, Branch and cut -->
+							<b>[Invited by]</b><br/>
+							<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a><br/>
+							(CTU in Prague)
+						</td>
+						<td class="time_zones_container">
+							<table class="time_table">
+								<tbody>
+								<tr class="utc">
+									<td>UTC</td>
+									<td>Nov 29, 14:00 Wed</td>
+								</tr>
+								<tr class="europe">
+									<td>Prague</td>
+									<td>Nov 29, 15:00 Wed</td>
+								</tr>
+								<tr class="america">
+									<td>New York</td>
+									<td>Nov 29, 09:00 Wed</td>
+								</tr>
+								<tr class="asia">
+									<td>Shanghai</td>
+									<td>Nov 29, 22:00 Wed</td>
+								</tr>
+								</tbody>
+							</table>
+						</td>
+					</tr>
+
+					<!--Spacing--->
+					<tr style="background-color: white">
+						<td colspan="100%"></td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+
+		<!--Single talk------------------------------------------------------------------------------------------------>
+		<tr>
+			<td style="padding: 0">
+				<table class="europe">
+					<!--Title/Abstract/PDF-->
+					<tr>
+						<td colspan="3">
+							<h2 class="talk_title"><b>A Subexponential Time Algorithm for Makespan Scheduling of Unit Jobs with Precedence Constraints</b><br/>
+							</h2>
+							<input type="checkbox" id="abstract_id_51" style="display:none;">
+							<label for="abstract_id_51" class="label_abstract"><a>Abstract</a></label>
+							<div class="hidden">
+								<hr style="border-top: 1px solid black;">
+								In a classical scheduling problem, we are given a set of n jobs of unit length along with precedence constraints, and the goal is to find a schedule of these jobs on m identical parallel machines that minimizes the makespan. Using the standard 3-field notation, it is known as Pm|prec, p_j=1|Cmax. Settling the complexity of Pm|prec, p_j=1|Cmax even for m=3 machines is, together with Subgraph Isomorphism, among the last two open problems from the book of Garey and Johnson [GJ79] for which the computational complexity remains a mystery. We present an algorithm for this problem that runs in subexponential time (2^{O(sqrt(n)log(n))} time) when m = o(n).
+								<hr style="border-top: 1px solid black;">
+							</div>
+							<!--TODO pdf and video-->
+							<!--					<a href="./presentations/SchedulingSeminar_LarsRohwedder.pdf" class="label_abstract" download>-->
+							<!--						Download PDF-->
+							<!--					</a>-->
+							<!--					<a href="LINK"-->
+							<!--					   class="label_abstract" download>-->
+							<!--						Download Video-->
+							<!--					</a>-->
+						</td>
+					</tr>
+
+					<!--Data--->
+					<tr>
+						<td class="presenter_image_container">
+							<div class="single_image_container">
+								<a href="http://cswennenhuis.win.tue.nl/">
+									<img class="single_presenter" loading="lazy" src="photos/Celine_Swennenhuis.jpg"
+									     alt="person_photo"/>
+								</a><br/>
+							</div>
+						</td>
+						<td class="information_upcoming_container">
+							<b>[Presenter]</b><br/>
+							<a href="http://cswennenhuis.win.tue.nl/">Céline Swennenhuis</a><br/>
+							(ALGO, TU Eindhov.)<br/><br/>
+							<!--<b>Keywords:</b> Scheduling, Subexponential time, Precedence constraints -->
+							<b>[Invited by]</b><br/>
+							<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a><br/>
+							(New York Uni)
+						</td>
+						<td class="time_zones_container">
+							<table class="time_table">
+								<tbody>
+								<tr class="utc">
+									<td>UTC</td>
+									<td>Dec 13, 14:00 Wed</td>
+								</tr>
+								<tr class="europe">
+									<td>Prague</td>
+									<td>Dec 13, 15:00 Wed</td>
+								</tr>
+								<tr class="america">
+									<td>New York</td>
+									<td>Dec 13, 09:00 Wed</td>
+								</tr>
+								<tr class="asia">
+									<td>Shanghai</td>
+									<td>Dec 13, 22:00 Wed</td>
+								</tr>
+								</tbody>
+							</table>
+						</td>
+					</tr>
+
+					<!--Spacing--->
+					<tr style="background-color: white">
+						<td colspan="100%"></td>
+					</tr>
+				</table>
+			</td>
+		</tr>
 
 		</tbody>
 	</table>
@@ -5273,7 +5440,7 @@
 				<a href="https://ufr-segmi.parisnanterre.fr/organisation-et-contacts/espace-reserve-enseignants/site-des-enseignants/les-enseignants-de-segmi/hanen-claire/hanen-claire-93518.kjsp">
 					<!--Div due to placeholder for lazy loading-->
 					<div class="small_image_placeholder">
-						<img src="photos/claire_hanen.jpg" loading="lazy" height="200" width="150" alt="person_photo"/>
+						<img src="photos/Claire_Hanen.jpg" loading="lazy" height="200" width="150" alt="person_photo"/>
 					</div>
 					Claire Hanen<br/>
 					Sorbonne Uni</a>
