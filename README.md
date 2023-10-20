@@ -494,7 +494,7 @@
 
 <!--Past talks-->
 <div class="column column_right">
-	<h2>Past talks (46)</h2>
+	<h2>Past talks (47)</h2>
 	<div class="inline-right"><a
 			href="https://docs.google.com/spreadsheets/d/1Glyd6FGzoKtZGfClNA_XaIK8vJZtnu8K4OdNcPr_yHc/edit#gid=0"
 			target="_blank"
