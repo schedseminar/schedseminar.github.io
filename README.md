@@ -537,10 +537,10 @@
 							<a href="./presentations/SchedulingSeminar_DirkBriskorn.pdf" class="label_abstract" download>
 								Download PDF
 							</a>
-							<!--					<a href="LINK"-->
-							<!--					   class="label_abstract" download>-->
-							<!--						Download Video-->
-							<!--					</a>-->
+							<a href="https://scheduling-seminar.iid.ciirc.cvut.cz/videos/23_3_Fall/23_10_18%20Dirk%20Briskorn%20(Uni%20of%20Wuppertal)%20_%20Single-machine%20scheduling%20with%20ext.%20resource.mp4"
+							   class="label_abstract" download>
+								Download Video
+							</a>
 						</td>
 					</tr>
 
