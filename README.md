@@ -494,7 +494,7 @@
 
 <!--Past talks-->
 <div class="column column_right">
-	<h2>Past talks (46)</h2>
+	<h2>Past talks (47)</h2>
 	<div class="inline-right"><a
 			href="https://docs.google.com/spreadsheets/d/1Glyd6FGzoKtZGfClNA_XaIK8vJZtnu8K4OdNcPr_yHc/edit#gid=0"
 			target="_blank"
@@ -502,6 +502,96 @@
 
 	<table class="past_talk_table">
 		<tbody>
+
+		<!--Single talk------------------------------------------------------------------------------------------------>
+		<tr>
+			<td style="padding: 0">
+				<table class="europe">
+					<!--Title/Abstract/PDF-->
+					<tr>
+						<td colspan="3">
+							<h2 class="talk_title"><b>Single-machine scheduling with an external resource</b><br/>
+							</h2>
+							<input type="checkbox" id="abstract_id_47" style="display:none;">
+							<label for="abstract_id_47" class="label_abstract"><a>Abstract</a></label>
+							<div class="hidden">
+								<hr style="border-top: 1px solid black;">
+								We study a single-machine scheduling problem with an external
+								resource, which is rented for a non-interrupted period. Jobs that need
+								this external resource are executed only when the external resource is
+								available. There is a cost associated with the scheduling of jobs and a
+								cost associated with the duration of the renting period of the external
+								resource. We look at four classes of problems with an external resource:
+								a class of problems where the renting period is budgeted and the
+								scheduling cost needs to be minimized, a class of problems where the
+								scheduling cost is budgeted and the renting period needs to be
+								minimized, a class of two-objective problems where both, the renting
+								period and the scheduling cost, are to be minimized, and a class of
+								problems where a linear combination of the scheduling cost and the
+								renting period is minimized. We provide a thorough complexity analysis
+								(NP-hardness proofs and (pseudo-)polynomial algorithms) for different
+								members of these four classes.
+								<hr style="border-top: 1px solid black;">
+							</div>
+							<a href="./presentations/SchedulingSeminar_DirkBriskorn.pdf" class="label_abstract" download>
+								Download PDF
+							</a>
+							<a href="https://scheduling-seminar.iid.ciirc.cvut.cz/videos/23_3_Fall/23_10_18%20Dirk%20Briskorn%20(Uni%20of%20Wuppertal)%20_%20Single-machine%20scheduling%20with%20ext.%20resource.mp4"
+							   class="label_abstract" download>
+								Download Video
+							</a>
+						</td>
+					</tr>
+
+					<!--Photo and video-->
+					<tr>
+						<td class="presenter_image_container">
+							<div class="single_image_container">
+								<a href="http://www.briskorn.info/">
+									<img class="single_presenter" loading="lazy" src="photos/Dirk_Briskorn.jpg"
+									     alt="person_photo"/>
+								</a><br/>
+							</div>
+						</td>
+
+						<td colspan="2">
+							<div class="resizable_youtube_single">
+								<iframe width="400" height="250" src="https://www.youtube.com/embed/ut_opCCpHfQ?si=SrOp_sIvjoQ75BSL"
+								        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+								        allowfullscreen></iframe>
+							</div>
+						</td>
+					</tr>
+
+					<!--Text description-->
+					<tr>
+						<td class="presenter_past_info_container">
+							<b>[Presenter]</b><br/>
+							<a href="http://www.briskorn.info/">Dirk Briskorn</a><br/>
+							(Uni of Wuppertal)<br/>
+						</td>
+
+						<td>
+							<table class="panelists_past_container_single">
+								<tr>
+									<td colspan="2">
+										<b>Keywords:</b> Scheduling, Single-machine scheduling, External resource, Complexity, Pseudo-polynomial algorithm<br/><br/>
+										<b>[Invited by]</b>
+										<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a>
+										(CTU in Prague)
+									</td>
+								</tr>
+							</table>
+						</td>
+					</tr>
+
+					<!--Spacing--->
+					<tr style="background-color: white">
+						<td colspan="100%"></td>
+					</tr>
+				</table>
+			</td>
+		</tr>
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
 		<tr>
