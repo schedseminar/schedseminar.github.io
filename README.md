@@ -114,92 +114,6 @@
 		<!--Single talk------------------------------------------------------------------------------------------------>
 		<tr>
 			<td style="padding: 0">
-				<table class="america">
-					<!--Title/Abstract/PDF-->
-					<tr>
-						<td colspan="3">
-							<h2 class="talk_title"><b>Sublinear Space and Sublinear Time Algorithms for the Scheduling
-								Problems</b><br/>
-							</h2>
-							<input type="checkbox" id="abstract_id_48" style="display:none;">
-							<label for="abstract_id_48" class="label_abstract"><a>Abstract</a></label>
-							<div class="hidden">
-								<hr style="border-top: 1px solid black;">
-								Our research focuses on algorithmic big data solutions for scheduling problems, with a
-								goal of devising efficient algorithm design principles in two key areas: sub-linear
-								space algorithms and sub-linear time algorithms. The sub-linear space algorithm design
-								aims to develop streaming algorithms that can approximate the optimal solution in just a
-								few passes (often just one) over the data, utilizing limited space. On the other hand,
-								the sub-linear time algorithm design strives to develop sampling algorithms that can
-								approximate the optimal solution using a small portion of the input data and operate
-								within sub-linear time.
-								<hr style="border-top: 1px solid black;">
-							</div>
-							<!--TODO pdf and video-->
-							<!--					<a href="./presentations/SchedulingSeminar_LarsRohwedder.pdf" class="label_abstract" download>-->
-							<!--						Download PDF-->
-							<!--					</a>-->
-							<!--					<a href="LINK"-->
-							<!--					   class="label_abstract" download>-->
-							<!--						Download Video-->
-							<!--					</a>-->
-						</td>
-					</tr>
-
-					<!--Data--->
-					<tr>
-						<td class="presenter_image_container">
-							<div class="single_image_container">
-								<a href="https://www.cs.csi.cuny.edu/~yumei/">
-									<img class="single_presenter" loading="lazy" src="photos/yumei_huo.jpg"
-									     alt="person_photo"/>
-								</a><br/>
-							</div>
-						</td>
-						<td class="information_upcoming_container">
-							<b>[Presenter]</b><br/>
-							<a href="https://www.cs.csi.cuny.edu/~yumei/">Yumei Huo</a><br/>
-							(CUNY)<br/><br/>
-							<!--<b>Keywords:</b> Streaming Algorithm, Sub-linear Time Algorithm, Scheduling Problems -->
-							<b>[Invited by]</b><br/>
-							<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a><br/>
-							(New York Uni)
-						</td>
-						<td class="time_zones_container">
-							<table class="time_table">
-								<tbody>
-								<tr class="utc">
-									<td>UTC</td>
-									<td>Nov 1, 14:00 Wed</td>
-								</tr>
-								<tr class="europe">
-									<td>Prague</td>
-									<td>Nov 1, 15:00 Wed</td>
-								</tr>
-								<tr class="america">
-									<td>New York</td>
-									<td>Nov 1, 10:00 Wed</td>
-								</tr>
-								<tr class="asia">
-									<td>Shanghai</td>
-									<td>Nov 1, 22:00 Wed</td>
-								</tr>
-								</tbody>
-							</table>
-						</td>
-					</tr>
-
-					<!--Spacing--->
-					<tr style="background-color: white">
-						<td colspan="100%"></td>
-					</tr>
-				</table>
-			</td>
-		</tr>
-
-		<!--Single talk------------------------------------------------------------------------------------------------>
-		<tr>
-			<td style="padding: 0">
 				<table class="europe">
 					<!--Title/Abstract/PDF-->
 					<tr>
@@ -207,8 +121,8 @@
 							<h2 class="talk_title"><b>Fixed Parameter Tractability of scheduling dependent typed tasks
 								with time windows</b><br/>
 							</h2>
-							<input type="checkbox" id="abstract_id_49" style="display:none;">
-							<label for="abstract_id_49" class="label_abstract"><a>Abstract</a></label>
+							<input type="checkbox" id="abstract_id_48" style="display:none;">
+							<label for="abstract_id_48" class="label_abstract"><a>Abstract</a></label>
 							<div class="hidden">
 								<hr style="border-top: 1px solid black;">
 								This talk discusses the parameterized complexity of scheduling problems, assuming
@@ -295,8 +209,8 @@
 							<h2 class="talk_title"><b>Enhancing project resilience: a risk-averse approach to payment
 								delays</b><br/>
 							</h2>
-							<input type="checkbox" id="abstract_id_50" style="display:none;">
-							<label for="abstract_id_50" class="label_abstract"><a>Abstract</a></label>
+							<input type="checkbox" id="abstract_id_49" style="display:none;">
+							<label for="abstract_id_49" class="label_abstract"><a>Abstract</a></label>
 							<div class="hidden">
 								<hr style="border-top: 1px solid black;">
 								The onset of the pandemic and the conflict in Europe have disrupted our society, supply
@@ -412,8 +326,8 @@
 						<td colspan="3">
 							<h2 class="talk_title"><b>A Subexponential Time Algorithm for Makespan Scheduling of Unit Jobs with Precedence Constraints</b><br/>
 							</h2>
-							<input type="checkbox" id="abstract_id_51" style="display:none;">
-							<label for="abstract_id_51" class="label_abstract"><a>Abstract</a></label>
+							<input type="checkbox" id="abstract_id_50" style="display:none;">
+							<label for="abstract_id_50" class="label_abstract"><a>Abstract</a></label>
 							<div class="hidden">
 								<hr style="border-top: 1px solid black;">
 								In a classical scheduling problem, we are given a set of n jobs of unit length along with precedence constraints, and the goal is to find a schedule of these jobs on m identical parallel machines that minimizes the makespan. Using the standard 3-field notation, it is known as Pm|prec, p_j=1|Cmax. Settling the complexity of Pm|prec, p_j=1|Cmax even for m=3 machines is, together with Subgraph Isomorphism, among the last two open problems from the book of Garey and Johnson [GJ79] for which the computational complexity remains a mystery. We present an algorithm for this problem that runs in subexponential time (2^{O(sqrt(n)log(n))} time) when m = o(n).
