@@ -324,13 +324,22 @@
 					<!--Title/Abstract/PDF-->
 					<tr>
 						<td colspan="3">
-							<h2 class="talk_title"><b>A Subexponential Time Algorithm for Makespan Scheduling of Unit Jobs with Precedence Constraints</b><br/>
+							<h2 class="talk_title"><b>A Subexponential Time Algorithm for Makespan Scheduling of Unit
+								Jobs with Precedence Constraints</b><br/>
 							</h2>
 							<input type="checkbox" id="abstract_id_50" style="display:none;">
 							<label for="abstract_id_50" class="label_abstract"><a>Abstract</a></label>
 							<div class="hidden">
 								<hr style="border-top: 1px solid black;">
-								In a classical scheduling problem, we are given a set of n jobs of unit length along with precedence constraints, and the goal is to find a schedule of these jobs on m identical parallel machines that minimizes the makespan. Using the standard 3-field notation, it is known as Pm|prec, p_j=1|Cmax. Settling the complexity of Pm|prec, p_j=1|Cmax even for m=3 machines is, together with Subgraph Isomorphism, among the last two open problems from the book of Garey and Johnson [GJ79] for which the computational complexity remains a mystery. We present an algorithm for this problem that runs in subexponential time (2^{O(sqrt(n)log(n))} time) when m = o(n).
+								In a classical scheduling problem, we are given a set of n jobs of unit length along
+								with precedence constraints, and the goal is to find a schedule of these jobs on m
+								identical parallel machines that minimizes the makespan. Using the standard 3-field
+								notation, it is known as Pm|prec, p_j=1|Cmax. Settling the complexity of Pm|prec,
+								p_j=1|Cmax even for m=3 machines is, together with Subgraph Isomorphism, among the last
+								two open problems from the book of Garey and Johnson [GJ79] for which the computational
+								complexity remains a mystery. We present an algorithm for this problem that runs in (1 +
+								n/m)^{O(√(nm))} time, which is subexponential when m=o(n). For m=3, this equals a
+								runtime of 2^{O(√(n)log(n))} time.
 								<hr style="border-top: 1px solid black;">
 							</div>
 							<!--TODO pdf and video-->
@@ -447,7 +456,8 @@
 								members of these four classes.
 								<hr style="border-top: 1px solid black;">
 							</div>
-							<a href="./presentations/SchedulingSeminar_DirkBriskorn.pdf" class="label_abstract" download>
+							<a href="./presentations/SchedulingSeminar_DirkBriskorn.pdf" class="label_abstract"
+							   download>
 								Download PDF
 							</a>
 							<a href="https://scheduling-seminar.iid.ciirc.cvut.cz/videos/23_3_Fall/23_10_18%20Dirk%20Briskorn%20(Uni%20of%20Wuppertal)%20_%20Single-machine%20scheduling%20with%20ext.%20resource.mp4"
@@ -470,7 +480,8 @@
 
 						<td colspan="2">
 							<div class="resizable_youtube_single">
-								<iframe width="400" height="250" src="https://www.youtube.com/embed/ut_opCCpHfQ?si=SrOp_sIvjoQ75BSL"
+								<iframe width="400" height="250"
+								        src="https://www.youtube.com/embed/ut_opCCpHfQ?si=SrOp_sIvjoQ75BSL"
 								        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
 								        allowfullscreen></iframe>
 							</div>
@@ -489,7 +500,8 @@
 							<table class="panelists_past_container_single">
 								<tr>
 									<td colspan="2">
-										<b>Keywords:</b> Scheduling, Single-machine scheduling, External resource, Complexity, Pseudo-polynomial algorithm<br/><br/>
+										<b>Keywords:</b> Scheduling, Single-machine scheduling, External resource,
+										Complexity, Pseudo-polynomial algorithm<br/><br/>
 										<b>[Invited by]</b>
 										<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a>
 										(CTU in Prague)
