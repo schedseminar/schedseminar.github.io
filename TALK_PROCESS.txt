@@ -6,9 +6,9 @@
 2) Past talk
     - Premistit talk podle sablony published talk
     - Zmenit cislo past talku
+    - Update Speaker list
     - Youtube edit
         - Jméno, popis...
         - Ořez (predtim stahnout)
         - Přidat do playlistu (pokud novy playlist tak ho zobrazit v nastaveni kanalu)
-    - Update Speaker list
     - Uploadnout orizle video na RTIME (https://scheduling-seminar.iid.ciirc.cvut.cz/videos/)
