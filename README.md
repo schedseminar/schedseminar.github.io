@@ -364,14 +364,13 @@
 								Authors: Claire Hanen and Alix Munier-Kordon
 								<hr style="border-top: 1px solid black;">
 							</div>
-							<!--TODO pdf and video-->
 							<a href="./presentations/SchedulingSeminar_ClaireHanen.pdf" class="label_abstract" download>
 								Download PDF
 							</a>
-							<!--					<a href="LINK"-->
-							<!--					   class="label_abstract" download>-->
-							<!--						Download Video-->
-							<!--					</a>-->
+							<a href="https://scheduling-seminar.iid.ciirc.cvut.cz/videos/23_3_Fall/23_11_15%20Claire%20Hanen%20(Sorbonne%20U.)%20_%20Fixed%20Parameter%20Tractability%20of%20Scheduling....mp4"
+							   class="label_abstract" download>
+								Download Video
+							</a>
 						</td>
 					</tr>
 
