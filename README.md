@@ -192,7 +192,7 @@
 								Elena Bruni</a><br/>
 							(Uni of Calabria)<br/><br/>
 							<!--TODO keywords-->
-							<!--<b>Keywords:</b> Logistics, Scheduling, Stacking cranes, Container terminal, Branch and cut -->
+							<!--<b>Keywords:</b> Scheduling under uncertainty and risk, Payment delays, Net Present Value, Cash flow analysis -->
 							<b>[Invited by]</b><br/>
 							<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a><br/>
 							(CTU in Prague)
