@@ -320,7 +320,7 @@
 							<table class="panelists_past_container_single">
 								<tr>
 									<td colspan="2">
-										<b>Keywords:</b> Machine scheduling, Mathematical Programming, Heuristics
+										<b>Keywords:</b> Scheduling under uncertainty and risk, Payment delays, Net Present Value, Cash flow analysis
 										<br/><br/>
 										<b>[Invited by]</b>
 										<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a>
