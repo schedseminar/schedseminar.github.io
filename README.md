@@ -118,124 +118,6 @@
 					<!--Title/Abstract/PDF-->
 					<tr>
 						<td colspan="3">
-							<h2 class="talk_title"><b>Enhancing project resilience: a risk-averse approach to payment
-								delays</b><br/>
-							</h2>
-							<input type="checkbox" id="abstract_id_49" style="display:none;">
-							<label for="abstract_id_49" class="label_abstract"><a>Abstract</a></label>
-							<div class="hidden">
-								<hr style="border-top: 1px solid black;">
-								The onset of the pandemic and the conflict in Europe have disrupted our society, supply
-								chains,
-								and
-								economies. The effects of these global shocks are evident in every type of project -
-								whether
-								related to
-								the energy transition, the renewal of transport infrastructure, or the construction
-								industry-
-								impacted
-								by the highest rates of inflation in more than 30 years and by a significant cash flow
-								crisis.
-								In this
-								complex landscape, delays in payments have become a common risk factor for projects,
-								since they
-								create a
-								time lag between the expenses incurred by the contractor and the progress payments
-								received from
-								the
-								client. The challenges associated with obtaining continuous project finances often place
-								undue
-								financial
-								strain on contractors that may seek loans from financial institutions to maintain their
-								daily
-								operations. These loans must be returned with interest, increasing financing costs, and
-								considerably
-								lowering the Net Present Value. In this talk, we delve into cash flow and project
-								scheduling
-								strategies
-								to mitigate late payment impacts and enhancing project resilience, presenting a
-								distributionally
-								robust
-								risk-averse model that minimizes the financing cost by accurately estimating the amount
-								and
-								timing of
-								the expenses and revenues throughout the project life cycle and foreseeing possible cost
-								overruns and
-								cash flow fluctuations.
-								Joint work with Oncu Hazir
-								<hr style="border-top: 1px solid black;">
-							</div>
-							<!--TODO pdf and video-->
-							<a href="./presentations/SchedulingSeminar_MariaElenaBruni.pdf" class="label_abstract" download>
-								Download PDF
-							</a>
-							<!--					<a href="LINK"-->
-							<!--					   class="label_abstract" download>-->
-							<!--						Download Video-->
-							<!--					</a>-->
-						</td>
-					</tr>
-
-					<!--Data--->
-					<tr>
-						<td class="presenter_image_container">
-							<div class="single_image_container">
-								<a href="https://www.unical.it/storage/teachers/gAAAAABi2D-mEiJ-DC2koDLqpcRWlGK5Iqt7PXrVZZFzO6-vUCbdNHpud2f3YD2nN-FriRbt-aqfOBGausOLqfuhcsrRp-hJSg==/?lang=en">
-									<img class="single_presenter" loading="lazy" src="photos/Maria_Elena.jpg"
-									     alt="person_photo"/>
-								</a><br/>
-							</div>
-						</td>
-						<td class="information_upcoming_container">
-							<b>[Presenter]</b><br/>
-							<a href="https://www.unical.it/storage/teachers/gAAAAABi2D-mEiJ-DC2koDLqpcRWlGK5Iqt7PXrVZZFzO6-vUCbdNHpud2f3YD2nN-FriRbt-aqfOBGausOLqfuhcsrRp-hJSg==/?lang=en">Maria
-								Elena Bruni</a><br/>
-							(Uni of Calabria)<br/><br/>
-							<!--TODO keywords-->
-							<!--<b>Keywords:</b> Scheduling under uncertainty and risk, Payment delays, Net Present Value, Cash flow analysis -->
-							<b>[Invited by]</b><br/>
-							<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a><br/>
-							(CTU in Prague)
-						</td>
-						<td class="time_zones_container">
-							<table class="time_table">
-								<tbody>
-								<tr class="utc">
-									<td>UTC</td>
-									<td>Nov 29, 14:00 Wed</td>
-								</tr>
-								<tr class="europe">
-									<td>Prague</td>
-									<td>Nov 29, 15:00 Wed</td>
-								</tr>
-								<tr class="america">
-									<td>New York</td>
-									<td>Nov 29, 09:00 Wed</td>
-								</tr>
-								<tr class="asia">
-									<td>Shanghai</td>
-									<td>Nov 29, 22:00 Wed</td>
-								</tr>
-								</tbody>
-							</table>
-						</td>
-					</tr>
-
-					<!--Spacing--->
-					<tr style="background-color: white">
-						<td colspan="100%"></td>
-					</tr>
-				</table>
-			</td>
-		</tr>
-
-		<!--Single talk------------------------------------------------------------------------------------------------>
-		<tr>
-			<td style="padding: 0">
-				<table class="europe">
-					<!--Title/Abstract/PDF-->
-					<tr>
-						<td colspan="3">
 							<h2 class="talk_title"><b>A Subexponential Time Algorithm for Makespan Scheduling of Unit
 								Jobs with Precedence Constraints</b><br/>
 							</h2>
@@ -329,7 +211,7 @@
 
 <!--Past talks-->
 <div class="column column_right">
-	<h2>Past talks (48)</h2>
+	<h2>Past talks (49)</h2>
 	<div class="inline-right"><a
 			href="https://docs.google.com/spreadsheets/d/1Glyd6FGzoKtZGfClNA_XaIK8vJZtnu8K4OdNcPr_yHc/edit#gid=0"
 			target="_blank"
@@ -337,6 +219,125 @@
 
 	<table class="past_talk_table">
 		<tbody>
+
+		<!--Single talk------------------------------------------------------------------------------------------------>
+		<tr>
+			<td style="padding: 0">
+				<table class="europe">
+					<!--Title/Abstract/PDF-->
+					<tr>
+						<td colspan="3">
+							<h2 class="talk_title"><b>Enhancing project resilience: a risk-averse approach to payment
+								delays</b><br/>
+							</h2>
+							<input type="checkbox" id="abstract_id_49" style="display:none;">
+							<label for="abstract_id_49" class="label_abstract"><a>Abstract</a></label>
+							<div class="hidden">
+								<hr style="border-top: 1px solid black;">
+								The onset of the pandemic and the conflict in Europe have disrupted our society, supply
+								chains,
+								and
+								economies. The effects of these global shocks are evident in every type of project -
+								whether
+								related to
+								the energy transition, the renewal of transport infrastructure, or the construction
+								industry-
+								impacted
+								by the highest rates of inflation in more than 30 years and by a significant cash flow
+								crisis.
+								In this
+								complex landscape, delays in payments have become a common risk factor for projects,
+								since they
+								create a
+								time lag between the expenses incurred by the contractor and the progress payments
+								received from
+								the
+								client. The challenges associated with obtaining continuous project finances often place
+								undue
+								financial
+								strain on contractors that may seek loans from financial institutions to maintain their
+								daily
+								operations. These loans must be returned with interest, increasing financing costs, and
+								considerably
+								lowering the Net Present Value. In this talk, we delve into cash flow and project
+								scheduling
+								strategies
+								to mitigate late payment impacts and enhancing project resilience, presenting a
+								distributionally
+								robust
+								risk-averse model that minimizes the financing cost by accurately estimating the amount
+								and
+								timing of
+								the expenses and revenues throughout the project life cycle and foreseeing possible cost
+								overruns and
+								cash flow fluctuations.
+								Joint work with Oncu Hazir
+								<hr style="border-top: 1px solid black;">
+							</div>
+							<!--TODO pdf and video-->
+							<a href="./presentations/SchedulingSeminar_MariaElenaBruni.pdf" class="label_abstract"
+							   download>
+								Download PDF
+							</a>
+							<!--					<a href="LINK"-->
+							<!--					   class="label_abstract" download>-->
+							<!--						Download Video-->
+							<!--					</a>-->
+						</td>
+					</tr>
+
+					<!--Photo and video-->
+					<tr>
+						<td class="presenter_image_container">
+							<div class="single_image_container">
+								<a href="https://www.unical.it/storage/teachers/gAAAAABi2D-mEiJ-DC2koDLqpcRWlGK5Iqt7PXrVZZFzO6-vUCbdNHpud2f3YD2nN-FriRbt-aqfOBGausOLqfuhcsrRp-hJSg==/?lang=en">
+									<img class="single_presenter" loading="lazy" src="photos/Maria_Elena.jpg"
+									     alt="person_photo"/>
+								</a><br/>
+							</div>
+						</td>
+
+						<td colspan="2">
+							<div class="resizable_youtube_single">
+								<iframe width="400" height="250"
+								        src="https://www.youtube.com/embed/Zvn9YemZp60?si=d6y-quI7eKj1Hyiu"
+								        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+								        allowfullscreen></iframe>
+							</div>
+						</td>
+					</tr>
+
+					<!--Text description-->
+					<tr>
+						<td class="presenter_past_info_container">
+							<b>[Presenter]</b><br/>
+							<a href="https://www.unical.it/storage/teachers/gAAAAABi2D-mEiJ-DC2koDLqpcRWlGK5Iqt7PXrVZZFzO6-vUCbdNHpud2f3YD2nN-FriRbt-aqfOBGausOLqfuhcsrRp-hJSg==/?lang=en">Maria
+								Elena Bruni</a><br/>
+							(Uni of Calabria)<br/>
+						</td>
+
+						<td>
+							<table class="panelists_past_container_single">
+								<tr>
+									<td colspan="2">
+										<b>Keywords:</b> Machine scheduling, Mathematical Programming, Heuristics
+										<br/><br/>
+										<b>[Invited by]</b>
+										<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a>
+										(CTU in Prague)
+									</td>
+								</tr>
+							</table>
+						</td>
+					</tr>
+
+					<!--Spacing--->
+					<tr style="background-color: white">
+						<td colspan="100%"></td>
+					</tr>
+				</table>
+			</td>
+		</tr>
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
 		<tr>
@@ -387,7 +388,8 @@
 
 						<td colspan="2">
 							<div class="resizable_youtube_single">
-								<iframe width="400" height="250" src="https://www.youtube.com/embed/njlh1IVyyhU?si=LMWy2I5UZyC5WwBi"
+								<iframe width="400" height="250"
+								        src="https://www.youtube.com/embed/njlh1IVyyhU?si=LMWy2I5UZyC5WwBi"
 								        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
 								        allowfullscreen></iframe>
 							</div>
@@ -406,7 +408,8 @@
 							<table class="panelists_past_container_single">
 								<tr>
 									<td colspan="2">
-										<b>Keywords:</b> Parameterized complexity, Typed tasks, Precedence constraints, Fixed parameter tractable algorithm<br/><br/>
+										<b>Keywords:</b> Parameterized complexity, Typed tasks, Precedence constraints,
+										Fixed parameter tractable algorithm<br/><br/>
 										<b>[Invited by]</b>
 										<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a><br/>
 										(CTU in Prague)
