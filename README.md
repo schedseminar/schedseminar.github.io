@@ -279,10 +279,10 @@
 							   download>
 								Download PDF
 							</a>
-							<!--					<a href="LINK"-->
-							<!--					   class="label_abstract" download>-->
-							<!--						Download Video-->
-							<!--					</a>-->
+							<a href="https://scheduling-seminar.iid.ciirc.cvut.cz/videos/23_3_Fall/23_11_29%20Maria%20Elena%20Bruni%20(Calabria)%20_%20Enhancing%20project%20resilience_%20a%20risk-averse....mp4"
+							   class="label_abstract" download>
+								Download Video
+							</a>
 						</td>
 					</tr>
 
