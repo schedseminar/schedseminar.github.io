@@ -274,7 +274,6 @@
 								Joint work with Oncu Hazir
 								<hr style="border-top: 1px solid black;">
 							</div>
-							<!--TODO pdf and video-->
 							<a href="./presentations/SchedulingSeminar_MariaElenaBruni.pdf" class="label_abstract"
 							   download>
 								Download PDF
