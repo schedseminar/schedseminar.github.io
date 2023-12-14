@@ -111,6 +111,28 @@
 	<table>
 		<tbody>
 
+		</tbody>
+	</table>
+
+</div>
+
+<!--Separate upcoming and past talks if different resolution results in one column only-->
+<div class="additional_divider">
+	&nbsp;
+	<hr/>
+</div>
+
+<!--Past talks-->
+<div class="column column_right">
+	<h2>Past talks (50)</h2>
+	<div class="inline-right"><a
+			href="https://docs.google.com/spreadsheets/d/1Glyd6FGzoKtZGfClNA_XaIK8vJZtnu8K4OdNcPr_yHc/edit#gid=0"
+			target="_blank"
+			class="button3">Speaker List</a></div>
+
+	<table class="past_talk_table">
+		<tbody>
+
 		<!--Single talk------------------------------------------------------------------------------------------------>
 		<tr>
 			<td style="padding: 0">
@@ -136,7 +158,6 @@
 								runtime of 2^{O(√(n)log(n))} time.
 								<hr style="border-top: 1px solid black;">
 							</div>
-							<!--TODO pdf and video-->
 							<a href="./presentations/SchedulingSeminar_CelineSwennenhuis.pdf" class="label_abstract"
 							   download>
 								Download PDF
@@ -148,7 +169,7 @@
 						</td>
 					</tr>
 
-					<!--Data--->
+					<!--Photo and video-->
 					<tr>
 						<td class="presenter_image_container">
 							<div class="single_image_container">
@@ -158,35 +179,34 @@
 								</a><br/>
 							</div>
 						</td>
-						<td class="information_upcoming_container">
+
+						<td colspan="2">
+							<div class="resizable_youtube_single">
+								<iframe width="400" height="250" src="https://www.youtube.com/embed/BID5OPhrJBg?si=ZUKSFX9-_wpLqkjH"
+								        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+								        allowfullscreen></iframe>
+							</div>
+						</td>
+					</tr>
+
+					<!--Text description-->
+					<tr>
+						<td class="presenter_past_info_container">
 							<b>[Presenter]</b><br/>
 							<a href="http://cswennenhuis.win.tue.nl/">Céline Swennenhuis</a><br/>
-							(ALGO, TU Eindhov.)<br/><br/>
-							<!--<b>Keywords:</b> Scheduling, Subexponential time, Precedence constraints -->
-							<b>[Invited by]</b><br/>
-							<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a><br/>
-							(New York Uni)
+							(ALGO, TU Eindhov.)<br/>
 						</td>
-						<td class="time_zones_container">
-							<table class="time_table">
-								<tbody>
-								<tr class="utc">
-									<td>UTC</td>
-									<td>Dec 13, 14:00 Wed</td>
+
+						<td>
+							<table class="panelists_past_container_single">
+								<tr>
+									<td colspan="2">
+										<b>Keywords:</b> Scheduling, Subexponential time, Precedence constraints <br/><br/>
+										<b>[Invited by]</b>
+										<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a>
+										(New York Uni)
+									</td>
 								</tr>
-								<tr class="europe">
-									<td>Prague</td>
-									<td>Dec 13, 15:00 Wed</td>
-								</tr>
-								<tr class="america">
-									<td>New York</td>
-									<td>Dec 13, 09:00 Wed</td>
-								</tr>
-								<tr class="asia">
-									<td>Shanghai</td>
-									<td>Dec 13, 22:00 Wed</td>
-								</tr>
-								</tbody>
 							</table>
 						</td>
 					</tr>
@@ -198,28 +218,6 @@
 				</table>
 			</td>
 		</tr>
-
-		</tbody>
-	</table>
-
-</div>
-
-<!--Separate upcoming and past talks if different resolution results in one column only-->
-<div class="additional_divider">
-	&nbsp;
-	<hr/>
-</div>
-
-<!--Past talks-->
-<div class="column column_right">
-	<h2>Past talks (49)</h2>
-	<div class="inline-right"><a
-			href="https://docs.google.com/spreadsheets/d/1Glyd6FGzoKtZGfClNA_XaIK8vJZtnu8K4OdNcPr_yHc/edit#gid=0"
-			target="_blank"
-			class="button3">Speaker List</a></div>
-
-	<table class="past_talk_table">
-		<tbody>
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
 		<tr>
