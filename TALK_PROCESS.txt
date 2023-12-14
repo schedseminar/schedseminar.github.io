@@ -7,7 +7,7 @@
     - Premistit talk podle sablony published talk
     - Zmenit cislo past talku
     - OPTIONAL - kdyz neni zadny dalsi talk, dat upozorneni o dalsim postupu
-    - Update Speaker list
+    - Update Speaker list (https://docs.google.com/spreadsheets/d/1Glyd6FGzoKtZGfClNA_XaIK8vJZtnu8K4OdNcPr_yHc/edit#gid=0)
     - Pocet Zoom lidi (https://docs.google.com/spreadsheets/d/1uy7ufRwdJpKZ29etA3glcky5x0hvg4fKCGSAFDgSAKY/edit?usp=drive_web&ouid=118280582087136265206)
     - Youtube edit
         - Jméno, popis...
