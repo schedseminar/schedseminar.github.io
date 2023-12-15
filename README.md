@@ -176,10 +176,10 @@
 							   download>
 								Download PDF
 							</a>
-							<!--					<a href="LINK"-->
-							<!--					   class="label_abstract" download>-->
-							<!--						Download Video-->
-							<!--					</a>-->
+							<a href="https://scheduling-seminar.iid.ciirc.cvut.cz/videos/23_3_Fall/23_12_13 Céline%20Swennenhuis%20(TU Eindhoven)%20_%20A%20Subexponential%20Time%20Algorithm....mp4"
+							   class="label_abstract" download>
+								Download Video
+							</a>
 						</td>
 					</tr>
 
