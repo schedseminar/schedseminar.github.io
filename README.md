@@ -118,7 +118,7 @@
 					<!--Title/Abstract/PDF-->
 					<tr>
 						<td colspan="3">
-							<h2 class="talk_title"><b><!--TODO title-->TBA</b><br/>
+							<h2 class="talk_title"><b>TBA</b><br/><!--TODO title-->
 							</h2>
 							<input type="checkbox" id="abstract_id_51" style="display:none;">
 							<label for="abstract_id_51" class="label_abstract"><a>Abstract</a></label>
@@ -199,7 +199,7 @@
 					<!--Title/Abstract/PDF-->
 					<tr>
 						<td colspan="3">
-							<h2 class="talk_title"><b>TBA<!--TODO title--></b><br/>
+							<h2 class="talk_title"><b>TBA</b><br/><!--TODO title-->
 							</h2>
 							<input type="checkbox" id="abstract_id_52" style="display:none;">
 							<label for="abstract_id_52" class="label_abstract"><a>Abstract</a></label>
