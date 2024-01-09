@@ -118,8 +118,7 @@
 					<!--Title/Abstract/PDF-->
 					<tr>
 						<td colspan="3">
-							<h2 class="talk_title"><b>TBA</b><br/><!--TODO title-->
-							</h2>
+							<h2 class="talk_title"><b><!--TODO title-->TBA</b></h2><br/>
 							<input type="checkbox" id="abstract_id_51" style="display:none;">
 							<label for="abstract_id_51" class="label_abstract"><a>Abstract</a></label>
 							<div class="hidden">
@@ -153,7 +152,7 @@
 							<b>[Presenter]</b><br/>
 							<!--TODO link-->
 							<a href="">Klaus Heeger</a><br/>
-							(<!--TODO Uni-->)<br/><br/>
+							(<!--TODO Uni--> )<br/><br/>
 							<!--TODO keywords-->
 							<!--<b>Keywords:</b>  -->
 							<b>[Invited by]</b><br/>
@@ -199,8 +198,7 @@
 					<!--Title/Abstract/PDF-->
 					<tr>
 						<td colspan="3">
-							<h2 class="talk_title"><b>TBA</b><br/><!--TODO title-->
-							</h2>
+							<h2 class="talk_title"><b><!--TODO title-->TBA</b></h2><br/>
 							<input type="checkbox" id="abstract_id_52" style="display:none;">
 							<label for="abstract_id_52" class="label_abstract"><a>Abstract</a></label>
 							<div class="hidden">
@@ -234,7 +232,7 @@
 							<b>[Presenter]</b><br/>
 							<!--TODO link-->
 							<a href="">Ceyda Oğuz</a><br/>
-							(<!--TODO Uni-->)<br/><br/>
+							(<!--TODO Uni--> )<br/><br/>
 							<!--TODO keywords-->
 							<!--<b>Keywords:</b>  -->
 							<b>[Invited by]</b><br/>
@@ -303,8 +301,7 @@
 					<tr>
 						<td colspan="3">
 							<h2 class="talk_title"><b>A Subexponential Time Algorithm for Makespan Scheduling of Unit
-								Jobs with Precedence Constraints</b><br/>
-							</h2>
+								Jobs with Precedence Constraints</b></h2><br/>
 							<input type="checkbox" id="abstract_id_50" style="display:none;">
 							<label for="abstract_id_50" class="label_abstract"><a>Abstract</a></label>
 							<div class="hidden">
@@ -344,7 +341,8 @@
 
 						<td colspan="2">
 							<div class="resizable_youtube_single">
-								<iframe width="400" height="250" src="https://www.youtube.com/embed/BID5OPhrJBg?si=ZUKSFX9-_wpLqkjH"
+								<iframe width="400" height="250"
+								        src="https://www.youtube.com/embed/BID5OPhrJBg?si=ZUKSFX9-_wpLqkjH"
 								        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
 								        allowfullscreen></iframe>
 							</div>
@@ -363,9 +361,11 @@
 							<table class="panelists_past_container_single">
 								<tr>
 									<td colspan="2">
-										<b>Keywords:</b> Scheduling, Subexponential time, Precedence constraints <br/><br/>
+										<b>Keywords:</b> Scheduling, Subexponential time, Precedence constraints
+										<br/><br/>
 										<b>[Invited by]</b>
-										<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a>
+										<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael
+											Pinedo</a>
 										(New York Uni)
 									</td>
 								</tr>
@@ -389,8 +389,7 @@
 					<tr>
 						<td colspan="3">
 							<h2 class="talk_title"><b>Enhancing project resilience: a risk-averse approach to payment
-								delays</b><br/>
-							</h2>
+								delays</b></h2><br/>
 							<input type="checkbox" id="abstract_id_49" style="display:none;">
 							<label for="abstract_id_49" class="label_abstract"><a>Abstract</a></label>
 							<div class="hidden">
@@ -508,8 +507,7 @@
 					<tr>
 						<td colspan="3">
 							<h2 class="talk_title"><b>Fixed Parameter Tractability of scheduling dependent typed tasks
-								with time windows</b><br/>
-							</h2>
+								with time windows</b></h2><br/>
 							<input type="checkbox" id="abstract_id_48" style="display:none;">
 							<label for="abstract_id_48" class="label_abstract"><a>Abstract</a></label>
 							<div class="hidden">
@@ -595,8 +593,7 @@
 					<!--Title/Abstract/PDF-->
 					<tr>
 						<td colspan="3">
-							<h2 class="talk_title"><b>Single-machine scheduling with an external resource</b><br/>
-							</h2>
+							<h2 class="talk_title"><b>Single-machine scheduling with an external resource</b></h2><br/>
 							<input type="checkbox" id="abstract_id_47" style="display:none;">
 							<label for="abstract_id_47" class="label_abstract"><a>Abstract</a></label>
 							<div class="hidden">
@@ -689,8 +686,7 @@
 					<tr>
 						<td colspan="3">
 							<h2 class="talk_title"><b>Single machine scheduling in additive manufacturing with
-								two-dimensional packing constraints</b><br/>
-							</h2>
+								two-dimensional packing constraints</b></h2><br/>
 							<input type="checkbox" id="abstract_id_46" style="display:none;">
 							<label for="abstract_id_46" class="label_abstract"><a>Abstract</a></label>
 							<div class="hidden">
