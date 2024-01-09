@@ -118,12 +118,13 @@
 					<!--Title/Abstract/PDF-->
 					<tr>
 						<td colspan="3">
-							<h2 class="talk_title"><b><!--TODO title-->TBA</b></h2><br/>
+							<h2 class="talk_title"><b>Minimizing the Weighted Number of Tardy Jobs is W[1]-hard</b></h2><br/>
 							<input type="checkbox" id="abstract_id_51" style="display:none;">
 							<label for="abstract_id_51" class="label_abstract"><a>Abstract</a></label>
 							<div class="hidden">
 								<hr style="border-top: 1px solid black;">
-								<!--TODO abstract-->
+								We consider the 1 || ∑ wj Uj problem, the problem of minimizing the weighted number of tardy jobs on a single machine. This problem is one of the most basic and fundamental problems in scheduling theory, with several different applications both in theory and practice. We prove that 1 || ∑ wj Uj is W[1]-hard with respect to the number of different processing times in the input, as well as with respect to the number of different weights in the input. This, along with previous work, provides a complete picture for 1 || ∑ wj Uj from the perspective of parameterized complexity, as well as almost tight complexity bounds for the problem under the Exponential Time Hypothesis (ETH).
+								Based on joint work with Danny Hermelin.
 								<hr style="border-top: 1px solid black;">
 							</div>
 							<!--TODO pdf and video-->
@@ -141,20 +142,17 @@
 					<tr>
 						<td class="presenter_image_container">
 							<div class="single_image_container">
-								<a href=""> <!--TODO link-->
-									<!--TODO image-->
-									<img class="single_presenter" loading="lazy" src="photos/person_placeholder.png"
+								<a href="https://scholar.google.com/citations?user=ACal2xIAAAAJ&hl=de">
+									<img class="single_presenter" loading="lazy" src="photos/Klaus_Heeger.jpg"
 									     alt="person_photo"/>
 								</a><br/>
 							</div>
 						</td>
 						<td class="information_upcoming_container">
 							<b>[Presenter]</b><br/>
-							<!--TODO link-->
-							<a href="">Klaus Heeger</a><br/>
-							(<!--TODO Uni--> )<br/><br/>
-							<!--TODO keywords-->
-							<!--<b>Keywords:</b>  -->
+							<a href="https://scholar.google.com/citations?user=ACal2xIAAAAJ&hl=de">Klaus Heeger</a><br/>
+							(Ben Gurion Uni)<br/><br/>
+							<b>Keywords:</b> single-machine scheduling, parameterized complexity, number of numbers
 							<b>[Invited by]</b><br/>
 							<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a><br/>
 							(New York Uni)
