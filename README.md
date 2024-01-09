@@ -152,7 +152,7 @@
 							<b>[Presenter]</b><br/>
 							<a href="https://scholar.google.com/citations?user=ACal2xIAAAAJ&hl=de">Klaus Heeger</a><br/>
 							(Ben Gurion Uni)<br/><br/>
-							<b>Keywords:</b> single-machine scheduling, parameterized complexity, number of numbers
+							<!--<b>Keywords:</b> single-machine scheduling, parameterized complexity, number of numbers-->
 							<b>[Invited by]</b><br/>
 							<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a><br/>
 							(New York Uni)
