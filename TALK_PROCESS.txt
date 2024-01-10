@@ -1,3 +1,4 @@
+0) Vsichni speakeri maji byt subscribed do newsletteru
 1) Upcoming talk
     - Oriznout obrazek a preformatovat kvuli velikosti
     - Vytvorit entry (ze sablony Single/Dual talk)
