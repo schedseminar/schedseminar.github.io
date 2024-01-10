@@ -118,12 +118,21 @@
 					<!--Title/Abstract/PDF-->
 					<tr>
 						<td colspan="3">
-							<h2 class="talk_title"><b>Minimizing the Weighted Number of Tardy Jobs is W[1]-hard</b></h2><br/>
+							<h2 class="talk_title"><b>Minimizing the Weighted Number of Tardy Jobs is W[1]-hard</b></h2>
+							<br/>
 							<input type="checkbox" id="abstract_id_51" style="display:none;">
 							<label for="abstract_id_51" class="label_abstract"><a>Abstract</a></label>
 							<div class="hidden">
 								<hr style="border-top: 1px solid black;">
-								We consider the 1 || ∑ wj Uj problem, the problem of minimizing the weighted number of tardy jobs on a single machine. This problem is one of the most basic and fundamental problems in scheduling theory, with several different applications both in theory and practice. We prove that 1 || ∑ wj Uj is W[1]-hard with respect to the number of different processing times in the input, as well as with respect to the number of different weights in the input. This, along with previous work, provides a complete picture for 1 || ∑ wj Uj from the perspective of parameterized complexity, as well as almost tight complexity bounds for the problem under the Exponential Time Hypothesis (ETH).
+								We consider the 1 || ∑ wj Uj problem, the problem of minimizing the weighted number of
+								tardy jobs on a single machine. This problem is one of the most basic and fundamental
+								problems in scheduling theory, with several different applications both in theory and
+								practice. We prove that 1 || ∑ wj Uj is W[1]-hard with respect to the number of
+								different processing times in the input, as well as with respect to the number of
+								different weights in the input. This, along with previous work, provides a complete
+								picture for 1 || ∑ wj Uj from the perspective of parameterized complexity, as well as
+								almost tight complexity bounds for the problem under the Exponential Time Hypothesis
+								(ETH).
 								Based on joint work with Danny Hermelin.
 								<hr style="border-top: 1px solid black;">
 							</div>
@@ -276,7 +285,8 @@
 					<!--Title/Abstract/PDF-->
 					<tr>
 						<td colspan="3">
-							<h2 class="talk_title"><b>Scheduling in the e-commerce era: New scheduling problems in order fulfilment and warehousing</b></h2><br/>
+							<h2 class="talk_title"><b>Scheduling in the e-commerce era: New scheduling problems in order
+								fulfilment and warehousing</b></h2><br/>
 							<input type="checkbox" id="abstract_id_53" style="display:none;">
 							<label for="abstract_id_53" class="label_abstract"><a>Abstract</a></label>
 							<div class="hidden">
@@ -516,12 +526,23 @@
 					<!--Title/Abstract/PDF-->
 					<tr>
 						<td colspan="3">
-							<h2 class="talk_title"><b>Maximizing stability of assembly line balancing schedules under uncertain task duration</b></h2><br/>
+							<h2 class="talk_title"><b>Maximizing stability of assembly line balancing schedules under
+								uncertain task duration</b></h2><br/>
 							<input type="checkbox" id="abstract_id_56" style="display:none;">
 							<label for="abstract_id_56" class="label_abstract"><a>Abstract</a></label>
 							<div class="hidden">
 								<hr style="border-top: 1px solid black;">
-								<!--TODO abstract-->
+								We consider a variant of the simple assembly line balancing problem in which the number
+								of workstations and the cycle time are fixed, but some tasks are subjected to
+								uncertainty (processing times can increase). The purpose is to maintain the schedule
+								feasibility when the duration of tasks increases. To achieve this, we consider two
+								stability measures (to be maximized): the stability radius, and the stability factor,
+								that correspond to different types of task duration increase. The scheduling problem is
+								formulated as a mixed integer linear program, and this formulation is strengthened by an
+								upper bound and a heuristic. More specifically, the allocation intervals of the tasks,
+								that are based on precedence constraints, are narrowed, which in turn are used to
+								improve the results of the heuristic and the mixed integer linear programming
+								formulation.
 								<hr style="border-top: 1px solid black;">
 							</div>
 							<!--TODO pdf and video-->
@@ -539,20 +560,17 @@
 					<tr>
 						<td class="presenter_image_container">
 							<div class="single_image_container">
-								<a href=""> <!--TODO link-->
-									<!--TODO image-->
-									<img class="single_presenter" loading="lazy" src="photos/person_placeholder.png"
+								<a href="https://www.lamsade.dauphine.fr/~arossi/">
+									<img class="single_presenter" loading="lazy" src="photos/andre_rossi.jpg"
 									     alt="person_photo"/>
 								</a><br/>
 							</div>
 						</td>
 						<td class="information_upcoming_container">
 							<b>[Presenter]</b><br/>
-							<!--TODO link-->
-							<a href="">André Rossi</a><br/>
-							(<!--TODO Uni--> )<br/><br/>
-							<!--TODO keywords-->
-							<!--<b>Keywords:</b>  -->
+							<a href="https://www.lamsade.dauphine.fr/~arossi/">André Rossi</a><br/>
+							(Universite PSL)<br/><br/>
+							<!--<b>Keywords:</b> Operations research, Integer linear programming, Decomposition methods -->
 							<b>[Invited by]</b><br/>
 							<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a><br/>
 							(CTU in Prague)
