@@ -291,7 +291,20 @@
 							<label for="abstract_id_53" class="label_abstract"><a>Abstract</a></label>
 							<div class="hidden">
 								<hr style="border-top: 1px solid black;">
-								<!--TODO abstract-->
+								Driven by the success of e-commerce, today's warehouses are evolving into fully
+								automated fulfillment factories. Many of them follow the parts-to-picker paradigm, using
+								mobile shelf-lifting robots or conveyors to deliver stock keeping units (SKUs) to
+								stationary order pickers working in picking workstations. This talk aims to structure
+								and review the family of fulfillment-related scheduling problems that arise in this
+								environment: On the input side, the sequence in which totes of SKUs are delivered to a
+								workstation must be synchronized with the orders that are being assembled there at the
+								same time on the output side. In this way, a more efficient fulfillment process can be
+								achieved, and the bin supply system can be relieved. This talk classifies the family of
+								slightly different order fulfillment scheduling problems that arise with different
+								workstation setups in alternative warehouses. This classification scheme is used to
+								survey the existing literature, analyze the computational complexity, and systematically
+								quantify the gains of alternative workstation setups. The talk also highlights valuable
+								future research ideas for this emerging area of scheduling research.
 								<hr style="border-top: 1px solid black;">
 							</div>
 							<!--TODO pdf and video-->
@@ -309,20 +322,17 @@
 					<tr>
 						<td class="presenter_image_container">
 							<div class="single_image_container">
-								<a href=""> <!--TODO link-->
-									<!--TODO image-->
-									<img class="single_presenter" loading="lazy" src="photos/person_placeholder.png"
+								<a href="https://www.om.uni-jena.de/en">
+									<img class="single_presenter" loading="lazy" src="photos/Nils_Boysen.jpg"
 									     alt="person_photo"/>
 								</a><br/>
 							</div>
 						</td>
 						<td class="information_upcoming_container">
 							<b>[Presenter]</b><br/>
-							<!--TODO link-->
-							<a href="">Nils Boysen</a><br/>
-							(<!--TODO Uni--> )<br/><br/>
-							<!--TODO keywords-->
-							<!--<b>Keywords:</b>  -->
+							<a href="https://www.om.uni-jena.de/en">Nils Boysen</a><br/>
+							(University of Jena)<br/><br/>
+							<!--<b>Keywords:</b> Warehousing, E-commerce, Order fulfillment scheduling, Synchronization, Classification -->
 							<b>[Invited by]</b><br/>
 							<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a><br/>
 							(CTU in Prague)
