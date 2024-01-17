@@ -461,7 +461,16 @@
 							<label for="abstract_id_55" class="label_abstract"><a>Abstract</a></label>
 							<div class="hidden">
 								<hr style="border-top: 1px solid black;">
-								<!--TODO abstract-->
+								In this talk, we study the problem of generating personnel rosters that are robust with
+								respect to disruptions caused by employee absenteeism. If an employee unexpectedly
+								becomes absent, they must be replaced by another employee. This in turn may affect the
+								working hours of other employees, creating an undesirable ripple effect that changes a
+								large part of the roster. We investigate how making use of on-call duties may avoid such
+								large perturbations. We begin by first introducing a metric to quantify the robustness
+								of a roster, which is then used to generate sufficiently robust rosters. In the second
+								part of this talk, we discuss the conditions under which machine learning can lead to
+								better solutions. A novel methodology is presented to determine the minimum prediction
+								performance required to outperform the non-data-driven rostering approach.
 								<hr style="border-top: 1px solid black;">
 							</div>
 							<!--TODO pdf and video-->
@@ -479,20 +488,17 @@
 					<tr>
 						<td class="presenter_image_container">
 							<div class="single_image_container">
-								<a href=""> <!--TODO link-->
-									<!--TODO image-->
-									<img class="single_presenter" loading="lazy" src="photos/person_placeholder.png"
+								<a href="https://people.cs.kuleuven.be/~pieter.smet/">
+									<img class="single_presenter" loading="lazy" src="photos/Pieter_Smet.jpg"
 									     alt="person_photo"/>
 								</a><br/>
 							</div>
 						</td>
 						<td class="information_upcoming_container">
 							<b>[Presenter]</b><br/>
-							<!--TODO link-->
-							<a href="">Pieter Smet</a><br/>
-							(<!--TODO Uni--> )<br/><br/>
-							<!--TODO keywords-->
-							<!--<b>Keywords:</b>  -->
+							<a href="https://people.cs.kuleuven.be/~pieter.smet/">Pieter Smet</a><br/>
+							(KU Leuven)<br/><br/>
+							<!--<b>Keywords:</b> Personnel rostering; robustness; on-call shift rostering; operations research; machine learning -->
 							<b>[Invited by]</b><br/>
 							<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a><br/>
 							(CTU in Prague)
