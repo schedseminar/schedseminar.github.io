@@ -205,12 +205,25 @@
 					<!--Title/Abstract/PDF-->
 					<tr>
 						<td colspan="3">
-							<h2 class="talk_title"><b><!--TODO title-->TBA</b></h2><br/>
+							<h2 class="talk_title"><b>A Matheuristic for the Generalized Order Acceptance and Scheduling Problem</b></h2><br/>
 							<input type="checkbox" id="abstract_id_52" style="display:none;">
 							<label for="abstract_id_52" class="label_abstract"><a>Abstract</a></label>
 							<div class="hidden">
 								<hr style="border-top: 1px solid black;">
-								<!--TODO abstract-->
+								Firms operating on a make-to-order basis may not satisfy the entire demand due to limited capacity
+								and tight delivery times. This necessitates selecting only part of customer orders to maximize the
+								total revenue, which gives rise to the order acceptance and scheduling (OAS) problems. In this
+								study, we investigate a generalized version of the OAS (GOAS) problem originating from a real-
+								life setting. Due to several components of the problem, such as release times, due dates, deadlines
+								and sequence dependent setup times, finding an exact solution to GOAS problem, that determines
+								which orders to accept and how to schedule them simultaneously to maximize the revenue, in
+								reasonable time even in a single machine environment is difficult. Hence, we develop an effective
+								and efficient matheuristic, which consists of a time-bucket based mixed integer linear programming
+								model, a variable neighborhood search algorithm and a tabu search algorithm, for the GOAS
+								problem. Computational results show that the proposed matheuristic outperforms the state-of-the-
+								art algorithms developed for the GOAS problem. The boundary of optimally solved instance size
+								is pushed further and near optimal solutions are obtained in reasonable time for instances falling
+								beyond this boundary. Joint work with İstenç Tarhan.
 								<hr style="border-top: 1px solid black;">
 							</div>
 							<!--TODO pdf and video-->
@@ -228,20 +241,17 @@
 					<tr>
 						<td class="presenter_image_container">
 							<div class="single_image_container">
-								<a href=""> <!--TODO link-->
-									<!--TODO image-->
-									<img class="single_presenter" loading="lazy" src="photos/person_placeholder.png"
+								<a href="https://mysite.ku.edu.tr/coguz/">
+									<img class="single_presenter" loading="lazy" src="photos/Ceyda_Oguz.jpg"
 									     alt="person_photo"/>
 								</a><br/>
 							</div>
 						</td>
 						<td class="information_upcoming_container">
 							<b>[Presenter]</b><br/>
-							<!--TODO link-->
-							<a href="">Ceyda Oğuz</a><br/>
-							(<!--TODO Uni--> )<br/><br/>
-							<!--TODO keywords-->
-							<!--<b>Keywords:</b>  -->
+							<a href="https://mysite.ku.edu.tr/coguz/">Ceyda Oğuz</a><br/>
+							(Koç University)<br/><br/>
+							<!--<b>Keywords:</b> Order acceptance and scheduling, Matheuristic, Variable neighborhood search, Tabu search -->
 							<b>[Invited by]</b><br/>
 							<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a><br/>
 							(New York Uni)
