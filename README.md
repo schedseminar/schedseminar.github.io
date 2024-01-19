@@ -103,7 +103,7 @@
 <!--------------------------------------------------------------------------------------------------------------------->
 <!--Talks-->
 <hr>
-<div class="column">
+<div class="column column_left">
 	<!--TODO when adding new talk, check that speaker is subscribed and if not subscribe him!-->
 	<h2>Upcoming talks</h2>
 
