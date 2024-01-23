@@ -241,7 +241,7 @@
 					<tr>
 						<td class="presenter_image_container">
 							<div class="single_image_container">
-								<a href="https://mysite.ku.edu.tr/coguz/">
+								<a href="https://scholar.google.com/citations?user=nC-GgAcAAAAJ&hl=en">
 									<img class="single_presenter" loading="lazy" src="photos/Ceyda_Oguz.jpg"
 									     alt="person_photo"/>
 								</a><br/>
@@ -249,7 +249,7 @@
 						</td>
 						<td class="information_upcoming_container">
 							<b>[Presenter]</b><br/>
-							<a href="https://mysite.ku.edu.tr/coguz/">Ceyda Oğuz</a><br/>
+							<a href="https://scholar.google.com/citations?user=nC-GgAcAAAAJ&hl=en">Ceyda Oğuz</a><br/>
 							(Koç University)<br/><br/>
 							<!--<b>Keywords:</b> Order acceptance and scheduling, Matheuristic, Variable neighborhood search, Tabu search -->
 							<b>[Invited by]</b><br/>
