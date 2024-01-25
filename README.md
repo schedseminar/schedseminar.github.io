@@ -118,93 +118,6 @@
 					<!--Title/Abstract/PDF-->
 					<tr>
 						<td colspan="3">
-							<h2 class="talk_title"><b>Minimizing the Weighted Number of Tardy Jobs is W[1]-hard</b></h2>
-							<br/>
-							<input type="checkbox" id="abstract_id_51" style="display:none;">
-							<label for="abstract_id_51" class="label_abstract"><a>Abstract</a></label>
-							<div class="hidden">
-								<hr style="border-top: 1px solid black;">
-								We consider the 1 || ∑ wj Uj problem, the problem of minimizing the weighted number of
-								tardy jobs on a single machine. This problem is one of the most basic and fundamental
-								problems in scheduling theory, with several different applications both in theory and
-								practice. We prove that 1 || ∑ wj Uj is W[1]-hard with respect to the number of
-								different processing times in the input, as well as with respect to the number of
-								different weights in the input. This, along with previous work, provides a complete
-								picture for 1 || ∑ wj Uj from the perspective of parameterized complexity, as well as
-								almost tight complexity bounds for the problem under the Exponential Time Hypothesis
-								(ETH).
-								Based on joint work with Danny Hermelin.
-								<hr style="border-top: 1px solid black;">
-							</div>
-							<!--TODO pdf and video-->
-							<a href="./presentations/SchedulingSeminar_KlausHeeger.pdf" class="label_abstract" download>
-								Download PDF
-							</a>
-							<!--					<a href="LINK"-->
-							<!--					   class="label_abstract" download>-->
-							<!--						Download Video-->
-							<!--					</a>-->
-						</td>
-					</tr>
-
-					<!--Data--->
-					<tr>
-						<td class="presenter_image_container">
-							<div class="single_image_container">
-								<a href="https://scholar.google.com/citations?user=ACal2xIAAAAJ&hl=de">
-									<img class="single_presenter" loading="lazy" src="photos/Klaus_Heeger.jpg"
-									     alt="person_photo"/>
-								</a><br/>
-							</div>
-						</td>
-						<td class="information_upcoming_container">
-							<b>[Presenter]</b><br/>
-							<a href="https://scholar.google.com/citations?user=ACal2xIAAAAJ&hl=de">Klaus Heeger</a><br/>
-							(Ben Gurion Uni)<br/><br/>
-							<!--<b>Keywords:</b> single-machine scheduling, parameterized complexity, number of numbers-->
-							<b>[Invited by]</b><br/>
-							<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a><br/>
-							(New York Uni)
-						</td>
-						<td class="time_zones_container">
-							<table class="time_table">
-								<tbody>
-								<tr class="utc">
-									<td>UTC</td>
-									<td>Jan 24, 14:00 Wed</td>
-								</tr>
-								<tr class="europe">
-									<td>Prague</td>
-									<td>Jan 24, 15:00 Wed</td>
-								</tr>
-								<tr class="america">
-									<td>New York</td>
-									<td>Jan 24, 09:00 Wed</td>
-								</tr>
-								<tr class="asia">
-									<td>Shanghai</td>
-									<td>Jan 24, 22:00 Wed</td>
-								</tr>
-								</tbody>
-							</table>
-						</td>
-					</tr>
-
-					<!--Spacing--->
-					<tr style="background-color: white">
-						<td colspan="100%"></td>
-					</tr>
-				</table>
-			</td>
-		</tr>
-
-		<!--Single talk------------------------------------------------------------------------------------------------>
-		<tr>
-			<td style="padding: 0">
-				<table class="europe">
-					<!--Title/Abstract/PDF-->
-					<tr>
-						<td colspan="3">
 							<h2 class="talk_title"><b>A Matheuristic for the Generalized Order Acceptance and Scheduling Problem</b></h2><br/>
 							<input type="checkbox" id="abstract_id_52" style="display:none;">
 							<label for="abstract_id_52" class="label_abstract"><a>Abstract</a></label>
@@ -734,6 +647,92 @@
 
 	<table class="past_talk_table">
 		<tbody>
+
+		<!--Single talk------------------------------------------------------------------------------------------------>
+		<tr>
+			<td style="padding: 0">
+				<table class="europe">
+					<!--Title/Abstract/PDF-->
+					<tr>
+						<td colspan="3">
+							<h2 class="talk_title"><b>Minimizing the Weighted Number of Tardy Jobs is W[1]-hard</b></h2>
+							<br/>
+							<input type="checkbox" id="abstract_id_51" style="display:none;">
+							<label for="abstract_id_51" class="label_abstract"><a>Abstract</a></label>
+							<div class="hidden">
+								<hr style="border-top: 1px solid black;">
+								We consider the 1 || ∑ wj Uj problem, the problem of minimizing the weighted number of
+								tardy jobs on a single machine. This problem is one of the most basic and fundamental
+								problems in scheduling theory, with several different applications both in theory and
+								practice. We prove that 1 || ∑ wj Uj is W[1]-hard with respect to the number of
+								different processing times in the input, as well as with respect to the number of
+								different weights in the input. This, along with previous work, provides a complete
+								picture for 1 || ∑ wj Uj from the perspective of parameterized complexity, as well as
+								almost tight complexity bounds for the problem under the Exponential Time Hypothesis
+								(ETH).
+								Based on joint work with Danny Hermelin.
+								<hr style="border-top: 1px solid black;">
+							</div>
+							<!--TODO pdf and video-->
+							<a href="./presentations/SchedulingSeminar_KlausHeeger.pdf" class="label_abstract" download>
+								Download PDF
+							</a>
+							<!--					<a href="LINK"-->
+							<!--					   class="label_abstract" download>-->
+							<!--						Download Video-->
+							<!--					</a>-->
+						</td>
+					</tr>
+
+					<!--Photo and video-->
+					<tr>
+						<td class="presenter_image_container">
+							<div class="single_image_container">
+								<a href="https://scholar.google.com/citations?user=ACal2xIAAAAJ&hl=de">
+									<img class="single_presenter" loading="lazy" src="photos/Klaus_Heeger.jpg"
+									     alt="person_photo"/>
+								</a><br/>
+							</div>
+						</td>
+
+						<td colspan="2">
+							<div class="resizable_youtube_single">
+								<iframe width="400" height="250" src="https://www.youtube.com/embed/YPTQ8MW7pQM?si=SlBKpXKqT0RUcdDD"
+								        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+								        allowfullscreen></iframe>
+							</div>
+						</td>
+					</tr>
+
+					<!--Text description-->
+					<tr>
+						<td class="presenter_past_info_container">
+							<b>[Presenter]</b><br/>
+							<a href="https://scholar.google.com/citations?user=ACal2xIAAAAJ&hl=de">Klaus Heeger</a><br/>
+							(Ben Gurion Uni)<br/>
+						</td>
+
+						<td>
+							<table class="panelists_past_container_single">
+								<tr>
+									<td colspan="2">
+										<b>Keywords:</b> Single-machine scheduling, Parameterized complexity, Number of numbers <br/><br/>
+										<b>[Invited by]</b>
+										<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a><
+										(New York Uni)
+									</td>
+								</tr>
+							</table>
+						</td>
+					</tr>
+
+					<!--Spacing--->
+					<tr style="background-color: white">
+						<td colspan="100%"></td>
+					</tr>
+				</table>
+			</td>
+		</tr>
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
 		<tr>
