@@ -718,7 +718,7 @@
 									<td colspan="2">
 										<b>Keywords:</b> Single-machine scheduling, Parameterized complexity, Number of numbers <br/><br/>
 										<b>[Invited by]</b>
-										<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a><
+										<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a>
 										(New York Uni)
 									</td>
 								</tr>
