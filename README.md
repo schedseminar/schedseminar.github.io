@@ -712,108 +712,111 @@
 							</table>
 						</td>
 					</tr>
-
-					<!--Single talk------------------------------------------------------------------------------------------------>
+				</table>
+			</td>
+		</tr>
+		<!--Single talk------------------------------------------------------------------------------------------------>
+		<tr>
+			<td style="padding: 0">
+				<table class="europe">
+					<!--Title/Abstract/PDF-->
 					<tr>
-						<td style="padding: 0">
-							<table class="europe">
-								<!--Title/Abstract/PDF-->
-								<tr>
-									<td colspan="3">
-										<h2 class="talk_title"><b>New Support Size Bounds for Integer Programming,
-											Applied to Makespan Minimization on Uniformly Related Machines</b></h2><br/>
-										<input type="checkbox" id="abstract_id_59" style="display:none;">
-										<label for="abstract_id_59" class="label_abstract"><a>Abstract</a></label>
-										<div class="hidden">
-											<hr style="border-top: 1px solid black;">
-											Mixed-integer linear programming (MILP) is at the core of many advanced
-											algorithms for solving fundamental problems in combinatorial optimization.
-											The complexity of solving MILPs directly correlates with their support size,
-											which is the minimum number of non-zero integer variables in an optimal
-											solution. A hallmark result by Eisenbrand and Shmonin (Oper. Res. Lett.,
-											2006) shows that any feasible integer linear program (ILP) has a solution
-											with support size s ≤ 2m · log(4m∆), where m is the number of constraints,
-											and ∆ is the largest absolute coefficient in any constraint.
-											- Our main combinatorial result are improved support size bounds for ILPs.
-											We show that any ILP has a solution with support size s ≤ m · (log(3∥A∥_1) +
-											\sqrt{log(∥A∥_1)}), where ∥A∥_1 denotes the 1-norm of the constraint matrix
-											A. Our upper bounds also hold with ∥A∥_1 replaced by \sqrt{m∆}, which
-											improves on the previously best constants in the linearized form.
-											- Our main algorithmic result are the fastest known approximation schemes
-											for fundamental scheduling problems, which use the improved support bounds
-											as one ingredient. We design an efficient approximation scheme (EPTAS) for
-											makespan minimization on uniformly related machines (Q||Cmax). Our EPTAS
-											yields a (1 + ε)-approximation for Q||Cmax on N jobs in time 2^{O(1/ε
-											log^3(1/ε) log(log(1/ε)))} + O(N), which improves exponentially over the
-											previously fastest algorithm by Jansen, Klein and Verschae (Math. Oper.
-											Res., 2020). Arguably, our approximation scheme is also simpler than all
-											previous EPTASes for Q||Cmax, as we reduce the problem to a novel MILP
-											formulation with small support size.
-											<hr style="border-top: 1px solid black;">
-										</div>
-										<!--TODO pdf and video-->
-										<!--					<a href="./presentations/SchedulingSeminar_Name.pdf" class="label_abstract" download>-->
-										<!--						Download PDF-->
-										<!--					</a>-->
-										<!--					<a href="LINK"-->
-										<!--					   class="label_abstract" download>-->
-										<!--						Download Video-->
-										<!--					</a>-->
-									</td>
-								</tr>
+						<td colspan="3">
+							<h2 class="talk_title"><b>New Support Size Bounds for Integer Programming,
+								Applied to Makespan Minimization on Uniformly Related Machines</b></h2><br/>
+							<input type="checkbox" id="abstract_id_59" style="display:none;">
+							<label for="abstract_id_59" class="label_abstract"><a>Abstract</a></label>
+							<div class="hidden">
+								<hr style="border-top: 1px solid black;">
+								Mixed-integer linear programming (MILP) is at the core of many advanced
+								algorithms for solving fundamental problems in combinatorial optimization.
+								The complexity of solving MILPs directly correlates with their support size,
+								which is the minimum number of non-zero integer variables in an optimal
+								solution. A hallmark result by Eisenbrand and Shmonin (Oper. Res. Lett.,
+								2006) shows that any feasible integer linear program (ILP) has a solution
+								with support size s ≤ 2m · log(4m∆), where m is the number of constraints,
+								and ∆ is the largest absolute coefficient in any constraint.
+								- Our main combinatorial result are improved support size bounds for ILPs.
+								We show that any ILP has a solution with support size s ≤ m · (log(3∥A∥_1) +
+								\sqrt{log(∥A∥_1)}), where ∥A∥_1 denotes the 1-norm of the constraint matrix
+								A. Our upper bounds also hold with ∥A∥_1 replaced by \sqrt{m∆}, which
+								improves on the previously best constants in the linearized form.
+								- Our main algorithmic result are the fastest known approximation schemes
+								for fundamental scheduling problems, which use the improved support bounds
+								as one ingredient. We design an efficient approximation scheme (EPTAS) for
+								makespan minimization on uniformly related machines (Q||Cmax). Our EPTAS
+								yields a (1 + ε)-approximation for Q||Cmax on N jobs in time 2^{O(1/ε
+								log^3(1/ε) log(log(1/ε)))} + O(N), which improves exponentially over the
+								previously fastest algorithm by Jansen, Klein and Verschae (Math. Oper.
+								Res., 2020). Arguably, our approximation scheme is also simpler than all
+								previous EPTASes for Q||Cmax, as we reduce the problem to a novel MILP
+								formulation with small support size.
+								<hr style="border-top: 1px solid black;">
+							</div>
+							<!--TODO pdf and video-->
+							<!--					<a href="./presentations/SchedulingSeminar_Name.pdf" class="label_abstract" download>-->
+							<!--						Download PDF-->
+							<!--					</a>-->
+							<!--					<a href="LINK"-->
+							<!--					   class="label_abstract" download>-->
+							<!--						Download Video-->
+							<!--					</a>-->
+						</td>
+					</tr>
 
-								<!--Data--->
-								<tr>
-									<td class="presenter_image_container">
-										<div class="single_image_container">
-											<a href="https://scholar.google.com/citations?user=5LvVxNYAAAAJ&hl=en">
-												<img class="single_presenter" loading="lazy"
-												     src="photos/Matthias_Mnich.jpg"
-												     alt="person_photo"/>
-											</a><br/>
-										</div>
-									</td>
-									<td class="information_upcoming_container">
-										<b>[Presenter]</b><br/>
-										<a href="https://scholar.google.com/citations?user=5LvVxNYAAAAJ&hl=en">Matthias Mnich</a><br/>
-										(TU Hamburg)<br/><br/>
-										<!--<b>Keywords:</b> Uniformly related machine scheduling, Makespan minimization, Efficient approximation schemes, Mixed-integer linear programming -->
-										<b>[Invited by]</b><br/>
-										<a href="https://in.bgu.ac.il/en/engn/iem/pages/staff/Dvir-Shabtay.aspx">Dvir
-											Shabtay</a><br/>
-										(Ben Gurion Uni)
-									</td>
-									<td class="time_zones_container">
-										<table class="time_table">
-											<tbody>
-											<tr class="utc">
-												<td>UTC</td>
-												<td>May 29, 13:00 Wed</td>
-											</tr>
-											<tr class="europe">
-												<td>Prague</td>
-												<td>May 29, 15:00 Wed</td>
-											</tr>
-											<tr class="america">
-												<td>New York</td>
-												<td>May 29, 09:00 Wed</td>
-											</tr>
-											<tr class="asia">
-												<td>Shanghai</td>
-												<td>May 29, 21:00 Wed</td>
-											</tr>
-											</tbody>
-										</table>
-									</td>
+					<!--Data--->
+					<tr>
+						<td class="presenter_image_container">
+							<div class="single_image_container">
+								<a href="https://scholar.google.com/citations?user=5LvVxNYAAAAJ&hl=en">
+									<img class="single_presenter" loading="lazy"
+									     src="photos/Matthias_Mnich.jpg"
+									     alt="person_photo"/>
+								</a><br/>
+							</div>
+						</td>
+						<td class="information_upcoming_container">
+							<b>[Presenter]</b><br/>
+							<a href="https://scholar.google.com/citations?user=5LvVxNYAAAAJ&hl=en">Matthias
+								Mnich</a><br/>
+							(TU Hamburg)<br/><br/>
+							<!--<b>Keywords:</b> Uniformly related machine scheduling, Makespan minimization, Efficient approximation schemes, Mixed-integer linear programming -->
+							<b>[Invited by]</b><br/>
+							<a href="https://in.bgu.ac.il/en/engn/iem/pages/staff/Dvir-Shabtay.aspx">Dvir
+								Shabtay</a><br/>
+							(Ben Gurion Uni)
+						</td>
+						<td class="time_zones_container">
+							<table class="time_table">
+								<tbody>
+								<tr class="utc">
+									<td>UTC</td>
+									<td>May 29, 13:00 Wed</td>
 								</tr>
-
-								<!--Spacing--->
-								<tr style="background-color: white">
-									<td colspan="100%"></td>
+								<tr class="europe">
+									<td>Prague</td>
+									<td>May 29, 15:00 Wed</td>
 								</tr>
+								<tr class="america">
+									<td>New York</td>
+									<td>May 29, 09:00 Wed</td>
+								</tr>
+								<tr class="asia">
+									<td>Shanghai</td>
+									<td>May 29, 21:00 Wed</td>
+								</tr>
+								</tbody>
 							</table>
 						</td>
 					</tr>
+
+					<!--Spacing--->
+					<tr style="background-color: white">
+						<td colspan="100%"></td>
+					</tr>
+				</table>
+			</td>
+		</tr>
 
 		</tbody>
 	</table>
