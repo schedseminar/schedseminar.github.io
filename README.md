@@ -712,9 +712,15 @@
 							</table>
 						</td>
 					</tr>
+
+					<!--Spacing--->
+					<tr style="background-color: white">
+						<td colspan="100%"></td>
+					</tr>
 				</table>
 			</td>
 		</tr>
+
 		<!--Single talk------------------------------------------------------------------------------------------------>
 		<tr>
 			<td style="padding: 0">
