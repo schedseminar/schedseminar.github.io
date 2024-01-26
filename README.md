@@ -118,24 +118,38 @@
 					<!--Title/Abstract/PDF-->
 					<tr>
 						<td colspan="3">
-							<h2 class="talk_title"><b>A Matheuristic for the Generalized Order Acceptance and Scheduling Problem</b></h2><br/>
+							<h2 class="talk_title"><b>A Matheuristic for the Generalized Order Acceptance and Scheduling
+								Problem</b></h2><br/>
 							<input type="checkbox" id="abstract_id_52" style="display:none;">
 							<label for="abstract_id_52" class="label_abstract"><a>Abstract</a></label>
 							<div class="hidden">
 								<hr style="border-top: 1px solid black;">
-								Firms operating on a make-to-order basis may not satisfy the entire demand due to limited capacity
-								and tight delivery times. This necessitates selecting only part of customer orders to maximize the
-								total revenue, which gives rise to the order acceptance and scheduling (OAS) problems. In this
-								study, we investigate a generalized version of the OAS (GOAS) problem originating from a real-
-								life setting. Due to several components of the problem, such as release times, due dates, deadlines
-								and sequence dependent setup times, finding an exact solution to GOAS problem, that determines
-								which orders to accept and how to schedule them simultaneously to maximize the revenue, in
-								reasonable time even in a single machine environment is difficult. Hence, we develop an effective
-								and efficient matheuristic, which consists of a time-bucket based mixed integer linear programming
-								model, a variable neighborhood search algorithm and a tabu search algorithm, for the GOAS
-								problem. Computational results show that the proposed matheuristic outperforms the state-of-the-
-								art algorithms developed for the GOAS problem. The boundary of optimally solved instance size
-								is pushed further and near optimal solutions are obtained in reasonable time for instances falling
+								Firms operating on a make-to-order basis may not satisfy the entire demand due to
+								limited capacity
+								and tight delivery times. This necessitates selecting only part of customer orders to
+								maximize the
+								total revenue, which gives rise to the order acceptance and scheduling (OAS) problems.
+								In this
+								study, we investigate a generalized version of the OAS (GOAS) problem originating from a
+								real-
+								life setting. Due to several components of the problem, such as release times, due
+								dates, deadlines
+								and sequence dependent setup times, finding an exact solution to GOAS problem, that
+								determines
+								which orders to accept and how to schedule them simultaneously to maximize the revenue,
+								in
+								reasonable time even in a single machine environment is difficult. Hence, we develop an
+								effective
+								and efficient matheuristic, which consists of a time-bucket based mixed integer linear
+								programming
+								model, a variable neighborhood search algorithm and a tabu search algorithm, for the
+								GOAS
+								problem. Computational results show that the proposed matheuristic outperforms the
+								state-of-the-
+								art algorithms developed for the GOAS problem. The boundary of optimally solved instance
+								size
+								is pushed further and near optimal solutions are obtained in reasonable time for
+								instances falling
 								beyond this boundary. Joint work with İstenç Tarhan.
 								<hr style="border-top: 1px solid black;">
 							</div>
@@ -626,6 +640,181 @@
 			</td>
 		</tr>
 
+		<!--Single talk------------------------------------------------------------------------------------------------>
+		<tr>
+			<td style="padding: 0">
+				<table class="europe"> <!--TODO class-->
+					<!--Title/Abstract/PDF-->
+					<tr>
+						<td colspan="3">
+							<h2 class="talk_title"><b>TBA</b></h2><br/>
+							<input type="checkbox" id="abstract_id_58" style="display:none;"> <!--TODO abstract id-->
+							<label for="abstract_id_58" class="label_abstract"><a>Abstract</a></label>
+							<div class="hidden">
+								<hr style="border-top: 1px solid black;">
+								<!--TODO abstract-->
+								<hr style="border-top: 1px solid black;">
+							</div>
+							<!--TODO pdf and video-->
+							<!--					<a href="./presentations/SchedulingSeminar_Name.pdf" class="label_abstract" download>-->
+							<!--						Download PDF-->
+							<!--					</a>-->
+							<!--					<a href="LINK"-->
+							<!--					   class="label_abstract" download>-->
+							<!--						Download Video-->
+							<!--					</a>-->
+						</td>
+					</tr>
+
+					<!--Data--->
+					<tr>
+						<td class="presenter_image_container">
+							<div class="single_image_container">
+								<a href=""> <!--TODO link-->
+									<!--TODO image-->
+									<img class="single_presenter" loading="lazy" src="photos/person_placeholder.png"
+									     alt="person_photo"/>
+								</a><br/>
+							</div>
+						</td>
+						<td class="information_upcoming_container">
+							<b>[Presenter]</b><br/>
+							<!--TODO link-->
+							<a href="">TBA</a><br/>
+							(<!--TODO Uni--> )<br/><br/>
+							<!--TODO keywords-->
+							<!--<b>Keywords:</b>  -->
+							<!--TODO-->
+							<b>[Invited by]</b><br/>
+							<a href="">TBA</a><br/>
+							()
+						</td>
+						<td class="time_zones_container">
+							<table class="time_table">
+								<tbody>
+								<tr class="utc">
+									<td>UTC</td>
+									<td>May 15, 13:00 Wed</td>
+								</tr>
+								<tr class="europe">
+									<td>Prague</td>
+									<td>May 15, 15:00 Wed</td>
+								</tr>
+								<tr class="america">
+									<td>New York</td>
+									<td>May 15, 09:00 Wed</td>
+								</tr>
+								<tr class="asia">
+									<td>Shanghai</td>
+									<td>May 15, 21:00 Wed</td>
+								</tr>
+								</tbody>
+							</table>
+						</td>
+					</tr>
+
+					<!--Single talk------------------------------------------------------------------------------------------------>
+					<tr>
+						<td style="padding: 0">
+							<table class="europe">
+								<!--Title/Abstract/PDF-->
+								<tr>
+									<td colspan="3">
+										<h2 class="talk_title"><b>New Support Size Bounds for Integer Programming,
+											Applied to Makespan Minimization on Uniformly Related Machines</b></h2><br/>
+										<input type="checkbox" id="abstract_id_59" style="display:none;">
+										<label for="abstract_id_59" class="label_abstract"><a>Abstract</a></label>
+										<div class="hidden">
+											<hr style="border-top: 1px solid black;">
+											Mixed-integer linear programming (MILP) is at the core of many advanced
+											algorithms for solving fundamental problems in combinatorial optimization.
+											The complexity of solving MILPs directly correlates with their support size,
+											which is the minimum number of non-zero integer variables in an optimal
+											solution. A hallmark result by Eisenbrand and Shmonin (Oper. Res. Lett.,
+											2006) shows that any feasible integer linear program (ILP) has a solution
+											with support size s ≤ 2m · log(4m∆), where m is the number of constraints,
+											and ∆ is the largest absolute coefficient in any constraint.
+											- Our main combinatorial result are improved support size bounds for ILPs.
+											We show that any ILP has a solution with support size s ≤ m · (log(3∥A∥_1) +
+											\sqrt{log(∥A∥_1)}), where ∥A∥_1 denotes the 1-norm of the constraint matrix
+											A. Our upper bounds also hold with ∥A∥_1 replaced by \sqrt{m∆}, which
+											improves on the previously best constants in the linearized form.
+											- Our main algorithmic result are the fastest known approximation schemes
+											for fundamental scheduling problems, which use the improved support bounds
+											as one ingredient. We design an efficient approximation scheme (EPTAS) for
+											makespan minimization on uniformly related machines (Q||Cmax). Our EPTAS
+											yields a (1 + ε)-approximation for Q||Cmax on N jobs in time 2^{O(1/ε
+											log^3(1/ε) log(log(1/ε)))} + O(N), which improves exponentially over the
+											previously fastest algorithm by Jansen, Klein and Verschae (Math. Oper.
+											Res., 2020). Arguably, our approximation scheme is also simpler than all
+											previous EPTASes for Q||Cmax, as we reduce the problem to a novel MILP
+											formulation with small support size.
+											<hr style="border-top: 1px solid black;">
+										</div>
+										<!--TODO pdf and video-->
+										<!--					<a href="./presentations/SchedulingSeminar_Name.pdf" class="label_abstract" download>-->
+										<!--						Download PDF-->
+										<!--					</a>-->
+										<!--					<a href="LINK"-->
+										<!--					   class="label_abstract" download>-->
+										<!--						Download Video-->
+										<!--					</a>-->
+									</td>
+								</tr>
+
+								<!--Data--->
+								<tr>
+									<td class="presenter_image_container">
+										<div class="single_image_container">
+											<a href="https://scholar.google.com/citations?user=5LvVxNYAAAAJ&hl=en">
+												<img class="single_presenter" loading="lazy"
+												     src="photos/Matthias_Mnich.jpg"
+												     alt="person_photo"/>
+											</a><br/>
+										</div>
+									</td>
+									<td class="information_upcoming_container">
+										<b>[Presenter]</b><br/>
+										<a href="https://scholar.google.com/citations?user=5LvVxNYAAAAJ&hl=en">Matthias Mnich</a><br/>
+										(TU Hamburg)<br/><br/>
+										<!--<b>Keywords:</b> Uniformly related machine scheduling, Makespan minimization, Efficient approximation schemes, Mixed-integer linear programming -->
+										<b>[Invited by]</b><br/>
+										<a href="https://in.bgu.ac.il/en/engn/iem/pages/staff/Dvir-Shabtay.aspx">Dvir
+											Shabtay</a><br/>
+										(Ben Gurion Uni)
+									</td>
+									<td class="time_zones_container">
+										<table class="time_table">
+											<tbody>
+											<tr class="utc">
+												<td>UTC</td>
+												<td>May 29, 13:00 Wed</td>
+											</tr>
+											<tr class="europe">
+												<td>Prague</td>
+												<td>May 29, 15:00 Wed</td>
+											</tr>
+											<tr class="america">
+												<td>New York</td>
+												<td>May 29, 09:00 Wed</td>
+											</tr>
+											<tr class="asia">
+												<td>Shanghai</td>
+												<td>May 29, 21:00 Wed</td>
+											</tr>
+											</tbody>
+										</table>
+									</td>
+								</tr>
+
+								<!--Spacing--->
+								<tr style="background-color: white">
+									<td colspan="100%"></td>
+								</tr>
+							</table>
+						</td>
+					</tr>
+
 		</tbody>
 	</table>
 
@@ -697,7 +886,8 @@
 
 						<td colspan="2">
 							<div class="resizable_youtube_single">
-								<iframe width="400" height="250" src="https://www.youtube.com/embed/YPTQ8MW7pQM?si=SlBKpXKqT0RUcdDD"
+								<iframe width="400" height="250"
+								        src="https://www.youtube.com/embed/YPTQ8MW7pQM?si=SlBKpXKqT0RUcdDD"
 								        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
 								        allowfullscreen></iframe>
 							</div>
@@ -716,9 +906,11 @@
 							<table class="panelists_past_container_single">
 								<tr>
 									<td colspan="2">
-										<b>Keywords:</b> Single-machine scheduling, Parameterized complexity, Number of numbers <br/><br/>
+										<b>Keywords:</b> Single-machine scheduling, Parameterized complexity, Number of
+										numbers <br/><br/>
 										<b>[Invited by]</b>
-										<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a>
+										<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael
+											Pinedo</a>
 										(New York Uni)
 									</td>
 								</tr>
