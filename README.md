@@ -118,24 +118,38 @@
 					<!--Title/Abstract/PDF-->
 					<tr>
 						<td colspan="3">
-							<h2 class="talk_title"><b>A Matheuristic for the Generalized Order Acceptance and Scheduling Problem</b></h2><br/>
+							<h2 class="talk_title"><b>A Matheuristic for the Generalized Order Acceptance and Scheduling
+								Problem</b></h2><br/>
 							<input type="checkbox" id="abstract_id_52" style="display:none;">
 							<label for="abstract_id_52" class="label_abstract"><a>Abstract</a></label>
 							<div class="hidden">
 								<hr style="border-top: 1px solid black;">
-								Firms operating on a make-to-order basis may not satisfy the entire demand due to limited capacity
-								and tight delivery times. This necessitates selecting only part of customer orders to maximize the
-								total revenue, which gives rise to the order acceptance and scheduling (OAS) problems. In this
-								study, we investigate a generalized version of the OAS (GOAS) problem originating from a real-
-								life setting. Due to several components of the problem, such as release times, due dates, deadlines
-								and sequence dependent setup times, finding an exact solution to GOAS problem, that determines
-								which orders to accept and how to schedule them simultaneously to maximize the revenue, in
-								reasonable time even in a single machine environment is difficult. Hence, we develop an effective
-								and efficient matheuristic, which consists of a time-bucket based mixed integer linear programming
-								model, a variable neighborhood search algorithm and a tabu search algorithm, for the GOAS
-								problem. Computational results show that the proposed matheuristic outperforms the state-of-the-
-								art algorithms developed for the GOAS problem. The boundary of optimally solved instance size
-								is pushed further and near optimal solutions are obtained in reasonable time for instances falling
+								Firms operating on a make-to-order basis may not satisfy the entire demand due to
+								limited capacity
+								and tight delivery times. This necessitates selecting only part of customer orders to
+								maximize the
+								total revenue, which gives rise to the order acceptance and scheduling (OAS) problems.
+								In this
+								study, we investigate a generalized version of the OAS (GOAS) problem originating from a
+								real-
+								life setting. Due to several components of the problem, such as release times, due
+								dates, deadlines
+								and sequence dependent setup times, finding an exact solution to GOAS problem, that
+								determines
+								which orders to accept and how to schedule them simultaneously to maximize the revenue,
+								in
+								reasonable time even in a single machine environment is difficult. Hence, we develop an
+								effective
+								and efficient matheuristic, which consists of a time-bucket based mixed integer linear
+								programming
+								model, a variable neighborhood search algorithm and a tabu search algorithm, for the
+								GOAS
+								problem. Computational results show that the proposed matheuristic outperforms the
+								state-of-the-
+								art algorithms developed for the GOAS problem. The boundary of optimally solved instance
+								size
+								is pushed further and near optimal solutions are obtained in reasonable time for
+								instances falling
 								beyond this boundary. Joint work with İstenç Tarhan.
 								<hr style="border-top: 1px solid black;">
 							</div>
@@ -549,16 +563,29 @@
 		<!--Single talk------------------------------------------------------------------------------------------------>
 		<tr>
 			<td style="padding: 0">
-				<table class="europe"> <!--TODO class-->
+				<table class="europe">
 					<!--Title/Abstract/PDF-->
 					<tr>
 						<td colspan="3">
-							<h2 class="talk_title"><b>TBA</b></h2><br/>
-							<input type="checkbox" id="abstract_id_57" style="display:none;"> <!--TODO abstract id-->
+							<h2 class="talk_title"><b>Machine Learning meets Selection Hyper-heuristics</b></h2><br/>
+							<input type="checkbox" id="abstract_id_57" style="display:none;">
 							<label for="abstract_id_57" class="label_abstract"><a>Abstract</a></label>
 							<div class="hidden">
 								<hr style="border-top: 1px solid black;">
-								<!--TODO abstract-->
+								Hyper-heuristics are powerful search methodologies that operate on low level heuristics
+								or heuristic components to tackle computationally hard optimisation problems. The
+								current state-of-the-art in hyper-heuristic research contains classes of algorithms that
+								focus on intelligently selecting or generating a suitable heuristic for a given
+								situation. Hence, there are two main types of hyper-heuristics: selection and generation
+								hyper-heuristics. A typical selection hyper-heuristic chooses a low-level heuristic and
+								applies it to the current solution at each step of a search, before deciding whether to
+								accept or reject the newly created solution. Generation hyper-heuristics, in contrast,
+								automatically build heuristics or heuristic components during the search process.
+								Machine learning is revolutionising various fields, and its integration with
+								hyper-heuristics holds immense potential. This talk will first offer a concise overview
+								of hyper-heuristics, followed by illustrative case studies demonstrating how we have
+								successfully applied machine learning to automatically design more effective selection
+								hyper-heuristics.
 								<hr style="border-top: 1px solid black;">
 							</div>
 							<!--TODO pdf and video-->
@@ -576,20 +603,17 @@
 					<tr>
 						<td class="presenter_image_container">
 							<div class="single_image_container">
-								<a href=""> <!--TODO link-->
-									<!--TODO image-->
-									<img class="single_presenter" loading="lazy" src="photos/person_placeholder.png"
+								<a href="https://scholar.google.co.uk/citations?user=8maqKdgAAAAJ&hl=en">
+									<img class="single_presenter" loading="lazy" src="photos/Ender_Ozcan.jpg"
 									     alt="person_photo"/>
 								</a><br/>
 							</div>
 						</td>
 						<td class="information_upcoming_container">
 							<b>[Presenter]</b><br/>
-							<!--TODO link-->
-							<a href="">Ender Ozcan</a><br/>
-							(<!--TODO Uni--> )<br/><br/>
-							<!--TODO keywords-->
-							<!--<b>Keywords:</b>  -->
+							<a href="https://scholar.google.co.uk/citations?user=8maqKdgAAAAJ&hl=en">Ender Ozcan</a><br/>
+							(Uni of Nottingham)<br/><br/>
+							<!--<b>Keywords:</b> intelligent decision support, hyper-heuristics, metaheuristics, machine learning -->
 							<b>[Invited by]</b><br/>
 							<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a><br/>
 							(CTU in Prague)
@@ -697,7 +721,8 @@
 
 						<td colspan="2">
 							<div class="resizable_youtube_single">
-								<iframe width="400" height="250" src="https://www.youtube.com/embed/YPTQ8MW7pQM?si=SlBKpXKqT0RUcdDD"
+								<iframe width="400" height="250"
+								        src="https://www.youtube.com/embed/YPTQ8MW7pQM?si=SlBKpXKqT0RUcdDD"
 								        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
 								        allowfullscreen></iframe>
 							</div>
@@ -716,9 +741,11 @@
 							<table class="panelists_past_container_single">
 								<tr>
 									<td colspan="2">
-										<b>Keywords:</b> Single-machine scheduling, Parameterized complexity, Number of numbers <br/><br/>
+										<b>Keywords:</b> Single-machine scheduling, Parameterized complexity, Number of
+										numbers <br/><br/>
 										<b>[Invited by]</b>
-										<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a>
+										<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael
+											Pinedo</a>
 										(New York Uni)
 									</td>
 								</tr>
