@@ -118,110 +118,6 @@
 					<!--Title/Abstract/PDF-->
 					<tr>
 						<td colspan="3">
-							<h2 class="talk_title"><b>A Matheuristic for the Generalized Order Acceptance and Scheduling
-								Problem</b></h2><br/>
-							<input type="checkbox" id="abstract_id_52" style="display:none;">
-							<label for="abstract_id_52" class="label_abstract"><a>Abstract</a></label>
-							<div class="hidden">
-								<hr style="border-top: 1px solid black;">
-								Firms operating on a make-to-order basis may not satisfy the entire demand due to
-								limited capacity
-								and tight delivery times. This necessitates selecting only part of customer orders to
-								maximize the
-								total revenue, which gives rise to the order acceptance and scheduling (OAS) problems.
-								In this
-								study, we investigate a generalized version of the OAS (GOAS) problem originating from a
-								real-
-								life setting. Due to several components of the problem, such as release times, due
-								dates, deadlines
-								and sequence dependent setup times, finding an exact solution to GOAS problem, that
-								determines
-								which orders to accept and how to schedule them simultaneously to maximize the revenue,
-								in
-								reasonable time even in a single machine environment is difficult. Hence, we develop an
-								effective
-								and efficient matheuristic, which consists of a time-bucket based mixed integer linear
-								programming
-								model, a variable neighborhood search algorithm and a tabu search algorithm, for the
-								GOAS
-								problem. Computational results show that the proposed matheuristic outperforms the
-								state-of-the-
-								art algorithms developed for the GOAS problem. The boundary of optimally solved instance
-								size
-								is pushed further and near optimal solutions are obtained in reasonable time for
-								instances falling
-								beyond this boundary. Joint work with İstenç Tarhan.
-								<hr style="border-top: 1px solid black;">
-							</div>
-							<!--TODO pdf and video-->
-							<a href="./presentations/SchedulingSeminar_CeydaOguz.pdf" class="label_abstract" download>
-								Download PDF
-							</a>
-							<!--					<a href="LINK"-->
-							<!--					   class="label_abstract" download>-->
-							<!--						Download Video-->
-							<!--					</a>-->
-						</td>
-					</tr>
-
-					<!--Data--->
-					<tr>
-						<td class="presenter_image_container">
-							<div class="single_image_container">
-								<a href="https://scholar.google.com/citations?user=nC-GgAcAAAAJ&hl=en">
-									<img class="single_presenter" loading="lazy" src="photos/Ceyda_Oguz.jpg"
-									     alt="person_photo"/>
-								</a><br/>
-							</div>
-						</td>
-						<td class="information_upcoming_container">
-							<b>[Presenter]</b><br/>
-							<a href="https://scholar.google.com/citations?user=nC-GgAcAAAAJ&hl=en">Ceyda Oğuz</a><br/>
-							(Koç University)<br/><br/>
-							<!--<b>Keywords:</b> Order acceptance and scheduling, Matheuristic, Variable neighborhood search, Tabu search -->
-							<b>[Invited by]</b><br/>
-							<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a><br/>
-							(New York Uni)
-						</td>
-						<td class="time_zones_container">
-							<table class="time_table">
-								<tbody>
-								<tr class="utc">
-									<td>UTC</td>
-									<td>Feb 7, 14:00 Wed</td>
-								</tr>
-								<tr class="europe">
-									<td>Prague</td>
-									<td>Feb 7, 15:00 Wed</td>
-								</tr>
-								<tr class="america">
-									<td>New York</td>
-									<td>Feb 7, 09:00 Wed</td>
-								</tr>
-								<tr class="asia">
-									<td>Shanghai</td>
-									<td>Feb 7, 22:00 Wed</td>
-								</tr>
-								</tbody>
-							</table>
-						</td>
-					</tr>
-
-					<!--Spacing--->
-					<tr style="background-color: white">
-						<td colspan="100%"></td>
-					</tr>
-				</table>
-			</td>
-		</tr>
-
-		<!--Single talk------------------------------------------------------------------------------------------------>
-		<tr>
-			<td style="padding: 0">
-				<table class="europe">
-					<!--Title/Abstract/PDF-->
-					<tr>
-						<td colspan="3">
 							<h2 class="talk_title"><b>Scheduling in the e-commerce era: New scheduling problems in order
 								fulfilment and warehousing</b></h2><br/>
 							<input type="checkbox" id="abstract_id_53" style="display:none;">
@@ -847,7 +743,7 @@
 
 <!--Past talks-->
 <div class="column column_right">
-	<h2>Past talks (51)</h2>
+	<h2>Past talks (52)</h2>
 	<div class="inline-right"><a
 			href="https://docs.google.com/spreadsheets/d/1Glyd6FGzoKtZGfClNA_XaIK8vJZtnu8K4OdNcPr_yHc/edit#gid=0"
 			target="_blank"
@@ -855,6 +751,114 @@
 
 	<table class="past_talk_table">
 		<tbody>
+
+		<!--Single talk------------------------------------------------------------------------------------------------>
+		<tr>
+			<td style="padding: 0">
+				<table class="europe">
+					<!--Title/Abstract/PDF-->
+					<tr>
+						<td colspan="3">
+							<h2 class="talk_title"><b>A Matheuristic for the Generalized Order Acceptance and Scheduling
+								Problem</b></h2><br/>
+							<input type="checkbox" id="abstract_id_52" style="display:none;">
+							<label for="abstract_id_52" class="label_abstract"><a>Abstract</a></label>
+							<div class="hidden">
+								<hr style="border-top: 1px solid black;">
+								Firms operating on a make-to-order basis may not satisfy the entire demand due to
+								limited capacity
+								and tight delivery times. This necessitates selecting only part of customer orders to
+								maximize the
+								total revenue, which gives rise to the order acceptance and scheduling (OAS) problems.
+								In this
+								study, we investigate a generalized version of the OAS (GOAS) problem originating from a
+								real-
+								life setting. Due to several components of the problem, such as release times, due
+								dates, deadlines
+								and sequence dependent setup times, finding an exact solution to GOAS problem, that
+								determines
+								which orders to accept and how to schedule them simultaneously to maximize the revenue,
+								in
+								reasonable time even in a single machine environment is difficult. Hence, we develop an
+								effective
+								and efficient matheuristic, which consists of a time-bucket based mixed integer linear
+								programming
+								model, a variable neighborhood search algorithm and a tabu search algorithm, for the
+								GOAS
+								problem. Computational results show that the proposed matheuristic outperforms the
+								state-of-the-
+								art algorithms developed for the GOAS problem. The boundary of optimally solved instance
+								size
+								is pushed further and near optimal solutions are obtained in reasonable time for
+								instances falling
+								beyond this boundary. Joint work with İstenç Tarhan.
+								<hr style="border-top: 1px solid black;">
+							</div>
+							<!--TODO pdf and video-->
+							<a href="./presentations/SchedulingSeminar_CeydaOguz.pdf" class="label_abstract" download>
+								Download PDF
+							</a>
+							<!--					<a href="LINK"-->
+							<!--					   class="label_abstract" download>-->
+							<!--						Download Video-->
+							<!--					</a>-->
+						</td>
+					</tr>
+
+					<!--Photo and video-->
+					<tr>
+						<td class="presenter_image_container">
+							<div class="single_image_container">
+								<a href="https://scholar.google.com/citations?user=nC-GgAcAAAAJ&hl=en">
+									<img class="single_presenter" loading="lazy" src="photos/Ceyda_Oguz.jpg"
+									     alt="person_photo"/>
+								</a><br/>
+							</div>
+						</td>
+
+						<td colspan="2">
+							<div class="resizable_youtube_single">
+								<iframe width="400" height="250" src="https://www.youtube.com/embed/IQWNuFzylUQ?si=812wHrugqir4JEtb"
+								        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+								        allowfullscreen></iframe>
+							</div>
+						</td>
+					</tr>
+
+					<!--Text description-->
+					<tr>
+						<td class="presenter_past_info_container">
+							<!--TODO - Copy whole but with just one <br/> after university name-->
+							<b>[Presenter]</b><br/>
+							<a href="https://scholar.google.com/citations?user=nC-GgAcAAAAJ&hl=en">Ceyda Oğuz</a><br/>
+							(Koç University)<br/>
+							<!--<b>Keywords:</b> Order acceptance and scheduling, Matheuristic, Variable neighborhood search, Tabu search -->
+							<b>[Invited by]</b><br/>
+							<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a><br/>
+							(New York Uni)
+						</td>
+
+						<td>
+							<table class="panelists_past_container_single">
+								<tr>
+									<td colspan="2">
+										<b>Keywords:</b> Order acceptance and scheduling, Matheuristic, Variable neighborhood search, Tabu search <br/><br/>
+										<b>[Invited by]</b>
+										<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a><br/>
+										(New York Uni)
+									</td>
+								</tr>
+							</table>
+						</td>
+					</tr>
+
+					<!--Spacing--->
+					<tr style="background-color: white">
+						<td colspan="100%"></td>
+					</tr>
+				</table>
+			</td>
+		</tr>
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
 		<tr>
