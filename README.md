@@ -828,14 +828,9 @@
 					<!--Text description-->
 					<tr>
 						<td class="presenter_past_info_container">
-							<!--TODO - Copy whole but with just one <br/> after university name-->
 							<b>[Presenter]</b><br/>
 							<a href="https://scholar.google.com/citations?user=nC-GgAcAAAAJ&hl=en">Ceyda Oğuz</a><br/>
 							(Koç University)<br/>
-							<!--<b>Keywords:</b> Order acceptance and scheduling, Matheuristic, Variable neighborhood search, Tabu search -->
-							<b>[Invited by]</b><br/>
-							<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a><br/>
-							(New York Uni)
 						</td>
 
 						<td>
@@ -844,7 +839,7 @@
 									<td colspan="2">
 										<b>Keywords:</b> Order acceptance and scheduling, Matheuristic, Variable neighborhood search, Tabu search <br/><br/>
 										<b>[Invited by]</b>
-										<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a><br/>
+										<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a>
 										(New York Uni)
 									</td>
 								</tr>
