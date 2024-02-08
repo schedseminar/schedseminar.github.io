@@ -794,14 +794,13 @@
 								beyond this boundary. Joint work with İstenç Tarhan.
 								<hr style="border-top: 1px solid black;">
 							</div>
-							<!--TODO pdf and video-->
 							<a href="./presentations/SchedulingSeminar_CeydaOguz.pdf" class="label_abstract" download>
 								Download PDF
 							</a>
-							<!--					<a href="LINK"-->
-							<!--					   class="label_abstract" download>-->
-							<!--						Download Video-->
-							<!--					</a>-->
+							<a href="https://scheduling-seminar.iid.ciirc.cvut.cz/videos/24_1_Winter/24_02_07%20Ceyda%20O%c4%9fuz%20(Ko%c3%a7%20University)%20_%20A%20Matheuristic%20for%20the%20Generalized%20Order....mp4"
+							   class="label_abstract" download>
+								Download Video
+							</a>
 						</td>
 					</tr>
 
@@ -880,14 +879,13 @@
 								Based on joint work with Danny Hermelin.
 								<hr style="border-top: 1px solid black;">
 							</div>
-							<!--TODO pdf and video-->
 							<a href="./presentations/SchedulingSeminar_KlausHeeger.pdf" class="label_abstract" download>
 								Download PDF
 							</a>
-							<!--					<a href="LINK"-->
-							<!--					   class="label_abstract" download>-->
-							<!--						Download Video-->
-							<!--					</a>-->
+							<a href="https://scheduling-seminar.iid.ciirc.cvut.cz/videos/24_1_Winter/24_01_24%20Klaus%20Heeger%20(Ben%20Gurion%20University)%20_%20Minimizing%20the%20Weighted%20Tardy%20Jobs....mp4"
+							   class="label_abstract" download>
+								Download Video
+							</a>
 						</td>
 					</tr>
 
