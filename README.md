@@ -209,12 +209,42 @@
 					<!--Title/Abstract/PDF-->
 					<tr>
 						<td colspan="3">
-							<h2 class="talk_title"><b>Scheduling with CP-SAT</b></h2><br/>
+							<h2 class="talk_title"><b>The CP-SAT solver</b></h2><br/>
 							<input type="checkbox" id="abstract_id_54" style="display:none;">
 							<label for="abstract_id_54" class="label_abstract"><a>Abstract</a></label>
 							<div class="hidden">
 								<hr style="border-top: 1px solid black;">
-								<!--TODO abstract-->
+								The CP-SAT solver is developed by the Operations Research team at
+								Google and is part of the OR-Tools open-source optimization suite. It is an
+								implementation of a purely integral Constraint Programming solver on top of
+								a SAT solver using Lazy Clause Generation. It draws its inspiration from
+								the chuffed solver, and from the CP 2013 plenary by Peter Stuckey on Lazy
+								Clause Generation. The CP-SAT solver improves upon the chuffed solver in
+								two main directions. First, it uses a simplex alongside the SAT engine.
+								Second, it implements and relies upon a portfolio of diverse workers for
+								its search part. The use of the simplex brings the obvious advantages of a
+								linear relaxation on the linear part of the full model. It also started the
+								integration of MIP technology into CP-SAT. This is a huge endeavour, as MIP
+								solvers are mature and complex. It includes presolve -- which was already a
+								part of CP-SAT --, dual reductions, specific branching rules, cuts, reduced
+								cost fixing, and more advanced techniques. It also allows the tight
+								integration of the research from the Scheduling on MIP community along with
+								the most advanced scheduling algorithms. This has enabled breakthroughs in
+								solving and proving hard scheduling instances of the Job-Shop problems and
+								Resource Constraint Project Scheduling Problems. Using a portfolio of
+								different workers makes it easier to try new ideas and to incorporate
+								orthogonal techniques with little complication, except controlling the
+								explosion of potential workers. These workers can be categorized along
+								multiple criteria like finding primal solutions -- either using complete
+								solvers, Local Search or Large Neighborhood Search --, improving dual
+								bounds, trying to reduce the problem with the help of continuous probing.
+								This diversity of behaviors has increased the robustness of the solver,
+								while the continuous sharing of information between workers has produced
+								massive speedups when running multiple workers in parallel. All in all, CP-
+								SAT is a state-of-the-art solver, with unsurpassed performance in the
+								Constraint Programming community, breakthrough results on Scheduling
+								benchmarks (with the closure of many open problems), and competitive
+								results with the best MIP solvers (on purely integral problems).
 								<hr style="border-top: 1px solid black;">
 							</div>
 							<!--TODO pdf and video-->
@@ -232,18 +262,16 @@
 					<tr>
 						<td class="presenter_image_container">
 							<div class="single_image_container">
-								<a href=""> <!--TODO link-->
-									<!--TODO image-->
-									<img class="single_presenter" loading="lazy" src="photos/person_placeholder.png"
+								<a href="https://developers.google.com/optimization">
+									<img class="single_presenter" loading="lazy" src="photos/Laurent_Perron.jpg"
 									     alt="person_photo"/>
 								</a><br/>
 							</div>
 						</td>
 						<td class="information_upcoming_container">
 							<b>[Presenter]</b><br/>
-							<!--TODO link-->
-							<a href="">Laurent Perron</a><br/>
-							(<!--TODO Uni--> )<br/><br/>
+							<a href="https://developers.google.com/optimization">Laurent Perron</a><br/>
+							(Google France)<br/><br/>
 							<!--TODO keywords-->
 							<!--<b>Keywords:</b>  -->
 							<b>[Invited by]</b><br/>
