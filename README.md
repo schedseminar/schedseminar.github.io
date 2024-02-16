@@ -272,8 +272,7 @@
 							<b>[Presenter]</b><br/>
 							<a href="https://developers.google.com/optimization">Laurent Perron</a><br/>
 							(Google France)<br/><br/>
-							<!--TODO keywords-->
-							<!--<b>Keywords:</b>  -->
+							<b>Keywords:</b> Constraint programming, sat solver, integer linear programming
 							<b>[Invited by]</b><br/>
 							<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a><br/>
 							(CTU in Prague)
