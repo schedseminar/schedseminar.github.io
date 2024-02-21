@@ -118,97 +118,6 @@
 					<!--Title/Abstract/PDF-->
 					<tr>
 						<td colspan="3">
-							<h2 class="talk_title"><b>Scheduling in the e-commerce era: New scheduling problems in order
-								fulfilment and warehousing</b></h2><br/>
-							<input type="checkbox" id="abstract_id_53" style="display:none;">
-							<label for="abstract_id_53" class="label_abstract"><a>Abstract</a></label>
-							<div class="hidden">
-								<hr style="border-top: 1px solid black;">
-								Driven by the success of e-commerce, today's warehouses are evolving into fully
-								automated fulfillment factories. Many of them follow the parts-to-picker paradigm, using
-								mobile shelf-lifting robots or conveyors to deliver stock keeping units (SKUs) to
-								stationary order pickers working in picking workstations. This talk aims to structure
-								and review the family of fulfillment-related scheduling problems that arise in this
-								environment: On the input side, the sequence in which totes of SKUs are delivered to a
-								workstation must be synchronized with the orders that are being assembled there at the
-								same time on the output side. In this way, a more efficient fulfillment process can be
-								achieved, and the bin supply system can be relieved. This talk classifies the family of
-								slightly different order fulfillment scheduling problems that arise with different
-								workstation setups in alternative warehouses. This classification scheme is used to
-								survey the existing literature, analyze the computational complexity, and systematically
-								quantify the gains of alternative workstation setups. The talk also highlights valuable
-								future research ideas for this emerging area of scheduling research.
-								<hr style="border-top: 1px solid black;">
-							</div>
-							<!--TODO pdf and video-->
-							<a href="./presentations/SchedulingSeminar_NilsBoysen.pdf" class="label_abstract" download>
-								Download PDF
-							</a>
-							<!--					<a href="LINK"-->
-							<!--					   class="label_abstract" download>-->
-							<!--						Download Video-->
-							<!--					</a>-->
-						</td>
-					</tr>
-
-					<!--Data--->
-					<tr>
-						<td class="presenter_image_container">
-							<div class="single_image_container">
-								<a href="https://www.om.uni-jena.de/en">
-									<img class="single_presenter" loading="lazy" src="photos/Nils_Boysen.jpg"
-									     alt="person_photo"/>
-								</a><br/>
-							</div>
-						</td>
-						<td class="information_upcoming_container">
-							<b>[Presenter]</b><br/>
-							<a href="https://www.om.uni-jena.de/en">Nils Boysen</a><br/>
-							(University of Jena)<br/><br/>
-							<!--<b>Keywords:</b> Warehousing, E-commerce, Order fulfillment scheduling, Synchronization, Classification -->
-							<b>[Invited by]</b><br/>
-							<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a><br/>
-							(CTU in Prague)
-						</td>
-						<td class="time_zones_container">
-							<table class="time_table">
-								<tbody>
-								<tr class="utc">
-									<td>UTC</td>
-									<td>Feb 21, 14:00 Wed</td>
-								</tr>
-								<tr class="europe">
-									<td>Prague</td>
-									<td>Feb 21, 15:00 Wed</td>
-								</tr>
-								<tr class="america">
-									<td>New York</td>
-									<td>Feb 21, 09:00 Wed</td>
-								</tr>
-								<tr class="asia">
-									<td>Shanghai</td>
-									<td>Feb 21, 22:00 Wed</td>
-								</tr>
-								</tbody>
-							</table>
-						</td>
-					</tr>
-
-					<!--Spacing--->
-					<tr style="background-color: white">
-						<td colspan="100%"></td>
-					</tr>
-				</table>
-			</td>
-		</tr>
-
-		<!--Single talk------------------------------------------------------------------------------------------------>
-		<tr>
-			<td style="padding: 0">
-				<table class="europe">
-					<!--Title/Abstract/PDF-->
-					<tr>
-						<td colspan="3">
 							<h2 class="talk_title"><b>The CP-SAT solver</b></h2><br/>
 							<input type="checkbox" id="abstract_id_54" style="display:none;">
 							<label for="abstract_id_54" class="label_abstract"><a>Abstract</a></label>
@@ -770,7 +679,7 @@
 
 <!--Past talks-->
 <div class="column column_right">
-	<h2>Past talks (52)</h2>
+	<h2>Past talks (53)</h2>
 	<div class="inline-right"><a
 			href="https://docs.google.com/spreadsheets/d/1Glyd6FGzoKtZGfClNA_XaIK8vJZtnu8K4OdNcPr_yHc/edit#gid=0"
 			target="_blank"
@@ -778,6 +687,98 @@
 
 	<table class="past_talk_table">
 		<tbody>
+
+		<!--Single talk------------------------------------------------------------------------------------------------>
+		<tr>
+			<td style="padding: 0">
+				<table class="europe">
+					<!--Title/Abstract/PDF-->
+					<tr>
+						<td colspan="3">
+							<h2 class="talk_title"><b>Scheduling in the e-commerce era: New scheduling problems in order
+								fulfilment and warehousing</b></h2><br/>
+							<input type="checkbox" id="abstract_id_53" style="display:none;">
+							<label for="abstract_id_53" class="label_abstract"><a>Abstract</a></label>
+							<div class="hidden">
+								<hr style="border-top: 1px solid black;">
+								Driven by the success of e-commerce, today's warehouses are evolving into fully
+								automated fulfillment factories. Many of them follow the parts-to-picker paradigm, using
+								mobile shelf-lifting robots or conveyors to deliver stock keeping units (SKUs) to
+								stationary order pickers working in picking workstations. This talk aims to structure
+								and review the family of fulfillment-related scheduling problems that arise in this
+								environment: On the input side, the sequence in which totes of SKUs are delivered to a
+								workstation must be synchronized with the orders that are being assembled there at the
+								same time on the output side. In this way, a more efficient fulfillment process can be
+								achieved, and the bin supply system can be relieved. This talk classifies the family of
+								slightly different order fulfillment scheduling problems that arise with different
+								workstation setups in alternative warehouses. This classification scheme is used to
+								survey the existing literature, analyze the computational complexity, and systematically
+								quantify the gains of alternative workstation setups. The talk also highlights valuable
+								future research ideas for this emerging area of scheduling research.
+								<hr style="border-top: 1px solid black;">
+							</div>
+							<!--TODO pdf and video-->
+							<a href="./presentations/SchedulingSeminar_NilsBoysen.pdf" class="label_abstract" download>
+								Download PDF
+							</a>
+							<!--					<a href="LINK"-->
+							<!--					   class="label_abstract" download>-->
+							<!--						Download Video-->
+							<!--					</a>-->
+						</td>
+					</tr>
+
+					<!--Photo and video-->
+					<tr>
+						<td class="presenter_image_container">
+							<div class="single_image_container">
+								<a href="https://www.om.uni-jena.de/en">
+									<img class="single_presenter" loading="lazy" src="photos/Nils_Boysen.jpg"
+									     alt="person_photo"/>
+								</a><br/>
+							</div>
+						</td>
+
+						<td colspan="2">
+							<div class="resizable_youtube_single">
+								<iframe width="400" height="250"
+								        src="https://www.youtube.com/embed/4mR-eyKUliw?si=dgeK8UmfHygSvo97"
+								        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+								        allowfullscreen></iframe>
+							</div>
+						</td>
+					</tr>
+
+					<!--Text description-->
+					<tr>
+						<td class="presenter_past_info_container">
+							<b>[Presenter]</b><br/>
+							<a href="https://www.om.uni-jena.de/en">Nils Boysen</a><br/>
+							(University of Jena)<br/>
+						</td>
+
+						<td>
+							<table class="panelists_past_container_single">
+								<tr>
+									<td colspan="2">
+										<b>Keywords:</b> Warehousing, E-commerce, Order fulfillment scheduling, Synchronization,
+										Classification <br/><br/>
+										<b>[Invited by]</b>
+										<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a>
+										(CTU in Prague)
+									</td>
+								</tr>
+							</table>
+						</td>
+					</tr>
+
+					<!--Spacing--->
+					<tr style="background-color: white">
+						<td colspan="100%"></td>
+					</tr>
+				</table>
+			</td>
+		</tr>
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
 		<tr>
