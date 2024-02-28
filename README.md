@@ -721,10 +721,10 @@
 							<a href="./presentations/SchedulingSeminar_NilsBoysen.pdf" class="label_abstract" download>
 								Download PDF
 							</a>
-							<!--					<a href="LINK"-->
-							<!--					   class="label_abstract" download>-->
-							<!--						Download Video-->
-							<!--					</a>-->
+							<a href="https://scheduling-seminar.iid.ciirc.cvut.cz/videos/24_1_Winter/24_02_21%20Nils%20Boysen%20(University%20of%20Jena)%20_%20Scheduling%20in%20the%20e-commerce%20era.mp4"
+							   class="label_abstract" download>
+								Download Video
+							</a>
 						</td>
 					</tr>
 
