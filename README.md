@@ -669,7 +669,7 @@
 							<table class="panelists_past_container_single">
 								<tr>
 									<td colspan="2">
-										<b>Keywords:</b> Constraint programming, sat solver, integer linear programming <br/><br/>
+										<b>Keywords:</b> Constraint programming, SAT solver, Integer linear programming <br/><br/>
 										<b>[Invited by]</b>
 										<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a>
 										(CTU in Prague)
