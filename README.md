@@ -118,113 +118,6 @@
 					<!--Title/Abstract/PDF-->
 					<tr>
 						<td colspan="3">
-							<h2 class="talk_title"><b>The CP-SAT solver</b></h2><br/>
-							<input type="checkbox" id="abstract_id_54" style="display:none;">
-							<label for="abstract_id_54" class="label_abstract"><a>Abstract</a></label>
-							<div class="hidden">
-								<hr style="border-top: 1px solid black;">
-								The CP-SAT solver is developed by the Operations Research team at
-								Google and is part of the OR-Tools open-source optimization suite. It is an
-								implementation of a purely integral Constraint Programming solver on top of
-								a SAT solver using Lazy Clause Generation. It draws its inspiration from
-								the chuffed solver, and from the CP 2013 plenary by Peter Stuckey on Lazy
-								Clause Generation. The CP-SAT solver improves upon the chuffed solver in
-								two main directions. First, it uses a simplex alongside the SAT engine.
-								Second, it implements and relies upon a portfolio of diverse workers for
-								its search part. The use of the simplex brings the obvious advantages of a
-								linear relaxation on the linear part of the full model. It also started the
-								integration of MIP technology into CP-SAT. This is a huge endeavour, as MIP
-								solvers are mature and complex. It includes presolve -- which was already a
-								part of CP-SAT --, dual reductions, specific branching rules, cuts, reduced
-								cost fixing, and more advanced techniques. It also allows the tight
-								integration of the research from the Scheduling on MIP community along with
-								the most advanced scheduling algorithms. This has enabled breakthroughs in
-								solving and proving hard scheduling instances of the Job-Shop problems and
-								Resource Constraint Project Scheduling Problems. Using a portfolio of
-								different workers makes it easier to try new ideas and to incorporate
-								orthogonal techniques with little complication, except controlling the
-								explosion of potential workers. These workers can be categorized along
-								multiple criteria like finding primal solutions -- either using complete
-								solvers, Local Search or Large Neighborhood Search --, improving dual
-								bounds, trying to reduce the problem with the help of continuous probing.
-								This diversity of behaviors has increased the robustness of the solver,
-								while the continuous sharing of information between workers has produced
-								massive speedups when running multiple workers in parallel. All in all, CP-
-								SAT is a state-of-the-art solver, with unsurpassed performance in the
-								Constraint Programming community, breakthrough results on Scheduling
-								benchmarks (with the closure of many open problems), and competitive
-								results with the best MIP solvers (on purely integral problems).
-								<hr style="border-top: 1px solid black;">
-							</div>
-							<!--TODO pdf and video-->
-							<a href="./presentations/SchedulingSeminar_LaurentPerron.pdf" class="label_abstract" download>
-								Download PDF
-							</a>
-							<!--					<a href="LINK"-->
-							<!--					   class="label_abstract" download>-->
-							<!--						Download Video-->
-							<!--					</a>-->
-						</td>
-					</tr>
-
-					<!--Data--->
-					<tr>
-						<td class="presenter_image_container">
-							<div class="single_image_container">
-								<a href="https://developers.google.com/optimization">
-									<img class="single_presenter" loading="lazy" src="photos/Laurent_Perron.jpg"
-									     alt="person_photo"/>
-								</a><br/>
-							</div>
-						</td>
-						<td class="information_upcoming_container">
-							<b>[Presenter]</b><br/>
-							<a href="https://developers.google.com/optimization">Laurent Perron</a><br/>
-							(Google France)<br/><br/>
-							<!--<b>Keywords:</b> Constraint programming, sat solver, integer linear programming-->
-							<b>[Invited by]</b><br/>
-							<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a><br/>
-							(CTU in Prague)
-						</td>
-						<td class="time_zones_container">
-							<table class="time_table">
-								<tbody>
-								<tr class="utc">
-									<td>UTC</td>
-									<td>Mar 6, 14:00 Wed</td>
-								</tr>
-								<tr class="europe">
-									<td>Prague</td>
-									<td>Mar 6, 15:00 Wed</td>
-								</tr>
-								<tr class="america">
-									<td>New York</td>
-									<td>Mar 6, 09:00 Wed</td>
-								</tr>
-								<tr class="asia">
-									<td>Shanghai</td>
-									<td>Mar 6, 22:00 Wed</td>
-								</tr>
-								</tbody>
-							</table>
-						</td>
-					</tr>
-
-					<!--Spacing--->
-					<tr style="background-color: white">
-						<td colspan="100%"></td>
-					</tr>
-				</table>
-			</td>
-		</tr>
-
-		<!--Single talk------------------------------------------------------------------------------------------------>
-		<tr>
-			<td style="padding: 0">
-				<table class="europe">
-					<!--Title/Abstract/PDF-->
-					<tr>
-						<td colspan="3">
 							<h2 class="talk_title"><b>Robustness in personnel rostering</b></h2><br/>
 							<input type="checkbox" id="abstract_id_55" style="display:none;">
 							<label for="abstract_id_55" class="label_abstract"><a>Abstract</a></label>
@@ -679,7 +572,7 @@
 
 <!--Past talks-->
 <div class="column column_right">
-	<h2>Past talks (53)</h2>
+	<h2>Past talks (54)</h2>
 	<div class="inline-right"><a
 			href="https://docs.google.com/spreadsheets/d/1Glyd6FGzoKtZGfClNA_XaIK8vJZtnu8K4OdNcPr_yHc/edit#gid=0"
 			target="_blank"
@@ -687,6 +580,112 @@
 
 	<table class="past_talk_table">
 		<tbody>
+
+		<!--Single talk------------------------------------------------------------------------------------------------>
+		<tr>
+			<td style="padding: 0">
+				<table class="europe">
+					<!--Title/Abstract/PDF-->
+					<tr>
+						<td colspan="3">
+							<h2 class="talk_title"><b>The CP-SAT solver</b></h2><br/>
+							<input type="checkbox" id="abstract_id_54" style="display:none;">
+							<label for="abstract_id_54" class="label_abstract"><a>Abstract</a></label>
+							<div class="hidden">
+								<hr style="border-top: 1px solid black;">
+								The CP-SAT solver is developed by the Operations Research team at
+								Google and is part of the OR-Tools open-source optimization suite. It is an
+								implementation of a purely integral Constraint Programming solver on top of
+								a SAT solver using Lazy Clause Generation. It draws its inspiration from
+								the chuffed solver, and from the CP 2013 plenary by Peter Stuckey on Lazy
+								Clause Generation. The CP-SAT solver improves upon the chuffed solver in
+								two main directions. First, it uses a simplex alongside the SAT engine.
+								Second, it implements and relies upon a portfolio of diverse workers for
+								its search part. The use of the simplex brings the obvious advantages of a
+								linear relaxation on the linear part of the full model. It also started the
+								integration of MIP technology into CP-SAT. This is a huge endeavour, as MIP
+								solvers are mature and complex. It includes presolve -- which was already a
+								part of CP-SAT --, dual reductions, specific branching rules, cuts, reduced
+								cost fixing, and more advanced techniques. It also allows the tight
+								integration of the research from the Scheduling on MIP community along with
+								the most advanced scheduling algorithms. This has enabled breakthroughs in
+								solving and proving hard scheduling instances of the Job-Shop problems and
+								Resource Constraint Project Scheduling Problems. Using a portfolio of
+								different workers makes it easier to try new ideas and to incorporate
+								orthogonal techniques with little complication, except controlling the
+								explosion of potential workers. These workers can be categorized along
+								multiple criteria like finding primal solutions -- either using complete
+								solvers, Local Search or Large Neighborhood Search --, improving dual
+								bounds, trying to reduce the problem with the help of continuous probing.
+								This diversity of behaviors has increased the robustness of the solver,
+								while the continuous sharing of information between workers has produced
+								massive speedups when running multiple workers in parallel. All in all, CP-
+								SAT is a state-of-the-art solver, with unsurpassed performance in the
+								Constraint Programming community, breakthrough results on Scheduling
+								benchmarks (with the closure of many open problems), and competitive
+								results with the best MIP solvers (on purely integral problems).
+								<hr style="border-top: 1px solid black;">
+							</div>
+							<!--TODO pdf and video-->
+							<a href="./presentations/SchedulingSeminar_LaurentPerron.pdf" class="label_abstract" download>
+								Download PDF
+							</a>
+							<!--					<a href="LINK"-->
+							<!--					   class="label_abstract" download>-->
+							<!--						Download Video-->
+							<!--					</a>-->
+						</td>
+					</tr>
+
+					<!--Photo and video-->
+					<tr>
+						<td class="presenter_image_container">
+							<div class="single_image_container">
+								<a href="https://developers.google.com/optimization">
+									<img class="single_presenter" loading="lazy" src="photos/Laurent_Perron.jpg"
+									     alt="person_photo"/>
+								</a><br/>
+							</div>
+						</td>
+
+						<td colspan="2">
+							<div class="resizable_youtube_single">
+								<iframe width="400" height="250" src="https://www.youtube.com/embed/vvUxusrUcpU?si=ldUAKR6WqdfAIrhL"
+								        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+								        allowfullscreen></iframe>
+							</div>
+						</td>
+					</tr>
+
+					<!--Text description-->
+					<tr>
+						<td class="presenter_past_info_container">
+							<b>[Presenter]</b><br/>
+							<a href="https://developers.google.com/optimization">Laurent Perron</a><br/>
+							(Google France)<br/>
+						</td>
+
+						<td>
+							<table class="panelists_past_container_single">
+								<tr>
+									<td colspan="2">
+										<b>Keywords:</b> Constraint programming, sat solver, integer linear programming <br/><br/>
+										<b>[Invited by]</b>
+										<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a>
+										(CTU in Prague)
+									</td>
+								</tr>
+							</table>
+						</td>
+					</tr>
+
+					<!--Spacing--->
+					<tr style="background-color: white">
+						<td colspan="100%"></td>
+					</tr>
+				</table>
+			</td>
+		</tr>
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
 		<tr>
