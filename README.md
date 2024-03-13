@@ -630,10 +630,10 @@
 							<a href="./presentations/SchedulingSeminar_LaurentPerron.pdf" class="label_abstract" download>
 								Download PDF
 							</a>
-							<!--					<a href="LINK"-->
-							<!--					   class="label_abstract" download>-->
-							<!--						Download Video-->
-							<!--					</a>-->
+							<a href="https://scheduling-seminar.iid.ciirc.cvut.cz/videos/24_1_Winter/24_03_07%20Laurent%20Perron%20(Google%20France)%20_%20The%20CP-SAT%20solver.mp4"
+							   class="label_abstract" download>
+								Download Video
+							</a>
 						</td>
 					</tr>
 
