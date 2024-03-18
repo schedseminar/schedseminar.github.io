@@ -292,181 +292,10 @@
 					<!--Title/Abstract/PDF-->
 					<tr>
 						<td colspan="3">
-							<h2 class="talk_title"><b>Machine Learning meets Selection Hyper-heuristics</b></h2><br/>
-							<input type="checkbox" id="abstract_id_57" style="display:none;">
-							<label for="abstract_id_57" class="label_abstract"><a>Abstract</a></label>
-							<div class="hidden">
-								<hr style="border-top: 1px solid black;">
-								Hyper-heuristics are powerful search methodologies that operate on low level heuristics
-								or heuristic components to tackle computationally hard optimisation problems. The
-								current state-of-the-art in hyper-heuristic research contains classes of algorithms that
-								focus on intelligently selecting or generating a suitable heuristic for a given
-								situation. Hence, there are two main types of hyper-heuristics: selection and generation
-								hyper-heuristics. A typical selection hyper-heuristic chooses a low-level heuristic and
-								applies it to the current solution at each step of a search, before deciding whether to
-								accept or reject the newly created solution. Generation hyper-heuristics, in contrast,
-								automatically build heuristics or heuristic components during the search process.
-								Machine learning is revolutionising various fields, and its integration with
-								hyper-heuristics holds immense potential. This talk will first offer a concise overview
-								of hyper-heuristics, followed by illustrative case studies demonstrating how we have
-								successfully applied machine learning to automatically design more effective selection
-								hyper-heuristics.
-								<hr style="border-top: 1px solid black;">
-							</div>
-							<!--TODO pdf and video-->
-							<!--					<a href="./presentations/SchedulingSeminar_Name.pdf" class="label_abstract" download>-->
-							<!--						Download PDF-->
-							<!--					</a>-->
-							<!--					<a href="LINK"-->
-							<!--					   class="label_abstract" download>-->
-							<!--						Download Video-->
-							<!--					</a>-->
-						</td>
-					</tr>
-
-					<!--Data--->
-					<tr>
-						<td class="presenter_image_container">
-							<div class="single_image_container">
-								<a href="https://scholar.google.co.uk/citations?user=8maqKdgAAAAJ&hl=en">
-									<img class="single_presenter" loading="lazy" src="photos/Ender_Ozcan.jpg"
-									     alt="person_photo"/>
-								</a><br/>
-							</div>
-						</td>
-						<td class="information_upcoming_container">
-							<b>[Presenter]</b><br/>
-							<a href="https://scholar.google.co.uk/citations?user=8maqKdgAAAAJ&hl=en">Ender Ozcan</a><br/>
-							(Uni of Nottingham)<br/><br/>
-							<!--<b>Keywords:</b> intelligent decision support, hyper-heuristics, metaheuristics, machine learning -->
-							<b>[Invited by]</b><br/>
-							<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a><br/>
-							(CTU in Prague)
-						</td>
-						<td class="time_zones_container">
-							<table class="time_table">
-								<tbody>
-								<tr class="utc">
-									<td>UTC</td>
-									<td>Apr 17, 13:00 Wed</td>
-								</tr>
-								<tr class="europe">
-									<td>Prague</td>
-									<td>Apr 17, 15:00 Wed</td>
-								</tr>
-								<tr class="america">
-									<td>New York</td>
-									<td>Apr 17, 09:00 Wed</td>
-								</tr>
-								<tr class="asia">
-									<td>Shanghai</td>
-									<td>Apr 17, 21:00 Wed</td>
-								</tr>
-								</tbody>
-							</table>
-						</td>
-					</tr>
-
-					<!--Spacing--->
-					<tr style="background-color: white">
-						<td colspan="100%"></td>
-					</tr>
-				</table>
-			</td>
-		</tr>
-
-		<!--Single talk------------------------------------------------------------------------------------------------>
-		<tr>
-			<td style="padding: 0">
-				<table class="europe"> <!--TODO class-->
-					<!--Title/Abstract/PDF-->
-					<tr>
-						<td colspan="3">
-							<h2 class="talk_title"><b>TBA</b></h2><br/>
-							<input type="checkbox" id="abstract_id_58" style="display:none;"> <!--TODO abstract id-->
-							<label for="abstract_id_58" class="label_abstract"><a>Abstract</a></label>
-							<div class="hidden">
-								<hr style="border-top: 1px solid black;">
-								<!--TODO abstract-->
-								<hr style="border-top: 1px solid black;">
-							</div>
-							<!--TODO pdf and video-->
-							<!--					<a href="./presentations/SchedulingSeminar_Name.pdf" class="label_abstract" download>-->
-							<!--						Download PDF-->
-							<!--					</a>-->
-							<!--					<a href="LINK"-->
-							<!--					   class="label_abstract" download>-->
-							<!--						Download Video-->
-							<!--					</a>-->
-						</td>
-					</tr>
-
-					<!--Data--->
-					<tr>
-						<td class="presenter_image_container">
-							<div class="single_image_container">
-								<a href=""> <!--TODO link-->
-									<!--TODO image-->
-									<img class="single_presenter" loading="lazy" src="photos/person_placeholder.png"
-									     alt="person_photo"/>
-								</a><br/>
-							</div>
-						</td>
-						<td class="information_upcoming_container">
-							<b>[Presenter]</b><br/>
-							<!--TODO link-->
-							<a href="">TBA</a><br/>
-							(<!--TODO Uni--> )<br/><br/>
-							<!--TODO keywords-->
-							<!--<b>Keywords:</b>  -->
-							<!--TODO-->
-							<b>[Invited by]</b><br/>
-							<a href="">TBA</a><br/>
-							()
-						</td>
-						<td class="time_zones_container">
-							<table class="time_table">
-								<tbody>
-								<tr class="utc">
-									<td>UTC</td>
-									<td>May 15, 13:00 Wed</td>
-								</tr>
-								<tr class="europe">
-									<td>Prague</td>
-									<td>May 15, 15:00 Wed</td>
-								</tr>
-								<tr class="america">
-									<td>New York</td>
-									<td>May 15, 09:00 Wed</td>
-								</tr>
-								<tr class="asia">
-									<td>Shanghai</td>
-									<td>May 15, 21:00 Wed</td>
-								</tr>
-								</tbody>
-							</table>
-						</td>
-					</tr>
-
-					<!--Spacing--->
-					<tr style="background-color: white">
-						<td colspan="100%"></td>
-					</tr>
-				</table>
-			</td>
-		</tr>
-
-		<!--Single talk------------------------------------------------------------------------------------------------>
-		<tr>
-			<td style="padding: 0">
-				<table class="europe">
-					<!--Title/Abstract/PDF-->
-					<tr>
-						<td colspan="3">
 							<h2 class="talk_title"><b>New Support Size Bounds for Integer Programming,
 								Applied to Makespan Minimization on Uniformly Related Machines</b></h2><br/>
-							<input type="checkbox" id="abstract_id_59" style="display:none;">
-							<label for="abstract_id_59" class="label_abstract"><a>Abstract</a></label>
+							<input type="checkbox" id="abstract_id_57" style="display:none;">
+							<label for="abstract_id_57" class="label_abstract"><a>Abstract</a></label>
 							<div class="hidden">
 								<hr style="border-top: 1px solid black;">
 								Mixed-integer linear programming (MILP) is at the core of many advanced
@@ -545,6 +374,96 @@
 								<tr class="asia">
 									<td>Shanghai</td>
 									<td>May 29, 21:00 Wed</td>
+								</tr>
+								</tbody>
+							</table>
+						</td>
+					</tr>
+
+					<!--Spacing--->
+					<tr style="background-color: white">
+						<td colspan="100%"></td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+
+		<!--Single talk------------------------------------------------------------------------------------------------>
+		<tr>
+			<td style="padding: 0">
+				<table class="europe">
+					<!--Title/Abstract/PDF-->
+					<tr>
+						<td colspan="3">
+							<h2 class="talk_title"><b>Machine Learning meets Selection Hyper-heuristics</b></h2><br/>
+							<input type="checkbox" id="abstract_id_58" style="display:none;">
+							<label for="abstract_id_58" class="label_abstract"><a>Abstract</a></label>
+							<div class="hidden">
+								<hr style="border-top: 1px solid black;">
+								Hyper-heuristics are powerful search methodologies that operate on low level heuristics
+								or heuristic components to tackle computationally hard optimisation problems. The
+								current state-of-the-art in hyper-heuristic research contains classes of algorithms that
+								focus on intelligently selecting or generating a suitable heuristic for a given
+								situation. Hence, there are two main types of hyper-heuristics: selection and generation
+								hyper-heuristics. A typical selection hyper-heuristic chooses a low-level heuristic and
+								applies it to the current solution at each step of a search, before deciding whether to
+								accept or reject the newly created solution. Generation hyper-heuristics, in contrast,
+								automatically build heuristics or heuristic components during the search process.
+								Machine learning is revolutionising various fields, and its integration with
+								hyper-heuristics holds immense potential. This talk will first offer a concise overview
+								of hyper-heuristics, followed by illustrative case studies demonstrating how we have
+								successfully applied machine learning to automatically design more effective selection
+								hyper-heuristics.
+								<hr style="border-top: 1px solid black;">
+							</div>
+							<!--TODO pdf and video-->
+							<!--					<a href="./presentations/SchedulingSeminar_Name.pdf" class="label_abstract" download>-->
+							<!--						Download PDF-->
+							<!--					</a>-->
+							<!--					<a href="LINK"-->
+							<!--					   class="label_abstract" download>-->
+							<!--						Download Video-->
+							<!--					</a>-->
+						</td>
+					</tr>
+
+					<!--Data--->
+					<tr>
+						<td class="presenter_image_container">
+							<div class="single_image_container">
+								<a href="https://scholar.google.co.uk/citations?user=8maqKdgAAAAJ&hl=en">
+									<img class="single_presenter" loading="lazy" src="photos/Ender_Ozcan.jpg"
+									     alt="person_photo"/>
+								</a><br/>
+							</div>
+						</td>
+						<td class="information_upcoming_container">
+							<b>[Presenter]</b><br/>
+							<a href="https://scholar.google.co.uk/citations?user=8maqKdgAAAAJ&hl=en">Ender Ozcan</a><br/>
+							(Uni of Nottingham)<br/><br/>
+							<!--<b>Keywords:</b> intelligent decision support, hyper-heuristics, metaheuristics, machine learning -->
+							<b>[Invited by]</b><br/>
+							<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a><br/>
+							(CTU in Prague)
+						</td>
+						<td class="time_zones_container">
+							<table class="time_table">
+								<tbody>
+								<tr class="utc">
+									<td>UTC</td>
+									<td>Jun 12, 13:00 Wed</td>
+								</tr>
+								<tr class="europe">
+									<td>Prague</td>
+									<td>Jun 12, 15:00 Wed</td>
+								</tr>
+								<tr class="america">
+									<td>New York</td>
+									<td>Jun 12, 09:00 Wed</td>
+								</tr>
+								<tr class="asia">
+									<td>Shanghai</td>
+									<td>Jun 12, 21:00 Wed</td>
 								</tr>
 								</tbody>
 							</table>
