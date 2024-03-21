@@ -438,14 +438,13 @@
 								performance required to outperform the non-data-driven rostering approach.
 								<hr style="border-top: 1px solid black;">
 							</div>
-							<!--TODO pdf and video-->
 							<a href="./presentations/SchedulingSeminar_PieterSmet.pdf" class="label_abstract" download>
 								Download PDF
 							</a>
-							<!--					<a href="LINK"-->
-							<!--					   class="label_abstract" download>-->
-							<!--						Download Video-->
-							<!--					</a>-->
+							<a href="https://scheduling-seminar.iid.ciirc.cvut.cz/videos/24_1_Winter/24_03_20%20Pieter%20Smet%20(KU%20Leuven)%20_%20Robustness%20in%20personnel%20rostering.mp4"
+							   class="label_abstract" download>
+								Download Video
+							</a>
 						</td>
 					</tr>
 
@@ -548,7 +547,7 @@
 							<a href="./presentations/SchedulingSeminar_LaurentPerron.pdf" class="label_abstract" download>
 								Download PDF
 							</a>
-							<a href="https://scheduling-seminar.iid.ciirc.cvut.cz/videos/24_1_Winter/24_03_07%20Laurent%20Perron%20(Google%20France)%20_%20The%20CP-SAT%20solver.mp4"
+							<a href="https://scheduling-seminar.iid.ciirc.cvut.cz/videos/24_1_Winter/24_03_06%20Laurent%20Perron%20(Google%20France)%20_%20The%20CP-SAT%20solver.mp4"
 							   class="label_abstract" download>
 								Download Video
 							</a>
