@@ -12,6 +12,6 @@
     - Pocet Zoom lidi (https://docs.google.com/spreadsheets/d/1uy7ufRwdJpKZ29etA3glcky5x0hvg4fKCGSAFDgSAKY/edit?usp=drive_web&ouid=118280582087136265206)
     - Youtube edit
         - Jméno, popis...
-        - Ořez (predtim stahnout)
         - Přidat do playlistu (pokud novy playlist tak ho zobrazit v nastaveni kanalu)
+        - Ořez (predtim stahnout)
     - Uploadnout orizle video na RTIME (https://scheduling-seminar.iid.ciirc.cvut.cz/videos/)
