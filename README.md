@@ -138,9 +138,9 @@
 								<hr style="border-top: 1px solid black;">
 							</div>
 							<!--TODO pdf and video-->
-							<!--					<a href="./presentations/SchedulingSeminar_Name.pdf" class="label_abstract" download>-->
-							<!--						Download PDF-->
-							<!--					</a>-->
+							<a href="./presentations/SchedulingSeminar_AndreRossi.pdf" class="label_abstract" download>
+								Download PDF
+							</a>
 							<!--					<a href="LINK"-->
 							<!--					   class="label_abstract" download>-->
 							<!--						Download Video-->
