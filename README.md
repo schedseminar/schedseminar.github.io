@@ -6498,7 +6498,10 @@
 
 	<p style="text-align:center">
 		<a href="https://schedseminar.github.io">schedulingseminar.com</a> is maintained by
-		<a href="https://iid.ciirc.cvut.cz/">CTU in Prague</a>.
+		<a href="https://iid.ciirc.cvut.cz/">CTU in Prague</a>.<br/>
+		Supported by <a href='https://roboprox.eu/cs/domu/'>
+			<img width="150px" src="roboprox.png" alt="roboprox"/>
+		</a>
 	</p>
 
 </footer>
