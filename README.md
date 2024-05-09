@@ -265,7 +265,8 @@
 						</td>
 						<td class="information_upcoming_container">
 							<b>[Presenter]</b><br/>
-							<a href="https://scholar.google.co.uk/citations?user=8maqKdgAAAAJ&hl=en">Ender Ozcan</a><br/>
+							<a href="https://scholar.google.co.uk/citations?user=8maqKdgAAAAJ&hl=en">Ender
+								Ozcan</a><br/>
 							(Uni of Nottingham)<br/><br/>
 							<!--<b>Keywords:</b> intelligent decision support, hyper-heuristics, metaheuristics, machine learning -->
 							<b>[Invited by]</b><br/>
@@ -375,7 +376,8 @@
 
 						<td colspan="2">
 							<div class="resizable_youtube_single">
-								<iframe width="400" height="250" src="https://www.youtube.com/embed/pjVSsqpnM9k?si=HfSEk7AwBqVH5P9Z"
+								<iframe width="400" height="250"
+								        src="https://www.youtube.com/embed/pjVSsqpnM9k?si=HfSEk7AwBqVH5P9Z"
 								        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
 								        allowfullscreen></iframe>
 							</div>
@@ -394,7 +396,8 @@
 							<table class="panelists_past_container_single">
 								<tr>
 									<td colspan="2">
-										<b>Keywords:</b> Operations research, Integer linear programming, Decomposition methods <br/><br/>
+										<b>Keywords:</b> Operations research, Integer linear programming, Decomposition
+										methods <br/><br/>
 										<b>[Invited by]</b>
 										<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a>
 										(CTU in Prague)
@@ -459,7 +462,8 @@
 
 						<td colspan="2">
 							<div class="resizable_youtube_single">
-								<iframe width="400" height="250" src="https://www.youtube.com/embed/V9df8u8KoUk?si=MmfYVhBblvZa5Sfg"
+								<iframe width="400" height="250"
+								        src="https://www.youtube.com/embed/V9df8u8KoUk?si=MmfYVhBblvZa5Sfg"
 								        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
 								        allowfullscreen></iframe>
 							</div>
@@ -478,7 +482,8 @@
 							<table class="panelists_past_container_single">
 								<tr>
 									<td colspan="2">
-										<b>Keywords:</b> Personnel rostering, Robustness, On-call shift rostering, Operations research, Machine learning <br/><br/>
+										<b>Keywords:</b> Personnel rostering, Robustness, On-call shift rostering,
+										Operations research, Machine learning <br/><br/>
 										<b>[Invited by]</b>
 										<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a>
 										(CTU in Prague)
@@ -542,7 +547,8 @@
 								<hr style="border-top: 1px solid black;">
 							</div>
 							<!--TODO pdf and video-->
-							<a href="./presentations/SchedulingSeminar_LaurentPerron.pdf" class="label_abstract" download>
+							<a href="./presentations/SchedulingSeminar_LaurentPerron.pdf" class="label_abstract"
+							   download>
 								Download PDF
 							</a>
 							<a href="https://scheduling-seminar.iid.ciirc.cvut.cz/videos/24_1_Winter/24_03_06%20Laurent%20Perron%20(Google%20France)%20_%20The%20CP-SAT%20solver.mp4"
@@ -565,7 +571,8 @@
 
 						<td colspan="2">
 							<div class="resizable_youtube_single">
-								<iframe width="400" height="250" src="https://www.youtube.com/embed/vvUxusrUcpU?si=ldUAKR6WqdfAIrhL"
+								<iframe width="400" height="250"
+								        src="https://www.youtube.com/embed/vvUxusrUcpU?si=ldUAKR6WqdfAIrhL"
 								        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
 								        allowfullscreen></iframe>
 							</div>
@@ -584,7 +591,8 @@
 							<table class="panelists_past_container_single">
 								<tr>
 									<td colspan="2">
-										<b>Keywords:</b> Constraint programming, SAT solver, Integer linear programming <br/><br/>
+										<b>Keywords:</b> Constraint programming, SAT solver, Integer linear programming
+										<br/><br/>
 										<b>[Invited by]</b>
 										<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a>
 										(CTU in Prague)
@@ -675,7 +683,8 @@
 							<table class="panelists_past_container_single">
 								<tr>
 									<td colspan="2">
-										<b>Keywords:</b> Warehousing, E-commerce, Order fulfillment scheduling, Synchronization,
+										<b>Keywords:</b> Warehousing, E-commerce, Order fulfillment scheduling,
+										Synchronization,
 										Classification <br/><br/>
 										<b>[Invited by]</b>
 										<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a>
@@ -759,7 +768,8 @@
 
 						<td colspan="2">
 							<div class="resizable_youtube_single">
-								<iframe width="400" height="250" src="https://www.youtube.com/embed/IQWNuFzylUQ?si=812wHrugqir4JEtb"
+								<iframe width="400" height="250"
+								        src="https://www.youtube.com/embed/IQWNuFzylUQ?si=812wHrugqir4JEtb"
 								        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
 								        allowfullscreen></iframe>
 							</div>
@@ -778,9 +788,11 @@
 							<table class="panelists_past_container_single">
 								<tr>
 									<td colspan="2">
-										<b>Keywords:</b> Order acceptance and scheduling, Matheuristic, Variable neighborhood search, Tabu search <br/><br/>
+										<b>Keywords:</b> Order acceptance and scheduling, Matheuristic, Variable
+										neighborhood search, Tabu search <br/><br/>
 										<b>[Invited by]</b>
-										<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael Pinedo</a>
+										<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael
+											Pinedo</a>
 										(New York Uni)
 									</td>
 								</tr>
@@ -6498,10 +6510,14 @@
 
 	<p style="text-align:center">
 		<a href="https://schedseminar.github.io">schedulingseminar.com</a> is maintained by
-		<a href="https://iid.ciirc.cvut.cz/">CTU in Prague</a>.<br/>
-		Supported by <a href='https://roboprox.eu/cs/domu/'>
-			<img width="150px" src="roboprox.png" alt="roboprox"/>
-		</a>
+		<a href="https://iid.ciirc.cvut.cz/">CTU in Prague</a>.
 	</p>
+	<div style="position: relative; text-align:center; left: -50px">Supported by
+		<a href='https://roboprox.eu/cs/domu/'>
+			<span style="position: absolute; top: 4px">
+			<img width="100px" src="roboprox.png" alt="roboprox"/>
+			</span>
+		</a>
+	</div>
 
 </footer>
