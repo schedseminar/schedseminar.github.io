@@ -6512,22 +6512,26 @@
 		<a href="https://schedseminar.github.io">schedulingseminar.com</a> is maintained by
 		<a href="https://iid.ciirc.cvut.cz/">CTU in Prague</a>.
 	</p>
-<!--	<div style="position: relative; text-align:center; left: -50px">The Scheduling Seminar is co-funded by the Czech Republic and European Union under the project-->
-<!--		<a href='https://roboprox.eu/cs/domu/'>-->
-<!--			<span style="position: absolute; display: inline-block; top: 4px">-->
-<!--			<img width="100px" src="roboprox.png" alt="roboprox"/>-->
-<!--			</span>-->
-<!--		</a>-->
-<!--		(reg. no. CZ.02.01.01/00/22_008/0004590).-->
-<!--	</div>-->
+	<!--	<div style="position: relative; text-align:center; left: -50px">The Scheduling Seminar is co-funded by the Czech Republic and European Union under the project-->
+	<!--		<a href='https://roboprox.eu/cs/domu/'>-->
+	<!--			<span style="position: absolute; display: inline-block; top: 4px">-->
+	<!--			<img width="100px" src="roboprox.png" alt="roboprox"/>-->
+	<!--			</span>-->
+	<!--		</a>-->
+	<!--		(reg. no. CZ.02.01.01/00/22_008/0004590).-->
+	<!--	</div>-->
 
-	<div style="left: -0px; text-align:center">The Scheduling Seminar is co-funded by the Czech Republic and European Union under the project
+	<div style="left: -0px; text-align:center">The Scheduling Seminar is co-funded by the Czech Republic and European
+		Union under the project
 		<a href='https://roboprox.eu/'>
 			<span style="display: inline-block; vertical-align: middle; margin-top: 4px">
 			<img width="100px" src="roboprox.png" alt="roboprox"/>
 			</span>
 		</a>
 		(reg. no. CZ.02.01.01/00/22_008/0004590).
+	</div>
+	<div style="text-align: center; margin-top: 6px">
+	<img width="200px" src="opjak.png" alt="opjak"/>
 	</div>
 
 </footer>
