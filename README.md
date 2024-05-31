@@ -308,6 +308,7 @@
 								<tr>
 									<td colspan="2">
 										<b>Keywords:</b> Uniformly related machine scheduling, Makespan minimization, Efficient approximation schemes, Mixed-integer linear programming <br/><br/>
+										<b>[Invited by]</b>
 										<a href="https://in.bgu.ac.il/en/engn/iem/pages/staff/Dvir-Shabtay.aspx">Dvir
 											Shabtay</a>
 										(Ben Gurion Uni)
