@@ -266,10 +266,10 @@
 							<a href="./presentations/SchedulingSeminar_MatthiasMnich.pdf" class="label_abstract" download>
 								Download PDF
 							</a>
-							<!--					<a href="LINK"-->
-							<!--					   class="label_abstract" download>-->
-							<!--						Download Video-->
-							<!--					</a>-->
+							<a href="https://scheduling-seminar.iid.ciirc.cvut.cz/videos/24_2_Spring/24_05_29%20Matthias%20Mnich%20(TU%20Hamburg)%20_%20New%20Support%20Size%20Bounds%20for%20Integer%20Programming.mp4"
+							   class="label_abstract" download>
+								Download Video
+							</a>
 						</td>
 					</tr>
 
