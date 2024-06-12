@@ -111,6 +111,42 @@
 	<table>
 		<tbody>
 
+		<tr>
+			<td>
+				<i>Currently, new talks are being planned, and the seminar will start again in September 2024. Consider
+					subscribing to the mailing list
+					<a href='https://list.iid.ciirc.cvut.cz/mailman3/lists/schedulingseminar.rtime.felk.cvut.cz/'
+					   style="margin-left: 5px; margin-right: 5px">
+						<img src="icons/email.png" height="25px" width="25px" alt="email"/>
+					</a> and Youtube channel <a href='https://www.youtube.com/channel/UCUoCNnaAfw5NAntItILFn4A'
+					                            style="margin-left: 5px; margin-right: 5px">
+						<img src="icons/youtube.png" height="25px" width="25px" alt="youtube"/>
+					</a> to never miss out on new upcoming seminars.</i>
+			</td>
+		</tr>
+
+		</tbody>
+	</table>
+
+</div>
+
+<!--Separate upcoming and past talks if different resolution results in one column only-->
+<div class="additional_divider">
+	&nbsp;
+	<hr/>
+</div>
+
+<!--Past talks-->
+<div class="column column_right">
+	<h2>Past talks (58)</h2>
+	<div class="inline-right"><a
+			href="https://docs.google.com/spreadsheets/d/1Glyd6FGzoKtZGfClNA_XaIK8vJZtnu8K4OdNcPr_yHc/edit#gid=0"
+			target="_blank"
+			class="button3">Speaker List</a></div>
+
+	<table class="past_talk_table">
+		<tbody>
+
 		<!--Single talk------------------------------------------------------------------------------------------------>
 		<tr>
 			<td style="padding: 0">
@@ -150,7 +186,7 @@
 						</td>
 					</tr>
 
-					<!--Data--->
+					<!--Photo and video-->
 					<tr>
 						<td class="presenter_image_container">
 							<div class="single_image_container">
@@ -160,36 +196,38 @@
 								</a><br/>
 							</div>
 						</td>
-						<td class="information_upcoming_container">
+
+						<td colspan="2">
+							<div class="resizable_youtube_single">
+								<!--TODO - Change "src=LINK"-->
+								<iframe width="400" height="250"
+								        src="https://www.youtube.com/embed/SryM2eAjIo8?si=IV6X5vm77iQiaNGo"
+								        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+								        allowfullscreen></iframe>
+							</div>
+						</td>
+					</tr>
+
+					<!--Text description-->
+					<tr>
+						<td class="presenter_past_info_container">
 							<b>[Presenter]</b><br/>
 							<a href="https://scholar.google.co.uk/citations?user=8maqKdgAAAAJ&hl=en">Ender
 								Ozcan</a><br/>
-							(Uni of Nottingham)<br/><br/>
-							<!--<b>Keywords:</b> intelligent decision support, hyper-heuristics, metaheuristics, machine learning -->
-							<b>[Invited by]</b><br/>
-							<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a><br/>
-							(CTU in Prague)
+							(Uni of Nottingham)<br/>
 						</td>
-						<td class="time_zones_container">
-							<table class="time_table">
-								<tbody>
-								<tr class="utc">
-									<td>UTC</td>
-									<td>Jun 12, 13:00 Wed</td>
+
+						<td>
+							<table class="panelists_past_container_single">
+								<tr>
+									<td colspan="2">
+										<b>Keywords:</b> Intelligent decision support, Hyper-heuristics, Metaheuristics,
+										Machine learning <br/><br/>
+										<b>[Invited by]</b>
+										<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a>
+										(CTU in Prague)
+									</td>
 								</tr>
-								<tr class="europe">
-									<td>Prague</td>
-									<td>Jun 12, 15:00 Wed</td>
-								</tr>
-								<tr class="america">
-									<td>New York</td>
-									<td>Jun 12, 09:00 Wed</td>
-								</tr>
-								<tr class="asia">
-									<td>Shanghai</td>
-									<td>Jun 12, 21:00 Wed</td>
-								</tr>
-								</tbody>
 							</table>
 						</td>
 					</tr>
@@ -201,28 +239,6 @@
 				</table>
 			</td>
 		</tr>
-
-		</tbody>
-	</table>
-
-</div>
-
-<!--Separate upcoming and past talks if different resolution results in one column only-->
-<div class="additional_divider">
-	&nbsp;
-	<hr/>
-</div>
-
-<!--Past talks-->
-<div class="column column_right">
-	<h2>Past talks (57)</h2>
-	<div class="inline-right"><a
-			href="https://docs.google.com/spreadsheets/d/1Glyd6FGzoKtZGfClNA_XaIK8vJZtnu8K4OdNcPr_yHc/edit#gid=0"
-			target="_blank"
-			class="button3">Speaker List</a></div>
-
-	<table class="past_talk_table">
-		<tbody>
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
 		<tr>
@@ -263,7 +279,8 @@
 								<hr style="border-top: 1px solid black;">
 							</div>
 							<!--TODO pdf and video-->
-							<a href="./presentations/SchedulingSeminar_MatthiasMnich.pdf" class="label_abstract" download>
+							<a href="./presentations/SchedulingSeminar_MatthiasMnich.pdf" class="label_abstract"
+							   download>
 								Download PDF
 							</a>
 							<a href="https://scheduling-seminar.iid.ciirc.cvut.cz/videos/24_2_Spring/24_05_29%20Matthias%20Mnich%20(TU%20Hamburg)%20_%20New%20Support%20Size%20Bounds%20for%20Integer%20Programming.mp4"
@@ -287,7 +304,8 @@
 
 						<td colspan="2">
 							<div class="resizable_youtube_single">
-								<iframe width="400" height="250" src="https://www.youtube.com/embed/xUsWfpcyMYQ?si=73vJc0xnuS8OH6Lq"
+								<iframe width="400" height="250"
+								        src="https://www.youtube.com/embed/xUsWfpcyMYQ?si=73vJc0xnuS8OH6Lq"
 								        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
 								        allowfullscreen></iframe>
 							</div>
@@ -307,7 +325,8 @@
 							<table class="panelists_past_container_single">
 								<tr>
 									<td colspan="2">
-										<b>Keywords:</b> Uniformly related machine scheduling, Makespan minimization, Efficient approximation schemes, Mixed-integer linear programming <br/><br/>
+										<b>Keywords:</b> Uniformly related machine scheduling, Makespan minimization,
+										Efficient approximation schemes, Mixed-integer linear programming <br/><br/>
 										<b>[Invited by]</b>
 										<a href="https://in.bgu.ac.il/en/engn/iem/pages/staff/Dvir-Shabtay.aspx">Dvir
 											Shabtay</a>
@@ -6530,7 +6549,7 @@
 		(reg. no. CZ.02.01.01/00/22_008/0004590).
 	</div>
 	<div style="text-align: center; margin-top: 6px">
-	<img width="200px" src="opjak.png" alt="opjak"/>
+		<img width="200px" src="opjak.png" alt="opjak"/>
 	</div>
 
 </footer>
