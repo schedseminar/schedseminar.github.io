@@ -179,10 +179,10 @@
 							<a href="./presentations/SchedulingSeminar_EnderOzcan.pdf" class="label_abstract" download>
 								Download PDF
 							</a>
-							<!--					<a href="LINK"-->
-							<!--					   class="label_abstract" download>-->
-							<!--						Download Video-->
-							<!--					</a>-->
+							<a href="https://scheduling-seminar.iid.ciirc.cvut.cz/videos/24_2_Spring/24_06_12%20Ender%20Ozcan%20(Uni%20of%20Nottingham)%20_%20Machine%20Learning%20meets%20Sel.%20Hyper-heuristic.mp4"
+							   class="label_abstract" download>
+								Download Video
+							</a>
 						</td>
 					</tr>
 
