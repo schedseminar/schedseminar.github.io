@@ -111,17 +111,104 @@
 	<table>
 		<tbody>
 
+		<!--Single talk------------------------------------------------------------------------------------------------>
 		<tr>
-			<td>
-				<i>Currently, new talks are being planned, and the seminar will start again in September 2024. Consider
-					subscribing to the mailing list
-					<a href='https://list.iid.ciirc.cvut.cz/mailman3/lists/schedulingseminar.rtime.felk.cvut.cz/'
-					   style="margin-left: 5px; margin-right: 5px">
-						<img src="icons/email.png" height="25px" width="25px" alt="email"/>
-					</a> and Youtube channel <a href='https://www.youtube.com/channel/UCUoCNnaAfw5NAntItILFn4A'
-					                            style="margin-left: 5px; margin-right: 5px">
-						<img src="icons/youtube.png" height="25px" width="25px" alt="youtube"/>
-					</a> to never miss out on new upcoming seminars.</i>
+			<td style="padding: 0">
+				<table class="europe">
+					<!--Title/Abstract/PDF-->
+					<tr>
+						<td colspan="3">
+							<h2 class="talk_title"><b>Hexaly Optimizer for Scheduling</b></h2><br/>
+							<input type="checkbox" id="abstract_id_59" style="display:none;">
+							<label for="abstract_id_59" class="label_abstract"><a>Abstract</a></label>
+							<div class="hidden">
+								<hr style="border-top: 1px solid black;">
+								Hexaly Optimizer is a model-and-run mathematical optimization solver that addresses a
+								broad range of industrial optimization problems in the areas of supply chain and
+								workforce management, such as routing, scheduling, packing, clustering, matching,
+								assignment, or facility location.
+
+								Its mathematical formalism extends classical Mixed-Integer Linear Programming with set,
+								permutation and interval variables on which any usual algebraic operator (arithmetic,
+								logic, relational, etc.) can be applied.
+
+								Hexaly Optimizer is widely used in industry today, has performances often comparable to
+								the best dedicated algorithms, allows compact modeling, scales well (with problem size
+								and complexity) and is constantly improving.
+
+								This seminar focuses on the use of Hexaly Optimizer to model and solve industrial
+								scheduling problems.
+
+								We show how to exploit the mathematical concepts of the input formalism to model several
+								classic scheduling problems in an elegant and compact manner and give an idea of the
+								solver's performance compared to the state of the art.
+
+								Next, we outline the various techniques employed under the hood to produce good-quality
+								primal and dual solutions like constraint propagation, local search, large neighborhood
+								search, linear relaxations, scheduling heuristics, or exact scheduling algorithms on
+								particular sub-problems.
+								<hr style="border-top: 1px solid black;">
+							</div>
+							<!--TODO pdf and video-->
+							<!--					<a href="./presentations/SchedulingSeminar_Name.pdf" class="label_abstract" download>-->
+							<!--						Download PDF-->
+							<!--					</a>-->
+							<!--					<a href="LINK"-->
+							<!--					   class="label_abstract" download>-->
+							<!--						Download Video-->
+							<!--					</a>-->
+						</td>
+					</tr>
+
+					<!--Data--->
+					<tr>
+						<td class="presenter_image_container">
+							<div class="single_image_container">
+								<a href="https://www.hexaly.com/">
+									<img class="single_presenter" loading="lazy" src="photos/phillipe_laborie.jpg"
+									     alt="person_photo"/>
+								</a><br/>
+							</div>
+						</td>
+						<td class="information_upcoming_container">
+							<b>[Presenter]</b><br/>
+							<a href="https://www.hexaly.com/">Philippe Laborie</a><br/>
+							(Hexaly)<br/><br/>
+							<b>Keywords:</b> Mathematical optimization solver, Algebraic model, Industrial problems,
+							Scalability, Constraint Programming, Local Search, Scheduling Theory, Exact approaches
+							<b>[Invited by]</b><br/>
+							<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a>br/>
+							(CTU in Prague)
+						</td>
+						<td class="time_zones_container">
+							<table class="time_table">
+								<tbody>
+								<tr class="utc">
+									<td>UTC</td>
+									<td>Nov 20, 14:00 Wed</td>
+								</tr>
+								<tr class="europe">
+									<td>Prague</td>
+									<td>Nov 20, 15:00 Wed</td>
+								</tr>
+								<tr class="america">
+									<td>New York</td>
+									<td>Nov 20, 09:00 Wed</td>
+								</tr>
+								<tr class="asia">
+									<td>Shanghai</td>
+									<td>Nov 20, 22:00 Wed</td>
+								</tr>
+								</tbody>
+							</table>
+						</td>
+					</tr>
+
+					<!--Spacing--->
+					<tr style="background-color: white">
+						<td colspan="100%"></td>
+					</tr>
+				</table>
 			</td>
 		</tr>
 
