@@ -177,7 +177,7 @@
 <!--							<b>Keywords:</b> Mathematical optimization solver, Algebraic model, Industrial problems,-->
 <!--							Scalability, Constraint Programming, Local Search, Scheduling Theory, Exact approaches-->
 							<b>[Invited by]</b><br/>
-							<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a>br/>
+							<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a><br/>
 							(CTU in Prague)
 						</td>
 						<td class="time_zones_container">
