@@ -174,8 +174,8 @@
 							<b>[Presenter]</b><br/>
 							<a href="https://www.hexaly.com/">Philippe Laborie</a><br/>
 							(Hexaly)<br/><br/>
-							<b>Keywords:</b> Mathematical optimization solver, Algebraic model, Industrial problems,
-							Scalability, Constraint Programming, Local Search, Scheduling Theory, Exact approaches
+<!--							<b>Keywords:</b> Mathematical optimization solver, Algebraic model, Industrial problems,-->
+<!--							Scalability, Constraint Programming, Local Search, Scheduling Theory, Exact approaches-->
 							<b>[Invited by]</b><br/>
 							<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a>br/>
 							(CTU in Prague)
