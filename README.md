@@ -241,7 +241,7 @@
 					<tr>
 						<td class="presenter_image_container">
 							<div class="single_image_container">
-								<a href="www.artelys.com">
+								<a href="https://www.artelys.com">
 									<img class="single_presenter" loading="lazy" src="photos/Hugo_Chareyre.jpg"
 									     alt="person_photo"/>
 								</a><br/>
@@ -249,7 +249,7 @@
 						</td>
 						<td class="information_upcoming_container">
 							<b>[Presenter]</b><br/>
-							<a href="www.artelys.com">Hugo Chareyre</a><br/>
+							<a href="https://www.artelys.com">Hugo Chareyre</a><br/>
 							(Artelys)<br/><br/>
 							<!--							<b>Keywords:</b> Logistics, Automotive industry, Constraint Programming, RCPSP-->
 							<!--							performance modeling-->
