@@ -204,6 +204,98 @@
 					<!--Title/Abstract/PDF-->
 					<tr>
 						<td colspan="3">
+							<h2 class="talk_title"><b>Operational scheduling in automotive industry</b></h2><br/>
+							<input type="checkbox" id="abstract_id_60" style="display:none;">
+							<label for="abstract_id_60" class="label_abstract"><a>Abstract</a></label>
+							<div class="hidden">
+								<hr style="border-top: 1px solid black;">
+								Artelys has developed a scheduler service for Toyota Motor Europe that creates plannings
+								for post-production workshops operations across Europe. The problem consists in
+								scheduling operations on vehicles on different production lines with available
+								resources. This case study details how this industrial problem differs from the
+								classical Resource Constrained Project Scheduling Problem (RCPSP) with its additional
+								operational constraints (multiple shifts, preemptive breaks, sequence constraints, etc.)
+								and its multi-objectives (minimizing late tasks, late vehicles, maximizing efficiency
+								and workers ergonomics, etc.).
+
+								Artelys has worked closely with Toyota to deploy this scheduler service as micro-service
+								in order to solve this complex problem in a real-time context and as a flexible
+								decision-aid software. The associated constraint programming model is implemented with
+								Fico Mosel modelling language and the model is solved using Artelys Kalis solver. This
+								micro-service has replaced a manual tedious task that was taking place differently in
+								all workshops by delivering faster, higher quality solutions.
+								<hr style="border-top: 1px solid black;">
+							</div>
+							<!--TODO pdf and video-->
+							<!--					<a href="./presentations/SchedulingSeminar_Name.pdf" class="label_abstract" download>-->
+							<!--						Download PDF-->
+							<!--					</a>-->
+							<!--					<a href="LINK"-->
+							<!--					   class="label_abstract" download>-->
+							<!--						Download Video-->
+							<!--					</a>-->
+						</td>
+					</tr>
+
+					<!--Data--->
+					<tr>
+						<td class="presenter_image_container">
+							<div class="single_image_container">
+								<a href="https://www.artelys.com">
+									<img class="single_presenter" loading="lazy" src="photos/Hugo_Chareyre.jpg"
+									     alt="person_photo"/>
+								</a><br/>
+							</div>
+						</td>
+						<td class="information_upcoming_container">
+							<b>[Presenter]</b><br/>
+							<a href="https://www.artelys.com">Hugo Chareyre</a><br/>
+							(Artelys)<br/><br/>
+							<!--							<b>Keywords:</b> Logistics, Automotive industry, Constraint Programming, RCPSP-->
+							<!--							performance modeling-->
+							<b>[Invited by]</b><br/>
+							<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a><br/>
+							(CTU in Prague)
+						</td>
+						<td class="time_zones_container">
+							<table class="time_table">
+								<tbody>
+								<tr class="utc">
+									<td>UTC</td>
+									<td>Nov 6, 14:00 Wed</td>
+								</tr>
+								<tr class="europe">
+									<td>Prague</td>
+									<td>Nov 6, 15:00 Wed</td>
+								</tr>
+								<tr class="america">
+									<td>New York</td>
+									<td>Nov 6, 09:00 Wed</td>
+								</tr>
+								<tr class="asia">
+									<td>Shanghai</td>
+									<td>Nov 6, 22:00 Wed</td>
+								</tr>
+								</tbody>
+							</table>
+						</td>
+					</tr>
+
+					<!--Spacing--->
+					<tr style="background-color: white">
+						<td colspan="100%"></td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+
+		<!--Single talk------------------------------------------------------------------------------------------------>
+		<tr>
+			<td style="padding: 0">
+				<table class="europe">
+					<!--Title/Abstract/PDF-->
+					<tr>
+						<td colspan="3">
 							<h2 class="talk_title"><b>Hexaly Optimizer for Scheduling</b></h2><br/>
 							<input type="checkbox" id="abstract_id_61" style="display:none;">
 							<label for="abstract_id_61" class="label_abstract"><a>Abstract</a></label>
