@@ -118,92 +118,6 @@
 					<!--Title/Abstract/PDF-->
 					<tr>
 						<td colspan="3">
-							<h2 class="talk_title"><b>Scheduling divisible loads</b></h2><br/>
-							<input type="checkbox" id="abstract_id_59" style="display:none;">
-							<label for="abstract_id_59" class="label_abstract"><a>Abstract</a></label>
-							<div class="hidden">
-								<hr style="border-top: 1px solid black;">
-								In this talk divisible load theory (DLT) will be introduced. The theory is a scheduling
-								and computer performance model applicable in data-parallel applications. Its basic
-								assumption is that the computing work can be divided into pieces of arbitrary sizes and
-								these pieces can be processed independently in parallel. In the talk we will proceed
-								from the basic formulation of divisible load scheduling on heterogeneous system to a
-								formulation for multi-installment divisible load processing in heterogeneous system with
-								hierarchical memory and energy constraints. NP-hardness of various DLT scheduling
-								problem variants will be considered. Application of DLT as isoefficiency maps
-								visualizing parallel processing performance relationships will be demonstrated.
-								<hr style="border-top: 1px solid black;">
-							</div>
-							<!--TODO pdf and video-->
-							<a href="./presentations/SchedulingSeminar_MaciejDrozdowski.pdf" class="label_abstract" download>
-								Download PDF
-							</a>
-							<!--					<a href="LINK"-->
-							<!--					   class="label_abstract" download>-->
-							<!--						Download Video-->
-							<!--					</a>-->
-						</td>
-					</tr>
-
-					<!--Data--->
-					<tr>
-						<td class="presenter_image_container">
-							<div class="single_image_container">
-								<a href="http://www.cs.put.poznan.pl/mdrozdowski/">
-									<img class="single_presenter" loading="lazy" src="photos/maciej_drozdowski.jpg"
-									     alt="person_photo"/>
-								</a><br/>
-							</div>
-						</td>
-						<td class="information_upcoming_container">
-							<b>[Presenter]</b><br/>
-							<a href="http://www.cs.put.poznan.pl/mdrozdowski/">Maciej Drozdowski</a><br/>
-							(Poznań U. of Tech.)<br/><br/>
-							<!--							<b>Keywords:</b> Scheduling, Data-parallel applications, Divisible load theory, Parallel-->
-							<!--							performance modeling-->
-							<b>[Invited by]</b><br/>
-							<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a><br/>
-							(CTU in Prague)
-						</td>
-						<td class="time_zones_container">
-							<table class="time_table">
-								<tbody>
-								<tr class="utc">
-									<td>UTC</td>
-									<td>Oct 23, 13:00 Wed</td>
-								</tr>
-								<tr class="europe">
-									<td>Prague</td>
-									<td>Oct 23, 15:00 Wed</td>
-								</tr>
-								<tr class="america">
-									<td>New York</td>
-									<td>Oct 23, 09:00 Wed</td>
-								</tr>
-								<tr class="asia">
-									<td>Shanghai</td>
-									<td>Oct 23, 21:00 Wed</td>
-								</tr>
-								</tbody>
-							</table>
-						</td>
-					</tr>
-
-					<!--Spacing--->
-					<tr style="background-color: white">
-						<td colspan="100%"></td>
-					</tr>
-				</table>
-			</td>
-		</tr>
-
-		<!--Single talk------------------------------------------------------------------------------------------------>
-		<tr>
-			<td style="padding: 0">
-				<table class="europe">
-					<!--Title/Abstract/PDF-->
-					<tr>
-						<td colspan="3">
 							<h2 class="talk_title"><b>Operational scheduling in automotive industry</b></h2><br/>
 							<input type="checkbox" id="abstract_id_60" style="display:none;">
 							<label for="abstract_id_60" class="label_abstract"><a>Abstract</a></label>
@@ -411,6 +325,91 @@
 
 	<table class="past_talk_table">
 		<tbody>
+
+		<!--Single talk------------------------------------------------------------------------------------------------>
+		<tr>
+			<td style="padding: 0">
+				<table class="europe">
+					<!--Title/Abstract/PDF-->
+					<tr>
+						<td colspan="3">
+							<h2 class="talk_title"><b>Scheduling divisible loads</b></h2><br/>
+							<input type="checkbox" id="abstract_id_59" style="display:none;">
+							<label for="abstract_id_59" class="label_abstract"><a>Abstract</a></label>
+							<div class="hidden">
+								<hr style="border-top: 1px solid black;">
+								In this talk divisible load theory (DLT) will be introduced. The theory is a scheduling
+								and computer performance model applicable in data-parallel applications. Its basic
+								assumption is that the computing work can be divided into pieces of arbitrary sizes and
+								these pieces can be processed independently in parallel. In the talk we will proceed
+								from the basic formulation of divisible load scheduling on heterogeneous system to a
+								formulation for multi-installment divisible load processing in heterogeneous system with
+								hierarchical memory and energy constraints. NP-hardness of various DLT scheduling
+								problem variants will be considered. Application of DLT as isoefficiency maps
+								visualizing parallel processing performance relationships will be demonstrated.
+								<hr style="border-top: 1px solid black;">
+							</div>
+							<!--TODO pdf and video-->
+							<a href="./presentations/SchedulingSeminar_MaciejDrozdowski.pdf" class="label_abstract" download>
+								Download PDF
+							</a>
+							<!--					<a href="LINK"-->
+							<!--					   class="label_abstract" download>-->
+							<!--						Download Video-->
+							<!--					</a>-->
+						</td>
+					</tr>
+
+					<!--Photo and video-->
+					<tr>
+						<td class="presenter_image_container">
+							<div class="single_image_container">
+								<a href="http://www.cs.put.poznan.pl/mdrozdowski/">
+									<img class="single_presenter" loading="lazy" src="photos/maciej_drozdowski.jpg"
+									     alt="person_photo"/>
+								</a><br/>
+							</div>
+						</td>
+
+						<td colspan="2">
+							<div class="resizable_youtube_single">
+								<iframe width="400" height="250" src="https://www.youtube.com/embed/g0kfPk0SrOM?si=GLXFpkGfDhbIu5NX"
+								        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+								        allowfullscreen></iframe>
+							</div>
+						</td>
+					</tr>
+
+					<!--Text description-->
+					<tr>
+						<td class="presenter_past_info_container">
+							<b>[Presenter]</b><br/>
+							<a href="http://www.cs.put.poznan.pl/mdrozdowski/">Maciej Drozdowski</a><br/>
+							(Poznań U. of Tech.)<br/>
+						</td>
+
+						<td>
+							<table class="panelists_past_container_single">
+								<tr>
+									<td colspan="2">
+										<b>Keywords:</b> Scheduling, Data-parallel applications, Divisible load theory, Parallel
+										performance modeling <br/><br/>
+										<b>[Invited by]</b>
+										<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a>
+										(CTU in Prague)
+									</td>
+								</tr>
+							</table>
+						</td>
+					</tr>
+
+					<!--Spacing--->
+					<tr style="background-color: white">
+						<td colspan="100%"></td>
+					</tr>
+				</table>
+			</td>
+		</tr>
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
 		<tr>
