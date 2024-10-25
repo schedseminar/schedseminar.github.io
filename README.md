@@ -349,14 +349,13 @@
 								visualizing parallel processing performance relationships will be demonstrated.
 								<hr style="border-top: 1px solid black;">
 							</div>
-							<!--TODO pdf and video-->
 							<a href="./presentations/SchedulingSeminar_MaciejDrozdowski.pdf" class="label_abstract" download>
 								Download PDF
 							</a>
-							<!--					<a href="LINK"-->
-							<!--					   class="label_abstract" download>-->
-							<!--						Download Video-->
-							<!--					</a>-->
+							<a href="https://scheduling-seminar.iid.ciirc.cvut.cz/videos/24_3_Fall/24_10_23%20Maciej%20Drozdowski%20(Poznan%20UT)%20_%20Scheduling%20divisible%20loads.mp4"
+							   class="label_abstract" download>
+								Download Video
+							</a>
 						</td>
 					</tr>
 
