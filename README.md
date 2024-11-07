@@ -436,7 +436,6 @@
 								hyper-heuristics.
 								<hr style="border-top: 1px solid black;">
 							</div>
-							<!--TODO pdf and video-->
 							<a href="./presentations/SchedulingSeminar_EnderOzcan.pdf" class="label_abstract" download>
 								Download PDF
 							</a>
@@ -460,7 +459,6 @@
 
 						<td colspan="2">
 							<div class="resizable_youtube_single">
-								<!--TODO - Change "src=LINK"-->
 								<iframe width="400" height="250"
 								        src="https://www.youtube.com/embed/SryM2eAjIo8?si=IV6X5vm77iQiaNGo"
 								        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
