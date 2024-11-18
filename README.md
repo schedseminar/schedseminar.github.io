@@ -263,7 +263,7 @@
 					<tr>
 						<td class="presenter_image_container">
 							<div class="single_image_container">
-								<a href="https://www.hexaly.com/">
+								<a href="http://www.pqm.unibe.ch">
 									<img class="single_presenter" loading="lazy" src="photos/Norbert_Trautmann.jpg"
 									     alt="person_photo"/>
 								</a><br/>
@@ -271,7 +271,7 @@
 						</td>
 						<td class="information_upcoming_container">
 							<b>[Presenter]</b><br/>
-							<a href="https://www.hexaly.com/">Norbert Trautmann</a><br/>
+							<a href="http://www.pqm.unibe.ch">Norbert Trautmann</a><br/>
 							(University of Bern)<br/><br/>
 							<!--							<b>Keywords:</b> Project scheduling, Multi-site projects, Workload balancing, Mixed-integer linear programming-->
 							<b>[Invited by]</b><br/>
