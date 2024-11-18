@@ -212,6 +212,105 @@
 			</td>
 		</tr>
 
+		<!--Single talk------------------------------------------------------------------------------------------------>
+		<tr>
+			<td style="padding: 0">
+				<table class="europe">
+					<!--Title/Abstract/PDF-->
+					<tr>
+						<td colspan="3">
+							<h2 class="talk_title"><b>Mixed-integer linear programming for project scheduling with
+								resource-unit related constraints</b></h2><br/>
+							<input type="checkbox" id="abstract_id_62" style="display:none;">
+							<label for="abstract_id_62" class="label_abstract"><a>Abstract</a></label>
+							<div class="hidden">
+								<hr style="border-top: 1px solid black;">
+								The widely discussed Resource-Constrained Project Scheduling Problem (RCPSP) consists in
+								devising a schedule for the execution of the project activities such that (a) the
+								project duration is minimized, (b) the completion-start precedence between given pairs
+								of activities is respected, and (c) at no time does the total demand of the in-progress
+								activities exceed the available capacity of the various resource types required for the
+								execution of the activities. In the literature, different formulations of the RCPSP have
+								been presented as binary or mixed-binary linear optimization problems; according to the
+								time representation, the two groups of discrete-time and continuous-time formulations
+								can be distinguished.
+
+
+								In many applications, resource types represent pools of equipment units or teams of
+								people with specific skills. In this talk, we consider two novel variants of the RCPSP
+								in which additional constraints related to the individual units of the various resource
+								types have to be considered. In the first variant, the execution of the project is
+								distributed across multiple sites, i.e., for the execution of each activity, a
+								particular site must be selected; moreover, while some resource units are available only
+								at a particular site, other resource units can be moved between sites, requiring some
+								transportation time. In the second variant, the workload should be balanced among the
+								individual units of each resource type. For both variants, we present a continuous-time
+								assignment-based formulation as a mixed-binary linear optimization problem.
+								<hr style="border-top: 1px solid black;">
+							</div>
+							<!--TODO pdf and video-->
+							<!--					<a href="./presentations/SchedulingSeminar_Name.pdf" class="label_abstract" download>-->
+							<!--						Download PDF-->
+							<!--					</a>-->
+							<!--					<a href="LINK"-->
+							<!--					   class="label_abstract" download>-->
+							<!--						Download Video-->
+							<!--					</a>-->
+						</td>
+					</tr>
+
+					<!--Data--->
+					<tr>
+						<td class="presenter_image_container">
+							<div class="single_image_container">
+								<a href="https://www.hexaly.com/">
+									<img class="single_presenter" loading="lazy" src="photos/Norbert_Trautmann.jpg"
+									     alt="person_photo"/>
+								</a><br/>
+							</div>
+						</td>
+						<td class="information_upcoming_container">
+							<b>[Presenter]</b><br/>
+							<a href="https://www.hexaly.com/">Norbert Trautmann</a><br/>
+							(University of Bern)<br/><br/>
+							<!--							<b>Keywords:</b> Mathematical optimization solver, Algebraic model, Industrial problems,-->
+							<!--							Scalability, Constraint Programming, Local Search, Scheduling Theory, Exact approaches-->
+							<b>[Invited by]</b><br/>
+							<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a><br/>
+							(CTU in Prague)
+						</td>
+						<td class="time_zones_container">
+							<table class="time_table">
+								<tbody>
+								<tr class="utc">
+									<td>UTC</td>
+									<td>Dec 4, 14:00 Wed</td>
+								</tr>
+								<tr class="europe">
+									<td>Prague</td>
+									<td>Dec 4, 15:00 Wed</td>
+								</tr>
+								<tr class="america">
+									<td>New York</td>
+									<td>Dec 4, 09:00 Wed</td>
+								</tr>
+								<tr class="asia">
+									<td>Shanghai</td>
+									<td>Dec 4, 22:00 Wed</td>
+								</tr>
+								</tbody>
+							</table>
+						</td>
+					</tr>
+
+					<!--Spacing--->
+					<tr style="background-color: white">
+						<td colspan="100%"></td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+
 		</tbody>
 	</table>
 
@@ -263,7 +362,8 @@
 								all workshops by delivering faster, higher quality solutions.
 								<hr style="border-top: 1px solid black;">
 							</div>
-							<a href="./presentations/SchedulingSeminar_HugoChareyre.pdf" class="label_abstract" download>
+							<a href="./presentations/SchedulingSeminar_HugoChareyre.pdf" class="label_abstract"
+							   download>
 								Download PDF
 							</a>
 							<a href="https://scheduling-seminar.iid.ciirc.cvut.cz/videos/24_3_Fall/24_11_06%20Hugo%20Chareyre%20(Artelys)%20_%20Operational%20scheduling%20in%20automotive%20industry.mp4"
@@ -286,7 +386,8 @@
 
 						<td colspan="2">
 							<div class="resizable_youtube_single">
-								<iframe width="400" height="250" src="https://www.youtube.com/embed/xqfvoX18No4?si=jvRAvLphFp3KQn1u"
+								<iframe width="400" height="250"
+								        src="https://www.youtube.com/embed/xqfvoX18No4?si=jvRAvLphFp3KQn1u"
 								        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
 								        allowfullscreen></iframe>
 							</div>
@@ -305,7 +406,8 @@
 							<table class="panelists_past_container_single">
 								<tr>
 									<td colspan="2">
-										<b>Keywords:</b> Logistics, Automotive industry, Constraint Programming, RCPSP <br/><br/>
+										<b>Keywords:</b> Logistics, Automotive industry, Constraint Programming, RCPSP
+										<br/><br/>
 										<b>[Invited by]</b>
 										<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a>
 										(CTU in Prague)
@@ -346,7 +448,8 @@
 								visualizing parallel processing performance relationships will be demonstrated.
 								<hr style="border-top: 1px solid black;">
 							</div>
-							<a href="./presentations/SchedulingSeminar_MaciejDrozdowski.pdf" class="label_abstract" download>
+							<a href="./presentations/SchedulingSeminar_MaciejDrozdowski.pdf" class="label_abstract"
+							   download>
 								Download PDF
 							</a>
 							<a href="https://scheduling-seminar.iid.ciirc.cvut.cz/videos/24_3_Fall/24_10_23%20Maciej%20Drozdowski%20(Poznan%20UT)%20_%20Scheduling%20divisible%20loads.mp4"
@@ -369,7 +472,8 @@
 
 						<td colspan="2">
 							<div class="resizable_youtube_single">
-								<iframe width="400" height="250" src="https://www.youtube.com/embed/g0kfPk0SrOM?si=GLXFpkGfDhbIu5NX"
+								<iframe width="400" height="250"
+								        src="https://www.youtube.com/embed/g0kfPk0SrOM?si=GLXFpkGfDhbIu5NX"
 								        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
 								        allowfullscreen></iframe>
 							</div>
@@ -388,7 +492,8 @@
 							<table class="panelists_past_container_single">
 								<tr>
 									<td colspan="2">
-										<b>Keywords:</b> Scheduling, Data-parallel applications, Divisible load theory, Parallel
+										<b>Keywords:</b> Scheduling, Data-parallel applications, Divisible load theory,
+										Parallel
 										performance modeling <br/><br/>
 										<b>[Invited by]</b>
 										<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a>
