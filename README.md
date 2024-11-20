@@ -118,107 +118,6 @@
 					<!--Title/Abstract/PDF-->
 					<tr>
 						<td colspan="3">
-							<h2 class="talk_title"><b>Hexaly Optimizer for Scheduling</b></h2><br/>
-							<input type="checkbox" id="abstract_id_61" style="display:none;">
-							<label for="abstract_id_61" class="label_abstract"><a>Abstract</a></label>
-							<div class="hidden">
-								<hr style="border-top: 1px solid black;">
-								Hexaly Optimizer is a model-and-run mathematical optimization solver that addresses a
-								broad range of industrial optimization problems in the areas of supply chain and
-								workforce management, such as routing, scheduling, packing, clustering, matching,
-								assignment, or facility location.
-
-								Its mathematical formalism extends classical Mixed-Integer Linear Programming with set,
-								permutation and interval variables on which any usual algebraic operator (arithmetic,
-								logic, relational, etc.) can be applied.
-
-								Hexaly Optimizer is widely used in industry today, has performances often comparable to
-								the best dedicated algorithms, allows compact modeling, scales well (with problem size
-								and complexity) and is constantly improving.
-
-								This seminar focuses on the use of Hexaly Optimizer to model and solve industrial
-								scheduling problems.
-
-								We show how to exploit the mathematical concepts of the input formalism to model several
-								classic scheduling problems in an elegant and compact manner and give an idea of the
-								solver's performance compared to the state of the art.
-
-								Next, we outline the various techniques employed under the hood to produce good-quality
-								primal and dual solutions like constraint propagation, local search, large neighborhood
-								search, linear relaxations, scheduling heuristics, or exact scheduling algorithms on
-								particular sub-problems.
-								<hr style="border-top: 1px solid black;">
-							</div>
-							<!--TODO pdf and video-->
-							<a href="./presentations/SchedulingSeminar_PhillipeLaborie.pdf" class="label_abstract" download>
-								Download PDF
-							</a>
-							<!--					<a href="LINK"-->
-							<!--					   class="label_abstract" download>-->
-							<!--						Download Video-->
-							<!--					</a>-->
-						</td>
-					</tr>
-
-					<!--Data--->
-					<tr>
-						<td class="presenter_image_container">
-							<div class="single_image_container">
-								<a href="https://www.hexaly.com/">
-									<img class="single_presenter" loading="lazy" src="photos/phillipe_laborie.jpg"
-									     alt="person_photo"/>
-								</a><br/>
-							</div>
-						</td>
-						<td class="information_upcoming_container">
-							<b>[Presenter]</b><br/>
-							<a href="https://www.hexaly.com/">Philippe Laborie</a><br/>
-							(Hexaly)<br/><br/>
-							<!--							<b>Keywords:</b> Mathematical optimization solver, Algebraic model, Industrial problems,-->
-							<!--							Scalability, Constraint Programming, Local Search, Scheduling Theory, Exact approaches-->
-							<b>[Invited by]</b><br/>
-							<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a><br/>
-							(CTU in Prague)
-						</td>
-						<td class="time_zones_container">
-							<table class="time_table">
-								<tbody>
-								<tr class="utc">
-									<td>UTC</td>
-									<td>Nov 20, 14:00 Wed</td>
-								</tr>
-								<tr class="europe">
-									<td>Prague</td>
-									<td>Nov 20, 15:00 Wed</td>
-								</tr>
-								<tr class="america">
-									<td>New York</td>
-									<td>Nov 20, 09:00 Wed</td>
-								</tr>
-								<tr class="asia">
-									<td>Shanghai</td>
-									<td>Nov 20, 22:00 Wed</td>
-								</tr>
-								</tbody>
-							</table>
-						</td>
-					</tr>
-
-					<!--Spacing--->
-					<tr style="background-color: white">
-						<td colspan="100%"></td>
-					</tr>
-				</table>
-			</td>
-		</tr>
-
-		<!--Single talk------------------------------------------------------------------------------------------------>
-		<tr>
-			<td style="padding: 0">
-				<table class="europe">
-					<!--Title/Abstract/PDF-->
-					<tr>
-						<td colspan="3">
 							<h2 class="talk_title"><b>Mixed-integer linear programming for project scheduling with
 								resource-unit related constraints</b></h2><br/>
 							<input type="checkbox" id="abstract_id_62" style="display:none;">
@@ -323,7 +222,7 @@
 
 <!--Past talks-->
 <div class="column column_right">
-	<h2>Past talks (60)</h2>
+	<h2>Past talks (61)</h2>
 	<div class="inline-right"><a
 			href="https://docs.google.com/spreadsheets/d/1Glyd6FGzoKtZGfClNA_XaIK8vJZtnu8K4OdNcPr_yHc/edit#gid=0"
 			target="_blank"
@@ -331,6 +230,105 @@
 
 	<table class="past_talk_table">
 		<tbody>
+
+		<!--Single talk------------------------------------------------------------------------------------------------>
+		<tr>
+			<td style="padding: 0">
+				<table class="europe">
+					<!--Title/Abstract/PDF-->
+					<tr>
+						<td colspan="3">
+							<h2 class="talk_title"><b>Hexaly Optimizer for Scheduling</b></h2><br/>
+							<input type="checkbox" id="abstract_id_61" style="display:none;">
+							<label for="abstract_id_61" class="label_abstract"><a>Abstract</a></label>
+							<div class="hidden">
+								<hr style="border-top: 1px solid black;">
+								Hexaly Optimizer is a model-and-run mathematical optimization solver that addresses a
+								broad range of industrial optimization problems in the areas of supply chain and
+								workforce management, such as routing, scheduling, packing, clustering, matching,
+								assignment, or facility location.
+
+								Its mathematical formalism extends classical Mixed-Integer Linear Programming with set,
+								permutation and interval variables on which any usual algebraic operator (arithmetic,
+								logic, relational, etc.) can be applied.
+
+								Hexaly Optimizer is widely used in industry today, has performances often comparable to
+								the best dedicated algorithms, allows compact modeling, scales well (with problem size
+								and complexity) and is constantly improving.
+
+								This seminar focuses on the use of Hexaly Optimizer to model and solve industrial
+								scheduling problems.
+
+								We show how to exploit the mathematical concepts of the input formalism to model several
+								classic scheduling problems in an elegant and compact manner and give an idea of the
+								solver's performance compared to the state of the art.
+
+								Next, we outline the various techniques employed under the hood to produce good-quality
+								primal and dual solutions like constraint propagation, local search, large neighborhood
+								search, linear relaxations, scheduling heuristics, or exact scheduling algorithms on
+								particular sub-problems.
+								<hr style="border-top: 1px solid black;">
+							</div>
+							<a href="./presentations/SchedulingSeminar_PhillipeLaborie.pdf" class="label_abstract" download>
+								Download PDF
+							</a>
+							<!--					<a href="LINK"-->
+							<!--					   class="label_abstract" download>-->
+							<!--						Download Video-->
+							<!--					</a>-->
+						</td>
+					</tr>
+
+					<!--Photo and video-->
+					<tr>
+						<td class="presenter_image_container">
+							<div class="single_image_container">
+								<a href="https://www.hexaly.com/">
+									<img class="single_presenter" loading="lazy" src="photos/phillipe_laborie.jpg"
+									     alt="person_photo"/>
+								</a><br/>
+							</div>
+						</td>
+
+						<td colspan="2">
+							<div class="resizable_youtube_single">
+								<iframe width="400" height="250" src="https://www.youtube.com/embed/VjB5FoaFFUM?si=27yxZJAfkEBroxZf"
+								        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+								        allowfullscreen></iframe>
+							</div>
+						</td>
+					</tr>
+
+					<!--Text description-->
+					<tr>
+						<td class="presenter_past_info_container">
+							<b>[Presenter]</b><br/>
+							<a href="https://www.hexaly.com/">Philippe Laborie</a><br/>
+							(Hexaly)<br/>
+						</td>
+
+						<td>
+							<table class="panelists_past_container_single">
+								<tr>
+									<td colspan="2">
+										<b>Keywords:</b> Mathematical optimization solver, Algebraic model, Industrial problems,
+										Scalability, Constraint Programming, Local Search, Scheduling Theory, Exact approaches<br/><br/>
+										<b>[Invited by]</b>
+										<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a>
+										(CTU in Prague)
+									</td>
+								</tr>
+							</table>
+						</td>
+					</tr>
+
+					<!--Spacing--->
+					<tr style="background-color: white">
+						<td colspan="100%"></td>
+					</tr>
+				</table>
+			</td>
+		</tr>
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
 		<tr>
