@@ -272,10 +272,10 @@
 							<a href="./presentations/SchedulingSeminar_PhillipeLaborie.pdf" class="label_abstract" download>
 								Download PDF
 							</a>
-							<!--					<a href="LINK"-->
-							<!--					   class="label_abstract" download>-->
-							<!--						Download Video-->
-							<!--					</a>-->
+							<a href="https://scheduling-seminar.iid.ciirc.cvut.cz/videos/24_3_Fall/24_11_20%20Philippe%20Laborie%20(Hexaly)%20_%20Hexaly%20Optimizer%20for%20Scheduling.mp4"
+							   class="label_abstract" download>
+								Download Video
+							</a>
 						</td>
 					</tr>
 
