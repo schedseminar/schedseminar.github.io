@@ -188,10 +188,10 @@
 							   download>
 								Download PDF
 							</a>
-							<!--					<a href="LINK"-->
-							<!--					   class="label_abstract" download>-->
-							<!--						Download Video-->
-							<!--					</a>-->
+							<a href="https://scheduling-seminar.iid.ciirc.cvut.cz/videos/24_3_Fall/24_12_05%20Norbert%20Trautmann%20(University%20of%20Bern)%20_%20MILP%20for%20project%20scheduling.mp4"
+							   class="label_abstract" download>
+								Download Video
+							</a>
 						</td>
 					</tr>
 
