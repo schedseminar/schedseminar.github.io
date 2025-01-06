@@ -114,16 +114,25 @@
 		<!--Single talk------------------------------------------------------------------------------------------------>
 		<tr>
 			<td style="padding: 0">
-				<table class="europe">
+				<table class="asia">
 					<!--Title/Abstract/PDF-->
 					<tr>
 						<td colspan="3">
-							<h2 class="talk_title"><b>Combinatorial Benders approach to solve the Quay Crane Scheduling Problem</b></h2><br/>
+							<h2 class="talk_title"><b>Combinatorial Benders approach to solve the Quay Crane Scheduling
+								Problem</b></h2><br/>
 							<input type="checkbox" id="abstract_id_63" style="display:none;">
 							<label for="abstract_id_63" class="label_abstract"><a>Abstract</a></label>
 							<div class="hidden">
 								<hr style="border-top: 1px solid black;">
-								We propose an exact decomposition approach to solve the Quay Crane Scheduling Problem (QCSP) in container terminals. The problem is decomposed into two simpler problems: a sequencing master problem and a scheduling sub-problem. The master problem explores possible operation sequencing solutions for the tasks, while the sub-problem determines the completion times for each task to avoid collisions among quay cranes. A series of combinatorial cuts based on minimum infeasible systems and minimum sub-optimal systems are generated to accelerate the algorithm convergence. Furthermore, we provide a cut selection strategy to generate tighter multiple cuts. Computational tests on benchmark instances verify the effectiveness of the proposed approach.
+								We propose an exact decomposition approach to solve the Quay Crane Scheduling Problem
+								(QCSP) in container terminals. The problem is decomposed into two simpler problems: a
+								sequencing master problem and a scheduling sub-problem. The master problem explores
+								possible operation sequencing solutions for the tasks, while the sub-problem determines
+								the completion times for each task to avoid collisions among quay cranes. A series of
+								combinatorial cuts based on minimum infeasible systems and minimum sub-optimal systems
+								are generated to accelerate the algorithm convergence. Furthermore, we provide a cut
+								selection strategy to generate tighter multiple cuts. Computational tests on benchmark
+								instances verify the effectiveness of the proposed approach.
 								<hr style="border-top: 1px solid black;">
 							</div>
 							<!--TODO pdf and video-->
