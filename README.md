@@ -162,8 +162,8 @@
 							(DAO lab, NEU China)<br/><br/>
 							<!--							<b>Keywords:</b> Quay crane scheduling, Benders decomposition, Combinatorial cuts-->
 							<b>[Invited by]</b><br/>
-							<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a><br/>
-							(CTU in Prague)
+							<a href="http://dao.neu.edu.cn/">Lixin Tang</a><br/>
+							(NEU China)
 						</td>
 						<td class="time_zones_container">
 							<table class="time_table">
@@ -254,8 +254,8 @@
 							(USYD)<br/><br/>
 							<!--							<b>Keywords:</b> Quay crane scheduling, Benders decomposition, Combinatorial cuts-->
 							<b>[Invited by]</b><br/>
-							<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a><br/>
-							(CTU in Prague)
+							<a href="https://profiles.uts.edu.au/Yakov.Zinder">Yakov Zinder</a><br/>
+							(UT Sydney)
 						</td>
 						<td class="time_zones_container">
 							<table class="time_table">
