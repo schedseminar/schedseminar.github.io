@@ -197,6 +197,98 @@
 			</td>
 		</tr>
 
+		<!--Single talk------------------------------------------------------------------------------------------------>
+		<tr>
+			<td style="padding: 0">
+				<table class="asia">
+					<!--Title/Abstract/PDF-->
+					<tr>
+						<td colspan="3">
+							<h2 class="talk_title"><b>Single-machine scheduling with energy consumption and recharging
+								optimization: a parameterized tractability analysis</b></h2><br/>
+							<input type="checkbox" id="abstract_id_64" style="display:none;">
+							<label for="abstract_id_64" class="label_abstract"><a>Abstract</a></label>
+							<div class="hidden">
+								<hr style="border-top: 1px solid black;">
+								We study single-machine scheduling problems where processing each job requires both
+								processing time and rechargeable energy. Subject to a predefined energy capacity, energy
+								can be recharged after each job during a fixed recharging period. Our focus is on two
+								due
+								date-related scheduling criteria: minimizing the number of late jobs and maximizing the
+								weighted number of jobs completed exactly at their due dates. This study aims to analyze
+								the parameterized tractability of the two problems and develop fixed-parameter tractable
+								(FPT) algorithms with respect to three natural parameters: (i) the number of different
+								due dates ν_d; (ii) the number of different processing times ν_p; and (iii) the number
+								of different energy consumption values ν_e. Following the proofs of NP-hardness across
+								several contexts, we demonstrate that both problems remain intractable when
+								parameterized by ν_dand ν_p. To complement our results, we show that both problems
+								become FPT when parameterized by ν_e and ν_d, and are solvable in polynomial time when
+								both ν_e and ν_p are constant. Joint work with Renjie Yu
+								<hr style="border-top: 1px solid black;">
+							</div>
+							<!--TODO pdf and video-->
+							<!--					<a href="./presentations/SchedulingSeminar_Name.pdf" class="label_abstract" download>-->
+							<!--						Download PDF-->
+							<!--					</a>-->
+							<!--					<a href="LINK"-->
+							<!--					   class="label_abstract" download>-->
+							<!--						Download Video-->
+							<!--					</a>-->
+						</td>
+					</tr>
+
+					<!--Data--->
+					<tr>
+						<td class="presenter_image_container">
+							<div class="single_image_container">
+								<a href="https://www.sydney.edu.au/business/about/our-people/academic-staff/daniel-oron.html">
+									<img class="single_presenter" loading="lazy" src="photos/Daniel_Oron.jpg"
+									     alt="person_photo"/>
+								</a><br/>
+							</div>
+						</td>
+						<td class="information_upcoming_container">
+							<b>[Presenter]</b><br/>
+							<a href="https://www.sydney.edu.au/business/about/our-people/academic-staff/daniel-oron.html">Daniel
+								Oron</a><br/>
+							(USYD)<br/><br/>
+							<!--							<b>Keywords:</b> Quay crane scheduling, Benders decomposition, Combinatorial cuts-->
+							<b>[Invited by]</b><br/>
+							<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a><br/>
+							(CTU in Prague)
+						</td>
+						<td class="time_zones_container">
+							<table class="time_table">
+								<tbody>
+								<tr class="utc">
+									<td>UTC</td>
+									<td>Feb 26, 14:00 Wed</td>
+								</tr>
+								<tr class="europe">
+									<td>Prague</td>
+									<td>Feb 26, 15:00 Wed</td>
+								</tr>
+								<tr class="america">
+									<td>New York</td>
+									<td>Feb 26, 09:00 Wed</td>
+								</tr>
+								<tr class="asia">
+									<td>Shanghai</td>
+									<td>Feb 26, 22:00 Wed</td>
+								</tr>
+								</tbody>
+							</table>
+						</td>
+					</tr>
+
+					<!--Spacing--->
+					<tr style="background-color: white">
+						<td colspan="100%"></td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+
 		</tbody>
 	</table>
 
