@@ -111,17 +111,80 @@
 	<table>
 		<tbody>
 
+		<!--Single talk------------------------------------------------------------------------------------------------>
 		<tr>
-			<td>
-				<i>Currently, new talks are being planned, and the seminar will start again in January 2024. Consider
-					subscribing to the mailing list
-					<a href='https://list.iid.ciirc.cvut.cz/mailman3/lists/schedulingseminar.rtime.felk.cvut.cz/'
-					   style="margin-left: 5px; margin-right: 5px">
-						<img src="icons/email.png" height="25px" width="25px" alt="email"/>
-					</a> and Youtube channel <a href='https://www.youtube.com/channel/UCUoCNnaAfw5NAntItILFn4A'
-					                            style="margin-left: 5px; margin-right: 5px">
-						<img src="icons/youtube.png" height="25px" width="25px" alt="youtube"/>
-					</a> to never miss out on new upcoming seminars.</i>
+			<td style="padding: 0">
+				<table class="europe">
+					<!--Title/Abstract/PDF-->
+					<tr>
+						<td colspan="3">
+							<h2 class="talk_title"><b>Combinatorial Benders approach to solve the Quay Crane Scheduling Problem</b></h2><br/>
+							<input type="checkbox" id="abstract_id_63" style="display:none;">
+							<label for="abstract_id_63" class="label_abstract"><a>Abstract</a></label>
+							<div class="hidden">
+								<hr style="border-top: 1px solid black;">
+								We propose an exact decomposition approach to solve the Quay Crane Scheduling Problem (QCSP) in container terminals. The problem is decomposed into two simpler problems: a sequencing master problem and a scheduling sub-problem. The master problem explores possible operation sequencing solutions for the tasks, while the sub-problem determines the completion times for each task to avoid collisions among quay cranes. A series of combinatorial cuts based on minimum infeasible systems and minimum sub-optimal systems are generated to accelerate the algorithm convergence. Furthermore, we provide a cut selection strategy to generate tighter multiple cuts. Computational tests on benchmark instances verify the effectiveness of the proposed approach.
+								<hr style="border-top: 1px solid black;">
+							</div>
+							<!--TODO pdf and video-->
+							<!--					<a href="./presentations/SchedulingSeminar_Name.pdf" class="label_abstract" download>-->
+							<!--						Download PDF-->
+							<!--					</a>-->
+							<!--					<a href="LINK"-->
+							<!--					   class="label_abstract" download>-->
+							<!--						Download Video-->
+							<!--					</a>-->
+						</td>
+					</tr>
+
+					<!--Data--->
+					<tr>
+						<td class="presenter_image_container">
+							<div class="single_image_container">
+								<a href="https://orcid.org/0000-0002-6699-6272">
+									<img class="single_presenter" loading="lazy" src="photos/Defeng_Sun.jpg"
+									     alt="person_photo"/>
+								</a><br/>
+							</div>
+						</td>
+						<td class="information_upcoming_container">
+							<b>[Presenter]</b><br/>
+							<a href="https://orcid.org/0000-0002-6699-6272">Defeng Sun</a><br/>
+							(DAO lab, NEU China)<br/><br/>
+							<!--							<b>Keywords:</b> Quay crane scheduling, Benders decomposition, Combinatorial cuts-->
+							<b>[Invited by]</b><br/>
+							<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a><br/>
+							(CTU in Prague)
+						</td>
+						<td class="time_zones_container">
+							<table class="time_table">
+								<tbody>
+								<tr class="utc">
+									<td>UTC</td>
+									<td>Feb 12, 14:00 Wed</td>
+								</tr>
+								<tr class="europe">
+									<td>Prague</td>
+									<td>Feb 12, 15:00 Wed</td>
+								</tr>
+								<tr class="america">
+									<td>New York</td>
+									<td>Feb 12, 09:00 Wed</td>
+								</tr>
+								<tr class="asia">
+									<td>Shanghai</td>
+									<td>Feb 12, 22:00 Wed</td>
+								</tr>
+								</tbody>
+							</table>
+						</td>
+					</tr>
+
+					<!--Spacing--->
+					<tr style="background-color: white">
+						<td colspan="100%"></td>
+					</tr>
+				</table>
 			</td>
 		</tr>
 
