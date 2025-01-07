@@ -252,7 +252,7 @@
 							<a href="https://www.sydney.edu.au/business/about/our-people/academic-staff/daniel-oron.html">Daniel
 								Oron</a><br/>
 							(USYD)<br/><br/>
-							<!--							<b>Keywords:</b> Quay crane scheduling, Benders decomposition, Combinatorial cuts-->
+							<!--							<b>Keywords:</b> Single machine, Parametrized complexity, FPT, XP, W[t]-->
 							<b>[Invited by]</b><br/>
 							<a href="https://profiles.uts.edu.au/Yakov.Zinder">Yakov Zinder</a><br/>
 							(UT Sydney)
