@@ -336,8 +336,7 @@
 						</td>
 						<td class="information_upcoming_container">
 							<b>[Presenter]</b><br/>
-							<a href="https://www.unibo.it/sitoweb/daniele.vigo/en">Daniel
-								Oron</a><br/>
+							<a href="https://www.unibo.it/sitoweb/daniele.vigo/en">Daniele Vigo</a><br/>
 							(Unibo CIRI-ICT)<br/><br/>
 							<!--							<b>Keywords:</b> Vehicle routing, Logistics optimization, Metaheuristics, Pruing and acceleration of local search -->
 							<b>[Invited by]</b><br/>
