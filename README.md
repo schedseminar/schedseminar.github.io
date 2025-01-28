@@ -375,6 +375,92 @@
 			</td>
 		</tr>
 
+		<!--Single talk------------------------------------------------------------------------------------------------>
+		<tr>
+			<td style="padding: 0">
+				<table class="europe">
+					<!--Title/Abstract/PDF-->
+					<tr>
+						<td colspan="3">
+							<h2 class="talk_title"><b>CMSA: A Hybrid Metaheuristic for Combinatorial Optimization</b>
+							</h2><br/>
+							<input type="checkbox" id="abstract_id_66" style="display:none;">
+							<label for="abstract_id_66" class="label_abstract"><a>Abstract</a></label>
+							<div class="hidden">
+								<hr style="border-top: 1px solid black;">
+								Construct, Merge, Solve & Adapt (CMSA) is an award-winning, hybrid algorithm for solving
+								hard combinatorial optimization problems. The main idea consists in the iterated
+								application of an exact solver---such as an integer linear programming (ILP) solver---to
+								sub-instances of the original problem instance. These sub-instances are enlarged at each
+								iteration by adding solution components from a set of valid solutions that are obtained
+								either by probabilistic solution construction or by any other means. Moreover, seemingly
+								useless (or even harmful) solution components are removed. In this talk, an introduction
+								to CMSA will be given, in addition to describing some of the most recent research lines
+								around this technique.
+								<hr style="border-top: 1px solid black;">
+							</div>
+							<!--TODO pdf and video-->
+							<!--					<a href="./presentations/SchedulingSeminar_Name.pdf" class="label_abstract" download>-->
+							<!--						Download PDF-->
+							<!--					</a>-->
+							<!--					<a href="LINK"-->
+							<!--					   class="label_abstract" download>-->
+							<!--						Download Video-->
+							<!--					</a>-->
+						</td>
+					</tr>
+
+					<!--Data--->
+					<tr>
+						<td class="presenter_image_container">
+							<div class="single_image_container">
+								<a href="https://www.iiia.csic.es/~christian.blum/">
+									<img class="single_presenter" loading="lazy" src="photos/Christian_Blum.jpg"
+									     alt="person_photo"/>
+								</a><br/>
+							</div>
+						</td>
+						<td class="information_upcoming_container">
+							<b>[Presenter]</b><br/>
+							<a href="https://www.iiia.csic.es/~christian.blum/">Christian Blum</a><br/>
+							(IIIA-CSIC)<br/><br/>
+							<!--							<b>Keywords:</b> Combinatorial optimization, Hybrid algorithm -->
+							<b>[Invited by]</b><br/>
+							<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a><br/>
+							(CTU in Prague)
+						</td>
+						<td class="time_zones_container">
+							<table class="time_table">
+								<tbody>
+								<tr class="utc">
+									<td>UTC</td>
+									<td>Mar 26, 14:00 Wed</td>
+								</tr>
+								<tr class="europe">
+									<td>Prague</td>
+									<td>Mar 26, 15:00 Wed</td>
+								</tr>
+								<tr class="america">
+									<td>New York</td>
+									<td>Mar 26, 10:00 Wed</td>
+								</tr>
+								<tr class="asia">
+									<td>Shanghai</td>
+									<td>Mar 26, 22:00 Wed</td>
+								</tr>
+								</tbody>
+							</table>
+						</td>
+					</tr>
+
+					<!--Spacing--->
+					<tr style="background-color: white">
+						<td colspan="100%"></td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+
 		</tbody>
 	</table>
 
