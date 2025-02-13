@@ -464,7 +464,7 @@
 								<tr>
 									<td colspan="2">
 										<b>Keywords:</b> Quay crane scheduling, Benders decomposition, Combinatorial cuts <br/><br/>
-										<b>[Invited by]</b><br/>
+										<b>[Invited by]</b>
 										<a href="http://dao.neu.edu.cn/">Lixin Tang</a>
 										(NEU China)
 									</td>
