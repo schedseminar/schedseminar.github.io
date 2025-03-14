@@ -210,92 +210,6 @@
 					<!--Title/Abstract/PDF-->
 					<tr>
 						<td colspan="3">
-							<h2 class="talk_title"><b>One Million ... and Beyond! Solving Huge-Scale Vehicle Routing
-								Problems in a Handful of Minutes</b></h2><br/>
-							<input type="checkbox" id="abstract_id_65" style="display:none;">
-							<label for="abstract_id_65" class="label_abstract"><a>Abstract</a></label>
-							<div class="hidden">
-								<hr style="border-top: 1px solid black;">
-								Vehicle routing is a hard and extensively studied combinatorial optimization problem
-								which has numerous practical applications in transportation and logistics.
-								In the last two decades several effective solution methods were proposed for the
-								heuristic solution of the vehicle routing problem (VRP) and its many variants but most
-								of these methods do not scale well with respect to the computing time when the size of
-								the problem grows. We discuss a family of approaches, originated from the FILO
-								framework, which were explicitly designed to obtain a linear growth of the computing
-								time making it possible to solve very large instances with up to one million customers
-								within a very limited computing time.
-								<hr style="border-top: 1px solid black;">
-							</div>
-							<!--TODO pdf and video-->
-							<a href="./presentations/SchedulingSeminar_DanieleVigo.pdf" class="label_abstract" download>
-								Download PDF
-							</a>
-							<!--					<a href="LINK"-->
-							<!--					   class="label_abstract" download>-->
-							<!--						Download Video-->
-							<!--					</a>-->
-						</td>
-					</tr>
-
-					<!--Data--->
-					<tr>
-						<td class="presenter_image_container">
-							<div class="single_image_container">
-								<a href="https://www.unibo.it/sitoweb/daniele.vigo/en">
-									<img class="single_presenter" loading="lazy" src="photos/Daniele_Vigo.jpg"
-									     alt="person_photo"/>
-								</a><br/>
-							</div>
-						</td>
-						<td class="information_upcoming_container">
-							<b>[Presenter]</b><br/>
-							<a href="https://www.unibo.it/sitoweb/daniele.vigo/en">Daniele Vigo</a><br/>
-							(Unibo CIRI-ICT)<br/><br/>
-							<!--							<b>Keywords:</b> Vehicle routing, Logistics optimization, Metaheuristics, Pruing and acceleration of local search -->
-							<b>[Invited by]</b><br/>
-							<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a><br/>
-							(CTU in Prague)
-						</td>
-						<td class="time_zones_container">
-							<table class="time_table">
-								<tbody>
-								<tr class="utc">
-									<td>UTC</td>
-									<td>Mar 12, 14:00 Wed</td>
-								</tr>
-								<tr class="europe">
-									<td>Prague</td>
-									<td>Mar 12, 15:00 Wed</td>
-								</tr>
-								<tr class="america">
-									<td>New York</td>
-									<td>Mar 12, 10:00 Wed</td>
-								</tr>
-								<tr class="asia">
-									<td>Shanghai</td>
-									<td>Mar 12, 22:00 Wed</td>
-								</tr>
-								</tbody>
-							</table>
-						</td>
-					</tr>
-
-					<!--Spacing--->
-					<tr style="background-color: white">
-						<td colspan="100%"></td>
-					</tr>
-				</table>
-			</td>
-		</tr>
-
-		<!--Single talk------------------------------------------------------------------------------------------------>
-		<tr>
-			<td style="padding: 0">
-				<table class="europe">
-					<!--Title/Abstract/PDF-->
-					<tr>
-						<td colspan="3">
 							<h2 class="talk_title"><b>CMSA: A Hybrid Metaheuristic for Combinatorial Optimization</b>
 							</h2><br/>
 							<input type="checkbox" id="abstract_id_66" style="display:none;">
@@ -388,7 +302,7 @@
 
 <!--Past talks-->
 <div class="column column_right">
-	<h2>Past talks (63)</h2>
+	<h2>Past talks (64)</h2>
 	<div class="inline-right"><a
 			href="https://docs.google.com/spreadsheets/d/1Glyd6FGzoKtZGfClNA_XaIK8vJZtnu8K4OdNcPr_yHc/edit#gid=0"
 			target="_blank"
@@ -396,6 +310,90 @@
 
 	<table class="past_talk_table">
 		<tbody>
+
+		<!--Single talk------------------------------------------------------------------------------------------------>
+		<tr>
+			<td style="padding: 0">
+				<table class="europe">
+					<!--Title/Abstract/PDF-->
+					<tr>
+						<td colspan="3">
+							<h2 class="talk_title"><b>One Million ... and Beyond! Solving Huge-Scale Vehicle Routing
+								Problems in a Handful of Minutes</b></h2><br/>
+							<input type="checkbox" id="abstract_id_64" style="display:none;">
+							<label for="abstract_id_64" class="label_abstract"><a>Abstract</a></label>
+							<div class="hidden">
+								<hr style="border-top: 1px solid black;">
+								Vehicle routing is a hard and extensively studied combinatorial optimization problem
+								which has numerous practical applications in transportation and logistics.
+								In the last two decades several effective solution methods were proposed for the
+								heuristic solution of the vehicle routing problem (VRP) and its many variants but most
+								of these methods do not scale well with respect to the computing time when the size of
+								the problem grows. We discuss a family of approaches, originated from the FILO
+								framework, which were explicitly designed to obtain a linear growth of the computing
+								time making it possible to solve very large instances with up to one million customers
+								within a very limited computing time.
+								<hr style="border-top: 1px solid black;">
+							</div>
+							<a href="./presentations/SchedulingSeminar_DanieleVigo.pdf" class="label_abstract" download>
+								Download PDF
+							</a>
+							<a href="https://scheduling-seminar.iid.ciirc.cvut.cz/videos/25_1_Winter/25_03_12%20Daniele%20Vigo%20(Unibo%20CIRI-ICT)%20%20One%20Million%20...%20and%20Beyond!%20Solving%20Huge-Scale%20VRPs!.mp4"
+							   class="label_abstract" download>
+								Download Video
+							</a>
+						</td>
+					</tr>
+
+					<!--Photo and video-->
+					<tr>
+						<td class="presenter_image_container">
+							<div class="single_image_container">
+								<a href="https://www.unibo.it/sitoweb/daniele.vigo/en">
+									<img class="single_presenter" loading="lazy" src="photos/Daniele_Vigo.jpg"
+									     alt="person_photo"/>
+								</a><br/>
+							</div>
+						</td>
+
+						<td colspan="2">
+							<div class="resizable_youtube_single">
+								<iframe width="400" height="250" src="https://www.youtube.com/embed/5hxwkxiAS0c?si=XsyqM2tH3d2hi0kz"
+								        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+								        allowfullscreen></iframe>
+							</div>
+						</td>
+					</tr>
+
+					<!--Text description-->
+					<tr>
+						<td class="presenter_past_info_container">
+							<b>[Presenter]</b><br/>
+							<a href="https://www.unibo.it/sitoweb/daniele.vigo/en">Daniele Vigo</a><br/>
+							(Unibo CIRI-ICT)<br/>
+						</td>
+
+						<td>
+							<table class="panelists_past_container_single">
+								<tr>
+									<td colspan="2">
+										<b>Keywords:</b> Vehicle routing, Logistics optimization, Metaheuristics, Pruning and acceleration of local search <br/><br/>
+										<b>[Invited by]</b>
+										<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a>
+										(CTU in Prague)
+									</td>
+								</tr>
+							</table>
+						</td>
+					</tr>
+
+					<!--Spacing--->
+					<tr style="background-color: white">
+						<td colspan="100%"></td>
+					</tr>
+				</table>
+			</td>
+		</tr>
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
 		<tr>
