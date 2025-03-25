@@ -251,7 +251,7 @@
 						<td class="information_upcoming_container">
 							<b>[Presenter]</b><br/>
 							<a href="http://people.ciirc.cvut.cz/~suchap/">Přemysl Šůcha</a><br/>
-							(CTU in Prague)
+							(CTU in Prague)<br/><br/>
 							<!--							<b>Keywords:</b> DOPLNIT -->
 							<b>[Invited by]</b><br/>
 							<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a><br/>
