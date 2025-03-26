@@ -252,7 +252,7 @@
 							<b>[Presenter]</b><br/>
 							<a href="http://people.ciirc.cvut.cz/~suchap/">Přemysl Šůcha</a><br/>
 							(CTU in Prague)<br/><br/>
-							<!--							<b>Keywords:</b> DOPLNIT -->
+							<!--							<b>Keywords:</b> Scheduling, Machine learning, Decomposition, Branch and price, Lawler's decomposition -->
 							<b>[Invited by]</b><br/>
 							<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a><br/>
 							(CTU in Prague)
