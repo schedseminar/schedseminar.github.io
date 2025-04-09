@@ -210,92 +210,6 @@
 					<!--Title/Abstract/PDF-->
 					<tr>
 						<td colspan="3">
-							<h2 class="talk_title"><b>Machine Learning Inside Decomposition of Scheduling Problems</b>
-							</h2><br/>
-							<input type="checkbox" id="abstract_id_66" style="display:none;">
-							<label for="abstract_id_66" class="label_abstract"><a>Abstract</a></label>
-							<div class="hidden">
-								<hr style="border-top: 1px solid black;">
-								Problem decomposition refers to general techniques for efficiently solving large
-								instances. The fact that decomposition splits the problem into smaller subproblems and
-								then combines their solutions into a solution to the original problem opens up many
-								possibilities for applying machine learning. There are two main advantages why it is
-								suitable. The first is that the subproblems are solved repeatedly/recursively, so
-								similar instances are solved multiple times. The second is that the subproblems are
-								smaller and thus easier to combine with machine learning. In this talk, we show two
-								successful applications of machine learning to speed up scheduling algorithms based on
-								decomposition techniques, namely branch and price and Lawler's decomposition.
-								<hr style="border-top: 1px solid black;">
-							</div>
-							<!--TODO pdf and video-->
-								<a href="./presentations/SchedulingSeminar_PřemyslŠůcha.pdf" class="label_abstract" download>
-									Download PDF
-								</a>
-<!--								<a href="LINK"-->
-<!--								   class="label_abstract" download>-->
-<!--									Download Video-->
-<!--								</a>-->
-						</td>
-					</tr>
-
-					<!--Data--->
-					<tr>
-						<td class="presenter_image_container">
-							<div class="single_image_container">
-								<a href="http://people.ciirc.cvut.cz/~suchap/">
-									<img class="single_presenter" loading="lazy" src="photos/Premysl_Sucha.jpg"
-									     alt="person_photo"/>
-								</a><br/>
-							</div>
-						</td>
-						<td class="information_upcoming_container">
-							<b>[Presenter]</b><br/>
-							<a href="http://people.ciirc.cvut.cz/~suchap/">Přemysl Šůcha</a><br/>
-							(CTU in Prague)<br/><br/>
-							<!--							<b>Keywords:</b> Scheduling, Machine learning, Decomposition, Branch and price, Lawler's decomposition -->
-							<b>[Invited by]</b><br/>
-							<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a><br/>
-							(CTU in Prague)
-						</td>
-						<td class="time_zones_container">
-							<table class="time_table">
-								<tbody>
-								<tr class="utc">
-									<td>UTC</td>
-									<td>Apr 9, 13:00 Wed</td>
-								</tr>
-								<tr class="europe">
-									<td>Prague</td>
-									<td>Apr 9, 15:00 Wed</td>
-								</tr>
-								<tr class="america">
-									<td>New York</td>
-									<td>Apr 9, 09:00 Wed</td>
-								</tr>
-								<tr class="asia">
-									<td>Shanghai</td>
-									<td>Apr 9, 21:00 Wed</td>
-								</tr>
-								</tbody>
-							</table>
-						</td>
-					</tr>
-
-					<!--Spacing--->
-					<tr style="background-color: white">
-						<td colspan="100%"></td>
-					</tr>
-				</table>
-			</td>
-		</tr>
-
-		<!--Single talk------------------------------------------------------------------------------------------------>
-		<tr>
-			<td style="padding: 0">
-				<table class="europe">
-					<!--Title/Abstract/PDF-->
-					<tr>
-						<td colspan="3">
 							<h2 class="talk_title"><b>CMSA: A Hybrid Metaheuristic for Combinatorial Optimization</b>
 							</h2><br/>
 							<input type="checkbox" id="abstract_id_67" style="display:none;">
@@ -388,7 +302,7 @@
 
 <!--Past talks-->
 <div class="column column_right">
-	<h2>Past talks (64)</h2>
+	<h2>Past talks (65)</h2>
 	<div class="inline-right"><a
 			href="https://docs.google.com/spreadsheets/d/1Glyd6FGzoKtZGfClNA_XaIK8vJZtnu8K4OdNcPr_yHc/edit#gid=0"
 			target="_blank"
@@ -396,6 +310,91 @@
 
 	<table class="past_talk_table">
 		<tbody>
+
+		<!--Single talk------------------------------------------------------------------------------------------------>
+		<tr>
+			<td style="padding: 0">
+				<table class="europe">
+					<!--Title/Abstract/PDF-->
+					<tr>
+						<td colspan="3">
+							<h2 class="talk_title"><b>Machine Learning Inside Decomposition of Scheduling Problems</b>
+							</h2><br/>
+							<input type="checkbox" id="abstract_id_66" style="display:none;">
+							<label for="abstract_id_66" class="label_abstract"><a>Abstract</a></label>
+							<div class="hidden">
+								<hr style="border-top: 1px solid black;">
+								Problem decomposition refers to general techniques for efficiently solving large
+								instances. The fact that decomposition splits the problem into smaller subproblems and
+								then combines their solutions into a solution to the original problem opens up many
+								possibilities for applying machine learning. There are two main advantages why it is
+								suitable. The first is that the subproblems are solved repeatedly/recursively, so
+								similar instances are solved multiple times. The second is that the subproblems are
+								smaller and thus easier to combine with machine learning. In this talk, we show two
+								successful applications of machine learning to speed up scheduling algorithms based on
+								decomposition techniques, namely branch and price and Lawler's decomposition.
+								<hr style="border-top: 1px solid black;">
+							</div>
+							<!--TODO pdf and video-->
+							<a href="./presentations/SchedulingSeminar_PřemyslŠůcha.pdf" class="label_abstract" download>
+								Download PDF
+							</a>
+							<!--								<a href="LINK"-->
+							<!--								   class="label_abstract" download>-->
+							<!--									Download Video-->
+							<!--								</a>-->
+						</td>
+					</tr>
+
+					<!--Photo and video-->
+					<tr>
+						<td class="presenter_image_container">
+							<div class="single_image_container">
+								<a href="http://people.ciirc.cvut.cz/~suchap/">
+									<img class="single_presenter" loading="lazy" src="photos/Premysl_Sucha.jpg"
+									     alt="person_photo"/>
+								</a><br/>
+							</div>
+						</td>
+
+						<td colspan="2">
+							<div class="resizable_youtube_single">
+								<iframe width="400" height="250" src="https://www.youtube.com/embed/u3YIK32rMtI?si=OxeIUu-_p6xKgTFy"
+								        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+								        allowfullscreen></iframe>
+							</div>
+						</td>
+					</tr>
+
+					<!--Text description-->
+					<tr>
+						<td class="presenter_past_info_container">
+							<b>[Presenter]</b><br/>
+							<a href="http://people.ciirc.cvut.cz/~suchap/">Přemysl Šůcha</a><br/>
+							(CTU in Prague)<br/>
+						</td>
+
+						<td>
+							<table class="panelists_past_container_single">
+								<tr>
+									<td colspan="2">
+										<b>Keywords:</b> Scheduling, Machine learning, Decomposition, Branch and price, Lawler's decomposition <br/><br/>
+										<b>[Invited by]</b>
+										<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a>
+										(CTU in Prague)
+									</td>
+								</tr>
+							</table>
+						</td>
+					</tr>
+
+					<!--Spacing--->
+					<tr style="background-color: white">
+						<td colspan="100%"></td>
+					</tr>
+				</table>
+			</td>
+		</tr>
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
 		<tr>
