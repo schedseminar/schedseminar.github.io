@@ -228,13 +228,13 @@
 								<hr style="border-top: 1px solid black;">
 							</div>
 							<!--TODO pdf and video-->
-							<!--					<a href="./presentations/SchedulingSeminar_Name.pdf" class="label_abstract" download>-->
-							<!--						Download PDF-->
-							<!--					</a>-->
-							<!--					<a href="LINK"-->
-							<!--					   class="label_abstract" download>-->
-							<!--						Download Video-->
-							<!--					</a>-->
+								<a href="./presentations/SchedulingSeminar_PřemyslŠůcha.pdf" class="label_abstract" download>
+									Download PDF
+								</a>
+<!--								<a href="LINK"-->
+<!--								   class="label_abstract" download>-->
+<!--									Download Video-->
+<!--								</a>-->
 						</td>
 					</tr>
 
