@@ -339,10 +339,10 @@
 							<a href="./presentations/SchedulingSeminar_PřemyslŠůcha.pdf" class="label_abstract" download>
 								Download PDF
 							</a>
-							<!--								<a href="LINK"-->
-							<!--								   class="label_abstract" download>-->
-							<!--									Download Video-->
-							<!--								</a>-->
+							<a href="https://scheduling-seminar.iid.ciirc.cvut.cz/videos/25_2_Spring/25_04_09%20P%c5%99emysl%20%c5%a0%c5%afcha%20(CTU%20in%20Prague)%20_%20Machine%20Learning%20Inside%20Decomposition.mp4"
+							   class="label_abstract" download>
+								Download Video
+							</a>
 						</td>
 					</tr>
 
