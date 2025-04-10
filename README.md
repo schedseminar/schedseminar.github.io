@@ -335,7 +335,6 @@
 								decomposition techniques, namely branch and price and Lawler's decomposition.
 								<hr style="border-top: 1px solid black;">
 							</div>
-							<!--TODO pdf and video-->
 							<a href="./presentations/SchedulingSeminar_PřemyslŠůcha.pdf" class="label_abstract" download>
 								Download PDF
 							</a>
@@ -604,7 +603,6 @@
 								assignment-based formulation as a mixed-binary linear optimization problem.
 								<hr style="border-top: 1px solid black;">
 							</div>
-							<!--TODO pdf and video-->
 							<a href="./presentations/SchedulingSeminar_NorbertTrautmann.pdf" class="label_abstract"
 							   download>
 								Download PDF
@@ -1079,7 +1077,6 @@
 								formulation with small support size.
 								<hr style="border-top: 1px solid black;">
 							</div>
-							<!--TODO pdf and video-->
 							<a href="./presentations/SchedulingSeminar_MatthiasMnich.pdf" class="label_abstract"
 							   download>
 								Download PDF
@@ -1365,7 +1362,6 @@
 								results with the best MIP solvers (on purely integral problems).
 								<hr style="border-top: 1px solid black;">
 							</div>
-							<!--TODO pdf and video-->
 							<a href="./presentations/SchedulingSeminar_LaurentPerron.pdf" class="label_abstract"
 							   download>
 								Download PDF
@@ -1458,7 +1454,6 @@
 								future research ideas for this emerging area of scheduling research.
 								<hr style="border-top: 1px solid black;">
 							</div>
-							<!--TODO pdf and video-->
 							<a href="./presentations/SchedulingSeminar_NilsBoysen.pdf" class="label_abstract" download>
 								Download PDF
 							</a>
