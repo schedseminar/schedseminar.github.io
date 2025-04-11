@@ -227,8 +227,8 @@
 <!--						<td colspan="3">-->
 <!--							<h2 class="talk_title"><b>CMSA: A Hybrid Metaheuristic for Combinatorial Optimization</b>-->
 <!--							</h2><br/>-->
-<!--							<input type="checkbox" id="abstract_id_66" style="display:none;">-->
-<!--							<label for="abstract_id_66" class="label_abstract"><a>Abstract</a></label>-->
+<!--							<input type="checkbox" id="abstract_id_67" style="display:none;">-->
+<!--							<label for="abstract_id_67" class="label_abstract"><a>Abstract</a></label>-->
 <!--							<div class="hidden">-->
 <!--								<hr style="border-top: 1px solid black;">-->
 <!--								Construct, Merge, Solve & Adapt (CMSA) is an award-winning, hybrid algorithm for solving-->
@@ -277,19 +277,19 @@
 <!--								<tbody>-->
 <!--								<tr class="utc">-->
 <!--									<td>UTC</td>-->
-<!--									<td>Mar 26, 14:00 Wed</td>-->
+<!--									<td>Apr 23, 13:00 Wed</td>-->
 <!--								</tr>-->
 <!--								<tr class="europe">-->
 <!--									<td>Prague</td>-->
-<!--									<td>Mar 26, 15:00 Wed</td>-->
+<!--									<td>Apr 23, 15:00 Wed</td>-->
 <!--								</tr>-->
 <!--								<tr class="america">-->
 <!--									<td>New York</td>-->
-<!--									<td>Mar 26, 10:00 Wed</td>-->
+<!--									<td>Apr 23, 09:00 Wed</td>-->
 <!--								</tr>-->
 <!--								<tr class="asia">-->
 <!--									<td>Shanghai</td>-->
-<!--									<td>Mar 26, 22:00 Wed</td>-->
+<!--									<td>Apr 23, 21:00 Wed</td>-->
 <!--								</tr>-->
 <!--								</tbody>-->
 <!--							</table>-->
@@ -317,7 +317,7 @@
 
 <!--Past talks-->
 <div class="column column_right">
-	<h2>Past talks (64)</h2>
+	<h2>Past talks (65)</h2>
 	<div class="inline-right"><a
 			href="https://docs.google.com/spreadsheets/d/1Glyd6FGzoKtZGfClNA_XaIK8vJZtnu8K4OdNcPr_yHc/edit#gid=0"
 			target="_blank"
@@ -325,6 +325,90 @@
 
 	<table class="past_talk_table">
 		<tbody>
+
+		<!--Single talk------------------------------------------------------------------------------------------------>
+		<tr>
+			<td style="padding: 0">
+				<table class="europe">
+					<!--Title/Abstract/PDF-->
+					<tr>
+						<td colspan="3">
+							<h2 class="talk_title"><b>Machine Learning Inside Decomposition of Scheduling Problems</b>
+							</h2><br/>
+							<input type="checkbox" id="abstract_id_66" style="display:none;">
+							<label for="abstract_id_66" class="label_abstract"><a>Abstract</a></label>
+							<div class="hidden">
+								<hr style="border-top: 1px solid black;">
+								Problem decomposition refers to general techniques for efficiently solving large
+								instances. The fact that decomposition splits the problem into smaller subproblems and
+								then combines their solutions into a solution to the original problem opens up many
+								possibilities for applying machine learning. There are two main advantages why it is
+								suitable. The first is that the subproblems are solved repeatedly/recursively, so
+								similar instances are solved multiple times. The second is that the subproblems are
+								smaller and thus easier to combine with machine learning. In this talk, we show two
+								successful applications of machine learning to speed up scheduling algorithms based on
+								decomposition techniques, namely branch and price and Lawler's decomposition.
+								<hr style="border-top: 1px solid black;">
+							</div>
+							<a href="./presentations/SchedulingSeminar_PřemyslŠůcha.pdf" class="label_abstract" download>
+								Download PDF
+							</a>
+							<a href="https://scheduling-seminar.iid.ciirc.cvut.cz/videos/25_2_Spring/25_04_09%20P%c5%99emysl%20%c5%a0%c5%afcha%20(CTU%20in%20Prague)%20_%20Machine%20Learning%20Inside%20Decomposition.mp4"
+							   class="label_abstract" download>
+								Download Video
+							</a>
+						</td>
+					</tr>
+
+					<!--Photo and video-->
+					<tr>
+						<td class="presenter_image_container">
+							<div class="single_image_container">
+								<a href="http://people.ciirc.cvut.cz/~suchap/">
+									<img class="single_presenter" loading="lazy" src="photos/Premysl_Sucha.jpg"
+									     alt="person_photo"/>
+								</a><br/>
+							</div>
+						</td>
+
+						<td colspan="2">
+							<div class="resizable_youtube_single">
+								<iframe width="400" height="250" src="https://www.youtube.com/embed/u3YIK32rMtI?si=OxeIUu-_p6xKgTFy"
+								        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+								        allowfullscreen></iframe>
+							</div>
+						</td>
+					</tr>
+
+					<!--Text description-->
+					<tr>
+						<td class="presenter_past_info_container">
+							<b>[Presenter]</b><br/>
+							<a href="http://people.ciirc.cvut.cz/~suchap/">Přemysl Šůcha</a><br/>
+							(CTU in Prague)<br/>
+						</td>
+
+						<td>
+							<table class="panelists_past_container_single">
+								<tr>
+									<td colspan="2">
+										<b>Keywords:</b> Scheduling, Machine learning, Decomposition, Branch and price, Lawler's decomposition <br/><br/>
+										<b>[Invited by]</b>
+										<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a>
+										(CTU in Prague)
+									</td>
+								</tr>
+							</table>
+						</td>
+					</tr>
+
+					<!--Spacing--->
+					<tr style="background-color: white">
+						<td colspan="100%"></td>
+					</tr>
+				</table>
+			</td>
+		</tr>
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
 		<tr>
@@ -373,7 +457,8 @@
 
 						<td colspan="2">
 							<div class="resizable_youtube_single">
-								<iframe width="400" height="250" src="https://www.youtube.com/embed/5hxwkxiAS0c?si=XsyqM2tH3d2hi0kz"
+								<iframe width="400" height="250"
+								        src="https://www.youtube.com/embed/5hxwkxiAS0c?si=XsyqM2tH3d2hi0kz"
 								        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
 								        allowfullscreen></iframe>
 							</div>
@@ -392,7 +477,8 @@
 							<table class="panelists_past_container_single">
 								<tr>
 									<td colspan="2">
-										<b>Keywords:</b> Vehicle routing, Logistics optimization, Metaheuristics, Pruning and acceleration of local search <br/><br/>
+										<b>Keywords:</b> Vehicle routing, Logistics optimization, Metaheuristics,
+										Pruning and acceleration of local search <br/><br/>
 										<b>[Invited by]</b>
 										<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a>
 										(CTU in Prague)
@@ -457,7 +543,8 @@
 
 						<td colspan="2">
 							<div class="resizable_youtube_single">
-								<iframe width="400" height="250" src="https://www.youtube.com/embed/oAitFs47Oy4?si=4XtL2rlWe7XyGCv3"
+								<iframe width="400" height="250"
+								        src="https://www.youtube.com/embed/oAitFs47Oy4?si=4XtL2rlWe7XyGCv3"
 								        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
 								        allowfullscreen></iframe>
 							</div>
@@ -476,7 +563,8 @@
 							<table class="panelists_past_container_single">
 								<tr>
 									<td colspan="2">
-										<b>Keywords:</b> Quay crane scheduling, Benders decomposition, Combinatorial cuts <br/><br/>
+										<b>Keywords:</b> Quay crane scheduling, Benders decomposition, Combinatorial
+										cuts <br/><br/>
 										<b>[Invited by]</b>
 										<a href="http://dao.neu.edu.cn/">Lixin Tang</a>
 										(NEU China)
@@ -530,7 +618,6 @@
 								assignment-based formulation as a mixed-binary linear optimization problem.
 								<hr style="border-top: 1px solid black;">
 							</div>
-							<!--TODO pdf and video-->
 							<a href="./presentations/SchedulingSeminar_NorbertTrautmann.pdf" class="label_abstract"
 							   download>
 								Download PDF
@@ -1005,7 +1092,6 @@
 								formulation with small support size.
 								<hr style="border-top: 1px solid black;">
 							</div>
-							<!--TODO pdf and video-->
 							<a href="./presentations/SchedulingSeminar_MatthiasMnich.pdf" class="label_abstract"
 							   download>
 								Download PDF
@@ -1291,7 +1377,6 @@
 								results with the best MIP solvers (on purely integral problems).
 								<hr style="border-top: 1px solid black;">
 							</div>
-							<!--TODO pdf and video-->
 							<a href="./presentations/SchedulingSeminar_LaurentPerron.pdf" class="label_abstract"
 							   download>
 								Download PDF
@@ -1384,7 +1469,6 @@
 								future research ideas for this emerging area of scheduling research.
 								<hr style="border-top: 1px solid black;">
 							</div>
-							<!--TODO pdf and video-->
 							<a href="./presentations/SchedulingSeminar_NilsBoysen.pdf" class="label_abstract" download>
 								Download PDF
 							</a>
