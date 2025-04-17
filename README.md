@@ -219,90 +219,177 @@
 		<!--		</tr>-->
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
-<!--		<tr>-->
-<!--			<td style="padding: 0">-->
-<!--				<table class="europe">-->
-<!--					&lt;!&ndash;Title/Abstract/PDF&ndash;&gt;-->
-<!--					<tr>-->
-<!--						<td colspan="3">-->
-<!--							<h2 class="talk_title"><b>CMSA: A Hybrid Metaheuristic for Combinatorial Optimization</b>-->
-<!--							</h2><br/>-->
-<!--							<input type="checkbox" id="abstract_id_67" style="display:none;">-->
-<!--							<label for="abstract_id_67" class="label_abstract"><a>Abstract</a></label>-->
-<!--							<div class="hidden">-->
-<!--								<hr style="border-top: 1px solid black;">-->
-<!--								Construct, Merge, Solve & Adapt (CMSA) is an award-winning, hybrid algorithm for solving-->
-<!--								hard combinatorial optimization problems. The main idea consists in the iterated-->
-<!--								application of an exact solver-&#45;&#45;such as an integer linear programming (ILP) solver-&#45;&#45;to-->
-<!--								sub-instances of the original problem instance. These sub-instances are enlarged at each-->
-<!--								iteration by adding solution components from a set of valid solutions that are obtained-->
-<!--								either by probabilistic solution construction or by any other means. Moreover, seemingly-->
-<!--								useless (or even harmful) solution components are removed. In this talk, an introduction-->
-<!--								to CMSA will be given, in addition to describing some of the most recent research lines-->
-<!--								around this technique.-->
-<!--								<hr style="border-top: 1px solid black;">-->
-<!--							</div>-->
-<!--							&lt;!&ndash;TODO pdf and video&ndash;&gt;-->
-<!--							&lt;!&ndash;					<a href="./presentations/SchedulingSeminar_Name.pdf" class="label_abstract" download>&ndash;&gt;-->
-<!--							&lt;!&ndash;						Download PDF&ndash;&gt;-->
-<!--							&lt;!&ndash;					</a>&ndash;&gt;-->
-<!--							&lt;!&ndash;					<a href="LINK"&ndash;&gt;-->
-<!--							&lt;!&ndash;					   class="label_abstract" download>&ndash;&gt;-->
-<!--							&lt;!&ndash;						Download Video&ndash;&gt;-->
-<!--							&lt;!&ndash;					</a>&ndash;&gt;-->
-<!--						</td>-->
-<!--					</tr>-->
+		<!--		<tr>-->
+		<!--			<td style="padding: 0">-->
+		<!--				<table class="europe">-->
+		<!--					&lt;!&ndash;Title/Abstract/PDF&ndash;&gt;-->
+		<!--					<tr>-->
+		<!--						<td colspan="3">-->
+		<!--							<h2 class="talk_title"><b>CMSA: A Hybrid Metaheuristic for Combinatorial Optimization</b>-->
+		<!--							</h2><br/>-->
+		<!--							<input type="checkbox" id="abstract_id_67" style="display:none;">-->
+		<!--							<label for="abstract_id_67" class="label_abstract"><a>Abstract</a></label>-->
+		<!--							<div class="hidden">-->
+		<!--								<hr style="border-top: 1px solid black;">-->
+		<!--								Construct, Merge, Solve & Adapt (CMSA) is an award-winning, hybrid algorithm for solving-->
+		<!--								hard combinatorial optimization problems. The main idea consists in the iterated-->
+		<!--								application of an exact solver-&#45;&#45;such as an integer linear programming (ILP) solver-&#45;&#45;to-->
+		<!--								sub-instances of the original problem instance. These sub-instances are enlarged at each-->
+		<!--								iteration by adding solution components from a set of valid solutions that are obtained-->
+		<!--								either by probabilistic solution construction or by any other means. Moreover, seemingly-->
+		<!--								useless (or even harmful) solution components are removed. In this talk, an introduction-->
+		<!--								to CMSA will be given, in addition to describing some of the most recent research lines-->
+		<!--								around this technique.-->
+		<!--								<hr style="border-top: 1px solid black;">-->
+		<!--							</div>-->
+		<!--							&lt;!&ndash;TODO pdf and video&ndash;&gt;-->
+		<!--							&lt;!&ndash;					<a href="./presentations/SchedulingSeminar_Name.pdf" class="label_abstract" download>&ndash;&gt;-->
+		<!--							&lt;!&ndash;						Download PDF&ndash;&gt;-->
+		<!--							&lt;!&ndash;					</a>&ndash;&gt;-->
+		<!--							&lt;!&ndash;					<a href="LINK"&ndash;&gt;-->
+		<!--							&lt;!&ndash;					   class="label_abstract" download>&ndash;&gt;-->
+		<!--							&lt;!&ndash;						Download Video&ndash;&gt;-->
+		<!--							&lt;!&ndash;					</a>&ndash;&gt;-->
+		<!--						</td>-->
+		<!--					</tr>-->
 
-<!--					&lt;!&ndash;Data-&ndash;&gt;-->
-<!--					<tr>-->
-<!--						<td class="presenter_image_container">-->
-<!--							<div class="single_image_container">-->
-<!--								<a href="https://www.iiia.csic.es/~christian.blum/">-->
-<!--									<img class="single_presenter" loading="lazy" src="photos/Christian_Blum.jpg"-->
-<!--									     alt="person_photo"/>-->
-<!--								</a><br/>-->
-<!--							</div>-->
-<!--						</td>-->
-<!--						<td class="information_upcoming_container">-->
-<!--							<b>[Presenter]</b><br/>-->
-<!--							<a href="https://www.iiia.csic.es/~christian.blum/">Christian Blum</a><br/>-->
-<!--							(IIIA-CSIC)<br/><br/>-->
-<!--							&lt;!&ndash;							<b>Keywords:</b> Combinatorial optimization, Hybrid algorithm &ndash;&gt;-->
-<!--							<b>[Invited by]</b><br/>-->
-<!--							<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a><br/>-->
-<!--							(CTU in Prague)-->
-<!--						</td>-->
-<!--						<td class="time_zones_container">-->
-<!--							<table class="time_table">-->
-<!--								<tbody>-->
-<!--								<tr class="utc">-->
-<!--									<td>UTC</td>-->
-<!--									<td>Apr 23, 13:00 Wed</td>-->
-<!--								</tr>-->
-<!--								<tr class="europe">-->
-<!--									<td>Prague</td>-->
-<!--									<td>Apr 23, 15:00 Wed</td>-->
-<!--								</tr>-->
-<!--								<tr class="america">-->
-<!--									<td>New York</td>-->
-<!--									<td>Apr 23, 09:00 Wed</td>-->
-<!--								</tr>-->
-<!--								<tr class="asia">-->
-<!--									<td>Shanghai</td>-->
-<!--									<td>Apr 23, 21:00 Wed</td>-->
-<!--								</tr>-->
-<!--								</tbody>-->
-<!--							</table>-->
-<!--						</td>-->
-<!--					</tr>-->
+		<!--					&lt;!&ndash;Data-&ndash;&gt;-->
+		<!--					<tr>-->
+		<!--						<td class="presenter_image_container">-->
+		<!--							<div class="single_image_container">-->
+		<!--								<a href="https://www.iiia.csic.es/~christian.blum/">-->
+		<!--									<img class="single_presenter" loading="lazy" src="photos/Christian_Blum.jpg"-->
+		<!--									     alt="person_photo"/>-->
+		<!--								</a><br/>-->
+		<!--							</div>-->
+		<!--						</td>-->
+		<!--						<td class="information_upcoming_container">-->
+		<!--							<b>[Presenter]</b><br/>-->
+		<!--							<a href="https://www.iiia.csic.es/~christian.blum/">Christian Blum</a><br/>-->
+		<!--							(IIIA-CSIC)<br/><br/>-->
+		<!--							&lt;!&ndash;							<b>Keywords:</b> Combinatorial optimization, Hybrid algorithm &ndash;&gt;-->
+		<!--							<b>[Invited by]</b><br/>-->
+		<!--							<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a><br/>-->
+		<!--							(CTU in Prague)-->
+		<!--						</td>-->
+		<!--						<td class="time_zones_container">-->
+		<!--							<table class="time_table">-->
+		<!--								<tbody>-->
+		<!--								<tr class="utc">-->
+		<!--									<td>UTC</td>-->
+		<!--									<td>Apr 23, 13:00 Wed</td>-->
+		<!--								</tr>-->
+		<!--								<tr class="europe">-->
+		<!--									<td>Prague</td>-->
+		<!--									<td>Apr 23, 15:00 Wed</td>-->
+		<!--								</tr>-->
+		<!--								<tr class="america">-->
+		<!--									<td>New York</td>-->
+		<!--									<td>Apr 23, 09:00 Wed</td>-->
+		<!--								</tr>-->
+		<!--								<tr class="asia">-->
+		<!--									<td>Shanghai</td>-->
+		<!--									<td>Apr 23, 21:00 Wed</td>-->
+		<!--								</tr>-->
+		<!--								</tbody>-->
+		<!--							</table>-->
+		<!--						</td>-->
+		<!--					</tr>-->
 
-<!--					&lt;!&ndash;Spacing-&ndash;&gt;-->
-<!--					<tr style="background-color: white">-->
-<!--						<td colspan="100%"></td>-->
-<!--					</tr>-->
-<!--				</table>-->
-<!--			</td>-->
-<!--		</tr>-->
+		<!--					&lt;!&ndash;Spacing-&ndash;&gt;-->
+		<!--					<tr style="background-color: white">-->
+		<!--						<td colspan="100%"></td>-->
+		<!--					</tr>-->
+		<!--				</table>-->
+		<!--			</td>-->
+		<!--		</tr>-->
+
+
+		<!--Single talk------------------------------------------------------------------------------------------------>
+		<tr>
+			<td style="padding: 0">
+				<table class="asia">
+					<!--Title/Abstract/PDF-->
+					<tr>
+						<td colspan="3">
+							<h2 class="talk_title"><b>Single-machine hierarchical scheduling with release dates and preemption to minimize the total completion time and a regular criterion</b></h2><br/>
+							<input type="checkbox" id="abstract_id_66" style="display:none;">
+							<label for="abstract_id_66" class="label_abstract"><a>Abstract</a></label>
+							<div class="hidden">
+								<hr style="border-top: 1px solid black;">
+								In this talk, we consider the single-machine hierarchical scheduling problems with
+								release dates and preemption, where the primary criterion is the total completion time
+								and the secondary criterion is an arbitrarily regular scheduling criterion, which is of
+								either the sum-form or the max-form. We aim to find a feasible preemptive schedule that
+								minimizes the secondary criterion, subject to the condition that the primary criterion
+								is minimized. We show that the variants of the problems under study are polynomially
+								solvable. To address these problems, we establish some hereditary properties for the
+								feasible schedules and instances, and present a complete description of the feasible
+								schedules through some elaborately constructed job-permutations.
+								<hr style="border-top: 1px solid black;">
+							</div>
+							<!--TODO pdf and video-->
+							<!--					<a href="./presentations/SchedulingSeminar_Name.pdf" class="label_abstract" download>-->
+							<!--						Download PDF-->
+							<!--					</a>-->
+							<!--					<a href="LINK"-->
+							<!--					   class="label_abstract" download>-->
+							<!--						Download Video-->
+							<!--					</a>-->
+						</td>
+					</tr>
+
+					<!--Data--->
+					<tr>
+						<td class="presenter_image_container">
+							<div class="single_image_container">
+								<a href="https://www.researchgate.net/profile/Rubing-Chen-2">
+									<img class="single_presenter" loading="lazy" src="photos/person_placeholder.png"
+									     alt="person_photo"/>
+								</a><br/>
+							</div>
+						</td>
+						<td class="information_upcoming_container">
+							<b>[Presenter]</b><br/>
+							<a href="https://www.researchgate.net/profile/Rubing-Chen-2">Rubing Chen</a><br/>
+							(Zhengzhou Uni.)<br/><br/>
+							<!--							<b>Keywords:</b> Scheduling, Hierarchical criteria, Release date, Preemption, Total completion time-->
+							<b>[Invited by]</b><br/>
+							<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael
+								Pinedo</a><br/>
+							(New York Uni)
+						</td>
+						<td class="time_zones_container">
+							<table class="time_table">
+								<tbody>
+								<tr class="utc">
+									<td>UTC</td>
+									<td>May 7, 13:00 Wed</td>
+								</tr>
+								<tr class="europe">
+									<td>Prague</td>
+									<td>May 7, 15:00 Wed</td>
+								</tr>
+								<tr class="america">
+									<td>New York</td>
+									<td>May 7, 09:00 Wed</td>
+								</tr>
+								<tr class="asia">
+									<td>Shanghai</td>
+									<td>May 7, 21:00 Wed</td>
+								</tr>
+								</tbody>
+							</table>
+						</td>
+					</tr>
+
+					<!--Spacing--->
+					<tr style="background-color: white">
+						<td colspan="100%"></td>
+					</tr>
+				</table>
+			</td>
+		</tr>
 
 		</tbody>
 	</table>
@@ -335,8 +422,8 @@
 						<td colspan="3">
 							<h2 class="talk_title"><b>Machine Learning Inside Decomposition of Scheduling Problems</b>
 							</h2><br/>
-							<input type="checkbox" id="abstract_id_66" style="display:none;">
-							<label for="abstract_id_66" class="label_abstract"><a>Abstract</a></label>
+							<input type="checkbox" id="abstract_id_65" style="display:none;">
+							<label for="abstract_id_65" class="label_abstract"><a>Abstract</a></label>
 							<div class="hidden">
 								<hr style="border-top: 1px solid black;">
 								Problem decomposition refers to general techniques for efficiently solving large
@@ -350,7 +437,8 @@
 								decomposition techniques, namely branch and price and Lawler's decomposition.
 								<hr style="border-top: 1px solid black;">
 							</div>
-							<a href="./presentations/SchedulingSeminar_PřemyslŠůcha.pdf" class="label_abstract" download>
+							<a href="./presentations/SchedulingSeminar_PřemyslŠůcha.pdf" class="label_abstract"
+							   download>
 								Download PDF
 							</a>
 							<a href="https://scheduling-seminar.iid.ciirc.cvut.cz/videos/25_2_Spring/25_04_09%20P%c5%99emysl%20%c5%a0%c5%afcha%20(CTU%20in%20Prague)%20_%20Machine%20Learning%20Inside%20Decomposition.mp4"
@@ -373,7 +461,8 @@
 
 						<td colspan="2">
 							<div class="resizable_youtube_single">
-								<iframe width="400" height="250" src="https://www.youtube.com/embed/u3YIK32rMtI?si=OxeIUu-_p6xKgTFy"
+								<iframe width="400" height="250"
+								        src="https://www.youtube.com/embed/u3YIK32rMtI?si=OxeIUu-_p6xKgTFy"
 								        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
 								        allowfullscreen></iframe>
 							</div>
@@ -392,7 +481,8 @@
 							<table class="panelists_past_container_single">
 								<tr>
 									<td colspan="2">
-										<b>Keywords:</b> Scheduling, Machine learning, Decomposition, Branch and price, Lawler's decomposition <br/><br/>
+										<b>Keywords:</b> Scheduling, Machine learning, Decomposition, Branch and price,
+										Lawler's decomposition <br/><br/>
 										<b>[Invited by]</b>
 										<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a>
 										(CTU in Prague)
