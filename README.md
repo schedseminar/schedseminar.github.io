@@ -328,7 +328,7 @@
 						<td class="presenter_image_container">
 							<div class="single_image_container">
 								<a href="https://www.researchgate.net/profile/Rubing-Chen-2">
-									<img class="single_presenter" loading="lazy" src="photos/person_placeholder.png"
+									<img class="single_presenter" loading="lazy" src="photos/Rubing_Chen.jpg"
 									     alt="person_photo"/>
 								</a><br/>
 							</div>
