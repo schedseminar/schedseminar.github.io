@@ -383,7 +383,8 @@
 					<!--Title/Abstract/PDF-->
 					<tr>
 						<td colspan="3">
-							<h2 class="talk_title"><b>Online Integrated Production and Distribution Scheduling</b></h2><br/>
+							<h2 class="talk_title"><b>Online Integrated Production and Distribution Scheduling</b></h2>
+							<br/>
 							<input type="checkbox" id="abstract_id_67" style="display:none;">
 							<label for="abstract_id_67" class="label_abstract"><a>Abstract</a></label>
 							<div class="hidden">
@@ -480,11 +481,11 @@
 							<div class="hidden">
 								<hr style="border-top: 1px solid black;">
 								We consider a large family of problems in which an ordering (or, more precisely, a chain
-								of subsets) of a ﬁnite set must be chosen to minimize some weighted sum of costs. This
+								of subsets) of a finite set must be chosen to minimize some weighted sum of costs. This
 								family includes variations of min sum set cover, several scheduling and search problems,
-								and problems in Boolean function evaluation. We deﬁne a problem, called the min sum
+								and problems in Boolean function evaluation. We define a problem, called the min sum
 								ordering problem (MSOP), which generalizes all these problems using a cost and a weight
-								function deﬁned on subsets of a ﬁnite set. By making certain assumptions on the
+								function defined on subsets of a finite set. By making certain assumptions on the
 								structure of the cost and weight functions, we derive general approximation results that
 								can be applied to several problems. This talk will be based on two joint works with
 								Robbert Fokkink, László Végh, Felix Happach and Lisa Hellerstein.
@@ -513,7 +514,8 @@
 						</td>
 						<td class="information_upcoming_container">
 							<b>[Presenter]</b><br/>
-							<a href="https://www.business.rutgers.edu/faculty/thomas-lidbetter">Thomas Lidbetter</a><br/>
+							<a href="https://www.business.rutgers.edu/faculty/thomas-lidbetter">Thomas
+								Lidbetter</a><br/>
 							(Rutgers University)<br/><br/>
 							<!--							<b>Keywords:</b> Scheduling, Search theory, Submodular functions, Min sum problems-->
 							<b>[Invited by]</b><br/>
