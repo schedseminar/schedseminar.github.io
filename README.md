@@ -507,7 +507,7 @@
 						<td class="presenter_image_container">
 							<div class="single_image_container">
 								<a href="https://www.business.rutgers.edu/faculty/thomas-lidbetter">
-									<img class="single_presenter" loading="lazy" src="photos/Thomas%20Lidbetter.png"
+									<img class="single_presenter" loading="lazy" src="photos/Thomas%20Lidbetter.jpg"
 									     alt="person_photo"/>
 								</a><br/>
 							</div>
