@@ -377,90 +377,180 @@
 		</tr>
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
-<!--		<tr>-->
-<!--			<td style="padding: 0">-->
-<!--				<table class="asia">-->
-<!--					&lt;!&ndash;Title/Abstract/PDF&ndash;&gt;-->
-<!--					<tr>-->
-<!--						<td colspan="3">-->
-<!--							<h2 class="talk_title"><b>Min sum ordering problems with applications to scheduling</b></h2>-->
-<!--							<br/>-->
-<!--							<input type="checkbox" id="abstract_id_67" style="display:none;">-->
-<!--							<label for="abstract_id_67" class="label_abstract"><a>Abstract</a></label>-->
-<!--							<div class="hidden">-->
-<!--								<hr style="border-top: 1px solid black;">-->
-<!--								We consider a large family of problems in which an ordering (or, more precisely, a chain-->
-<!--								of subsets) of a ﬁnite set must be chosen to minimize some weighted sum of costs. This-->
-<!--								family includes variations of min sum set cover, several scheduling and search problems,-->
-<!--								and problems in Boolean function evaluation. We deﬁne a problem, called the min sum-->
-<!--								ordering problem (MSOP), which generalizes all these problems using a cost and a weight-->
-<!--								function deﬁned on subsets of a ﬁnite set. By making certain assumptions on the-->
-<!--								structure of the cost and weight functions, we derive general approximation results that-->
-<!--								can be applied to several problems. This talk will be based on two joint works with-->
-<!--								Robbert Fokkink, László Végh, Felix Happach and Lisa Hellerstein.-->
-<!--								<hr style="border-top: 1px solid black;">-->
-<!--							</div>-->
-<!--							&lt;!&ndash;TODO pdf and video&ndash;&gt;-->
-<!--							&lt;!&ndash;					<a href="./presentations/SchedulingSeminar_Name.pdf" class="label_abstract" download>&ndash;&gt;-->
-<!--							&lt;!&ndash;						Download PDF&ndash;&gt;-->
-<!--							&lt;!&ndash;					</a>&ndash;&gt;-->
-<!--							&lt;!&ndash;					<a href="LINK"&ndash;&gt;-->
-<!--							&lt;!&ndash;					   class="label_abstract" download>&ndash;&gt;-->
-<!--							&lt;!&ndash;						Download Video&ndash;&gt;-->
-<!--							&lt;!&ndash;					</a>&ndash;&gt;-->
-<!--						</td>-->
-<!--					</tr>-->
+		<tr>
+			<td style="padding: 0">
+				<table class="asia">
+					<!--Title/Abstract/PDF-->
+					<tr>
+						<td colspan="3">
+							<h2 class="talk_title"><b>Online Integrated Production and Distribution Scheduling</b></h2><br/>
+							<input type="checkbox" id="abstract_id_67" style="display:none;">
+							<label for="abstract_id_67" class="label_abstract"><a>Abstract</a></label>
+							<div class="hidden">
+								<hr style="border-top: 1px solid black;">
+								As a growing number of companies adopt make-to-order business model or sell their
+								products online, we are seeing numerous decision problems that can be modeled as
+								integrated production and distribution scheduling (IPDS) problems. In such problems,
+								order processing and delivery must be scheduled jointly in order to achieve an optimal
+								balance between total operational costs and overall customer service. Offline IPDS
+								problems, in which the information about every order is known in advance with certainty,
+								are extensively studied. However, research on online IPDS problems, in which orders
+								arrive randomly with their information unknown until they arrive, is relatively recent
+								but is growing rapidly. In this talk, we first describe two real-world applications to
+								illustrate the importance of studying online IPDS problems from a practical point of
+								view, and highlight the challenges in deriving good algorithms for online IPDS problems.
+								We then focus on one specific problem and analyze an online algorithm for the problem.
+								Finally, we provide an overview of this problem area and discuss possible topics for
+								future research.
+								<hr style="border-top: 1px solid black;">
+							</div>
+							<!--TODO pdf and video-->
+							<!--					<a href="./presentations/SchedulingSeminar_Name.pdf" class="label_abstract" download>-->
+							<!--						Download PDF-->
+							<!--					</a>-->
+							<!--					<a href="LINK"-->
+							<!--					   class="label_abstract" download>-->
+							<!--						Download Video-->
+							<!--					</a>-->
+						</td>
+					</tr>
 
-<!--					&lt;!&ndash;Data-&ndash;&gt;-->
-<!--					<tr>-->
-<!--						<td class="presenter_image_container">-->
-<!--							<div class="single_image_container">-->
-<!--								<a href="https://www.business.rutgers.edu/faculty/thomas-lidbetter">-->
-<!--									<img class="single_presenter" loading="lazy" src="photos/Thomas%20Lidbetter.png"-->
-<!--									     alt="person_photo"/>-->
-<!--								</a><br/>-->
-<!--							</div>-->
-<!--						</td>-->
-<!--						<td class="information_upcoming_container">-->
-<!--							<b>[Presenter]</b><br/>-->
-<!--							<a href="https://www.business.rutgers.edu/faculty/thomas-lidbetter">Thomas Lidbetter</a><br/>-->
-<!--							(Rutgers University)<br/><br/>-->
-<!--							&lt;!&ndash;							<b>Keywords:</b> Scheduling, Search theory, Submodular functions, Min sum problems&ndash;&gt;-->
-<!--							<b>[Invited by]</b><br/>-->
-<!--							<a href="https://www3.diism.unisi.it/~agnetis/">Alessandro Agnetis</a><br/>-->
-<!--							(University of Siena)-->
-<!--						</td>-->
-<!--						<td class="time_zones_container">-->
-<!--							<table class="time_table">-->
-<!--								<tbody>-->
-<!--								<tr class="utc">-->
-<!--									<td>UTC</td>-->
-<!--									<td>Jun 4, 13:00 Wed</td>-->
-<!--								</tr>-->
-<!--								<tr class="europe">-->
-<!--									<td>Prague</td>-->
-<!--									<td>Jun 4, 15:00 Wed</td>-->
-<!--								</tr>-->
-<!--								<tr class="america">-->
-<!--									<td>New York</td>-->
-<!--									<td>Jun 4, 09:00 Wed</td>-->
-<!--								</tr>-->
-<!--								<tr class="asia">-->
-<!--									<td>Shanghai</td>-->
-<!--									<td>Jun 4, 21:00 Wed</td>-->
-<!--								</tr>-->
-<!--								</tbody>-->
-<!--							</table>-->
-<!--						</td>-->
-<!--					</tr>-->
+					<!--Data--->
+					<tr>
+						<td class="presenter_image_container">
+							<div class="single_image_container">
+								<a href="https://www.rhsmith.umd.edu/directory/zhi-long-chen">
+									<img class="single_presenter" loading="lazy" src="photos/ZL-Chen2.jpg"
+									     alt="person_photo"/>
+								</a><br/>
+							</div>
+						</td>
+						<td class="information_upcoming_container">
+							<b>[Presenter]</b><br/>
+							<a href="https://www.rhsmith.umd.edu/directory/zhi-long-chen">Zhi-Long Chen</a><br/>
+							(Univ of Maryland)<br/><br/>
+							<!--							<b>Keywords:</b> Make-to-order, E-commerce, Order processing, Last mile delivery, Online algorithms, Competitive analysis-->
+							<b>[Invited by]</b><br/>
+							<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a><br/>
+							(CTU in Prague)
+						</td>
+						<td class="time_zones_container">
+							<table class="time_table">
+								<tbody>
+								<tr class="utc">
+									<td>UTC</td>
+									<td>May 21, 13:00 Wed</td>
+								</tr>
+								<tr class="europe">
+									<td>Prague</td>
+									<td>May 21, 15:00 Wed</td>
+								</tr>
+								<tr class="america">
+									<td>New York</td>
+									<td>May 21, 09:00 Wed</td>
+								</tr>
+								<tr class="asia">
+									<td>Shanghai</td>
+									<td>May 21, 21:00 Wed</td>
+								</tr>
+								</tbody>
+							</table>
+						</td>
+					</tr>
 
-<!--					&lt;!&ndash;Spacing-&ndash;&gt;-->
-<!--					<tr style="background-color: white">-->
-<!--						<td colspan="100%"></td>-->
-<!--					</tr>-->
-<!--				</table>-->
-<!--			</td>-->
-<!--		</tr>-->
+					<!--Spacing--->
+					<tr style="background-color: white">
+						<td colspan="100%"></td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+
+		<!--Single talk------------------------------------------------------------------------------------------------>
+		<tr>
+			<td style="padding: 0">
+				<table class="asia">
+					<!--Title/Abstract/PDF-->
+					<tr>
+						<td colspan="3">
+							<h2 class="talk_title"><b>Min sum ordering problems with applications to scheduling</b></h2>
+							<br/>
+							<input type="checkbox" id="abstract_id_68" style="display:none;">
+							<label for="abstract_id_68" class="label_abstract"><a>Abstract</a></label>
+							<div class="hidden">
+								<hr style="border-top: 1px solid black;">
+								We consider a large family of problems in which an ordering (or, more precisely, a chain
+								of subsets) of a ﬁnite set must be chosen to minimize some weighted sum of costs. This
+								family includes variations of min sum set cover, several scheduling and search problems,
+								and problems in Boolean function evaluation. We deﬁne a problem, called the min sum
+								ordering problem (MSOP), which generalizes all these problems using a cost and a weight
+								function deﬁned on subsets of a ﬁnite set. By making certain assumptions on the
+								structure of the cost and weight functions, we derive general approximation results that
+								can be applied to several problems. This talk will be based on two joint works with
+								Robbert Fokkink, László Végh, Felix Happach and Lisa Hellerstein.
+								<hr style="border-top: 1px solid black;">
+							</div>
+							<!--TODO pdf and video-->
+							<!--					<a href="./presentations/SchedulingSeminar_Name.pdf" class="label_abstract" download>-->
+							<!--						Download PDF-->
+							<!--					</a>-->
+							<!--					<a href="LINK"-->
+							<!--					   class="label_abstract" download>-->
+							<!--						Download Video-->
+							<!--					</a>-->
+						</td>
+					</tr>
+
+					<!--Data--->
+					<tr>
+						<td class="presenter_image_container">
+							<div class="single_image_container">
+								<a href="https://www.business.rutgers.edu/faculty/thomas-lidbetter">
+									<img class="single_presenter" loading="lazy" src="photos/Thomas%20Lidbetter.png"
+									     alt="person_photo"/>
+								</a><br/>
+							</div>
+						</td>
+						<td class="information_upcoming_container">
+							<b>[Presenter]</b><br/>
+							<a href="https://www.business.rutgers.edu/faculty/thomas-lidbetter">Thomas Lidbetter</a><br/>
+							(Rutgers University)<br/><br/>
+							<!--							<b>Keywords:</b> Scheduling, Search theory, Submodular functions, Min sum problems-->
+							<b>[Invited by]</b><br/>
+							<a href="https://www3.diism.unisi.it/~agnetis/">Alessandro Agnetis</a><br/>
+							(University of Siena)
+						</td>
+						<td class="time_zones_container">
+							<table class="time_table">
+								<tbody>
+								<tr class="utc">
+									<td>UTC</td>
+									<td>Jun 4, 13:00 Wed</td>
+								</tr>
+								<tr class="europe">
+									<td>Prague</td>
+									<td>Jun 4, 15:00 Wed</td>
+								</tr>
+								<tr class="america">
+									<td>New York</td>
+									<td>Jun 4, 09:00 Wed</td>
+								</tr>
+								<tr class="asia">
+									<td>Shanghai</td>
+									<td>Jun 4, 21:00 Wed</td>
+								</tr>
+								</tbody>
+							</table>
+						</td>
+					</tr>
+
+					<!--Spacing--->
+					<tr style="background-color: white">
+						<td colspan="100%"></td>
+					</tr>
+				</table>
+			</td>
+		</tr>
 
 		</tbody>
 	</table>
