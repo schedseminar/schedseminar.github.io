@@ -379,7 +379,7 @@
 		<!--Single talk------------------------------------------------------------------------------------------------>
 		<tr>
 			<td style="padding: 0">
-				<table class="asia">
+				<table class="america">
 					<!--Title/Abstract/PDF-->
 					<tr>
 						<td colspan="3">
@@ -470,7 +470,7 @@
 		<!--Single talk------------------------------------------------------------------------------------------------>
 		<tr>
 			<td style="padding: 0">
-				<table class="asia">
+				<table class="europe">
 					<!--Title/Abstract/PDF-->
 					<tr>
 						<td colspan="3">
