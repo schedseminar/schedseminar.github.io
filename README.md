@@ -512,14 +512,13 @@
 								schedules through some elaborately constructed job-permutations.
 								<hr style="border-top: 1px solid black;">
 							</div>
-							<!--TODO pdf and video-->
 							<a href="./presentations/SchedulingSeminar_RubingChen.pdf" class="label_abstract" download>
 								Download PDF
 							</a>
-							<!--					<a href="LINK"-->
-							<!--					   class="label_abstract" download>-->
-							<!--						Download Video-->
-							<!--					</a>-->
+							<a href="https://scheduling-seminar.iid.ciirc.cvut.cz/videos/25_2_Spring/25_05_07%20Rubing%20Chen%20(Zhengzhou%20University)%20_%20Single-machine%20hierarchical%20scheduling....mp4"
+							   class="label_abstract" download>
+								Download Video
+							</a>
 						</td>
 					</tr>
 
@@ -557,7 +556,6 @@
 									<td colspan="2">
 										<b>Keywords:</b> Scheduling, Hierarchical criteria, Release date, Preemption, Total completion time <br/><br/>
 										<b>[Invited by]</b>
-										<!--TODO - Copy whole but without <br/> after </a> after name.-->
 										<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael
 											Pinedo</a>
 										(New York Uni)
