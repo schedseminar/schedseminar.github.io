@@ -291,97 +291,6 @@
 		<!--Single talk------------------------------------------------------------------------------------------------>
 		<tr>
 			<td style="padding: 0">
-				<table class="america">
-					<!--Title/Abstract/PDF-->
-					<tr>
-						<td colspan="3">
-							<h2 class="talk_title"><b>Online Integrated Production and Distribution Scheduling</b></h2>
-							<br/>
-							<input type="checkbox" id="abstract_id_67" style="display:none;">
-							<label for="abstract_id_67" class="label_abstract"><a>Abstract</a></label>
-							<div class="hidden">
-								<hr style="border-top: 1px solid black;">
-								As a growing number of companies adopt make-to-order business model or sell their
-								products online, we are seeing numerous decision problems that can be modeled as
-								integrated production and distribution scheduling (IPDS) problems. In such problems,
-								order processing and delivery must be scheduled jointly in order to achieve an optimal
-								balance between total operational costs and overall customer service. Offline IPDS
-								problems, in which the information about every order is known in advance with certainty,
-								are extensively studied. However, research on online IPDS problems, in which orders
-								arrive randomly with their information unknown until they arrive, is relatively recent
-								but is growing rapidly. In this talk, we first describe two real-world applications to
-								illustrate the importance of studying online IPDS problems from a practical point of
-								view, and highlight the challenges in deriving good algorithms for online IPDS problems.
-								We then focus on one specific problem and analyze an online algorithm for the problem.
-								Finally, we provide an overview of this problem area and discuss possible topics for
-								future research.
-								<hr style="border-top: 1px solid black;">
-							</div>
-							<!--TODO pdf and video-->
-							<a href="./presentations/SchedulingSeminar_Zhi-LongChen.pdf" class="label_abstract" download>
-								Download PDF
-							</a>
-							<!--					<a href="LINK"-->
-							<!--					   class="label_abstract" download>-->
-							<!--						Download Video-->
-							<!--					</a>-->
-						</td>
-					</tr>
-
-					<!--Data--->
-					<tr>
-						<td class="presenter_image_container">
-							<div class="single_image_container">
-								<a href="https://www.rhsmith.umd.edu/directory/zhi-long-chen">
-									<img class="single_presenter" loading="lazy" src="photos/ZL-Chen2.jpg"
-									     alt="person_photo"/>
-								</a><br/>
-							</div>
-						</td>
-						<td class="information_upcoming_container">
-							<b>[Presenter]</b><br/>
-							<a href="https://www.rhsmith.umd.edu/directory/zhi-long-chen">Zhi-Long Chen</a><br/>
-							(Univ of Maryland)<br/><br/>
-							<!--							<b>Keywords:</b> Make-to-order, E-commerce, Order processing, Last mile delivery, Online algorithms, Competitive analysis-->
-							<b>[Invited by]</b><br/>
-							<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a><br/>
-							(CTU in Prague)
-						</td>
-						<td class="time_zones_container">
-							<table class="time_table">
-								<tbody>
-								<tr class="utc">
-									<td>UTC</td>
-									<td>May 21, 13:00 Wed</td>
-								</tr>
-								<tr class="europe">
-									<td>Prague</td>
-									<td>May 21, 15:00 Wed</td>
-								</tr>
-								<tr class="america">
-									<td>New York</td>
-									<td>May 21, 09:00 Wed</td>
-								</tr>
-								<tr class="asia">
-									<td>Shanghai</td>
-									<td>May 21, 21:00 Wed</td>
-								</tr>
-								</tbody>
-							</table>
-						</td>
-					</tr>
-
-					<!--Spacing--->
-					<tr style="background-color: white">
-						<td colspan="100%"></td>
-					</tr>
-				</table>
-			</td>
-		</tr>
-
-		<!--Single talk------------------------------------------------------------------------------------------------>
-		<tr>
-			<td style="padding: 0">
 				<table class="europe">
 					<!--Title/Abstract/PDF-->
 					<tr>
@@ -479,7 +388,7 @@
 
 <!--Past talks-->
 <div class="column column_right">
-	<h2>Past talks (66)</h2>
+	<h2>Past talks (67)</h2>
 	<div class="inline-right"><a
 			href="https://docs.google.com/spreadsheets/d/1Glyd6FGzoKtZGfClNA_XaIK8vJZtnu8K4OdNcPr_yHc/edit#gid=0"
 			target="_blank"
@@ -487,6 +396,95 @@
 
 	<table class="past_talk_table">
 		<tbody>
+
+		<!--Single talk------------------------------------------------------------------------------------------------>
+		<tr>
+			<td style="padding: 0">
+				<table class="america">
+					<!--Title/Abstract/PDF-->
+					<tr>
+						<td colspan="3">
+							<h2 class="talk_title"><b>Online Integrated Production and Distribution Scheduling</b></h2>
+							<br/>
+							<input type="checkbox" id="abstract_id_67" style="display:none;">
+							<label for="abstract_id_67" class="label_abstract"><a>Abstract</a></label>
+							<div class="hidden">
+								<hr style="border-top: 1px solid black;">
+								As a growing number of companies adopt make-to-order business model or sell their
+								products online, we are seeing numerous decision problems that can be modeled as
+								integrated production and distribution scheduling (IPDS) problems. In such problems,
+								order processing and delivery must be scheduled jointly in order to achieve an optimal
+								balance between total operational costs and overall customer service. Offline IPDS
+								problems, in which the information about every order is known in advance with certainty,
+								are extensively studied. However, research on online IPDS problems, in which orders
+								arrive randomly with their information unknown until they arrive, is relatively recent
+								but is growing rapidly. In this talk, we first describe two real-world applications to
+								illustrate the importance of studying online IPDS problems from a practical point of
+								view, and highlight the challenges in deriving good algorithms for online IPDS problems.
+								We then focus on one specific problem and analyze an online algorithm for the problem.
+								Finally, we provide an overview of this problem area and discuss possible topics for
+								future research.
+								<hr style="border-top: 1px solid black;">
+							</div>
+							<a href="./presentations/SchedulingSeminar_Zhi-LongChen.pdf" class="label_abstract" download>
+								Download PDF
+							</a>
+							<!--					<a href="LINK"-->
+							<!--					   class="label_abstract" download>-->
+							<!--						Download Video-->
+							<!--					</a>-->
+						</td>
+					</tr>
+
+					<!--Photo and video-->
+					<tr>
+						<td class="presenter_image_container">
+							<div class="single_image_container">
+								<a href="https://www.rhsmith.umd.edu/directory/zhi-long-chen">
+									<img class="single_presenter" loading="lazy" src="photos/ZL-Chen2.jpg"
+									     alt="person_photo"/>
+								</a><br/>
+							</div>
+						</td>
+
+						<td colspan="2">
+							<div class="resizable_youtube_single">
+								<iframe width="400" height="250" src="https://www.youtube.com/embed/qT3pFQXA89U?si=pIHFko0oscH-h6jl"
+								        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+								        allowfullscreen></iframe>
+							</div>
+						</td>
+					</tr>
+
+					<!--Text description-->
+					<tr>
+						<td class="presenter_past_info_container">
+							<b>[Presenter]</b><br/>
+							<a href="https://www.rhsmith.umd.edu/directory/zhi-long-chen">Zhi-Long Chen</a><br/>
+							(Univ of Maryland)<br/>
+						</td>
+
+						<td>
+							<table class="panelists_past_container_single">
+								<tr>
+									<td colspan="2">
+										<b>Keywords:</b> Make-to-order, E-commerce, Order processing, Last mile delivery, Online algorithms, Competitive analysis <br/><br/>
+										<b>[Invited by]</b>
+										<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a>
+										(CTU in Prague)
+									</td>
+								</tr>
+							</table>
+						</td>
+					</tr>
+
+					<!--Spacing--->
+					<tr style="background-color: white">
+						<td colspan="100%"></td>
+					</tr>
+				</table>
+			</td>
+		</tr>
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
 		<tr>
