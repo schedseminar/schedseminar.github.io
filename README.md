@@ -429,7 +429,7 @@
 							<a href="./presentations/SchedulingSeminar_Zhi-LongChen.pdf" class="label_abstract" download>
 								Download PDF
 							</a>
-							<a href="https://scheduling-seminar.iid.ciirc.cvut.cz/videos/25_2_Spring/25_05_21 Zhi-Long Chen (Univ of Maryland) _ Online Integrated Production Scheduling.mp4"
+							<a href="https://scheduling-seminar.iid.ciirc.cvut.cz/videos/25_2_Spring/25_05_21%20Zhi-Long%20Chen%20(Univ%20of%20Maryland)%20_%20Online%20Integrated%20Production%20Scheduling.mp4"
 							   class="label_abstract" download>
 								Download Video
 							</a>
