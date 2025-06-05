@@ -288,10 +288,46 @@
 		<!--			</td>-->
 		<!--		</tr>-->
 
+		<tr>
+			<td>
+				<i>Currently, new talks are being planned, and the seminar will start again in September 2025. Consider
+					subscribing to the mailing list
+					<a href='https://list.iid.ciirc.cvut.cz/mailman3/lists/schedulingseminar.rtime.felk.cvut.cz/'
+					   style="margin-left: 5px; margin-right: 5px">
+						<img src="icons/email.png" height="25px" width="25px" alt="email"/>
+					</a> and Youtube channel <a href='https://www.youtube.com/channel/UCUoCNnaAfw5NAntItILFn4A'
+					                            style="margin-left: 5px; margin-right: 5px">
+						<img src="icons/youtube.png" height="25px" width="25px" alt="youtube"/>
+					</a> to never miss out on new upcoming seminars.</i>
+			</td>
+		</tr>
+
+		</tbody>
+	</table>
+
+</div>
+
+<!--Separate upcoming and past talks if different resolution results in one column only-->
+<div class="additional_divider">
+	&nbsp;
+	<hr/>
+</div>
+
+<!--Past talks-->
+<div class="column column_right">
+	<h2>Past talks (68)</h2>
+	<div class="inline-right"><a
+			href="https://docs.google.com/spreadsheets/d/1Glyd6FGzoKtZGfClNA_XaIK8vJZtnu8K4OdNcPr_yHc/edit#gid=0"
+			target="_blank"
+			class="button3">Speaker List</a></div>
+
+	<table class="past_talk_table">
+		<tbody>
+
 		<!--Single talk------------------------------------------------------------------------------------------------>
 		<tr>
 			<td style="padding: 0">
-				<table class="europe">
+				<table class="america">
 					<!--Title/Abstract/PDF-->
 					<tr>
 						<td colspan="3">
@@ -323,7 +359,7 @@
 						</td>
 					</tr>
 
-					<!--Data--->
+					<!--Photo and video-->
 					<tr>
 						<td class="presenter_image_container">
 							<div class="single_image_container">
@@ -333,36 +369,35 @@
 								</a><br/>
 							</div>
 						</td>
-						<td class="information_upcoming_container">
+
+						<td colspan="2">
+							<div class="resizable_youtube_single">
+								<iframe width="400" height="250" src="https://www.youtube.com/embed/e1-U3blRv7o?si=KA5DiBPLNvHWM-X4"
+								        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+								        allowfullscreen></iframe>
+							</div>
+						</td>
+					</tr>
+
+					<!--Text description-->
+					<tr>
+						<td class="presenter_past_info_container">
 							<b>[Presenter]</b><br/>
 							<a href="https://www.business.rutgers.edu/faculty/thomas-lidbetter">Thomas
 								Lidbetter</a><br/>
-							(Rutgers University)<br/><br/>
-							<!--							<b>Keywords:</b> Scheduling, Search theory, Submodular functions, Min sum problems-->
-							<b>[Invited by]</b><br/>
-							<a href="https://www3.diism.unisi.it/~agnetis/">Alessandro Agnetis</a><br/>
-							(University of Siena)
+							(Rutgers University)<br/>
 						</td>
-						<td class="time_zones_container">
-							<table class="time_table">
-								<tbody>
-								<tr class="utc">
-									<td>UTC</td>
-									<td>Jun 4, 13:00 Wed</td>
+
+						<td>
+							<table class="panelists_past_container_single">
+								<tr>
+									<td colspan="2">
+										<b>Keywords:</b> Scheduling, Search theory, Submodular functions, Min sum problems <br/><br/>
+										<b>[Invited by]</b>
+										<a href="https://www3.diism.unisi.it/~agnetis/">Alessandro Agnetis</a>
+										(University of Siena)
+									</td>
 								</tr>
-								<tr class="europe">
-									<td>Prague</td>
-									<td>Jun 4, 15:00 Wed</td>
-								</tr>
-								<tr class="america">
-									<td>New York</td>
-									<td>Jun 4, 09:00 Wed</td>
-								</tr>
-								<tr class="asia">
-									<td>Shanghai</td>
-									<td>Jun 4, 21:00 Wed</td>
-								</tr>
-								</tbody>
 							</table>
 						</td>
 					</tr>
@@ -374,28 +409,6 @@
 				</table>
 			</td>
 		</tr>
-
-		</tbody>
-	</table>
-
-</div>
-
-<!--Separate upcoming and past talks if different resolution results in one column only-->
-<div class="additional_divider">
-	&nbsp;
-	<hr/>
-</div>
-
-<!--Past talks-->
-<div class="column column_right">
-	<h2>Past talks (67)</h2>
-	<div class="inline-right"><a
-			href="https://docs.google.com/spreadsheets/d/1Glyd6FGzoKtZGfClNA_XaIK8vJZtnu8K4OdNcPr_yHc/edit#gid=0"
-			target="_blank"
-			class="button3">Speaker List</a></div>
-
-	<table class="past_talk_table">
-		<tbody>
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
 		<tr>
