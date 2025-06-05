@@ -348,14 +348,13 @@
 								Robbert Fokkink, László Végh, Felix Happach and Lisa Hellerstein.
 								<hr style="border-top: 1px solid black;">
 							</div>
-							<!--TODO pdf and video-->
-							<!--					<a href="./presentations/SchedulingSeminar_Name.pdf" class="label_abstract" download>-->
-							<!--						Download PDF-->
-							<!--					</a>-->
-							<!--					<a href="LINK"-->
-							<!--					   class="label_abstract" download>-->
-							<!--						Download Video-->
-							<!--					</a>-->
+							<a href="./presentations/SchedulingSeminar_ThomasLidbetter.pdf" class="label_abstract" download>
+								Download PDF
+							</a>
+							<a href="https://scheduling-seminar.iid.ciirc.cvut.cz/videos/25_2_Spring/25_06_04%20Thomas%20Lidbetter%20(Rutgers%20University)%20_%20Min%20sum%20ordering%20problems%20in%20scheduling.mp4"
+							   class="label_abstract" download>
+								Download Video
+							</a>
 						</td>
 					</tr>
 
