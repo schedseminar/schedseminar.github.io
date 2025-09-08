@@ -341,8 +341,8 @@
 							(Ben Gurion Uni)<br/><br/>
 							<!--							<b>Keywords:</b> Fairness, Repetitive scheduling, Tardy jobs, Total completion time, Combinatorial algorithms, Complexity results -->
 							<b>[Invited by]</b><br/>
-							<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a><br/>
-							(CTU in Prague)
+							<a href="https://in.bgu.ac.il/en/engn/iem/pages/staff/Dvir-Shabtay.aspx">Dvir Shabtay</a><br/>
+							(Ben Gurion Uni)
 						</td>
 						<td class="time_zones_container">
 							<table class="time_table">
@@ -425,7 +425,7 @@
 						</td>
 						<td class="information_upcoming_container">
 							<b>[Presenter]</b><br/>
-							<a href="https://sites.google.com/view/zijiezhou/">Changhyun Kwon</a><br/>
+							<a href="https://www.chkwon.net">Changhyun Kwon</a><br/>
 							(KAIST/Omelet, Inc.)<br/><br/>
 							<!--							<b>Keywords:</b> Neural combinatorial optimization; Deep reinforcement learning; Vehicle routing; -->
 							<b>[Invited by]</b><br/>
