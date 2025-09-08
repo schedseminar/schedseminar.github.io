@@ -341,7 +341,8 @@
 							(Ben Gurion Uni)<br/><br/>
 							<!--							<b>Keywords:</b> Fairness, Repetitive scheduling, Tardy jobs, Total completion time, Combinatorial algorithms, Complexity results -->
 							<b>[Invited by]</b><br/>
-							<a href="https://in.bgu.ac.il/en/engn/iem/pages/staff/Dvir-Shabtay.aspx">Dvir Shabtay</a><br/>
+							<a href="https://in.bgu.ac.il/en/engn/iem/pages/staff/Dvir-Shabtay.aspx">Dvir
+								Shabtay</a><br/>
 							(Ben Gurion Uni)
 						</td>
 						<td class="time_zones_container">
