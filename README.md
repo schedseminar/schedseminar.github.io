@@ -289,133 +289,280 @@
 		<!--		</tr>-->
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
-		<!--		<tr>-->
-		<!--			<td style="padding: 0">-->
-		<!--				<table class="asia">-->
-		<!--					&lt;!&ndash;Title/Abstract/PDF&ndash;&gt;-->
-		<!--					<tr>-->
-		<!--						<td colspan="3">-->
-		<!--							<h2 class="talk_title"><b>Efficient and Robust Large Language Model (LLM) Inference-->
-		<!--								Scheduling-->
-		<!--								Optimization</b></h2><br/>-->
-		<!--							<input type="checkbox" id="abstract_id_71" style="display:none;">-->
-		<!--							<label for="abstract_id_71" class="label_abstract"><a>Abstract</a></label>-->
-		<!--							<div class="hidden">-->
-		<!--								<hr style="border-top: 1px solid black;">-->
-		<!--								We study the problem of optimizing Large Language Model (LLM) inference scheduling to-->
-		<!--								minimize-->
-		<!--								total completion time. LLM inference is an online and multi-task service process and-->
-		<!--								also-->
-		<!--								heavily energy consuming by which a pre-trained LLM processes input requests and-->
-		<!--								generates-->
-		<!--								output tokens sequentially. Therefore, it is vital to improve its scheduling efficiency-->
-		<!--								and-->
-		<!--								reduce the power consumption while a great amount of prompt requests are arriving. There-->
-		<!--								are two-->
-		<!--								key challenges: (i) each request has heterogeneous prefill and decode lengths. In LLM-->
-		<!--								serving,-->
-		<!--								the prefill length corresponds to the input prompt length, which determines the initial-->
-		<!--								memory-->
-		<!--								usage in the KV cache. The decode length refers to the number of output tokens generated-->
-		<!--								sequentially, with each additional token increasing the KV cache memory usage by one-->
-		<!--								unit. We-->
-		<!--								show that minimizing total completion time is NP-hard due to the interplay of batching,-->
-		<!--								placement constraints, precedence relationships, and linearly increasing memory usage.-->
-		<!--								We then-->
-		<!--								analyze commonly used scheduling strategies in practice, such as First-Come-First-Serve-->
-		<!--								(FCFS)-->
-		<!--								and Shortest-First (SF), and prove that their competitive ratios are unbounded. To-->
-		<!--								address this,-->
-		<!--								we propose a novel algorithm based on a new selection metric that efficiently forms-->
-		<!--								batches over-->
-		<!--								time. We prove that this algorithm achieves a constant competitive ratio. (ii) the-->
-		<!--								output-->
-		<!--								length, which critically impacts memory usage and processing time, is unknown. We first-->
-		<!--								design a-->
-		<!--								conservative algorithm, Amax, which schedules requests based on the upper bound of-->
-		<!--								predicted-->
-		<!--								output lengths to prevent memory overflow. However, this approach is overly-->
-		<!--								conservative: as-->
-		<!--								prediction accuracy decreases, performance degrades significantly due to potential-->
-		<!--								overestimation. To overcome this limitation, we propose Amin, an adaptive algorithm that-->
-		<!--								initially treats the predicted lower bound as the output length and dynamically refines-->
-		<!--								this-->
-		<!--								estimate during inferencing. We prove that Amin achieves a log-scale competitive ratio.-->
-		<!--								<hr style="border-top: 1px solid black;">-->
-		<!--							</div>-->
-		<!--							&lt;!&ndash;TODO pdf and video&ndash;&gt;-->
-		<!--							&lt;!&ndash;					<a href="./presentations/SchedulingSeminar_Name.pdf" class="label_abstract" download>&ndash;&gt;-->
-		<!--							&lt;!&ndash;						Download PDF&ndash;&gt;-->
-		<!--							&lt;!&ndash;					</a>&ndash;&gt;-->
-		<!--							&lt;!&ndash;					<a href="LINK"&ndash;&gt;-->
-		<!--							&lt;!&ndash;					   class="label_abstract" download>&ndash;&gt;-->
-		<!--							&lt;!&ndash;						Download Video&ndash;&gt;-->
-		<!--							&lt;!&ndash;					</a>&ndash;&gt;-->
-		<!--						</td>-->
-		<!--					</tr>-->
-
-		<!--					&lt;!&ndash;Data-&ndash;&gt;-->
-		<!--					<tr>-->
-		<!--						<td class="presenter_image_container">-->
-		<!--							<div class="single_image_container">-->
-		<!--								<a href="https://sites.google.com/view/zijiezhou/ ">-->
-		<!--									<img class="single_presenter" loading="lazy" src="photos/Zijie_Zhou.jpg"-->
-		<!--									     alt="person_photo"/>-->
-		<!--								</a><br/>-->
-		<!--							</div>-->
-		<!--						</td>-->
-		<!--						<td class="information_upcoming_container">-->
-		<!--							<b>[Presenter]</b><br/>-->
-		<!--							<a href="https://sites.google.com/view/zijiezhou/">Zijie Zhou</a><br/>-->
-		<!--							(IEDA, HKUST)<br/><br/>-->
-		<!--							&lt;!&ndash;							<b>Keywords:</b> Scheduling; Optimization for LLM Inference; Approximation Online Algorithms&ndash;&gt;-->
-		<!--							<b>[Invited by]</b><br/>-->
-		<!--							<a href="http://www.acem.sjtu.edu.cn/en/faculty/wanguohua.html">Guohua Wan</a><br/>-->
-		<!--							(Shanghai Jiao Tong)-->
-		<!--						</td>-->
-		<!--						<td class="time_zones_container">-->
-		<!--							<table class="time_table">-->
-		<!--								<tbody>-->
-		<!--								<tr class="utc">-->
-		<!--									<td>UTC</td>-->
-		<!--									<td>Oct 29, 14:00 Wed</td>-->
-		<!--								</tr>-->
-		<!--								<tr class="europe">-->
-		<!--									<td>Prague</td>-->
-		<!--									<td>Oct 29, 15:00 Wed</td>-->
-		<!--								</tr>-->
-		<!--								<tr class="america">-->
-		<!--									<td>New York</td>-->
-		<!--									<td>Oct 29, 10:00 Wed</td>-->
-		<!--								</tr>-->
-		<!--								<tr class="asia">-->
-		<!--									<td>Shanghai</td>-->
-		<!--									<td>Oct 29, 22:00 Wed</td>-->
-		<!--								</tr>-->
-		<!--								</tbody>-->
-		<!--							</table>-->
-		<!--						</td>-->
-		<!--					</tr>-->
-
-		<!--					&lt;!&ndash;Spacing-&ndash;&gt;-->
-		<!--					<tr style="background-color: white">-->
-		<!--						<td colspan="100%"></td>-->
-		<!--					</tr>-->
-		<!--				</table>-->
-		<!--			</td>-->
-		<!--		</tr>-->
-
 		<tr>
-			<td>
-				<i>Currently, new talks are being planned, and the seminar will start again in September 2025. Consider
-					subscribing to the mailing list
-					<a href='https://list.iid.ciirc.cvut.cz/mailman3/lists/schedulingseminar.rtime.felk.cvut.cz/'
-					   style="margin-left: 5px; margin-right: 5px">
-						<img src="icons/email.png" height="25px" width="25px" alt="email"/>
-					</a> and Youtube channel <a href='https://www.youtube.com/channel/UCUoCNnaAfw5NAntItILFn4A'
-					                            style="margin-left: 5px; margin-right: 5px">
-						<img src="icons/youtube.png" height="25px" width="25px" alt="youtube"/>
-					</a> to never miss out on new upcoming seminars.</i>
+			<td style="padding: 0">
+				<table class="asia">
+					<!--Title/Abstract/PDF-->
+					<tr>
+						<td colspan="3">
+							<h2 class="talk_title"><b>Fairness in Repetitive Scheduling</b></h2><br/>
+							<input type="checkbox" id="abstract_id_69" style="display:none;">
+							<label for="abstract_id_69" class="label_abstract"><a>Abstract</a></label>
+							<div class="hidden">
+								<hr style="border-top: 1px solid black;">
+								It is by now well understood that fairness plays a key role in customer satisfaction.
+								Yet, there is still a lack of models that help organizations make fair operational
+								decisions, in particular when it comes to scheduling customers’ jobs. In this talk, I
+								will present a novel framework for fair decision-making in repetitive scheduling
+								environments. We study a setting with n clients, where in each of m consecutive periods
+								(e.g., days), every client submits a job to be processed, and the scheduler must
+								guarantee each client a minimum quality of service (QoS). I will demonstrate how this
+								framework can be applied in different scheduling contexts and discuss some of the
+								algorithmic challenges it raises.
+
+								Joint work with Dvir Shabtay, Michael Pinedo, Rolf Niedermeier, Hendrik Molter, Klaus
+								Heeger, and Danny Segev.
+								<hr style="border-top: 1px solid black;">
+							</div>
+							<!--TODO pdf and video-->
+							<!--					<a href="./presentations/SchedulingSeminar_Name.pdf" class="label_abstract" download>-->
+							<!--						Download PDF-->
+							<!--					</a>-->
+							<!--					<a href="LINK"-->
+							<!--					   class="label_abstract" download>-->
+							<!--						Download Video-->
+							<!--					</a>-->
+						</td>
+					</tr>
+
+					<!--Data--->
+					<tr>
+						<td class="presenter_image_container">
+							<div class="single_image_container">
+								<a href="https://cris.bgu.ac.il/en/persons/dan-hermelin">
+									<img class="single_presenter" loading="lazy" src="photos/Dan_Hermelin.jpg"
+									     alt="person_photo"/>
+								</a><br/>
+							</div>
+						</td>
+						<td class="information_upcoming_container">
+							<b>[Presenter]</b><br/>
+							<a href="https://cris.bgu.ac.il/en/persons/dan-hermelin">Dan Hermelin</a><br/>
+							(Ben Gurion Uni)<br/><br/>
+							<!--							<b>Keywords:</b> Fairness, Repetitive scheduling, Tardy jobs, Total completion time, Combinatorial algorithms, Complexity results -->
+							<b>[Invited by]</b><br/>
+							<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a><br/>
+							(CTU in Prague)
+						</td>
+						<td class="time_zones_container">
+							<table class="time_table">
+								<tbody>
+								<tr class="utc">
+									<td>UTC</td>
+									<td>Oct 1, 13:00 Wed</td>
+								</tr>
+								<tr class="europe">
+									<td>Prague</td>
+									<td>Oct 1, 15:00 Wed</td>
+								</tr>
+								<tr class="america">
+									<td>New York</td>
+									<td>Oct 1, 09:00 Wed</td>
+								</tr>
+								<tr class="asia">
+									<td>Shanghai</td>
+									<td>Oct 1, 21:00 Wed</td>
+								</tr>
+								</tbody>
+							</table>
+						</td>
+					</tr>
+
+					<!--Spacing--->
+					<tr style="background-color: white">
+						<td colspan="100%"></td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+
+		<!--Single talk------------------------------------------------------------------------------------------------>
+		<tr>
+			<td style="padding: 0">
+				<table class="asia">
+					<!--Title/Abstract/PDF-->
+					<tr>
+						<td colspan="3">
+							<h2 class="talk_title"><b>Learning-Based Approaches to Combinatorial Optimization in
+								Transportation</b></h2><br/>
+							<input type="checkbox" id="abstract_id_70" style="display:none;">
+							<label for="abstract_id_70" class="label_abstract"><a>Abstract</a></label>
+							<div class="hidden">
+								<hr style="border-top: 1px solid black;">
+								Combinatorial optimization problems arising in transportation are often NP-hard, making
+								them computationally challenging to solve at scale. Recent advances in machine learning
+								have opened new avenues for tackling such problems, either as standalone solution
+								strategies or by enhancing traditional optimization algorithms. This talk surveys a
+								spectrum of learning-based approaches for transportation optimization, including: (i)
+								end-to-end learning models, (ii) integration within exact algorithms, (iii) learning to
+								guide local search, (iv) accelerating metaheuristics, (v) embedding within optimization
+								formulations, and (vi) test-time search strategies. This talk will discuss the
+								principles behind each approach, highlight representative applications, and reflect on
+								both their current potential and open challenges for the future of transportation
+								optimization.
+								<hr style="border-top: 1px solid black;">
+							</div>
+							<!--TODO pdf and video-->
+							<!--					<a href="./presentations/SchedulingSeminar_Name.pdf" class="label_abstract" download>-->
+							<!--						Download PDF-->
+							<!--					</a>-->
+							<!--					<a href="LINK"-->
+							<!--					   class="label_abstract" download>-->
+							<!--						Download Video-->
+							<!--					</a>-->
+						</td>
+					</tr>
+
+					<!--Data--->
+					<tr>
+						<td class="presenter_image_container">
+							<div class="single_image_container">
+								<a href="https://www.chkwon.net">
+									<img class="single_presenter" loading="lazy" src="photos/Chang_Kwon.jpg"
+									     alt="person_photo"/>
+								</a><br/>
+							</div>
+						</td>
+						<td class="information_upcoming_container">
+							<b>[Presenter]</b><br/>
+							<a href="https://sites.google.com/view/zijiezhou/">Changhyun Kwon</a><br/>
+							(KAIST/Omelet, Inc.)<br/><br/>
+							<!--							<b>Keywords:</b> Neural combinatorial optimization; Deep reinforcement learning; Vehicle routing; -->
+							<b>[Invited by]</b><br/>
+							<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a><br/>
+							(CTU in Prague)
+						</td>
+						<td class="time_zones_container">
+							<table class="time_table">
+								<tbody>
+								<tr class="utc">
+									<td>UTC</td>
+									<td>Oct 15, 13:00 Wed</td>
+								</tr>
+								<tr class="europe">
+									<td>Prague</td>
+									<td>Oct 15, 15:00 Wed</td>
+								</tr>
+								<tr class="america">
+									<td>New York</td>
+									<td>Oct 15, 09:00 Wed</td>
+								</tr>
+								<tr class="asia">
+									<td>Shanghai</td>
+									<td>Oct 15, 21:00 Wed</td>
+								</tr>
+								</tbody>
+							</table>
+						</td>
+					</tr>
+
+					<!--Spacing--->
+					<tr style="background-color: white">
+						<td colspan="100%"></td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+
+		<!--Single talk------------------------------------------------------------------------------------------------>
+		<tr>
+			<td style="padding: 0">
+				<table class="asia">
+					<!--Title/Abstract/PDF-->
+					<tr>
+						<td colspan="3">
+							<h2 class="talk_title"><b>Efficient and Robust Large Language Model (LLM) Inference
+								Scheduling
+								Optimization</b></h2><br/>
+							<input type="checkbox" id="abstract_id_71" style="display:none;">
+							<label for="abstract_id_71" class="label_abstract"><a>Abstract</a></label>
+							<div class="hidden">
+								<hr style="border-top: 1px solid black;">
+								We study the problem of optimizing Large Language Model (LLM) inference scheduling to
+								minimize total completion time. LLM inference is an online and multi-task service
+								process and also heavily energy consuming by which a pre-trained LLM processes input
+								requests and generates output tokens sequentially. Therefore, it is vital to improve its
+								scheduling efficiency and reduce the power consumption while a great amount of prompt
+								requests are arriving. There are two key challenges: (i) each request has heterogeneous
+								prefill and decode lengths. In LLM serving, the prefill length corresponds to the input
+								prompt length, which determines the initial memory usage in the KV cache. The decode
+								length refers to the number of output tokens generated sequentially, with each
+								additional token increasing the KV cache memory usage by one unit. We show that
+								minimizing total completion time is NP-hard due to the interplay of batching, placement
+								constraints, precedence relationships, and linearly increasing memory usage. We then
+								analyze commonly used scheduling strategies in practice, such as First-Come-First-Serve
+								(FCFS) and Shortest-First (SF), and prove that their competitive ratios are unbounded.
+								To address this, we propose a novel algorithm based on a new selection metric that
+								efficiently forms batches over time. We prove that this algorithm achieves a constant
+								competitive ratio. (ii) the output length, which critically impacts memory usage and
+								processing time, is unknown. We first design a conservative algorithm, Amax, which
+								schedules requests based on the upper bound of predicted output lengths to prevent
+								memory overflow. However, this approach is overly conservative: as prediction accuracy
+								decreases, performance degrades significantly due to potential overestimation. To
+								overcome this limitation, we propose Amin, an adaptive algorithm that initially treats
+								the predicted lower bound as the output length and dynamically refines this estimate
+								during inferencing. We prove that Amin achieves a log-scale competitive ratio.
+								<hr style="border-top: 1px solid black;">
+							</div>
+							<!--TODO pdf and video-->
+							<!--					<a href="./presentations/SchedulingSeminar_Name.pdf" class="label_abstract" download>-->
+							<!--						Download PDF-->
+							<!--					</a>-->
+							<!--					<a href="LINK"-->
+							<!--					   class="label_abstract" download>-->
+							<!--						Download Video-->
+							<!--					</a>-->
+						</td>
+					</tr>
+
+					<!--Data--->
+					<tr>
+						<td class="presenter_image_container">
+							<div class="single_image_container">
+								<a href="https://sites.google.com/view/zijiezhou/ ">
+									<img class="single_presenter" loading="lazy" src="photos/Zijie_Zhou.jpg"
+									     alt="person_photo"/>
+								</a><br/>
+							</div>
+						</td>
+						<td class="information_upcoming_container">
+							<b>[Presenter]</b><br/>
+							<a href="https://sites.google.com/view/zijiezhou/">Zijie Zhou</a><br/>
+							(IEDA, HKUST)<br/><br/>
+							<!--							<b>Keywords:</b> Scheduling, Optimization for LLM inference, Approximation online algorithms-->
+							<b>[Invited by]</b><br/>
+							<a href="http://www.acem.sjtu.edu.cn/en/faculty/wanguohua.html">Guohua Wan</a><br/>
+							(Shanghai Jiao Tong)
+						</td>
+						<td class="time_zones_container">
+							<table class="time_table">
+								<tbody>
+								<tr class="utc">
+									<td>UTC</td>
+									<td>Oct 29, 14:00 Wed</td>
+								</tr>
+								<tr class="europe">
+									<td>Prague</td>
+									<td>Oct 29, 15:00 Wed</td>
+								</tr>
+								<tr class="america">
+									<td>New York</td>
+									<td>Oct 29, 10:00 Wed</td>
+								</tr>
+								<tr class="asia">
+									<td>Shanghai</td>
+									<td>Oct 29, 22:00 Wed</td>
+								</tr>
+								</tbody>
+							</table>
+						</td>
+					</tr>
+
+					<!--Spacing--->
+					<tr style="background-color: white">
+						<td colspan="100%"></td>
+					</tr>
+				</table>
 			</td>
 		</tr>
 
