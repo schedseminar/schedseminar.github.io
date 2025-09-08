@@ -288,6 +288,123 @@
 		<!--			</td>-->
 		<!--		</tr>-->
 
+		<!--Single talk------------------------------------------------------------------------------------------------>
+		<!--		<tr>-->
+		<!--			<td style="padding: 0">-->
+		<!--				<table class="asia">-->
+		<!--					&lt;!&ndash;Title/Abstract/PDF&ndash;&gt;-->
+		<!--					<tr>-->
+		<!--						<td colspan="3">-->
+		<!--							<h2 class="talk_title"><b>Efficient and Robust Large Language Model (LLM) Inference-->
+		<!--								Scheduling-->
+		<!--								Optimization</b></h2><br/>-->
+		<!--							<input type="checkbox" id="abstract_id_71" style="display:none;">-->
+		<!--							<label for="abstract_id_71" class="label_abstract"><a>Abstract</a></label>-->
+		<!--							<div class="hidden">-->
+		<!--								<hr style="border-top: 1px solid black;">-->
+		<!--								We study the problem of optimizing Large Language Model (LLM) inference scheduling to-->
+		<!--								minimize-->
+		<!--								total completion time. LLM inference is an online and multi-task service process and-->
+		<!--								also-->
+		<!--								heavily energy consuming by which a pre-trained LLM processes input requests and-->
+		<!--								generates-->
+		<!--								output tokens sequentially. Therefore, it is vital to improve its scheduling efficiency-->
+		<!--								and-->
+		<!--								reduce the power consumption while a great amount of prompt requests are arriving. There-->
+		<!--								are two-->
+		<!--								key challenges: (i) each request has heterogeneous prefill and decode lengths. In LLM-->
+		<!--								serving,-->
+		<!--								the prefill length corresponds to the input prompt length, which determines the initial-->
+		<!--								memory-->
+		<!--								usage in the KV cache. The decode length refers to the number of output tokens generated-->
+		<!--								sequentially, with each additional token increasing the KV cache memory usage by one-->
+		<!--								unit. We-->
+		<!--								show that minimizing total completion time is NP-hard due to the interplay of batching,-->
+		<!--								placement constraints, precedence relationships, and linearly increasing memory usage.-->
+		<!--								We then-->
+		<!--								analyze commonly used scheduling strategies in practice, such as First-Come-First-Serve-->
+		<!--								(FCFS)-->
+		<!--								and Shortest-First (SF), and prove that their competitive ratios are unbounded. To-->
+		<!--								address this,-->
+		<!--								we propose a novel algorithm based on a new selection metric that efficiently forms-->
+		<!--								batches over-->
+		<!--								time. We prove that this algorithm achieves a constant competitive ratio. (ii) the-->
+		<!--								output-->
+		<!--								length, which critically impacts memory usage and processing time, is unknown. We first-->
+		<!--								design a-->
+		<!--								conservative algorithm, Amax, which schedules requests based on the upper bound of-->
+		<!--								predicted-->
+		<!--								output lengths to prevent memory overflow. However, this approach is overly-->
+		<!--								conservative: as-->
+		<!--								prediction accuracy decreases, performance degrades significantly due to potential-->
+		<!--								overestimation. To overcome this limitation, we propose Amin, an adaptive algorithm that-->
+		<!--								initially treats the predicted lower bound as the output length and dynamically refines-->
+		<!--								this-->
+		<!--								estimate during inferencing. We prove that Amin achieves a log-scale competitive ratio.-->
+		<!--								<hr style="border-top: 1px solid black;">-->
+		<!--							</div>-->
+		<!--							&lt;!&ndash;TODO pdf and video&ndash;&gt;-->
+		<!--							&lt;!&ndash;					<a href="./presentations/SchedulingSeminar_Name.pdf" class="label_abstract" download>&ndash;&gt;-->
+		<!--							&lt;!&ndash;						Download PDF&ndash;&gt;-->
+		<!--							&lt;!&ndash;					</a>&ndash;&gt;-->
+		<!--							&lt;!&ndash;					<a href="LINK"&ndash;&gt;-->
+		<!--							&lt;!&ndash;					   class="label_abstract" download>&ndash;&gt;-->
+		<!--							&lt;!&ndash;						Download Video&ndash;&gt;-->
+		<!--							&lt;!&ndash;					</a>&ndash;&gt;-->
+		<!--						</td>-->
+		<!--					</tr>-->
+
+		<!--					&lt;!&ndash;Data-&ndash;&gt;-->
+		<!--					<tr>-->
+		<!--						<td class="presenter_image_container">-->
+		<!--							<div class="single_image_container">-->
+		<!--								<a href="https://sites.google.com/view/zijiezhou/ ">-->
+		<!--									<img class="single_presenter" loading="lazy" src="photos/Zijie_Zhou.jpg"-->
+		<!--									     alt="person_photo"/>-->
+		<!--								</a><br/>-->
+		<!--							</div>-->
+		<!--						</td>-->
+		<!--						<td class="information_upcoming_container">-->
+		<!--							<b>[Presenter]</b><br/>-->
+		<!--							<a href="https://sites.google.com/view/zijiezhou/">Zijie Zhou</a><br/>-->
+		<!--							(IEDA, HKUST)<br/><br/>-->
+		<!--							&lt;!&ndash;							<b>Keywords:</b> Scheduling; Optimization for LLM Inference; Approximation Online Algorithms&ndash;&gt;-->
+		<!--							<b>[Invited by]</b><br/>-->
+		<!--							<a href="http://www.acem.sjtu.edu.cn/en/faculty/wanguohua.html">Guohua Wan</a><br/>-->
+		<!--							(Shanghai Jiao Tong)-->
+		<!--						</td>-->
+		<!--						<td class="time_zones_container">-->
+		<!--							<table class="time_table">-->
+		<!--								<tbody>-->
+		<!--								<tr class="utc">-->
+		<!--									<td>UTC</td>-->
+		<!--									<td>Oct 29, 14:00 Wed</td>-->
+		<!--								</tr>-->
+		<!--								<tr class="europe">-->
+		<!--									<td>Prague</td>-->
+		<!--									<td>Oct 29, 15:00 Wed</td>-->
+		<!--								</tr>-->
+		<!--								<tr class="america">-->
+		<!--									<td>New York</td>-->
+		<!--									<td>Oct 29, 10:00 Wed</td>-->
+		<!--								</tr>-->
+		<!--								<tr class="asia">-->
+		<!--									<td>Shanghai</td>-->
+		<!--									<td>Oct 29, 22:00 Wed</td>-->
+		<!--								</tr>-->
+		<!--								</tbody>-->
+		<!--							</table>-->
+		<!--						</td>-->
+		<!--					</tr>-->
+
+		<!--					&lt;!&ndash;Spacing-&ndash;&gt;-->
+		<!--					<tr style="background-color: white">-->
+		<!--						<td colspan="100%"></td>-->
+		<!--					</tr>-->
+		<!--				</table>-->
+		<!--			</td>-->
+		<!--		</tr>-->
+
 		<tr>
 			<td>
 				<i>Currently, new talks are being planned, and the seminar will start again in September 2025. Consider
