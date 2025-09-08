@@ -348,7 +348,8 @@
 								Robbert Fokkink, László Végh, Felix Happach and Lisa Hellerstein.
 								<hr style="border-top: 1px solid black;">
 							</div>
-							<a href="./presentations/SchedulingSeminar_ThomasLidbetter.pdf" class="label_abstract" download>
+							<a href="./presentations/SchedulingSeminar_ThomasLidbetter.pdf" class="label_abstract"
+							   download>
 								Download PDF
 							</a>
 							<a href="https://scheduling-seminar.iid.ciirc.cvut.cz/videos/25_2_Spring/25_06_04%20Thomas%20Lidbetter%20(Rutgers%20University)%20_%20Min%20sum%20ordering%20problems%20in%20scheduling.mp4"
@@ -371,7 +372,8 @@
 
 						<td colspan="2">
 							<div class="resizable_youtube_single">
-								<iframe width="400" height="250" src="https://www.youtube.com/embed/e1-U3blRv7o?si=KA5DiBPLNvHWM-X4"
+								<iframe width="400" height="250"
+								        src="https://www.youtube.com/embed/e1-U3blRv7o?si=KA5DiBPLNvHWM-X4"
 								        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
 								        allowfullscreen></iframe>
 							</div>
@@ -391,7 +393,8 @@
 							<table class="panelists_past_container_single">
 								<tr>
 									<td colspan="2">
-										<b>Keywords:</b> Scheduling, Search theory, Submodular functions, Min sum problems <br/><br/>
+										<b>Keywords:</b> Scheduling, Search theory, Submodular functions, Min sum
+										problems <br/><br/>
 										<b>[Invited by]</b>
 										<a href="https://www3.diism.unisi.it/~agnetis/">Alessandro Agnetis</a>
 										(University of Siena)
@@ -438,7 +441,8 @@
 								future research.
 								<hr style="border-top: 1px solid black;">
 							</div>
-							<a href="./presentations/SchedulingSeminar_Zhi-LongChen.pdf" class="label_abstract" download>
+							<a href="./presentations/SchedulingSeminar_Zhi-LongChen.pdf" class="label_abstract"
+							   download>
 								Download PDF
 							</a>
 							<a href="https://scheduling-seminar.iid.ciirc.cvut.cz/videos/25_2_Spring/25_05_21%20Zhi-Long%20Chen%20(Univ%20of%20Maryland)%20_%20Online%20Integrated%20Production%20Scheduling.mp4"
@@ -461,7 +465,8 @@
 
 						<td colspan="2">
 							<div class="resizable_youtube_single">
-								<iframe width="400" height="250" src="https://www.youtube.com/embed/qT3pFQXA89U?si=pIHFko0oscH-h6jl"
+								<iframe width="400" height="250"
+								        src="https://www.youtube.com/embed/qT3pFQXA89U?si=pIHFko0oscH-h6jl"
 								        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
 								        allowfullscreen></iframe>
 							</div>
@@ -480,7 +485,8 @@
 							<table class="panelists_past_container_single">
 								<tr>
 									<td colspan="2">
-										<b>Keywords:</b> Make-to-order, E-commerce, Order processing, Last mile delivery, Online algorithms, Competitive analysis <br/><br/>
+										<b>Keywords:</b> Make-to-order, E-commerce, Order processing, Last mile
+										delivery, Online algorithms, Competitive analysis <br/><br/>
 										<b>[Invited by]</b>
 										<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a>
 										(CTU in Prague)
@@ -545,7 +551,8 @@
 
 						<td colspan="2">
 							<div class="resizable_youtube_single">
-								<iframe width="400" height="250" src="https://www.youtube.com/embed/kVI2fJT1cFM?si=mFdDGqoNzGshPOjr"
+								<iframe width="400" height="250"
+								        src="https://www.youtube.com/embed/kVI2fJT1cFM?si=mFdDGqoNzGshPOjr"
 								        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
 								        allowfullscreen></iframe>
 							</div>
@@ -564,7 +571,8 @@
 							<table class="panelists_past_container_single">
 								<tr>
 									<td colspan="2">
-										<b>Keywords:</b> Scheduling, Hierarchical criteria, Release date, Preemption, Total completion time <br/><br/>
+										<b>Keywords:</b> Scheduling, Hierarchical criteria, Release date, Preemption,
+										Total completion time <br/><br/>
 										<b>[Invited by]</b>
 										<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael
 											Pinedo</a>
@@ -607,7 +615,7 @@
 								decomposition techniques, namely branch and price and Lawler's decomposition.
 								<hr style="border-top: 1px solid black;">
 							</div>
-							<a href="./presentations/SchedulingSeminar_PřemyslŠůcha.pdf" class="label_abstract"
+							<a href="./presentations/SchedulingSeminar_PremyslSucha.pdf" class="label_abstract"
 							   download>
 								Download PDF
 							</a>
