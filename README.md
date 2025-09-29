@@ -341,9 +341,9 @@
 							(Ben Gurion Uni)<br/><br/>
 							<!--							<b>Keywords:</b> Fairness, Repetitive scheduling, Tardy jobs, Total completion time, Combinatorial algorithms, Complexity results -->
 							<b>[Invited by]</b><br/>
-							<a href="https://in.bgu.ac.il/en/engn/iem/pages/staff/Dvir-Shabtay.aspx">Dvir
-								Shabtay</a><br/>
-							(Ben Gurion Uni)
+							<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael
+								Pinedo</a><br/>
+							(New York Uni)
 						</td>
 						<td class="time_zones_container">
 							<table class="time_table">
