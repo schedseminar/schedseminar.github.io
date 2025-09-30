@@ -567,6 +567,103 @@
 			</td>
 		</tr>
 
+		<!--Single talk------------------------------------------------------------------------------------------------>
+		<tr>
+			<td style="padding: 0">
+				<table class="america">
+					<!--Title/Abstract/PDF-->
+					<tr>
+						<td colspan="3">
+							<h2 class="talk_title"><b>Outpatient Appointment Scheduling with Waiting Time Limits</b></h2><br/>
+							<input type="checkbox" id="abstract_id_72" style="display:none;">
+							<label for="abstract_id_72" class="label_abstract"><a>Abstract</a></label>
+							<div class="hidden">
+								<hr style="border-top: 1px solid black;">
+								This paper studies outpatient appointment scheduling with waiting time limits, in the presence
+								of uncertain service times, patient no-shows and unpunctual arrivals. To tackle the problem of
+								excessively long waiting times, policymakers may impose a waiting time limit. The introduction
+								of waiting time limits increases the complexity of model formulation by significantly increasing
+								the number of problem scenarios. To address this challenge, we introduce the concept of virtual
+								waiting time, representing the additional waiting time that a patient would have to incur to see
+								the doctor beyond the imposed waiting time limit. Using this construct, we are able to unify the
+								modeling of system dynamics of all different scenarios into one stochastic program. We develop a
+								tailored integer L-shaped method to solve this model and test its effectiveness against two
+								benchmarks. Specifically, the subproblem is a mixed integer nonlinear program with good
+								properties, which allow us to deduce its optimal value without using optimization solver. We
+								find that the presence of waiting time limits increases the job allowance between two adjacent
+								patients, and the optimal schedule does not necessarily exhibit the well-known dome-shaped
+								pattern. We also find that waiting time limits help reduce variation in patient waiting times
+								across different positions in the schedule, thereby enhancing fairness in the schedule.
+								Furthermore, our results indicate that in the presence of waiting time limits, the total cost of
+								the system is minimized when patients tend to arrive slightly late on average. Finally, we find
+								that when a social planner sets the limit, the clinic has incentives to misreport its true cost
+								of serving each diverted patient, and an additional fine on top of the time limits helps improve
+								social welfare.
+								<hr style="border-top: 1px solid black;">
+							</div>
+							<!--TODO pdf and video-->
+							<!--					<a href="./presentations/SchedulingSeminar_Name.pdf" class="label_abstract" download>-->
+							<!--						Download PDF-->
+							<!--					</a>-->
+							<!--					<a href="LINK"-->
+							<!--					   class="label_abstract" download>-->
+							<!--						Download Video-->
+							<!--					</a>-->
+						</td>
+					</tr>
+
+					<!--Data--->
+					<tr>
+						<td class="presenter_image_container">
+							<div class="single_image_container">
+								<a href="https://gsm.ucdavis.edu/faculty/rachel-chen">
+									<img class="single_presenter" loading="lazy" src="photos/RachelChen.jpg"
+									     alt="person_photo"/>
+								</a><br/>
+							</div>
+						</td>
+						<td class="information_upcoming_container">
+							<b>[Presenter]</b><br/>
+							<a href="https://gsm.ucdavis.edu/faculty/rachel-chen">Rachel R. Chen</a><br/>
+							(UC Davis)<br/><br/>
+							<!--<b>Keywords:</b>  --> <!--appointment scheduling, waiting time limits, uncertain service times-->
+							<b>[Invited by]</b><br/>
+							<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael
+								Pinedo</a><br/>
+							(New York Uni)
+						</td>
+						<td class="time_zones_container">
+							<table class="time_table">
+								<tbody>
+								<tr class="utc">
+									<td>UTC</td>
+									<td>Nov 12, 14:00 Wed</td>
+								</tr>
+								<tr class="europe">
+									<td>Prague</td>
+									<td>Nov 12, 15:00 Wed</td>
+								</tr>
+								<tr class="america">
+									<td>New York</td>
+									<td>Nov 12, 09:00 Wed</td>
+								</tr>
+								<tr class="asia">
+									<td>Shanghai</td>
+									<td>Nov 12, 22:00 Wed</td>
+								</tr>
+								</tbody>
+							</table>
+						</td>
+					</tr>
+
+					<!--Spacing--->
+					<tr style="background-color: white">
+						<td colspan="100%"></td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+
 		</tbody>
 	</table>
 
