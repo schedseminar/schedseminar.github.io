@@ -1,5 +1,8 @@
 0) Vsichni speakeri maji byt subscribed do newsletteru
+    https://list.iid.ciirc.cvut.cz/mailman3/lists/schedulingseminar.rtime.felk.cvut.cz/
 1) Upcoming talk
+    - Person who invited the speaker
+        https://docs.google.com/spreadsheets/d/1uy7ufRwdJpKZ29etA3glcky5x0hvg4fKCGSAFDgSAKY/edit?gid=1764602921#gid=1764602921
     - Oriznout obrazek a preformatovat kvuli velikosti
     - Vytvorit entry (ze sablony Single/Dual talk)
     - Google Calendar entry
