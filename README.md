@@ -623,14 +623,13 @@
 								Heeger, and Danny Segev.
 								<hr style="border-top: 1px solid black;">
 							</div>
-							<!--TODO pdf and video-->
 							<a href="./presentations/SchedulingSeminar_DannyHermelin.pdf" class="label_abstract" download>
 								Download PDF
 							</a>
-							<!--					<a href="LINK"-->
-							<!--					   class="label_abstract" download>-->
-							<!--						Download Video-->
-							<!--					</a>-->
+							<a href="https://scheduling-seminar.iid.ciirc.cvut.cz/videos/25_3_Fall/25_10_01%20Dan%20Hermelin%20(Ben%20Gurion%20Uni)%20_%20Fairness%20in%20Repetitive%20Scheduling.mp4"
+							   class="label_abstract" download>
+								Download Video
+							</a>
 						</td>
 					</tr>
 
