@@ -291,95 +291,6 @@
 		<!--Single talk------------------------------------------------------------------------------------------------>
 		<tr>
 			<td style="padding: 0">
-				<table class="europe">
-					<!--Title/Abstract/PDF-->
-					<tr>
-						<td colspan="3">
-							<h2 class="talk_title"><b>Fairness in Repetitive Scheduling</b></h2><br/>
-							<input type="checkbox" id="abstract_id_69" style="display:none;">
-							<label for="abstract_id_69" class="label_abstract"><a>Abstract</a></label>
-							<div class="hidden">
-								<hr style="border-top: 1px solid black;">
-								It is by now well understood that fairness plays a key role in customer satisfaction.
-								Yet, there is still a lack of models that help organizations make fair operational
-								decisions, in particular when it comes to scheduling customers’ jobs. In this talk, I
-								will present a novel framework for fair decision-making in repetitive scheduling
-								environments. We study a setting with n clients, where in each of m consecutive periods
-								(e.g., days), every client submits a job to be processed, and the scheduler must
-								guarantee each client a minimum quality of service (QoS). I will demonstrate how this
-								framework can be applied in different scheduling contexts and discuss some of the
-								algorithmic challenges it raises.
-
-								Joint work with Dvir Shabtay, Michael Pinedo, Rolf Niedermeier, Hendrik Molter, Klaus
-								Heeger, and Danny Segev.
-								<hr style="border-top: 1px solid black;">
-							</div>
-							<!--TODO pdf and video-->
-							<a href="./presentations/SchedulingSeminar_DannyHermelin.pdf" class="label_abstract" download>
-								Download PDF
-							</a>
-							<!--					<a href="LINK"-->
-							<!--					   class="label_abstract" download>-->
-							<!--						Download Video-->
-							<!--					</a>-->
-						</td>
-					</tr>
-
-					<!--Data--->
-					<tr>
-						<td class="presenter_image_container">
-							<div class="single_image_container">
-								<a href="https://cris.bgu.ac.il/en/persons/dan-hermelin">
-									<img class="single_presenter" loading="lazy" src="photos/Dan_Hermelin.jpg"
-									     alt="person_photo"/>
-								</a><br/>
-							</div>
-						</td>
-						<td class="information_upcoming_container">
-							<b>[Presenter]</b><br/>
-							<a href="https://cris.bgu.ac.il/en/persons/dan-hermelin">Dan Hermelin</a><br/>
-							(Ben Gurion Uni)<br/><br/>
-							<!--							<b>Keywords:</b> Fairness, Repetitive scheduling, Tardy jobs, Total completion time, Combinatorial algorithms, Complexity results -->
-							<b>[Invited by]</b><br/>
-							<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael
-								Pinedo</a><br/>
-							(New York Uni)
-						</td>
-						<td class="time_zones_container">
-							<table class="time_table">
-								<tbody>
-								<tr class="utc">
-									<td>UTC</td>
-									<td>Oct 1, 13:00 Wed</td>
-								</tr>
-								<tr class="europe">
-									<td>Prague</td>
-									<td>Oct 1, 15:00 Wed</td>
-								</tr>
-								<tr class="america">
-									<td>New York</td>
-									<td>Oct 1, 09:00 Wed</td>
-								</tr>
-								<tr class="asia">
-									<td>Shanghai</td>
-									<td>Oct 1, 21:00 Wed</td>
-								</tr>
-								</tbody>
-							</table>
-						</td>
-					</tr>
-
-					<!--Spacing--->
-					<tr style="background-color: white">
-						<td colspan="100%"></td>
-					</tr>
-				</table>
-			</td>
-		</tr>
-
-		<!--Single talk------------------------------------------------------------------------------------------------>
-		<tr>
-			<td style="padding: 0">
 				<table class="asia">
 					<!--Title/Abstract/PDF-->
 					<tr>
@@ -677,7 +588,7 @@
 
 <!--Past talks-->
 <div class="column column_right">
-	<h2>Past talks (68)</h2>
+	<h2>Past talks (69)</h2>
 	<div class="inline-right"><a
 			href="https://docs.google.com/spreadsheets/d/1Glyd6FGzoKtZGfClNA_XaIK8vJZtnu8K4OdNcPr_yHc/edit#gid=0"
 			target="_blank"
@@ -685,6 +596,94 @@
 
 	<table class="past_talk_table">
 		<tbody>
+
+		<!--Single talk------------------------------------------------------------------------------------------------>
+		<tr>
+			<td style="padding: 0">
+				<table class="europe">
+					<!--Title/Abstract/PDF-->
+					<tr>
+						<td colspan="3">
+							<h2 class="talk_title"><b>Fairness in Repetitive Scheduling</b></h2><br/>
+							<input type="checkbox" id="abstract_id_69" style="display:none;">
+							<label for="abstract_id_69" class="label_abstract"><a>Abstract</a></label>
+							<div class="hidden">
+								<hr style="border-top: 1px solid black;">
+								It is by now well understood that fairness plays a key role in customer satisfaction.
+								Yet, there is still a lack of models that help organizations make fair operational
+								decisions, in particular when it comes to scheduling customers’ jobs. In this talk, I
+								will present a novel framework for fair decision-making in repetitive scheduling
+								environments. We study a setting with n clients, where in each of m consecutive periods
+								(e.g., days), every client submits a job to be processed, and the scheduler must
+								guarantee each client a minimum quality of service (QoS). I will demonstrate how this
+								framework can be applied in different scheduling contexts and discuss some of the
+								algorithmic challenges it raises.
+
+								Joint work with Dvir Shabtay, Michael Pinedo, Rolf Niedermeier, Hendrik Molter, Klaus
+								Heeger, and Danny Segev.
+								<hr style="border-top: 1px solid black;">
+							</div>
+							<!--TODO pdf and video-->
+							<a href="./presentations/SchedulingSeminar_DannyHermelin.pdf" class="label_abstract" download>
+								Download PDF
+							</a>
+							<!--					<a href="LINK"-->
+							<!--					   class="label_abstract" download>-->
+							<!--						Download Video-->
+							<!--					</a>-->
+						</td>
+					</tr>
+
+					<!--Photo and video-->
+					<tr>
+						<td class="presenter_image_container">
+							<div class="single_image_container">
+								<a href="https://cris.bgu.ac.il/en/persons/dan-hermelin">
+									<img class="single_presenter" loading="lazy" src="photos/Dan_Hermelin.jpg"
+									     alt="person_photo"/>
+								</a><br/>
+							</div>
+						</td>
+
+						<td colspan="2">
+							<div class="resizable_youtube_single">
+								<iframe width="400" height="250" src="https://www.youtube.com/embed/dSSPWXANaSs?si=YbXDIn5pe1TTXkz9"
+								        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+								        allowfullscreen></iframe>
+							</div>
+						</td>
+					</tr>
+
+					<!--Text description-->
+					<tr>
+						<td class="presenter_past_info_container">
+							<b>[Presenter]</b><br/>
+							<a href="https://cris.bgu.ac.il/en/persons/dan-hermelin">Dan Hermelin</a><br/>
+							(Ben Gurion Uni)<br/>
+						</td>
+
+						<td>
+							<table class="panelists_past_container_single">
+								<tr>
+									<td colspan="2">
+										<b>Keywords:</b> Fairness, Repetitive scheduling, Tardy jobs, Total completion time, Combinatorial algorithms, Complexity results <br/><br/>
+										<b>[Invited by]</b>
+										<a href="https://www.stern.nyu.edu/faculty/bio/michael-pinedo">Michael
+											Pinedo</a>
+										(New York Uni)
+									</td>
+								</tr>
+							</table>
+						</td>
+					</tr>
+
+					<!--Spacing--->
+					<tr style="background-color: white">
+						<td colspan="100%"></td>
+					</tr>
+				</table>
+			</td>
+		</tr>
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
 		<tr>
