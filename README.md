@@ -295,94 +295,6 @@
 					<!--Title/Abstract/PDF-->
 					<tr>
 						<td colspan="3">
-							<h2 class="talk_title"><b>Learning-Based Approaches to Combinatorial Optimization in
-								Transportation</b></h2><br/>
-							<input type="checkbox" id="abstract_id_70" style="display:none;">
-							<label for="abstract_id_70" class="label_abstract"><a>Abstract</a></label>
-							<div class="hidden">
-								<hr style="border-top: 1px solid black;">
-								Combinatorial optimization problems arising in transportation are often NP-hard, making
-								them computationally challenging to solve at scale. Recent advances in machine learning
-								have opened new avenues for tackling such problems, either as standalone solution
-								strategies or by enhancing traditional optimization algorithms. This talk surveys a
-								spectrum of learning-based approaches for transportation optimization, including: (i)
-								end-to-end learning models, (ii) integration within exact algorithms, (iii) learning to
-								guide local search, (iv) accelerating metaheuristics, (v) embedding within optimization
-								formulations, and (vi) test-time search strategies. This talk will discuss the
-								principles behind each approach, highlight representative applications, and reflect on
-								both their current potential and open challenges for the future of transportation
-								optimization.
-								<hr style="border-top: 1px solid black;">
-							</div>
-							<!--TODO pdf and video-->
-							<a href="./presentations/SchedulingSeminar_ChanghyunKwon.pdf" class="label_abstract" download>
-								Download PDF
-							</a>
-							<!--					<a href="LINK"-->
-							<!--					   class="label_abstract" download>-->
-							<!--						Download Video-->
-							<!--					</a>-->
-						</td>
-					</tr>
-
-					<!--Data--->
-					<tr>
-						<td class="presenter_image_container">
-							<div class="single_image_container">
-								<a href="https://www.chkwon.net">
-									<img class="single_presenter" loading="lazy" src="photos/Chang_Kwon.jpg"
-									     alt="person_photo"/>
-								</a><br/>
-							</div>
-						</td>
-						<td class="information_upcoming_container">
-							<b>[Presenter]</b><br/>
-							<a href="https://www.chkwon.net">Changhyun Kwon</a><br/>
-							(KAIST/Omelet, Inc.)<br/><br/>
-							<!--							<b>Keywords:</b> Neural combinatorial optimization; Deep reinforcement learning; Vehicle routing; -->
-							<b>[Invited by]</b><br/>
-							<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a><br/>
-							(CTU in Prague)
-						</td>
-						<td class="time_zones_container">
-							<table class="time_table">
-								<tbody>
-								<tr class="utc">
-									<td>UTC</td>
-									<td>Oct 15, 13:00 Wed</td>
-								</tr>
-								<tr class="europe">
-									<td>Prague</td>
-									<td>Oct 15, 15:00 Wed</td>
-								</tr>
-								<tr class="america">
-									<td>New York</td>
-									<td>Oct 15, 09:00 Wed</td>
-								</tr>
-								<tr class="asia">
-									<td>Shanghai</td>
-									<td>Oct 15, 21:00 Wed</td>
-								</tr>
-								</tbody>
-							</table>
-						</td>
-					</tr>
-
-					<!--Spacing--->
-					<tr style="background-color: white">
-						<td colspan="100%"></td>
-					</tr>
-				</table>
-			</td>
-		</tr>
-
-		<!--Single talk------------------------------------------------------------------------------------------------>
-		<tr>
-			<td style="padding: 0">
-				<table class="asia">
-					<!--Title/Abstract/PDF-->
-					<tr>
-						<td colspan="3">
 							<h2 class="talk_title"><b>Efficient and Robust Large Language Model (LLM) Inference
 								Scheduling
 								Optimization</b></h2><br/>
@@ -588,7 +500,7 @@
 
 <!--Past talks-->
 <div class="column column_right">
-	<h2>Past talks (69)</h2>
+	<h2>Past talks (70)</h2>
 	<div class="inline-right"><a
 			href="https://docs.google.com/spreadsheets/d/1Glyd6FGzoKtZGfClNA_XaIK8vJZtnu8K4OdNcPr_yHc/edit#gid=0"
 			target="_blank"
@@ -596,6 +508,93 @@
 
 	<table class="past_talk_table">
 		<tbody>
+
+		<!--Single talk------------------------------------------------------------------------------------------------>
+		<tr>
+			<td style="padding: 0">
+				<table class="asia">
+					<!--Title/Abstract/PDF-->
+					<tr>
+						<td colspan="3">
+							<h2 class="talk_title"><b>Learning-Based Approaches to Combinatorial Optimization in
+								Transportation</b></h2><br/>
+							<input type="checkbox" id="abstract_id_70" style="display:none;">
+							<label for="abstract_id_70" class="label_abstract"><a>Abstract</a></label>
+							<div class="hidden">
+								<hr style="border-top: 1px solid black;">
+								Combinatorial optimization problems arising in transportation are often NP-hard, making
+								them computationally challenging to solve at scale. Recent advances in machine learning
+								have opened new avenues for tackling such problems, either as standalone solution
+								strategies or by enhancing traditional optimization algorithms. This talk surveys a
+								spectrum of learning-based approaches for transportation optimization, including: (i)
+								end-to-end learning models, (ii) integration within exact algorithms, (iii) learning to
+								guide local search, (iv) accelerating metaheuristics, (v) embedding within optimization
+								formulations, and (vi) test-time search strategies. This talk will discuss the
+								principles behind each approach, highlight representative applications, and reflect on
+								both their current potential and open challenges for the future of transportation
+								optimization.
+								<hr style="border-top: 1px solid black;">
+							</div>
+							<!--TODO pdf and video-->
+							<a href="./presentations/SchedulingSeminar_ChanghyunKwon.pdf" class="label_abstract" download>
+								Download PDF
+							</a>
+							<!--					<a href="LINK"-->
+							<!--					   class="label_abstract" download>-->
+							<!--						Download Video-->
+							<!--					</a>-->
+						</td>
+					</tr>
+
+					<!--Photo and video-->
+					<tr>
+						<td class="presenter_image_container">
+							<div class="single_image_container">
+								<a href="https://www.chkwon.net">
+									<img class="single_presenter" loading="lazy" src="photos/Chang_Kwon.jpg"
+									     alt="person_photo"/>
+								</a><br/>
+							</div>
+						</td>
+
+						<td colspan="2">
+							<div class="resizable_youtube_single">
+								<iframe width="400" height="250" src="https://www.youtube.com/embed/pEPck7IL1zo?si=ia59rHcM69RbhKrh"
+								        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+								        allowfullscreen></iframe>
+							</div>
+						</td>
+					</tr>
+
+					<!--Text description-->
+					<tr>
+						<td class="presenter_past_info_container">
+							<b>[Presenter]</b><br/>
+							<a href="https://www.chkwon.net">Changhyun Kwon</a><br/>
+							(KAIST/Omelet, Inc.)<br/>
+						</td>
+
+						<td>
+							<table class="panelists_past_container_single">
+								<tr>
+									<td colspan="2">
+										<b>Keywords:</b> Neural combinatorial optimization, Deep reinforcement learning, Vehicle routing <br/><br/>
+										<b>[Invited by]</b>
+										<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a>
+										(CTU in Prague)
+									</td>
+								</tr>
+							</table>
+						</td>
+					</tr>
+
+					<!--Spacing--->
+					<tr style="background-color: white">
+						<td colspan="100%"></td>
+					</tr>
+				</table>
+			</td>
+		</tr>
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
 		<tr>
