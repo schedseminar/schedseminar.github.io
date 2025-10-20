@@ -539,10 +539,10 @@
 							<a href="./presentations/SchedulingSeminar_ChanghyunKwon.pdf" class="label_abstract" download>
 								Download PDF
 							</a>
-							<!--					<a href="LINK"-->
-							<!--					   class="label_abstract" download>-->
-							<!--						Download Video-->
-							<!--					</a>-->
+							<a href="https://scheduling-seminar.iid.ciirc.cvut.cz/videos/25_3_Fall/25_10_15%20Changhyun%20Kwon%20(KAIST_Omelet,%20Inc.)%20_%20Learning-Based%20Approaches%20to%20Comb.%20Prob..mp4"
+							   class="label_abstract" download>
+								Download Video
+							</a>
 						</td>
 					</tr>
 
