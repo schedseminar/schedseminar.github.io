@@ -487,6 +487,109 @@
 			</td>
 		</tr>
 
+        <!--Single talk------------------------------------------------------------------------------------------------>
+        <tr>
+            <td style="padding: 0">
+                <table class="europe"> <!--TODO class-->
+                    <!--Title/Abstract/PDF-->
+                    <tr>
+                        <td colspan="3">
+                            <h2 class="talk_title"><b> Planning shunting operations at railway hubs</b></h2><br/>
+                            <input type="checkbox" id="abstract_id_73" style="display:none;"> <!--TODO abstract id-->
+                            <label for="abstract_id_73" class="label_abstract"><a>Abstract</a></label> <!--TODO abstract id-->
+                            <div class="hidden">
+                                <hr style="border-top: 1px solid black;">
+                                At night, trains are parked on shunting yards. Here cleaning and small
+                                maintenance takes place, after which the trains have to leave in the
+                                morning at the planned departure time and in the desired composition,
+                                which may require splitting and coupling during their stay at the
+                                yard. As NS (Dutch Railways) continues to expand its fleet while the
+                                available yard space remains fixed, the shunting yards are becoming
+                                increasingly congested, with occupation rates reaching up to 90%.
+                                Consequently, planning all train movements and related activities has
+                                become a complex challenge.
+
+                                In this talk, I will discuss the main challenges encountered in
+                                planning the shunting yards and the algorithms that we have designed
+                                to tackle these problems. First, I want to discuss the shunting
+                                problem on a single yard. We solve this problem using local search;
+                                our algorithm is the first one that is capable of solving real-world
+                                problem instances of the complete shunting and scheduling problem.
+                                Next, I want to extend the problem to the entire station area, which
+                                requires that we distribute the trains over two (or more) shunting
+                                yards, while avoiding interference with through traffic and respecting
+                                the capacity of the separate shunting yards. The main difficulty here
+                                is that the capacity of the shunting yard is not known; we use data
+                                analysis to estimate it. Finally, I want to discuss the problem of
+                                assigning shunting tasks to train drivers. This is a variant of the
+                                technician routing problem without skills, but with synchronization.
+                                We have developed an algorithm for this that is based on a novel
+                                decomposition approach.
+                                <hr style="border-top: 1px solid black;">
+                            </div>
+                            <!--TODO pdf and video-->
+                            <!--					<a href="./presentations/SchedulingSeminar_Name.pdf" class="label_abstract" download>-->
+                            <!--						Download PDF-->
+                            <!--					</a>-->
+                            <!--					<a href="LINK"-->
+                            <!--					   class="label_abstract" download>-->
+                            <!--						Download Video-->
+                            <!--					</a>-->
+                        </td>
+                    </tr>
+
+                    <!--Data--->
+                    <tr>
+                        <td class="presenter_image_container">
+                            <div class="single_image_container">
+                                <a href="https://www.uu.nl/medewerkers/JAHoogeveen"> <!--TODO link-->
+                                    <img class="single_presenter" loading="lazy" src="photos/Han_hooogeveen.jpg"
+                                         alt="person_photo"/> <!--TODO image-->
+                                </a><br/>
+                            </div>
+                        </td>
+                        <td class="information_upcoming_container">
+                            <b>[Presenter]</b><br/>
+                            <a href="https://www.uu.nl/medewerkers/JAHoogeveen"><!--TODO link--> Hoogeveen, J.A. (Han)</a><br/>
+                            (Utrecht University)<br/><br/>
+                            <!--<b>Keywords:</b>  --> <!--Shunt yard planning, AI, Local Search, Constraint
+Programming, Linear Programming, Data analysis, Logistic Regression,
+Decomposition, Synchronization, Technician Routing-->
+                            <b>[Invited by]</b><br/>
+                            <a href=""><!--TODO link--> <!--TODO name--></a><br/>
+                            (<!--TODO Uni--> )
+                        </td>
+                        <td class="time_zones_container">
+                            <table class="time_table">
+                                <tbody>
+                                <tr class="utc">
+                                    <td>UTC</td>
+                                    <td>Nov 26, 14:00 Wed <!--TODO time--></td>
+                                </tr>
+                                <tr class="europe">
+                                    <td>Prague</td>
+                                    <td>Nov 26, 15:00 Wed<!--TODO time--></td>
+                                </tr>
+                                <tr class="america">
+                                    <td>New York</td>
+                                    <td>Nov 26, 09:00 Wed<!--TODO time--></td>
+                                </tr>
+                                <tr class="asia">
+                                    <td>Shanghai</td>
+                                    <td>Nov 26, 22:00 Wed<!--TODO time--></td>
+                                </tr>
+                                </tbody>
+                            </table>
+                        </td>
+                    </tr>
+
+                    <!--Spacing--->
+                    <tr style="background-color: white">
+                        <td colspan="100%"></td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
 		</tbody>
 	</table>
 
