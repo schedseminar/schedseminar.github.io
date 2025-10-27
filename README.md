@@ -543,7 +543,7 @@
                         <td class="presenter_image_container">
                             <div class="single_image_container">
                                 <a href="https://www.uu.nl/medewerkers/JAHoogeveen"> <!--TODO link-->
-                                    <img class="single_presenter" loading="lazy" src="photos/Han_hooogeveen.jpg"
+                                    <img class="single_presenter" loading="lazy" src="photos/Han_hoogeveen.jpg"
                                          alt="person_photo"/> <!--TODO image-->
                                 </a><br/>
                             </div>
