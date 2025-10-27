@@ -556,8 +556,8 @@
 Programming, Linear Programming, Data analysis, Logistic Regression,
 Decomposition, Synchronization, Technician Routing-->
                             <b>[Invited by]</b><br/>
-                            <a href=""><!--TODO link--> <!--TODO name--></a><br/>
-                            (<!--TODO Uni--> )
+							<a href="https://rtime.ciirc.cvut.cz/~hanzalek/">Zdeněk Hanzálek</a><br/>
+							(CTU in Prague)
                         </td>
                         <td class="time_zones_container">
                             <table class="time_table">
