@@ -503,7 +503,8 @@ Decomposition, Synchronization, Technician Routing-->
 
 <!--Past talks-->
 <div class="column column_right">
-	<h2>Past talks (70)</h2>
+<!--	TODO update talk count-->
+	<h2>Past talks (71)</h2>
 	<div class="inline-right"><a
 			href="https://docs.google.com/spreadsheets/d/1Glyd6FGzoKtZGfClNA_XaIK8vJZtnu8K4OdNcPr_yHc/edit#gid=0"
 			target="_blank"
@@ -578,7 +579,7 @@ Decomposition, Synchronization, Technician Routing-->
 						<td colspan="2">
 							<div class="resizable_youtube_single">
 								<!--TODO - Change "src=LINK"-->
-								<iframe width="400" height="250" src="https://www.youtube.com/live/obTtEShQKXc"
+								<iframe width="400" height="250" src="https://www.youtube.com/embed/obTtEShQKXc?si=0RYly4VpxVZ_-nLV"
 										allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
 										allowfullscreen></iframe>
 							</div>
