@@ -289,106 +289,6 @@
 		<!--		</tr>-->
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
-		<tr>
-			<td style="padding: 0">
-				<table class="asia">
-					<!--Title/Abstract/PDF-->
-					<tr>
-						<td colspan="3">
-							<h2 class="talk_title"><b>Efficient and Robust Large Language Model (LLM) Inference
-								Scheduling
-								Optimization</b></h2><br/>
-							<input type="checkbox" id="abstract_id_71" style="display:none;">
-							<label for="abstract_id_71" class="label_abstract"><a>Abstract</a></label>
-							<div class="hidden">
-								<hr style="border-top: 1px solid black;">
-								We study the problem of optimizing Large Language Model (LLM) inference scheduling to
-								minimize total completion time. LLM inference is an online and multi-task service
-								process and also heavily energy consuming by which a pre-trained LLM processes input
-								requests and generates output tokens sequentially. Therefore, it is vital to improve its
-								scheduling efficiency and reduce the power consumption while a great amount of prompt
-								requests are arriving. There are two key challenges: (i) each request has heterogeneous
-								prefill and decode lengths. In LLM serving, the prefill length corresponds to the input
-								prompt length, which determines the initial memory usage in the KV cache. The decode
-								length refers to the number of output tokens generated sequentially, with each
-								additional token increasing the KV cache memory usage by one unit. We show that
-								minimizing total completion time is NP-hard due to the interplay of batching, placement
-								constraints, precedence relationships, and linearly increasing memory usage. We then
-								analyze commonly used scheduling strategies in practice, such as First-Come-First-Serve
-								(FCFS) and Shortest-First (SF), and prove that their competitive ratios are unbounded.
-								To address this, we propose a novel algorithm based on a new selection metric that
-								efficiently forms batches over time. We prove that this algorithm achieves a constant
-								competitive ratio. (ii) the output length, which critically impacts memory usage and
-								processing time, is unknown. We first design a conservative algorithm, Amax, which
-								schedules requests based on the upper bound of predicted output lengths to prevent
-								memory overflow. However, this approach is overly conservative: as prediction accuracy
-								decreases, performance degrades significantly due to potential overestimation. To
-								overcome this limitation, we propose Amin, an adaptive algorithm that initially treats
-								the predicted lower bound as the output length and dynamically refines this estimate
-								during inferencing. We prove that Amin achieves a log-scale competitive ratio.
-								<hr style="border-top: 1px solid black;">
-							</div>
-							<!--TODO pdf and video-->
-							<a href="./presentations/SchedulingSeminar_ZijieZhou.pdf" class="label_abstract" download>
-								Download PDF
-							</a>
-							<!--					<a href="LINK"-->
-							<!--					   class="label_abstract" download>-->
-							<!--						Download Video-->
-							<!--					</a>-->
-						</td>
-					</tr>
-
-					<!--Data--->
-					<tr>
-						<td class="presenter_image_container">
-							<div class="single_image_container">
-								<a href="https://sites.google.com/view/zijiezhou/ ">
-									<img class="single_presenter" loading="lazy" src="photos/Zijie_Zhou.jpg"
-									     alt="person_photo"/>
-								</a><br/>
-							</div>
-						</td>
-						<td class="information_upcoming_container">
-							<b>[Presenter]</b><br/>
-							<a href="https://sites.google.com/view/zijiezhou/">Zijie Zhou</a><br/>
-							(IEDA, HKUST)<br/><br/>
-							<!--							<b>Keywords:</b> Scheduling, Optimization for LLM inference, Approximation online algorithms-->
-							<b>[Invited by]</b><br/>
-							<a href="http://www.acem.sjtu.edu.cn/en/faculty/wanguohua.html">Guohua Wan</a><br/>
-							(Shanghai Jiao Tong)
-						</td>
-						<td class="time_zones_container">
-							<table class="time_table">
-								<tbody>
-								<tr class="utc">
-									<td>UTC</td>
-									<td>Oct 29, 14:00 Wed</td>
-								</tr>
-								<tr class="europe">
-									<td>Prague</td>
-									<td>Oct 29, 15:00 Wed</td>
-								</tr>
-								<tr class="america">
-									<td>New York</td>
-									<td>Oct 29, 10:00 Wed</td>
-								</tr>
-								<tr class="asia">
-									<td>Shanghai</td>
-									<td>Oct 29, 22:00 Wed</td>
-								</tr>
-								</tbody>
-							</table>
-						</td>
-					</tr>
-
-					<!--Spacing--->
-					<tr style="background-color: white">
-						<td colspan="100%"></td>
-					</tr>
-				</table>
-			</td>
-		</tr>
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
 		<tr>
@@ -611,6 +511,112 @@ Decomposition, Synchronization, Technician Routing-->
 
 	<table class="past_talk_table">
 		<tbody>
+
+		<!--Single talk------------------------------------------------------------------------------------------------>
+		<tr>
+			<td style="padding: 0">
+				<!-- TODO change class according to country -->
+				<table class="asia">
+					<!--Title/Abstract - TODO - Copy whole-->
+					<tr>
+						<td colspan="3">
+							<h2 class="talk_title"><b>Efficient and Robust Large Language Model (LLM) Inference
+								Scheduling
+								Optimization</b></h2><br/>
+							<input type="checkbox" id="abstract_id_71" style="display:none;">
+							<label for="abstract_id_71" class="label_abstract"><a>Abstract</a></label>
+							<div class="hidden">
+								<hr style="border-top: 1px solid black;">
+								We study the problem of optimizing Large Language Model (LLM) inference scheduling to
+								minimize total completion time. LLM inference is an online and multi-task service
+								process and also heavily energy consuming by which a pre-trained LLM processes input
+								requests and generates output tokens sequentially. Therefore, it is vital to improve its
+								scheduling efficiency and reduce the power consumption while a great amount of prompt
+								requests are arriving. There are two key challenges: (i) each request has heterogeneous
+								prefill and decode lengths. In LLM serving, the prefill length corresponds to the input
+								prompt length, which determines the initial memory usage in the KV cache. The decode
+								length refers to the number of output tokens generated sequentially, with each
+								additional token increasing the KV cache memory usage by one unit. We show that
+								minimizing total completion time is NP-hard due to the interplay of batching, placement
+								constraints, precedence relationships, and linearly increasing memory usage. We then
+								analyze commonly used scheduling strategies in practice, such as First-Come-First-Serve
+								(FCFS) and Shortest-First (SF), and prove that their competitive ratios are unbounded.
+								To address this, we propose a novel algorithm based on a new selection metric that
+								efficiently forms batches over time. We prove that this algorithm achieves a constant
+								competitive ratio. (ii) the output length, which critically impacts memory usage and
+								processing time, is unknown. We first design a conservative algorithm, Amax, which
+								schedules requests based on the upper bound of predicted output lengths to prevent
+								memory overflow. However, this approach is overly conservative: as prediction accuracy
+								decreases, performance degrades significantly due to potential overestimation. To
+								overcome this limitation, we propose Amin, an adaptive algorithm that initially treats
+								the predicted lower bound as the output length and dynamically refines this estimate
+								during inferencing. We prove that Amin achieves a log-scale competitive ratio.
+								<hr style="border-top: 1px solid black;">
+							</div>
+							<!--TODO pdf and video-->
+							<a href="./presentations/SchedulingSeminar_ZijieZhou.pdf" class="label_abstract" download>
+								Download PDF
+							</a>
+							<a href="https://www.youtube.com/live/obTtEShQKXc"
+							   class="label_abstract" download>
+								Download Video
+							</a>
+						</td>
+					</tr>
+
+					<!--Photo and video-->
+					<tr>
+						<!--TODO - Copy whole-->
+						<td class="presenter_image_container">
+							<div class="single_image_container">
+								<a href="https://sites.google.com/view/zijiezhou/">
+									<img class="single_presenter" loading="lazy" src="photos/Zijie_Zhou.jpg" alt="person_photo"/>
+								</a><br/>
+							</div>
+						</td>
+
+						<td colspan="2">
+							<div class="resizable_youtube_single">
+								<!--TODO - Change "src=LINK"-->
+								<iframe width="400" height="250" src="https://www.youtube.com/live/obTtEShQKXc"
+										allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+										allowfullscreen></iframe>
+							</div>
+						</td>
+					</tr>
+
+					<!--Text description-->
+					<tr>
+						<td class="presenter_past_info_container">
+							<!--TODO - Copy whole but with just one <br/> after university name-->
+							<b>[Presenter]</b><br/>
+							<a href="https://sites.google.com/view/zijiezhou/">Zijie Zhou</a><br/>
+							(IEDA, HKUST)<br/>
+						</td>
+
+						<td>
+							<table class="panelists_past_container_single">
+								<tr>
+									<td colspan="2">
+										<!--TODO add keywords-->
+										<b>Keywords:</b> Scheduling, Optimization for LLM inference, Approximation online algorithms  <br/><br/>
+										<b>[Invited by]</b>
+										<!--TODO - Copy whole but without <br/> after </a> after name.-->
+										<a href="http://www.acem.sjtu.edu.cn/en/faculty/wanguohua.html">Guohua Wan</a>
+										(Shanghai Jiao Tong)
+									</td>
+								</tr>
+							</table>
+						</td>
+					</tr>
+
+					<!--Spacing--->
+					<tr style="background-color: white">
+						<td colspan="100%"></td>
+					</tr>
+				</table>
+			</td>
+		</tr>
 
 		<!--Single talk------------------------------------------------------------------------------------------------>
 		<tr>
