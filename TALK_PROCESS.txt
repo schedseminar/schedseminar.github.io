@@ -21,5 +21,6 @@
             - Winter (1. mesic az po 4. zacatek) - Blue
         - Ořez (predtim stahnout)
     - Uploadnout orizle video na RTIME (https://scheduling-seminar.iid.ciirc.cvut.cz/videos/)
+        - /var/www/scheduling-seminar/html/videos
         - <username>@rtime.ciirc.cvut.cz
         - heslo CVUT
