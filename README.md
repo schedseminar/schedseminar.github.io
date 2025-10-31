@@ -558,7 +558,7 @@ Decomposition, Synchronization, Technician Routing-->
 							<a href="./presentations/SchedulingSeminar_ZijieZhou.pdf" class="label_abstract" download>
 								Download PDF
 							</a>
-							<a href="https://www.youtube.com/live/obTtEShQKXc"
+							<a href="https://scheduling-seminar.iid.ciirc.cvut.cz/videos/25_3_Fall/25_10_29%20Zijie%20Zhou%20(IEDA,%20HKUST)%20_%20Efficient%20and%20Robust%20LLM%20Scheduling.mp4"
 							   class="label_abstract" download>
 								Download Video
 							</a>
