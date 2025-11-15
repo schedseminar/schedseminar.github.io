@@ -527,7 +527,22 @@
             }
         }
 	</script>
-
+	<script>
+		(async () => {
+		  const url = "https://schedseminar.iid.ciirc.cvut.cz/";
+		
+		  try {
+		    const res = await fetch(url, { method: "HEAD" });
+		    if (res.status !== 502) {
+		      window.location.replace(url);
+		    } else {
+		      console.warn("New page returned 502 — redirect canceled.");
+		    }
+		  } catch (e) {
+		    console.error("Failed to check the page:", e);
+		  }
+		})();
+	</script>
 	<!--JS scripts-->
 	{% if site.google_analytics %}
 	<script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
