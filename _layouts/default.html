@@ -528,21 +528,8 @@
         }
 	</script>
 	<script>
-		(async () => {
-		  const url = "https://schedseminar.iid.ciirc.cvut.cz/";
-		  console.log("attempting redirect..")
-		  try {
-		    const res = await fetch(url, { method: "HEAD" });
-			console.log(res, res.status)
-		    if (res.status !== 502) {
-		      window.location.replace(url);
-		    } else {
-		      console.warn("New page returned 502 — redirect canceled.");
-		    }
-		  } catch (e) {
-		    console.error("Failed to check the page:", e);
-		  }
-		})();
+		const url = "https://schedseminar.iid.ciirc.cvut.cz/";
+        window.location.replace(url);
 	</script>
 	<!--JS scripts-->
 	{% if site.google_analytics %}
