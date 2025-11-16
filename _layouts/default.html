@@ -530,9 +530,10 @@
 	<script>
 		(async () => {
 		  const url = "https://schedseminar.iid.ciirc.cvut.cz/";
-		
+		  console.log("attempting redirect..")
 		  try {
 		    const res = await fetch(url, { method: "HEAD" });
+			console.log(res, res.status)
 		    if (res.status !== 502) {
 		      window.location.replace(url);
 		    } else {
