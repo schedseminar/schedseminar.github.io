@@ -1,0 +1,25 @@
+---
+import { TIME_ZONES } from "../../utils/constants";
+
+const { times } = Astro.props;
+const timeMap = {
+  'UTC': times.utc,
+  'Prague': times.prague,
+  'New York': times.newYork,
+  'Shanghai': times.shanghai
+};
+---
+
+{times && (
+  <div class="grid sm:grid-cols-2 gap-2 mb-4">
+    {TIME_ZONES.map(({ city, icon, border }) => (
+      <div class={`flex ${border} border-l-4 items-center gap-2 px-3 py-2 bg-gradient-to-r from-blue-50 to-slate-50 rounded-lg`}>
+        <span>{icon}</span>
+        <div class="flex-1 min-w-0">
+          <p class="text-xs font-semibold text-gray-600">{city}</p>
+          <p class="text-xs text-gray-700 truncate">{timeMap[city]}</p>
+        </div>
+      </div>
+    ))}
+  </div>
+)}

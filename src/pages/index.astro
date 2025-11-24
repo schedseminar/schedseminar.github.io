@@ -1,12 +1,13 @@
 ---
 import Layout from '../layouts/Layout.astro';
-import TalkCard from '../components/TalkCard.astro';
 import {getTalks} from '../utils/processTalks'
 import {Image} from 'astro:assets';
 import gantt from "../assets/gantt.png"
 import CoChairs from "../components/CoChairs.astro";
 import CommitteeGrid from "../components/CommitteeGrid.astro";
 import Feedback from "../components/Feedback.astro";
+import UpcomingCard from '../components/TalkCard/UpcomingCard.astro';
+import PastCard from '../components/TalkCard/PastCard.astro';
 
 const {pastTalks, upcomingTalks} = await getTalks()
 const nav_links = ["PC co-chairs", "Program committee", "Calendar", "Feedback"];
@@ -39,7 +40,7 @@ const nav_links = ["PC co-chairs", "Program committee", "Calendar", "Feedback"];
                 {nav_links.map((name, i) => {
                     const tag = name.split(' ').join('_')
                     return (
-                            <a href=`#${tag}`
+                            <a href={`#${tag}`}
                                class="px-4 py-2 bg-white/50 border-blue-600/85 border text-blue-700 hover:bg-blue-600/85 hover:text-white rounded-xl text-sm transition-colors">
                                 {name}
                             </a>
@@ -131,7 +132,7 @@ const nav_links = ["PC co-chairs", "Program committee", "Calendar", "Feedback"];
 
                 <div class="space-y-6">
                     {upcomingTalks.toReversed().map(talk => (
-                            <TalkCard talk={talk} past={false}/>
+                            <UpcomingCard talk={talk} past={false}/>
                     ))}
                 </div>
             </div>
@@ -150,7 +151,7 @@ const nav_links = ["PC co-chairs", "Program committee", "Calendar", "Feedback"];
                             scrollbar-thin scrollbar-thumb-gray-300 scrollbar-track-gray-100 scroll-pt-2">
                                 {pastTalks.map(talk => (
                                         <div class="snap-start"> <!-- Add this wrapper -->
-                                            <TalkCard talk={talk} past={true} compactable={true}/>
+                                            <PastCard talk={talk} past={true} compactable={true}/>
                                         </div>
                                 ))}
                             </div>

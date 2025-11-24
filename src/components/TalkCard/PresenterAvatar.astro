@@ -1,0 +1,27 @@
+---
+import { Image } from "astro:assets";
+import { getInitials } from "../../utils/constants";
+
+const { presenter, size = "medium" } = Astro.props;
+const sizeClasses = {
+  small: "w-12 h-12 sm:w-10 sm:h-10",
+  medium: "w-16 h-16 sm:w-14 sm:h-14",
+  large: "w-24 h-24"
+};
+
+const images = import.meta.glob('/src/assets/photos/*.{jpeg,jpg,png,gif}');
+const image = presenter.photo ? images[`/src/assets/photos/${presenter.photo}`]() : null;
+---
+
+{presenter.photo && image ? (
+  <Image
+    src={image}
+    alt={presenter.name}
+    class={`${sizeClasses[size]} object-cover rounded-lg shadow flex-shrink-0`}
+    loading="lazy"
+  />
+) : (
+  <div class={`${sizeClasses[size]} bg-gradient-to-br from-blue-400 to-blue-600 rounded-lg flex items-center justify-center text-white font-bold text-sm shadow flex-shrink-0`}>
+    {getInitials(presenter.name)}
+  </div>
+)}
