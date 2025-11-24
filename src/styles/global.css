@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+    font-size: 18px; /* Default is 16px — this makes everything ~12.5% larger */
+    background-color: #f7f8fb; /* base color */
+    background-image:
+            linear-gradient(rgba(37, 99, 235, 0.05) 2.3px, transparent 2.3px),
+            linear-gradient(to right, rgba(37, 99, 235, 0.05) 2.3px, transparent 2.3px);
+    background-size: 46px 46px;
+
+
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 20px; /* ~25% larger on medium+ screens */
+    }
+}

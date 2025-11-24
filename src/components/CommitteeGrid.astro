@@ -1,0 +1,57 @@
+---
+import committee from '../data/committee';
+import {Image} from "astro:assets";
+const images = import.meta.glob('/src/assets/photos/*.{jpeg,jpg,png,gif}')
+---
+
+
+<section class="py-12" id="Program_committee">
+    <div class="flex items-center gap-3 mb-6">
+        <svg class="w-8 h-8 text-blue-600 stroke-current" stroke-width="2" viewBox="-0.5 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path d="M8.96991 12.89C10.6599 12.89 12.0299 11.5558 12.0299 9.91C12.0299 8.2642 10.6599 6.93 8.96991 6.93C7.27992 6.93 5.90991 8.2642 5.90991 9.91C5.90991 11.5558 7.27992 12.89 8.96991 12.89Z"
+                   stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+            <path d="M12.93 13.1C14.37 14.18 15.32 15.84 15.42 17.72C15.43 17.91 15.27 18.07 15.08 18.07H2.84996C2.64996 18.07 2.48996 17.91 2.49996 17.72C2.60996 15.84 3.55997 14.18 5.00997 13.1"
+                   stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+            <path d="M11.03 12.11H11.02"  stroke-miterlimit="10" stroke-linecap="round"
+                  stroke-linejoin="round"/>
+            <path d="M17.1299 14.56C18.2787 14.56 19.2099 13.6556 19.2099 12.54C19.2099 11.4244 18.2787 10.52 17.1299 10.52C15.9812 10.52 15.0499 11.4244 15.0499 12.54C15.0499 13.6556 15.9812 14.56 17.1299 14.56Z"
+                   stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+            <path d="M20.3 15.13C20.99 15.84 21.44 16.79 21.5 17.83C21.51 17.97 21.4 18.07 21.26 18.07H17.38"
+                   stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+        </svg>
+        <h2 class="text-3xl font-bold text-gray-800">Program Committee</h2>
+    </div>
+    <div>
+        <div class="grid gap-x-2 md:gap-x-6 gap-y-8 grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 xl:grid-cols-6">
+            {committee.map((member) => {
+                return (
+                        <a href={member.profile} target="_blank" aria-label={`Visit ${member.name}'s profile`}
+                           class="block bg-white rounded-xl text-center p-4
+                          border border-gray-100
+                          shadow-md hover:shadow-lg
+                          transition-all duration-300 transform hover:-translate-y-0.5">
+
+                            {/* Photo - Generous circular photo (w-28 h-28) */}
+                            <div class="w-24 h-24 sm:w-28 sm:h-28 mx-auto mb-3 rounded-full overflow-hidden
+                                border-2 border-white shadow-inner /* Clean inner shadow */">
+                                {/* The photo is now the primary visual element, but not square-dominant */}
+                                <Image src={images[`/src/assets/${member.photo}`]()} alt={`${member.name}`}
+                                       loading="lazy"
+                                       class="object-cover w-full h-full"/>
+                            </div>
+
+                            {/* Text Content - Focused and clear */}
+                            <div class="text-center">
+                                <h3 class="text-base font-semibold text-gray-800 leading-snug">
+                                    {member.name}
+                                </h3>
+                                <p class="text-sm text-gray-500 mt-1">
+                                    {member.university}
+                                </p>
+                            </div>
+                        </a>
+                )
+            })}
+        </div>
+    </div>
+</section>

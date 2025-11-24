@@ -1,0 +1,428 @@
+---
+import {Image} from "astro:assets";
+const {talk, past = false, compactable = false} = Astro.props;
+
+// 1. Define Continent Colors and SVGs
+const continentMap = {
+    'Europe': {
+        colorClass: 'border-yellow-500', // Yellow
+        bgColorClass: 'bg-yellow-100',
+        textColorClass: 'text-yellow-700',
+        svg: `<svg xmlns="http://www.w3.org/2000/svg" class="w-6 h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M3.055 11H5a2 2 0 012 2v1a2 2 0 002 2 2 2 0 012 2v2.945M8 3.935V5.5A2.5 2.5 0 0010.5 8h.5a2 2 0 012 2 2 2 0 104 0v-2.5a2.5 2.5 0 00-2.5-2.5H12a2 2 0 01-2-2v-.935m-1 7.279L8.9 15H1.458C.283 14.59.083 13.918 0 13c.083-.918.283-1.59.458-2.008L8.9 9.721v1.516l-3.35 1.705L8.9 15v1.516L5.55 15.309M19.945 15H17a2 2 0 00-2-2v-1a2 2 0 01-2-2 2 2 0 10-4 0V9.055"/></svg>`
+    },
+    'North America': {
+        colorClass: 'border-orange-500', // Orange
+        bgColorClass: 'bg-orange-100',
+        textColorClass: 'text-orange-700',
+        svg: `<svg xmlns="http://www.w3.org/2000/svg" class="w-6 h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M12 2.25a.75.75 0 00-.75.75v16.19l-4.72-2.126a.75.75 0 00-.91-.144l-2.427 1.214A.75.75 0 003 18.75V5.25a2.25 2.25 0 012.25-2.25h13.5a2.25 2.25 0 012.25 2.25v13.5a.75.75 0 00.91.144l-2.427-1.214a.75.75 0 00-.91.144L12.75 19.19V3a.75.75 0 00-.75-.75z"/></svg>`
+    },
+    'Asia': {
+        colorClass: 'border-blue-500', // Blue
+        bgColorClass: 'bg-blue-100',
+        textColorClass: 'text-blue-700',
+        svg: `<svg xmlns="http://www.w3.org/2000/svg" class="w-6 h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M21 12a9 9 0 01-9 9m9-9a9 9 0 00-9-9m9 9h-3M9 21a9 9 0 01-9-9m0 0a9 9 0 019-9m-9 9h3m-5.46 6.75l-1.07-1.07a1 1 0 00-1.414 0L1 17.586m2.586-1.414l1.07 1.07a1 1 0 001.414 0L7 16.172m-2.172-1.414l1.07-1.07a1 1 0 001.414 0L8.83 14.05"/></svg>`
+    },
+};
+
+
+// Generate initials from the presenter's name
+const getInitials = (name) => {
+    return name.split(' ').map(n => n[0]).join('').toUpperCase();
+};
+
+// Generate a unique ID for each card
+const cardId = `talk-card-${talk.id}`;
+
+// Determine the final border color class
+const borderMap = {
+    europe: 'border-yellow-400',
+    asia: 'border-blue-400',
+    america: 'border-orange-400',
+};
+const finalBorderClass = borderMap[talk.presenter.continent.toLowerCase()] || 'border-gray-300';
+
+const images = import.meta.glob('/src/assets/photos/*.{jpeg,jpg,png,gif}')
+const image = images[`/src/assets/photos/${talk.presenter.photo}`]()
+---
+
+<article class={`bg-white rounded-2xl shadow-md hover:shadow-xl transition-all overflow-hidden border-l-4 
+                    snap-start shrink-0 ${finalBorderClass} hover:scale-[1.02]`}
+         data-card-id={cardId}>
+    <div class={compactable ? 'p-4' : 'p-6'}>
+        {compactable ? (
+                <div class="compact-card-content">
+                    <div class="flex flex-col sm:flex-row items-center gap-4 hover:cursor-pointer" id="card-header">
+                        <div class="flex flex-col sm:flex-row items-start gap-3 flex-1 min-w-0">
+                            {talk.presenter.photo ? (
+                                    <Image
+                                            src={image}
+                                            alt={talk.presenter.name}
+                                            class="w-16 h-16 sm:w-14 sm:h-14 object-cover rounded-lg shadow flex-shrink-0 mt-1 mx-auto sm:mx-0"
+                                            loading="lazy"
+                                    />
+                            ) : (
+                                    <div class="w-12 h-12 sm:w-10 sm:h-10 bg-gradient-to-br from-blue-400 to-blue-600 rounded-lg flex items-center justify-center text-white font-bold text-sm shadow flex-shrink-0 mt-1 mx-auto sm:mx-0">
+                                        {getInitials(talk.presenter.name)}
+                                    </div>
+                            )}
+
+                            <div class="flex-1 min-w-0 break-words text-center sm:text-left">
+                                <h3
+                                        class="text-base font-semibold text-gray-800 line-clamp-2 leading-snug mb-1 break-words"
+                                        style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; min-height: 2.5rem;"
+                                >
+                                    {talk.title}
+                                </h3>
+                                <p class="text-sm text-gray-600 break-words">
+                                    {talk.presenter.name}, {talk.presenter.affiliation}
+                                </p>
+                            </div>
+                        </div>
+
+                        <!-- Buttons: visible only on desktop -->
+                        {(talk.pdf || talk.video || talk.youtubeEmbed) && (
+                                <div class="hidden sm:flex gap-2 flex-shrink-0">
+                                    {talk.youtubeEmbed && (
+                                            <a
+                                                    href={talk.youtubeEmbed}
+                                                    target="_blank"
+                                                    class="w-8 h-8 bg-red-100 text-red-600 rounded-lg flex items-center justify-center hover:bg-red-200 transition-colors"
+                                                    onclick="event.stopPropagation();"
+                                            >
+                                                <svg class="w-4 h-4" fill="currentColor" viewBox="0 0 24 24">
+                                                    <path d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"/>
+                                                </svg>
+                                            </a>
+                                    )}
+                                    {talk.pdf && (
+                                            <a
+                                                    href={`/presentations/${talk.pdf}`}
+                                                    download
+                                                    class="w-8 h-8 bg-blue-100 text-blue-600 rounded-lg flex items-center justify-center hover:bg-blue-200 transition-colors"
+                                                    onclick="event.stopPropagation();"
+                                            >
+                                                <svg
+                                                        class="w-4 h-4"
+                                                        fill="none"
+                                                        stroke="currentColor"
+                                                        viewBox="0 0 24 24"
+                                                >
+                                                    <path
+                                                            stroke-linecap="round"
+                                                            stroke-linejoin="round"
+                                                            stroke-width="2"
+                                                            d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4"
+                                                    ></path>
+                                                </svg>
+                                            </a>
+                                    )}
+                                </div>
+                        )}
+                    </div>
+
+                    <!-- Expanded content -->
+                    <div class="compact-expanded-content hidden mt-4 pt-4 border-t border-gray-200">
+                        <!-- Show buttons on mobile only here -->
+                        {(talk.pdf || talk.video || talk.youtubeEmbed) && (
+                                <div class="flex sm:hidden gap-2 mb-3">
+                                    {talk.youtubeEmbed && (
+                                            <a
+                                                    href={talk.youtubeEmbed}
+                                                    target="_blank"
+                                                    class="w-8 h-8 bg-red-100 text-red-600 rounded-lg flex items-center justify-center hover:bg-red-200 transition-colors"
+                                                    onclick="event.stopPropagation();"
+                                            >
+                                                <svg class="w-4 h-4" fill="currentColor" viewBox="0 0 24 24">
+                                                    <path d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"/>
+                                                </svg>
+                                            </a>
+                                    )}
+                                    {talk.pdf && (
+                                            <a
+                                                    href={`/presentations/${talk.pdf}`}
+                                                    download
+                                                    class="w-8 h-8 bg-blue-100 text-blue-600 rounded-lg flex items-center justify-center hover:bg-blue-200 transition-colors"
+                                                    onclick="event.stopPropagation();"
+                                            >
+                                                <svg
+                                                        class="w-4 h-4"
+                                                        fill="none"
+                                                        stroke="currentColor"
+                                                        viewBox="0 0 24 24"
+                                                >
+                                                    <path
+                                                            stroke-linecap="round"
+                                                            stroke-linejoin="round"
+                                                            stroke-width="2"
+                                                            d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4"
+                                                    ></path>
+                                                </svg>
+                                            </a>
+                                    )}
+                                </div>
+                        )}
+
+                        <details class="mb-4 group">
+                            <summary
+                                    class="flex items-center gap-2 text-blue-600 hover:text-blue-700 font-medium cursor-pointer transition-colors list-none"
+                            >
+                                <span class="text-sm">Abstract</span>
+                                <svg
+                                        class="w-4 h-4 transition-transform group-open:rotate-180"
+                                        fill="none"
+                                        stroke="currentColor"
+                                        viewBox="0 0 24 24"
+                                >
+                                    <path
+                                            stroke-linecap="round"
+                                            stroke-linejoin="round"
+                                            stroke-width="2"
+                                            d="M19 9l-7 7-7-7"
+                                    ></path>
+                                </svg>
+                            </summary>
+                            <p class="text-gray-600 text-sm leading-relaxed mt-3 pl-4 border-l-2 border-blue-200">
+                                {talk.abstract}
+                            </p>
+                        </details>
+
+                        {talk.keywords && talk.keywords.length > 0 && (
+                                <div class="flex flex-wrap gap-2 mb-3">
+                                    {talk.keywords.slice(0, 4).map((keyword) => (
+                                            <span class="px-3 py-1 bg-blue-100 text-blue-700 text-xs font-medium rounded-full">
+            {keyword}
+          </span>
+                                    ))}
+                                    {talk.keywords.length > 4 && (
+                                            <span
+                                                    class="px-3 py-1 bg-gray-100 text-gray-600 text-xs font-medium rounded-full cursor-help"
+                                                    title={talk.keywords.slice(4).join(', ')}
+                                            >
+            +{talk.keywords.length - 4} more
+          </span>
+                                    )}
+                                </div>
+                        )}
+
+                        <p class="text-sm text-gray-600 mb-3">
+                            <span class="font-semibold">Invited by:</span>{' '}
+                            <a href={talk.invitedBy.link} class="text-blue-600 hover:text-blue-700 hover:underline">
+                                {talk.invitedBy.name}
+                            </a>
+                            {' '}({talk.invitedBy.affiliation})
+                        </p>
+
+                        {talk.youtubeEmbed && (
+                                <div class="mt-4 rounded-xl overflow-hidden shadow-lg">
+                                    <div class="relative aspect-video youtube-placeholder" data-src={talk.youtubeEmbed}>
+                                        <button
+                                                class="absolute inset-0 flex items-center justify-center bg-black/40 text-white hover:bg-black/60 transition-colors"
+                                                title="Click to load video"
+                                        >
+                                            <svg class="w-16 h-16 text-white opacity-90" fill="currentColor"
+                                                 viewBox="0 0 24 24">
+                                                <path d="M8 5v14l11-7z"/>
+                                            </svg>
+                                        </button>
+                                    </div>
+                                </div>
+                        )}
+                    </div>
+                </div>
+        ) : (
+                <>
+                    <h3 class="text-xl font-bold text-gray-800 mb-3 leading-tight">{talk.title}</h3>
+
+                    <details class="mb-4 group">
+                        <summary
+                                class="flex items-center gap-2 text-blue-600 hover:text-blue-700 font-medium cursor-pointer transition-colors list-none">
+                            <span class="text-sm">Abstract</span>
+                            <svg class="w-4 h-4 transition-transform group-open:rotate-180" fill="none"
+                                 stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                      d="M19 9l-7 7-7-7"></path>
+                            </svg>
+                        </summary>
+                        <p class="text-gray-600 text-sm leading-relaxed mt-3 pl-4 border-l-2 border-blue-200">
+                            {talk.abstract}
+                        </p>
+                    </details>
+
+                    {(talk.pdf || talk.video) && (
+                            <div class="flex flex-wrap gap-2 mb-4">
+                                {talk.pdf && (
+                                        <a href={`/presentations/${talk.pdf}`} download
+                                           class="flex items-center gap-2 px-4 py-2 bg-gradient-to-r from-blue-600 to-blue-700 text-white text-sm rounded-lg hover:shadow-lg transition-all">
+                                            <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                                      d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4"></path>
+                                            </svg>
+                                            PDF
+                                        </a>
+                                )}
+                                {talk.video && (
+                                        <a href={talk.video} download
+                                           class="flex items-center gap-2 px-4 py-2 bg-gradient-to-r from-purple-600 to-purple-700 text-white text-sm rounded-lg hover:shadow-lg transition-all">
+                                            <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                                      d="M14.752 11.168l-3.197-2.132A1 1 0 0010 9.87v4.263a1 1 0 001.555.832l3.197-2.132a1 1 0 000-1.664z"></path>
+                                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                                      d="M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+                                            </svg>
+                                            Video
+                                        </a>
+                                )}
+                            </div>
+                    )}
+
+                    <div class="flex flex-col md:flex-row gap-6">
+                        <div class="flex md:flex-col justify-center items-center gap-4 md:w-32">
+                            {talk.presenter.photo ? (
+                                    <a href={talk.presenter.link}>
+                                        <Image
+                                                src={image}
+                                                alt={talk.presenter.name}
+                                                class="w-24 h-24 object-cover rounded-xl shadow-lg"
+                                                loading="lazy"
+                                        />
+                                    </a>
+                            ) : (
+                                    <a href={talk.presenter.link}>
+                                        <div class="w-20 h-20 bg-gradient-to-br from-blue-400 to-blue-600 rounded-xl flex items-center justify-center text-white font-bold text-2xl shadow-lg">
+                                            {getInitials(talk.presenter.name)}
+                                        </div>
+                                    </a>
+                            )}
+                            <div class="flex-1 md:flex-none md:text-center">
+                                <p class="font-semibold text-gray-800">{talk.presenter.name}</p>
+                                <p class="text-sm text-gray-500">{talk.presenter.affiliation}</p>
+                            </div>
+                        </div>
+
+                        <div class="flex-1">
+                            {!past && talk.times && (
+                                    <div class="grid sm:grid-cols-2 gap-2 mb-4">
+                                        {[
+                                            {
+                                                city: 'UTC',
+                                                time: talk.times.utc,
+                                                icon: '🌍',
+                                                border: 'border-l-4 border-gray-200'
+                                            },
+                                            {
+                                                city: 'Prague',
+                                                time: talk.times.prague,
+                                                icon: '🇨🇿',
+                                                border: 'border-l-4 border-yellow-400'
+                                            },
+                                            {
+                                                city: 'New York',
+                                                time: talk.times.newYork,
+                                                icon: '🇺🇸',
+                                                border: 'border-l-4 border-orange-400'
+                                            },
+                                            {
+                                                city: 'Shanghai',
+                                                time: talk.times.shanghai,
+                                                icon: '🇨🇳',
+                                                border: 'border-l-4 border-blue-400'
+                                            }
+                                        ].map(({city, time, icon, border}) => (
+                                                <div class=`flex  ${border} items-center gap-2 px-3 py-2 bg-gradient-to-r from-blue-50 to-slate-50 rounded-lg`>
+                                                    <span>{icon}</span>
+                                                    <div class="flex-1 min-w-0">
+                                                        <p class="text-xs font-semibold text-gray-600">{city}</p>
+                                                        <p class="text-xs text-gray-700 truncate">{time}</p>
+                                                    </div>
+                                                </div>
+                                        ))}
+                                    </div>
+                            )}
+
+                            {talk.keywords && talk.keywords.length > 0 && (
+                                    <div class="flex flex-wrap gap-2 mb-3">
+                                        {talk.keywords.slice(0, 4).map((keyword) => (
+                                                <span class="px-3 py-1 bg-blue-100 text-blue-700 text-xs font-medium rounded-full">
+                                        {keyword}
+                                    </span>
+                                        ))}
+                                        {talk.keywords.length > 4 && (
+                                                <span
+                                                        class="px-3 py-1 bg-gray-100 text-gray-600 text-xs font-medium rounded-full cursor-help"
+                                                        title={talk.keywords.slice(4).join(', ')}
+                                                >
+                                        +{talk.keywords.length - 4} more
+                                    </span>
+                                        )}
+                                        <span class="hidden">
+                                    {talk.keywords.join(', ')}
+                                </span>
+                                    </div>
+                            )}
+
+                            <p class="text-sm text-gray-600">
+                                <span class="font-semibold">Invited by:</span>{' '}
+                                <a href={talk.invitedBy.link} class="text-blue-600 hover:text-blue-700 hover:underline">
+                                    {talk.invitedBy.name}
+                                </a>
+                                {' '}({talk.invitedBy.affiliation})
+                            </p>
+                        </div>
+                    </div>
+                    {past && talk.youtubeEmbed && (
+                            <div class="mt-6 rounded-xl overflow-hidden shadow-lg">
+                                <div class="relative aspect-video">
+                                    <iframe
+                                            src={talk.youtubeEmbed}
+                                            title="YouTube video player"
+                                            class="absolute inset-0 w-full h-full"
+                                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture;"
+                                            referrerpolicy="strict-origin-when-cross-origin"
+                                            allowfullscreen
+                                    ></iframe>
+                                </div>
+                            </div>
+                    )}
+                </>
+        )}
+    </div>
+</article>
+
+<script define:vars={{cardId}}>
+    (function () {
+        const card = document.querySelector(`[data-card-id="${cardId}"]`);
+        if (!card) return;
+
+        const expandedContent = card.querySelector('.compact-expanded-content');
+        const header = card.querySelector('#card-header');
+
+        if (header && expandedContent) {
+            header.addEventListener('click', (e) => {
+                // Ignore clicks on links or buttons
+                if (e.target.closest('a, button, summary')) return;
+                expandedContent.classList.toggle('hidden');
+                // card.classList.toggle('ring-2');
+                // card.classList.toggle('ring-blue-500');
+            });
+        }
+
+        // Lazy YouTube embed loader
+        card.addEventListener('click', (e) => {
+            const placeholder = e.target.closest('.youtube-placeholder');
+            if (!placeholder || placeholder.querySelector('iframe')) return;
+
+            const src = placeholder.getAttribute('data-src');
+            const iframe = document.createElement('iframe');
+            iframe.src = src;
+            iframe.title = 'YouTube video player';
+            iframe.className = 'absolute inset-0 w-full h-full';
+            iframe.allow =
+                'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture;';
+            iframe.referrerPolicy = 'strict-origin-when-cross-origin';
+            iframe.allowFullscreen = true;
+
+            placeholder.innerHTML = '';
+            placeholder.appendChild(iframe);
+        });
+    })();
+</script>

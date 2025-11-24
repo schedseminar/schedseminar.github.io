@@ -1,0 +1,23 @@
+{
+  "id": 5,
+  "title": "Fairness in Repetitive Scheduling",
+  "abstract": "It is by now well understood that fairness plays a key role in customer satisfaction. Yet, there is still a lack of models that help organizations make fair operational decisions, in particular when it comes to scheduling customers’ jobs. In this talk, I will present a novel framework for fair decision-making in repetitive scheduling environments. We study a setting with n clients, where in each of m consecutive periods (e.g., days), every client submits a job to be processed, and the scheduler must guarantee each client a minimum quality of service (QoS). I will demonstrate how this framework can be applied in different scheduling contexts and discuss some of the algorithmic challenges it raises. Joint work with Dvir Shabtay, Michael Pinedo, Rolf Niedermeier, Hendrik Molter, Klaus Heeger, and Danny Segev.",
+  "presenter": {
+    "name": "Dan Hermelin",
+    "affiliation": "Ben Gurion Uni",
+    "photo": "Dan_Hermelin.jpg",
+    "link": "https://cris.bgu.ac.il/en/persons/dan-hermelin",
+    "continent": "Europe"
+  },
+  "invitedBy": {
+    "name": "Michael Pinedo",
+    "affiliation": "New York Uni",
+    "link": "https://www.stern.nyu.edu/faculty/bio/michael-pinedo"
+  },
+  "datePrague": "2025-10-01",
+  "keywords": "Fairness, Repetitive scheduling, Tardy jobs, Total completion time, Combinatorial algorithms, Complexity results",
+  "pdf": "SchedulingSeminar_DannyHermelin.pdf",
+  "video": "https://scheduling-seminar.iid.ciirc.cvut.cz/videos/25_3_Fall/25_10_01%20Dan%20Hermelin%20(Ben%20Gurion%20Uni)%20_%20Fairness%20in%20Repetitive%20Scheduling.mp4",
+  "youtubeEmbed": "https://www.youtube.com/embed/dSSPWXANaSs?si=YbXDIn5pe1TTXkz9",
+  "status": "past"
+}

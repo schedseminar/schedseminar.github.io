@@ -1,0 +1,66 @@
+backend:
+  name: github
+  repo: viktorkorladinov/viktorkorladinov.github.io
+  branch: master
+  base_url: https://api.netlify.com
+  auth_endpoint: auth
+
+media_folder: "../../src/assets/photos"
+public_folder: "/src/assets/photos"
+
+collections:
+  - name: "talks"
+    label: "Talks"
+    label_singular: "Talk"
+    folder: "src/content/talks"
+    extension: "json"
+    format: "json"
+    create: true
+    slug: "{{fields.title | slug}}"
+    # Decap CMS 'slug' filter automatically:
+    #  - lowercases
+    #  - replaces spaces with hyphens
+    #  - removes most special chars
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Abstract", name: "abstract", widget: "text", required: false }
+
+      - label: "Presenter"
+        name: "presenter"
+        widget: "object"
+        fields:
+          - { label: "Name", name: "name", widget: "string" }
+          - { label: "Affiliation", name: "affiliation", widget: "string" }
+          - label: "Photo"
+            name: "photo"
+            widget: "image"
+            media_folder: "src/assets/photos"
+            public_folder: "/src/assets/photos"
+          - { label: "Link", name: "link", widget: "string" }
+          - { label: "Continent", name: "continent", widget: "string" }
+
+      - label: "Invited By"
+        name: "invitedBy"
+        widget: "object"
+        fields:
+          - { label: "Name", name: "name", widget: "string" }
+          - { label: "Affiliation", name: "affiliation", widget: "string" }
+          - { label: "Link", name: "link", widget: "string" }
+
+      - { label: "Date (Prague time)", name: "datePrague", widget: "datetime", date_format: "YYYY-MM-DD", required: true }
+      - { label: "Keywords", name: "keywords", widget: "string", required: false }
+
+      - label: "PDF"
+        name: "pdf"
+        widget: "file"
+        required: false
+        media_folder: "public/presentations"
+        public_folder: "/presentations"
+
+      - { label: "Video", name: "video", widget: "string", required: false }
+      - { label: "YouTube Embed", name: "youtubeEmbed", widget: "string", required: false }
+
+      - label: "Status"
+        name: "status"
+        widget: "select"
+        options: ["upcoming", "past"]

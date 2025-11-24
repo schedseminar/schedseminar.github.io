@@ -1,0 +1,212 @@
+[
+  {
+    "name": "Alessandro Agnetis",
+    "university": "University of Siena",
+    "photo": "photos/alessandro_agnetis.jpg",
+    "profile": "https://www3.diism.unisi.it/~agnetis/"
+  },
+  {
+    "name": "M. Selim Akturk",
+    "university": "Bilkent University",
+    "photo": "photos/Akturk.jpg",
+    "profile": "//akturk.bilkent.edu.tr"
+  },
+  {
+    "name": "Christian Artigues",
+    "university": "LAAS - CNRS",
+    "photo": "photos/christian_artigues_new.jpg",
+    "profile": "https://homepages.laas.fr/artigues/drupal/node/11"
+  },
+  {
+    "name": "Sanjoy Baruah",
+    "university": "Washington U, STL",
+    "photo": "photos/sanjoy_baruah.jpg",
+    "profile": "https://engineering.wustl.edu/faculty/Sanjoy-Baruah.html "
+  },
+  {
+    "name": "Edmund Burke",
+    "university": "Uni of Leicester",
+    "photo": "photos/Prof_Burke.jpg",
+    "profile": "https://le.ac.uk/about/senior-management/profiles/deputy-vice-chancellor"
+  },
+  {
+    "name": "Zhi-Long Chen",
+    "university": "Uni of Maryland",
+    "photo": "photos/ZL-Chen.jpg",
+    "profile": "https://scholar.google.com/citations?hl=en&user=AWOfe_QAAAAJ&view_op=list_works&sortby=pubdate"
+  },
+  {
+    "name": "Liang Gao",
+    "university": "HUST, Wuhan",
+    "photo": "photos/liang_gao.jpg",
+    "profile": "https://scholar.google.com/citations?user=NqIi8_8AAAAJ&hl=en"
+  },
+  {
+    "name": "Nicholas G. Hall",
+    "university": "The Ohio State Uni",
+    "photo": "photos/nicholas_g_hall.jpg",
+    "profile": "https://fisher.osu.edu/people/hall.33"
+  },
+  {
+    "name": "Claire Hanen",
+    "university": "Sorbonne Uni",
+    "photo": "photos/Claire_Hanen.jpg",
+    "profile": "https://ufr-segmi.parisnanterre.fr/organisation-et-contacts/espace-reserve-enseignants/site-des-enseignants/les-enseignants-de-segmi/hanen-claire/hanen-claire-93518.kjsp"
+  },
+  {
+    "name": "Sigrid Knust",
+    "university": "Uni of Osnabrück",
+    "photo": "photos/sknust.jpg",
+    "profile": "https://www.informatik.uni-osnabrueck.de/knust/"
+  },
+  {
+    "name": "Rainer Kolisch",
+    "university": "TU Munich",
+    "photo": "photos/Kolisch_Rainer.jpg",
+    "profile": "https://www.professors.wi.tum.de/om/team/prof-dr-rainer-kolisch/"
+  },
+  {
+    "name": "Mikhail Kovalyov",
+    "university": "UIIP NAS Belarus",
+    "photo": "photos/Mikhail_Kovalyov.jpg",
+    "profile": "http://uiip.bas-net.by/eng/contacts.php"
+  },
+  {
+    "name": "Kangbok Lee",
+    "university": "POSTECH",
+    "photo": "photos/kangbok_lee.jpg",
+    "profile": "https://sites.google.com/site/kangbokstudy/"
+  },
+  {
+    "name": "Chung-Lun Li",
+    "university": "Hong Kong PolyU",
+    "photo": "photos/chung-lun_li.jpg",
+    "profile": "https://lms.polyu.edu.hk/people/academic-staff/prof-chung-lun-li/"
+  },
+  {
+    "name": "Bertrand Lin",
+    "university": "NCTU, Taiwan",
+    "photo": "photos/bertrand_lin.jpg",
+    "profile": "https://www.iim.nctu.edu.tw/en/teacher/Lin-Bertrand%20M.T."
+  },
+  {
+    "name": "Hirofumi Matsuo",
+    "university": "TIU, Tokyo",
+    "photo": "photos/hirofumi_matsuo.jpg",
+    "profile": "https://scholar.google.com/citations?user=VQwcdN4AAAAJ&hl=en"
+  },
+  {
+    "name": "Erwin Pesch",
+    "university": "Uni of Siegen",
+    "photo": "photos/SA-2018-Erwin.jpg",
+    "profile": "https://www.wiwi.uni-siegen.de/mis/team/"
+  },
+  {
+    "name": "Marc Posner",
+    "university": "The Ohio State Uni",
+    "photo": "photos/MPosner.jpg",
+    "profile": "https://ise.osu.edu/people/posner.1"
+  },
+  {
+    "name": "Chris Potts",
+    "university": "Southampton Uni",
+    "photo": "photos/chris_potts.jpg",
+    "profile": "https://www.southampton.ac.uk/maths/about/staff/cnp1.page"
+  },
+  {
+    "name": "Xiangtong Qi",
+    "university": "HKUST",
+    "photo": "photos/xiangtong_qi.jpg",
+    "profile": "https://seng.ust.hk/about/people/faculty/xiangtong-qi"
+  },
+  {
+    "name": "Rhonda Righter",
+    "university": "UC Berkeley",
+    "photo": "photos/rhonda-righter-2015_0.jpg",
+    "profile": "https://rrighter.ieor.berkeley.edu/"
+  },
+  {
+    "name": "Rubén Ruiz",
+    "university": "UP València",
+    "photo": "photos/Rubén_Ruiz_1.jpg",
+    "profile": "http://soa.iti.es/rruiz"
+  },
+  {
+    "name": "Andrea Schaerf",
+    "university": "Uni of Udine",
+    "photo": "photos/Andrea.jpg",
+    "profile": "http://www.dpia.uniud.it/schaerf/"
+  },
+  {
+    "name": "Dvir Shabtay",
+    "university": "Ben Gurion Uni",
+    "photo": "photos/dvir-web.jpg",
+    "profile": "https://in.bgu.ac.il/en/engn/iem/pages/staff/Dvir-Shabtay.aspx"
+  },
+  {
+    "name": "Roman Słowiński",
+    "university": "Poznań Uni Tech.",
+    "photo": "photos/R.Slowinski 4,5x6,5.jpg",
+    "profile": "http://idss.cs.put.poznan.pl/site/rslowinski.html"
+  },
+  {
+    "name": "Stephen Smith",
+    "university": "CMU",
+    "photo": "photos/smith_steve.jpg",
+    "profile": "https://www.ri.cmu.edu/ri-faculty/stephen-smith/"
+  },
+  {
+    "name": "Clifford Stein",
+    "university": "Columbia Uni",
+    "photo": "photos/Clifford_Stein_web.jpg",
+    "profile": "https://www.ieor.columbia.edu/faculty/clifford-stein"
+  },
+  {
+    "name": "Přemysl Šůcha",
+    "university": "CTU in Prague",
+    "photo": "photos/Premysl_Sucha.jpg",
+    "profile": "http://people.ciirc.cvut.cz/~suchap/"
+  },
+  {
+    "name": "Vincent T'kindt",
+    "university": "Uni de Tours",
+    "photo": "photos/VTkindt-head.jpg",
+    "profile": "https://www.univ-tours.fr/annuaire/m-vincent-tkindt"
+  },
+  {
+    "name": "Li-Xin Tang",
+    "university": "NEU, Shenyang",
+    "photo": "photos/lixin_tang.jpg",
+    "profile": "http://dao.neu.edu.cn/"
+  },
+  {
+    "name": "Reza Tavakkoli",
+    "university": "Uni of Tehran",
+    "photo": "photos/reza_moghaddam.jpg",
+    "profile": "https://scholar.google.com/citations?user=gqVUx4cAAAAJ&hl=en"
+  },
+  {
+    "name": "Marc Uetz",
+    "university": "Uni of Twente",
+    "photo": "photos/mark_uetz.jpg",
+    "profile": "https://people.utwente.nl/m.uetz"
+  },
+  {
+    "name": "G. Vanden Berghe",
+    "university": "KU Leuven",
+    "photo": "photos/greet_vanden_berghe.jpg",
+    "profile": "https://www.kuleuven.be/wieiswie/nl/person/00053376"
+  },
+  {
+    "name": "Mario Vanhoucke",
+    "university": "Ghent University",
+    "photo": "photos/Mario_Vanhoucke_Pasfoto.jpg",
+    "profile": "https://www.or-as.be"
+  },
+  {
+    "name": "Yakov Zinder",
+    "university": "UT Sydney",
+    "photo": "photos/Yakov-Zinder.jpg",
+    "profile": "https://profiles.uts.edu.au/Yakov.Zinder"
+  }
+]

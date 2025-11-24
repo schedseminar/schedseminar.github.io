@@ -1,0 +1,52 @@
+---
+import '../styles/global.css'
+import roboprox from '../assets/roboprox.png'
+import opjak from '../assets/opjak.png'
+import {Image} from "astro:assets";
+---
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width" />
+		<link rel="icon" type="image/svg+xml" href=`favicon.ico` />
+		<meta name="generator" content={Astro.generator} />
+		<title>Scheduling Seminar</title>
+	</head>
+	<body>
+		<slot />
+        <footer>
+            <div class="flex flex-col items-center text-center p-5 bg-gray-50 border-t border-gray-200">
+
+                <p class="text-sm text-gray-700">
+                    Maintained by <a href="https://iid.ciirc.cvut.cz/" class="font-bold text-blue-700 hover:underline">CTU in Prague</a>.
+                </p>
+
+                <div class="mt-2 max-w-2xl">
+                    <p class="text-sm text-gray-700 leading-relaxed">
+                        The Scheduling Seminar is co-funded by the Czech Republic and European Union under the project
+
+                        <a href='https://roboprox.eu/' class="inline-block align-middle ml-1">
+                            <Image src={roboprox} alt="roboprox logo" class="h-6 w-auto inline-block" style="vertical-align: middle;"/>
+                        </a>
+                        (reg. no. CZ.02.01.01/00/22_008/0004590).
+                    </p>
+
+                    <div class="mt-3">
+                        <Image src={opjak} alt="Co-funded by the European Union logo (OPJAK)" class="h-10 w-auto mx-auto"/>
+                    </div>
+                </div>
+
+            </div>
+        </footer>
+	</body>
+</html>
+
+<style>
+	html,
+	body {
+		margin: 0;
+		width: 100%;
+		height: 100%;
+	}
+</style>
