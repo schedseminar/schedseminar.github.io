@@ -1,0 +1,23 @@
+{
+  "id": 52,
+  "title": "Mixed integer linear programming for resource-constrained\n\t\t\t\t\t\t\t\tscheduling",
+  "abstract": "Mixed-Integer linear programming (MILP) is one of the generic modeling and algorithmic solution framework for NP-hard scheduling problems, along with Constraint Programming (CP) and SAT solvers. However, the literature often reports poor results of MILP solvers for resource-constrained scheduling problems compared to CP or SAT-based approaches such as Lazy Clause Generation. However, even if this is partly true because of the powerful dedicated scheduling algorithms embedded in constraint propagators, MILP approaches can reach very good results in terms of primal and dual bounds if the right formulation and specialized MILP components such as valid inequalities and column generation are chosen for the problem at hand. This talk first reviews the standard MILP formulations for resource-constrained scheduling problems and a few recent advances in the field. In particular, we focus on basic polyhedral results, on the relative relaxation strength of compact and extended formulations augmented with valid inequalities. Finally, we provide examples, including industrial ones where MILP, possibly integrated in hybrid CP/SAT/MILP methods, appears as a technique of choice.",
+  "presenter": {
+    "name": "Christian Artigues",
+    "affiliation": "LAAS - CNRS",
+    "photo": "christian_artigues_new.jpg",
+    "link": "https://homepages.laas.fr/artigues/drupal/node/11",
+    "continent": "Europe"
+  },
+  "invitedBy": {
+    "name": "Rainer Kolisch",
+    "affiliation": "MILP",
+    "link": "https://www.professors.wi.tum.de/om/team/prof-dr-rainer-kolisch/"
+  },
+  "datePrague": "2022-03-30",
+  "keywords": "Mixed-integer linear programming (MILP), Resource-constrained project scheduling problem (RCPSP), solvers, relaxation, CP, SAT",
+  "pdf": "SchedulingSeminar_ChristianArtigues.pdf",
+  "video": "https://scheduling-seminar.iid.ciirc.cvut.cz/videos/22_2_Spring/22_3_30%20Christian%20Artigues%20(LAAS%20-%20CNRS)%20_%20MILP%20for%20resource-constrained%20scheduling.mp4",
+  "youtubeEmbed": "https://www.youtube.com/embed/3KGLAnIgVuc",
+  "status": "past"
+}

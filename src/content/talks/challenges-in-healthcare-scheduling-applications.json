@@ -1,0 +1,23 @@
+{
+  "id": 67,
+  "title": "Challenges in Healthcare Scheduling Applications",
+  "abstract": "In the immortal words of Monty Python, “… and now for something completely different!” Over the past three decades, I have spent much of my time working on practical healthcare applications. Typically, the projects are done with healthcare collaborators. Virtually all of the scheduling problems are highly stochastic, and scheduling approaches focus on managing variability. In this talk, I will describe several healthcare applications including: diagnostic imaging, cancer treatment (chemotherapy and radiation), nurse/physician scheduling, surgical scheduling, 911 call centres, home care routing, medical resident scheduling and primary care appointments (e.g. advanced access). In each case, I will describe the underlying uncertainties and briefly review recent approaches.",
+  "presenter": {
+    "name": "Michael Carter",
+    "affiliation": "Uni of Toronto",
+    "photo": "CarterM_photo.jpg",
+    "link": "https://che.utoronto.ca/professor-michael-w-carter/",
+    "continent": "America"
+  },
+  "invitedBy": {
+    "name": "Michael Pinedo",
+    "affiliation": "chemotherapy and radiation",
+    "link": "https://www.stern.nyu.edu/faculty/bio/michael-pinedo"
+  },
+  "datePrague": "2021-06-23",
+  "keywords": "Healthcare scheduling applications, Diagnostic imaging, Cancer treatment (chemotherapy and radiation), Nurse/physician scheduling, Surgical scheduling, 911 call centres, Home care routing, Medical resident scheduling and primary care appointments",
+  "pdf": "SchedulingSeminar_MichaelCarter.pdf",
+  "video": "https://scheduling-seminar.iid.ciirc.cvut.cz/videos/21_2_Spring/21_6_23%20Mike%20Carter%20_%20Challenges%20in%20Healthcare%20Scheduling%20Applications%20_%20June%2023,%202021.mp4",
+  "youtubeEmbed": "https://www.youtube.com/embed/QtjRK465S28",
+  "status": "past"
+}

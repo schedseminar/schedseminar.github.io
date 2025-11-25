@@ -1,0 +1,23 @@
+{
+  "id": 31,
+  "title": "Conflict-Free Crane Scheduling in a Seaport Terminal",
+  "abstract": "In this talk, we focus on a container dispatching and conflict-free yard crane routing problem that arises at a storage yard in an automated, maritime container terminal. A storage yard serves as an intermediate buffer for import/export containers and exchanges containers between water- and landside of a maritime terminal. The problem is in which order and by which crane the containers are transported in order to minimize the makespan and prevent crane interferences. First, we limit our attention to incoming containers only that are positioned by twin cranes. Containers are assigned to the cranes according to different policies. We show that some cases are polynomially solvable. Approximation algorithms with guaranteed absolute and relative deviations from the optimum are devised for others. The results translate for the case of outgoing containers. In the second part we consider two rail mounted gantry cranes of different sizes, with the possibility to cross each other, that perform inbound, outbound and housekeeping requests. We solve this problem to optimality by a branch-and-cut approach that decomposes the problem into two problem classes and connects them via logic-based Benders constraints.",
+  "presenter": {
+    "name": "Erwin Pesch",
+    "affiliation": "Uni of Siegen",
+    "photo": "SA-2018-Erwin.jpg",
+    "link": "https://www.wiwi.uni-siegen.de/mis/team/",
+    "continent": "Europe"
+  },
+  "invitedBy": {
+    "name": "Zdeněk Hanzálek",
+    "affiliation": "CTU in Prague",
+    "link": "https://rtime.ciirc.cvut.cz/~hanzalek/"
+  },
+  "datePrague": "2023-05-25",
+  "keywords": "Logistics, Scheduling, Stacking cranes, Container terminal, Branch and cut",
+  "pdf": "SchedulingSeminar_ErwinPesch.pdf",
+  "video": "https://scheduling-seminar.iid.ciirc.cvut.cz/videos/23_2_Spring/23_5_25%20Erwin%20Pesch%20(Uni%20of%20Siegen)%20_%20Conflict-Free%20Crane%20Scheduling%20in%20a%20Seaport%20Ter..mp4",
+  "youtubeEmbed": "https://www.youtube.com/embed/Oc_pNrNp9NM",
+  "status": "past"
+}

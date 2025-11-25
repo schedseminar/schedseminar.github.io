@@ -1,0 +1,23 @@
+{
+  "id": 64,
+  "title": "The Benefit of Preemption",
+  "abstract": "Given an input of a scheduling problem, any non-preemptive solution for it can be used as a preemptive solution. Thus, the optimal cost of a preemptive solution is not larger than that of an optimal non-preemptive solution. As preemption comes at a cost in real-life applications, it is of interest to find the worst-case ratio between the two costs. For a given problem, the supremum ratio over all possible inputs of the ratio between the two costs (of an optimal solution without preemption and an optimal solution that possibly uses preemption) is called the power or benefit of preemption. While many scheduling variants can be studied with respect to this measure, we will focus on the cases of a single machine, parallel identical machines, and uniformly related machines, and we will discuss the objectives of makespan and total (weighted) completion time. We will exhibit how one can benefit from preemption, and we will analyze the resulting worst case ratios for several basic models.",
+  "presenter": {
+    "name": "Leah Epstein",
+    "affiliation": "University of Haifa",
+    "photo": "Leah_Epstein_2.jpg",
+    "link": "http://math.haifa.ac.il/lea/",
+    "continent": "Europe"
+  },
+  "invitedBy": {
+    "name": "Dvir Shabtay",
+    "affiliation": "Ben Gurion Uni",
+    "link": "https://in.bgu.ac.il/en/engn/iem/pages/staff/Dvir-Shabtay.aspx"
+  },
+  "datePrague": "2021-09-29",
+  "keywords": "Preemptive scheduling, Uniformly related machines, Total completion time, Makespan",
+  "pdf": "SchedulingSeminar_LeahEpstein.pdf",
+  "video": "https://scheduling-seminar.iid.ciirc.cvut.cz/videos/21_3_Fall/21_9_29%20Leah%20Epstein%20_%20The%20Benefit%20of%20Preemption%20_%20Sep%2029,%202021.mp4",
+  "youtubeEmbed": "https://www.youtube.com/embed/Ik7106Ul9Uw",
+  "status": "past"
+}

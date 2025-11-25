@@ -1,0 +1,23 @@
+{
+  "id": 71,
+  "title": "Data Analytics and Optimization for Production, Logistics and\n\t\t\t\t\t\t\t\tEnergy\n\t\t\t\t\t\t\t\tScheduling",
+  "abstract": "This talk discusses some interesting topics on scheduling and data analytics of production, logistics and energy in the steel industry, including: 1) production batching and scheduling in steelmaking/continuous casting, and hot/cold rolling operations; 2) logistics scheduling in storage/stowage, shuffling, transportation and (un)loading operations; 3) energy optimization including energy allocation, coordinated planning and scheduling of production and energy; 4) data based analytics, including dynamic analytics of BOF steelmaking process based on multi-stage modeling; temperature prediction of blast furnace; temperature prediction of molten iron in transportation process; energy analytics for estimation, prediction of generation and consumption, diagnosis and benchmarking; temperature prediction of reheat furnace based on mechanism and data; strip quality analytics of continuous annealing based on multi-objective ensemble learning; process monitoring and diagnosis of continuous annealing based on mechanism and data. Professor Lixin Tang is the Vice President of Northeastern University, China, a member of Chinese Academy of Engineering, the Director of Key Laboratory of Data Analytics and Optimization for Smart Industry, Ministry of Education, China, the Head of Centre for Artificial Intelligence and Data Science, and the Chair Professor of Centre for Industrial Intelligence and Systems Optimization. He is also a member of the discipline review group of the State Council for Control Science & Engineering, a member of review group of National Natural Science Foundation, the Vice President of Operations Research Society of China (ORSC), and the Founding Director of Data Analytics and Optimization Society for Smart Industry for ORSC.",
+  "presenter": {
+    "name": "Lixin Tang",
+    "affiliation": "North. Uni, Shenyang",
+    "photo": "lixin_tang.jpg",
+    "link": "http://dao.neu.edu.cn/",
+    "continent": "Asia"
+  },
+  "invitedBy": {
+    "name": "Guohua Wan",
+    "affiliation": "Shanghai Jiao Tong",
+    "link": "http://www.acem.sjtu.edu.cn/en/faculty/wanguohua.html"
+  },
+  "datePrague": "2021-04-28",
+  "keywords": "Production scheduling, Logistics scheduling, Energy scheduling, Data analytics, System optimization, Engineering application",
+  "pdf": "SchedulingSeminar_LixinTang.pdf",
+  "video": "https://scheduling-seminar.iid.ciirc.cvut.cz/videos/21_2_Spring/21_4_28%20Lixin%20Tang%20_%20Data%20Ana.%20&%20Opt.%20for%20Prod.,%20Logist.%20&%20Energy%20Sched.%20_%20Apr%2028,%202021.mp4",
+  "youtubeEmbed": "https://www.youtube.com/embed/E9m0AZqJRTw",
+  "status": "past"
+}

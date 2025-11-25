@@ -1,0 +1,23 @@
+{
+  "id": 24,
+  "title": "A Subexponential Time Algorithm for Makespan Scheduling of Unit\n\t\t\t\t\t\t\t\tJobs with Precedence Constraints",
+  "abstract": "In a classical scheduling problem, we are given a set of n jobs of unit length along with precedence constraints, and the goal is to find a schedule of these jobs on m identical parallel machines that minimizes the makespan. Using the standard 3-field notation, it is known as Pm|prec, p_j=1|Cmax. Settling the complexity of Pm|prec, p_j=1|Cmax even for m=3 machines is, together with Subgraph Isomorphism, among the last two open problems from the book of Garey and Johnson [GJ79] for which the computational complexity remains a mystery. We present an algorithm for this problem that runs in (1 + n/m)^{O(√(nm))} time, which is subexponential when m=o(n). For m=3, this equals a runtime of 2^{O(√(n)log(n))} time.",
+  "presenter": {
+    "name": "Céline Swennenhuis",
+    "affiliation": "ALGO, TU Eindhov.",
+    "photo": "Celine_Swennenhuis.jpg",
+    "link": "http://cswennenhuis.win.tue.nl/",
+    "continent": "Europe"
+  },
+  "invitedBy": {
+    "name": "Michael Pinedo",
+    "affiliation": "New York Uni",
+    "link": "https://www.stern.nyu.edu/faculty/bio/michael-pinedo"
+  },
+  "datePrague": "2023-12-13",
+  "keywords": "Scheduling, Subexponential time, Precedence constraints",
+  "pdf": "SchedulingSeminar_CelineSwennenhuis.pdf",
+  "video": "https://scheduling-seminar.iid.ciirc.cvut.cz/videos/23_3_Fall/23_12_13 Céline%20Swennenhuis%20(TU Eindhoven)%20_%20A%20Subexponential%20Time%20Algorithm....mp4",
+  "youtubeEmbed": "https://www.youtube.com/embed/BID5OPhrJBg?si=ZUKSFX9-_wpLqkjH",
+  "status": "past"
+}

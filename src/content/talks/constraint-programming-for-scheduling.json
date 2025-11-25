@@ -1,0 +1,23 @@
+{
+  "id": 51,
+  "title": "Constraint Programming for Scheduling",
+  "abstract": "This talk reviews the start of the art in solving scheduling problems with constraint programming, and examines novel research directions, with a focus on the integration of constraint programming and mathematical programming, and the use of machine learning. It reviews applications where constraint programming provides an integrated approach to complex problems, the hybridization of constraint programming and mathematical programming, learning-based constraint programming, and optimization proxies.",
+  "presenter": {
+    "name": "Pascal Van Hentenryck",
+    "affiliation": "Georgia Tech",
+    "photo": "pascal_van_hentenryck.jpg",
+    "link": "https://sites.gatech.edu/pascal-van-hentenryck/",
+    "continent": "America"
+  },
+  "invitedBy": {
+    "name": "Zdeněk Hanzálek",
+    "affiliation": "CTU in Prague",
+    "link": "https://rtime.ciirc.cvut.cz/~hanzalek/"
+  },
+  "datePrague": "2022-04-13",
+  "keywords": "Constraint programming, Scheduling, Machine learning, Hybrid optimization",
+  "pdf": "SchedulingSeminar_PascalVanHentenryck.pdf",
+  "video": "https://scheduling-seminar.iid.ciirc.cvut.cz/videos/22_2_Spring/22_4_13%20Pascal%20Van%20Hentenryck%20(Georgia%20Tech)%20_%20Constraint%20Programming%20for%20Scheduling.mp4",
+  "youtubeEmbed": "https://www.youtube.com/embed/PzC0FeLO3UA",
+  "status": "past"
+}
