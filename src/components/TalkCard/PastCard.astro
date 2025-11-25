@@ -7,7 +7,7 @@ import InvitedBy from "./InvitedBy.astro";
 import {getBorderClass} from "../../utils/constants";
 
 const {talk, compactable = false} = Astro.props;
-const cardId = `talk-card-${talk.slug}`;
+const cardId = `talk-card-${talk.datePrague}`;
 const borderClass = getBorderClass(talk.presenter.continent);
 ---
 
