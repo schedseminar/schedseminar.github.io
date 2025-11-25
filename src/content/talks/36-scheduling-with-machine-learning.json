@@ -1,0 +1,23 @@
+{
+  "id": 36,
+  "title": "Scheduling with Machine Learning",
+  "abstract": "Manufacturing companies have recently shown a growing interest in using machine learning to improve scheduling problems. In this talk, we will present three real-life industrial scheduling problems faced by industries with a specific focus on the application of machine learning. First, in semiconductor manufacturing, multiple weighted dispatching rules are used to determine a sequence of jobs. Engineers assign these weights based on their previous experience. We propose a machine learning approach to determine the best weight set for all rules, especially when there is not enough time to derive it. Second, we propose an integration method of machine learning and mathematical formulation for scheduling problems in steel manufacturing. This approach reflects the engineers’ preferences and improves the performance of scheduling at the same time. Finally, we will present a hybrid flow shop scheduling problem for insulation manufacturing where machine learning with the NEH algorithm has been applied. We will also discuss the challenges of implementing machine learning or other heuristic algorithms in practical settings.",
+  "presenter": {
+    "name": "Hyun-Jung Kim",
+    "affiliation": "KAIST",
+    "photo": "Hyun-Jung_Kim.jpg",
+    "link": "https://msslab.kaist.ac.kr/Professor/professor",
+    "continent": "Asia"
+  },
+  "invitedBy": {
+    "name": "Michael Pinedo",
+    "affiliation": "New York Uni",
+    "link": "https://www.stern.nyu.edu/faculty/bio/michael-pinedo"
+  },
+  "datePrague": "2023-03-01",
+  "keywords": "Scheduling, Manufacturing Systems, Machine Learning, Real Applications",
+  "pdf": "SchedulingSeminar_HyunJungKim.pdf",
+  "video": "https://scheduling-seminar.iid.ciirc.cvut.cz/videos/23_1_Winter/23_3_1%20Hyun-Jung%20Kim%20(KAIST)_Scheduling%20with%20Machine%20Learning.mp4",
+  "youtubeEmbed": "https://www.youtube.com/embed/aaGESG8kolc",
+  "status": "past"
+}

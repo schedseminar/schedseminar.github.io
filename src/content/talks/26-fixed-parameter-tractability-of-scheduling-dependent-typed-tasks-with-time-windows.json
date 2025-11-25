@@ -1,0 +1,23 @@
+{
+  "id": 26,
+  "title": "Fixed Parameter Tractability of scheduling dependent typed tasks\n\t\t\t\t\t\t\t\twith time windows",
+  "abstract": "This talk discusses the parameterized complexity of scheduling problems, assuming precedence constraints, time windows and typed tasks resource constraints. We recall the usual parameters used for scheduling problems and focus on a parameter suitable for problems with time windows, the pathwitdth of the underlying interval graph. We present three results involving this parameter. First we show a fixed parameter tractable (FPT) algorithm for a scheduling problem with unit processing times. Then, a para-NP-Hardness result assuming arbitrary processing times and finally we outline a FPT algorithm for this problem by considering two parameters. Authors: Claire Hanen and Alix Munier-Kordon",
+  "presenter": {
+    "name": "Claire Hanen",
+    "affiliation": "Sorbonne U., LIP6",
+    "photo": "Claire_Hanen_2.jpg",
+    "link": "https://www.lip6.fr/actualite/personnes-fiche.php?ident=P41",
+    "continent": "Europe"
+  },
+  "invitedBy": {
+    "name": "Zdeněk Hanzálek",
+    "affiliation": "CTU in Prague",
+    "link": "https://rtime.ciirc.cvut.cz/~hanzalek/"
+  },
+  "datePrague": "2023-11-15",
+  "keywords": "Parameterized complexity, Typed tasks, Precedence constraints, Fixed parameter tractable algorithm",
+  "pdf": "SchedulingSeminar_ClaireHanen.pdf",
+  "video": "https://scheduling-seminar.iid.ciirc.cvut.cz/videos/23_3_Fall/23_11_15%20Claire%20Hanen%20(Sorbonne%20U.)%20_%20Fixed%20Parameter%20Tractability%20of%20Scheduling....mp4",
+  "youtubeEmbed": "https://www.youtube.com/embed/njlh1IVyyhU?si=LMWy2I5UZyC5WwBi",
+  "status": "past"
+}

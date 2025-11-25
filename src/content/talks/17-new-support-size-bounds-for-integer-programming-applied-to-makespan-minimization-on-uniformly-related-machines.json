@@ -1,0 +1,23 @@
+{
+  "id": 17,
+  "title": "New Support Size Bounds for Integer Programming,\n\t\t\t\t\t\t\t\tApplied to Makespan Minimization on Uniformly Related Machines",
+  "abstract": "Mixed-integer linear programming (MILP) is at the core of many advanced algorithms for solving fundamental problems in combinatorial optimization. The complexity of solving MILPs directly correlates with their support size, which is the minimum number of non-zero integer variables in an optimal solution. A hallmark result by Eisenbrand and Shmonin (Oper. Res. Lett., 2006) shows that any feasible integer linear program (ILP) has a solution with support size s ≤ 2m · log(4m∆), where m is the number of constraints, and ∆ is the largest absolute coefficient in any constraint. - Our main combinatorial result are improved support size bounds for ILPs. We show that any ILP has a solution with support size s ≤ m · (log(3∥A∥_1) + \\sqrt{log(∥A∥_1)}), where ∥A∥_1 denotes the 1-norm of the constraint matrix A. Our upper bounds also hold with ∥A∥_1 replaced by \\sqrt{m∆}, which improves on the previously best constants in the linearized form. - Our main algorithmic result are the fastest known approximation schemes for fundamental scheduling problems, which use the improved support bounds as one ingredient. We design an efficient approximation scheme (EPTAS) for makespan minimization on uniformly related machines (Q||Cmax). Our EPTAS yields a (1 + ε)-approximation for Q||Cmax on N jobs in time 2^{O(1/ε log^3(1/ε) log(log(1/ε)))} + O(N), which improves exponentially over the previously fastest algorithm by Jansen, Klein and Verschae (Math. Oper. Res., 2020). Arguably, our approximation scheme is also simpler than all previous EPTASes for Q||Cmax, as we reduce the problem to a novel MILP formulation with small support size.",
+  "presenter": {
+    "name": "Matthias Mnich",
+    "affiliation": "TU Hamburg",
+    "photo": "Matthias_Mnich.jpg",
+    "link": "https://scholar.google.com/citations?user=5LvVxNYAAAAJ&hl=en",
+    "continent": "Europe"
+  },
+  "invitedBy": {
+    "name": "Dvir Shabtay",
+    "affiliation": "Ben Gurion Uni",
+    "link": "https://in.bgu.ac.il/en/engn/iem/pages/staff/Dvir-Shabtay.aspx"
+  },
+  "datePrague": "2024-05-29",
+  "keywords": "Uniformly related machine scheduling, Makespan minimization, Efficient approximation schemes, Mixed-integer linear programming",
+  "pdf": "SchedulingSeminar_MatthiasMnich.pdf",
+  "video": "https://scheduling-seminar.iid.ciirc.cvut.cz/videos/24_2_Spring/24_05_29%20Matthias%20Mnich%20(TU%20Hamburg)%20_%20New%20Support%20Size%20Bounds%20for%20Integer%20Programming.mp4",
+  "youtubeEmbed": "https://www.youtube.com/embed/xUsWfpcyMYQ?si=73vJc0xnuS8OH6Lq",
+  "status": "past"
+}

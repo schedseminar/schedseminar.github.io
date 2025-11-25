@@ -1,0 +1,23 @@
+{
+  "id": 53,
+  "title": "Scheduling Problems in Semiconductor Wafer Fabrication Facilities:\n\t\t\t\t\t\t\t\tPart 2",
+  "abstract": "Semiconductors enable the systems and products that we use to work, communicate, travel, entertain, harness energy, treat illness, make new scientific discoveries, and more. Semiconductor manufacturing is among the most complex manufacturing systems in existence today. This complexity makes scheduling semiconductor manufacturing systems extremely difficult. In this two-part seminar, we discuss scheduling problems in this challenging domain. In the second part, we discuss batch scheduling problems, multiple orders per job scheduling problems, and scheduling problems that include time lags for the jobs. Moreover, scheduling problems related to cluster tools will be also briefly considered. Solution techniques, mainly based on problem decomposition and metaheuristics, will be also discussed. Finally, future research direction for scheduling semiconductor wafer fabrication facilities will be identified.",
+  "presenter": {
+    "name": "Lars Mönch",
+    "affiliation": "Uni of Hagen",
+    "photo": "Lars_Mönch.jpg",
+    "link": "https://www.fernuni-hagen.de/ess/team/lars.moench.shtml",
+    "continent": "Europe"
+  },
+  "invitedBy": {
+    "name": "Zdeněk Hanzálek",
+    "affiliation": "CTU in Prague",
+    "link": "https://rtime.ciirc.cvut.cz/~hanzalek/"
+  },
+  "datePrague": "2022-03-16",
+  "keywords": "Scheduling, Batching, Semiconductor manufacturing, Decomposition methods",
+  "pdf": "SchedulingSeminar_LarsMoench.pdf",
+  "video": "https://scheduling-seminar.iid.ciirc.cvut.cz/videos/22_1_Winter/22_3_16%20Lars%20M%c3%b6nch%20(Uni%20of%20Hagen)%20_%20Scheduling%20Problems%20in%20Semiconductor%20Fabrication%202.mp4",
+  "youtubeEmbed": "https://www.youtube.com/embed/3X6SK0OcokM",
+  "status": "past"
+}
