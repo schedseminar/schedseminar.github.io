@@ -2,7 +2,7 @@ import { defineConfig } from 'astro/config';
 import tailwind from '@astrojs/tailwind';
 
 export default defineConfig({
-  site: 'https://ViktorKorladinov.github.io',
+  site: 'https://schedulingseminar.com',
   integrations: [tailwind()],
   typescript: {
     strict: false,
