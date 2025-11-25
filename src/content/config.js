@@ -3,7 +3,6 @@ import {defineCollection, z} from "astro:content";
 const talks = defineCollection({
     type: 'data',
     schema: z.object({
-        id: z.number(),
         title: z.string(),
         abstract: z.string().optional(),
         presenter: z.object({
