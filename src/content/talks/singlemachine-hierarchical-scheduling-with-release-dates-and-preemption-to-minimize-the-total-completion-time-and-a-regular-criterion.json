@@ -1,5 +1,5 @@
 ﻿{
-  "title": "Single-machine hierarchical scheduling with release dates and\n\t\t\t\t\t\t\t\tpreemption to minimize the total completion time and a regular criterion",
+  "title": "Single-machine hierarchical scheduling with release dates and preemption to minimize the total completion time and a regular criterion",
   "abstract": "In this talk, we consider the single-machine hierarchical scheduling problems with release dates and preemption, where the primary criterion is the total completion time and the secondary criterion is an arbitrarily regular scheduling criterion, which is of either the sum-form or the max-form. We aim to find a feasible preemptive schedule that minimizes the secondary criterion, subject to the condition that the primary criterion is minimized. We show that the variants of the problems under study are polynomially solvable. To address these problems, we establish some hereditary properties for the feasible schedules and instances, and present a complete description of the feasible schedules through some elaborately constructed job-permutations.",
   "presenter": {
     "name": "Rubing Chen",

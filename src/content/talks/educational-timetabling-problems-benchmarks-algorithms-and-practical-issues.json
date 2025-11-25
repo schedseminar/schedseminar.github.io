@@ -1,5 +1,5 @@
 ﻿{
-  "title": "Educational Timetabling: Problems, Benchmarks, Algorithms, and\n\t\t\t\t\t\t\t\tPractical\n\t\t\t\t\t\t\t\tIssues",
+  "title": "Educational Timetabling: Problems, Benchmarks, Algorithms, and Practical Issues",
   "abstract": "Educational timetabling problems consist in scheduling a sequence of events (lectures, seminars, or exams) involving teachers and students in a prefixed period of time, satisfying a set of constraints of various types. In this talk, we critically review different formulations, public datasets, and search methods. In particular, we illustrate local search methods, their parameter tuning procedure, and their results. Finally, we discuss practical issues involved in the actual solution of timetabling problems.",
   "presenter": {
     "name": "Andrea Schaerf",

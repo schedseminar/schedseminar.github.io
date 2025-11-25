@@ -1,5 +1,5 @@
 ﻿{
-  "title": "One Million ... and Beyond! Solving Huge-Scale Vehicle Routing\n\t\t\t\t\t\t\t\tProblems in a Handful of Minutes",
+  "title": "One Million ... and Beyond! Solving Huge-Scale Vehicle Routing Problems in a Handful of Minutes",
   "abstract": "Vehicle routing is a hard and extensively studied combinatorial optimization problem which has numerous practical applications in transportation and logistics. In the last two decades several effective solution methods were proposed for the heuristic solution of the vehicle routing problem (VRP) and its many variants but most of these methods do not scale well with respect to the computing time when the size of the problem grows. We discuss a family of approaches, originated from the FILO framework, which were explicitly designed to obtain a linear growth of the computing time making it possible to solve very large instances with up to one million customers within a very limited computing time.",
   "presenter": {
     "name": "Daniele Vigo",

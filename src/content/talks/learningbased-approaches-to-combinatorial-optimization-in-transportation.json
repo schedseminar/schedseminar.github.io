@@ -1,5 +1,5 @@
 ﻿{
-  "title": "Learning-Based Approaches to Combinatorial Optimization in\n\t\t\t\t\t\t\t\tTransportation",
+  "title": "Learning-Based Approaches to Combinatorial Optimization in Transportation",
   "abstract": "Combinatorial optimization problems arising in transportation are often NP-hard, making them computationally challenging to solve at scale. Recent advances in machine learning have opened new avenues for tackling such problems, either as standalone solution strategies or by enhancing traditional optimization algorithms. This talk surveys a spectrum of learning-based approaches for transportation optimization, including: (i) end-to-end learning models, (ii) integration within exact algorithms, (iii) learning to guide local search, (iv) accelerating metaheuristics, (v) embedding within optimization formulations, and (vi) test-time search strategies. This talk will discuss the principles behind each approach, highlight representative applications, and reflect on both their current potential and open challenges for the future of transportation optimization.",
   "presenter": {
     "name": "Changhyun Kwon",

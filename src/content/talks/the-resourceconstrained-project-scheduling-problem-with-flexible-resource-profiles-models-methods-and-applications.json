@@ -1,5 +1,5 @@
 ﻿{
-  "title": "The Resource-Constrained Project Scheduling Problem with Flexible\n\t\t\t\t\t\t\t\tResource\n\t\t\t\t\t\t\t\tProfiles: Models, Methods, and Applications",
+  "title": "The Resource-Constrained Project Scheduling Problem with Flexible Resource Profiles: Models, Methods, and Applications",
   "abstract": "The resource-constrained project scheduling problem with flexible resource profiles (FRCPSP) is a generalization of the RCPSP where for each activity a work content is given, which has to be allocated between the start and the finish time of the activity. Hence, next to the start time of activities, a schedule comprises the decision about the duration and the allocation of the work content between the start and the finish time for the activities. The FRCPSP has been introduced in 2003 in the context of real-world application of pharmaceutical research projects. Since, then different models and methods as well as applications have been proposed in the literature. In this talk we will present the FRCPSP, discuss available MIP-formulations as well as heuristics and will present work on the use of FRCPSP to solve different real-world optimization problems.",
   "presenter": {
     "name": "Rainer Kolisch",

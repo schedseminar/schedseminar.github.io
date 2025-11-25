@@ -1,5 +1,5 @@
 ﻿{
-  "title": "Fixed Parameter Tractability of scheduling dependent typed tasks\n\t\t\t\t\t\t\t\twith time windows",
+  "title": "Fixed Parameter Tractability of scheduling dependent typed tasks with time windows",
   "abstract": "This talk discusses the parameterized complexity of scheduling problems, assuming precedence constraints, time windows and typed tasks resource constraints. We recall the usual parameters used for scheduling problems and focus on a parameter suitable for problems with time windows, the pathwitdth of the underlying interval graph. We present three results involving this parameter. First we show a fixed parameter tractable (FPT) algorithm for a scheduling problem with unit processing times. Then, a para-NP-Hardness result assuming arbitrary processing times and finally we outline a FPT algorithm for this problem by considering two parameters. Authors: Claire Hanen and Alix Munier-Kordon",
   "presenter": {
     "name": "Claire Hanen",
