@@ -1,5 +1,4 @@
-{
-  "id": 60,
+﻿{
   "title": "Tabu search for the time-dependent vehicle routing problem with\n\t\t\t\t\t\t\t\ttime\n\t\t\t\t\t\t\t\twindows on a road network",
   "abstract": "Travel times inside cities often vary quite a lot during a day and significantly impact the duration of delivery routes. Some authors have proposed time-dependent (TD) variants of several vehicle routing problems (VRPs), including the VRP with time windows (VRPTW). In most papers, time-dependency is defined on customer-based graphs. Thus, a major impact of travel time variations is missed: in an urban environment, not only do travel times change, but also the paths used to travel from one customer to another. To address this issue, we work directly with the road network and consider travel time (or travel speed) variations on each road segment. We present a solution approach, based on tabu search, for a TDVRPTW in which travel speeds are associated with segments in the road network. Computational results on instances with up to 200 nodes and 580 arcs are reported and assessed. (Joint work with Maha Gmira, Andrea Lodi, and Jean-Yves Potvin)",
   "presenter": {

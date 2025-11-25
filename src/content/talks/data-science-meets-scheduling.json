@@ -1,5 +1,4 @@
-{
-  "id": 49,
+﻿{
   "title": "Data Science Meets Scheduling",
   "abstract": "The impact of techniques from data science and machine learning on scheduling is investigated. We review a number of recently emerged applications of these techniques that can shed a new light on combinatorial optimization in general. We give concrete examples for scheduling in particular. We distinguish on-line techniques, that is, data science techniques integrated into advanced algorithms, off-line techniques which can be used to improve, select of construct algorithms as well as techniques that consider the problem as living in a space of which the dimensions are set by specific properties of its instances. We give examples of recent results obtained for specific problems in the scheduling domain. Meeting works in two directions. We give an example where a recent theoretical result for a combinatorial optimization problem provides new insights in the structures on which the data science techniques can operate. In this case, the theoretical result allowed to locate a region of hard problem instances in the instance space.",
   "presenter": {

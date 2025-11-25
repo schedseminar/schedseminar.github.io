@@ -1,6 +1,5 @@
-{
-  "id": 21,
-  "title": "Scheduling in the e-commerce era: New scheduling problems in order\n\t\t\t\t\t\t\t\tfulfilment and warehousing",
+﻿{
+  "title": "Scheduling in the e-commerce era: New scheduling problems in order fulfilment and warehousing",
   "abstract": "Driven by the success of e-commerce, today's warehouses are evolving into fully automated fulfillment factories. Many of them follow the parts-to-picker paradigm, using mobile shelf-lifting robots or conveyors to deliver stock keeping units (SKUs) to stationary order pickers working in picking workstations. This talk aims to structure and review the family of fulfillment-related scheduling problems that arise in this environment: On the input side, the sequence in which totes of SKUs are delivered to a workstation must be synchronized with the orders that are being assembled there at the same time on the output side. In this way, a more efficient fulfillment process can be achieved, and the bin supply system can be relieved. This talk classifies the family of slightly different order fulfillment scheduling problems that arise with different workstation setups in alternative warehouses. This classification scheme is used to survey the existing literature, analyze the computational complexity, and systematically quantify the gains of alternative workstation setups. The talk also highlights valuable future research ideas for this emerging area of scheduling research.",
   "presenter": {
     "name": "Nils Boysen",

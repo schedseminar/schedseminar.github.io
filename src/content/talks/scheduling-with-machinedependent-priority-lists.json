@@ -1,5 +1,4 @@
-{
-  "id": 29,
+﻿{
   "title": "Scheduling with Machine-Dependent Priority Lists",
   "abstract": "We consider a natural, yet challenging variant of the parallel machine scheduling problem in which each machine imposes a preferential order over the jobs and schedules the jobs accordingly once assigned to it. We study the setting in which a centralized authority assigns the jobs to machines, as well as the associated non-cooperative game in which jobs are controlled by selfish agents who independently choose which machine to use. In the talk, I will define the model, highlight the differences from other well-analyzed job-scheduling optimization problems and coordinated mechanisms, and present some of our results for several natural objectives (e.g., Makespan, lateness, total completion-time minimization) As we show, having machine-dependent priority lists dramatically affects both the computational complexity of the problem and the equilibrium inefficiency. Joint work with Vipin Ravindran Vijayalakshmi and Marc Schroder",
   "presenter": {

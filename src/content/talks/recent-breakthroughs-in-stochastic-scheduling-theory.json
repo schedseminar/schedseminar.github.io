@@ -1,5 +1,4 @@
-{
-  "id": 72,
+﻿{
   "title": "Recent Breakthroughs in Stochastic Scheduling Theory",
   "abstract": "This talk considers stochastic scheduling, where job sizes and arrival times are drawn from a distribution. As empirical job size variability has skyrocketed, stochastic scheduling research has grown increasingly important. What scheduling policies should we use to keep response times low? How should we schedule when job sizes are unknown or only partially known? What scheduling policies should we use in a multi-server (M/G/k) setting, as compared with a single-server (M/G/1) setting? How can we analyze the response times of scheduling policies in single-server and multi-server settings? In this talk, we discuss recent breakthroughs over the last 3 years in the area of stochastic scheduling. These include: (1) The SOAP scheduling framework, which greatly expands the class of scheduling policies whose response times we can now analyze in the M/G/1 setting. (2) The first response time analysis of common scheduling policies in the M/G/k. (3) Asymptotically optimal scheduling in the M/G/k. Joint work with: Ziv Scully, Isaac Grosof",
   "presenter": {

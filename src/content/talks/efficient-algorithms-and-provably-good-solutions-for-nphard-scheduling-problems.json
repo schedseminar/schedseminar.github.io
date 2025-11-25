@@ -1,5 +1,4 @@
-{
-  "id": 70,
+﻿{
   "title": "Efficient Algorithms and Provably Good Solutions for NP-hard\n\t\t\t\t\t\t\t\tScheduling\n\t\t\t\t\t\t\t\tProblems",
   "abstract": "Machine scheduling problems are among the first optimization problems for which approximation algorithms have been analyzed. An approximation algorithm is a polynomial-time algorithm which always finds a feasible solution whose objective function value is within an a priori known factor (performance ratio) of the optimum solution value. In this talk we focus on identical parallel machine scheduling with total weighted completion time objective. We present, among other things, a refined analysis of the performance ratio for the weighted shortest processing time first (WSPT) rule. This is joint work with Sven Jäger.",
   "presenter": {

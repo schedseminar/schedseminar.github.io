@@ -1,5 +1,4 @@
-{
-  "id": 51,
+﻿{
   "title": "Constraint Programming for Scheduling",
   "abstract": "This talk reviews the start of the art in solving scheduling problems with constraint programming, and examines novel research directions, with a focus on the integration of constraint programming and mathematical programming, and the use of machine learning. It reviews applications where constraint programming provides an integrated approach to complex problems, the hybridization of constraint programming and mathematical programming, learning-based constraint programming, and optimization proxies.",
   "presenter": {

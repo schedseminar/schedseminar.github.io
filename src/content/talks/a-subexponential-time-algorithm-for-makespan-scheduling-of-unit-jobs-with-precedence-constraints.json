@@ -1,5 +1,4 @@
-{
-  "id": 24,
+﻿{
   "title": "A Subexponential Time Algorithm for Makespan Scheduling of Unit\n\t\t\t\t\t\t\t\tJobs with Precedence Constraints",
   "abstract": "In a classical scheduling problem, we are given a set of n jobs of unit length along with precedence constraints, and the goal is to find a schedule of these jobs on m identical parallel machines that minimizes the makespan. Using the standard 3-field notation, it is known as Pm|prec, p_j=1|Cmax. Settling the complexity of Pm|prec, p_j=1|Cmax even for m=3 machines is, together with Subgraph Isomorphism, among the last two open problems from the book of Garey and Johnson [GJ79] for which the computational complexity remains a mystery. We present an algorithm for this problem that runs in (1 + n/m)^{O(√(nm))} time, which is subexponential when m=o(n). For m=3, this equals a runtime of 2^{O(√(n)log(n))} time.",
   "presenter": {

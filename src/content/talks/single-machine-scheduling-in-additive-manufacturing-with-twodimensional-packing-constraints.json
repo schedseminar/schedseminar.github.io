@@ -1,5 +1,4 @@
-{
-  "id": 28,
+﻿{
   "title": "Single machine scheduling in additive manufacturing with\n\t\t\t\t\t\t\t\ttwo-dimensional packing constraints",
   "abstract": "In this talk, we focus on a single machine scheduling in additive manufacturing, in which parts can be produced simultaneously in a batch with two-dimensional packing constraints, and the objective is to minimize the makespan. In order to solve this problem, we propose an approximation algorithm with constant approximation ratio, and develop a combinatorial Benders decomposition based exact algorithm with various Benders cuts and acceleration strategies. We also conduct extensive computational experiments to test the performance of our proposed solution approaches.",
   "presenter": {

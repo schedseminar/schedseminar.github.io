@@ -1,5 +1,4 @@
-{
-  "id": 42,
+﻿{
   "title": "Scheduling with Speed Predictions",
   "abstract": "Algorithms with predictions is a recent framework that has been used to overcome pessimistic worst-case bounds in incomplete information settings. In the context of scheduling, very recent work has leveraged machine-learned predictions to design algorithms that achieve improved approximation ratios in settings where the processing times of the jobs are initially unknown. We study the speed-robust scheduling problem where the speeds of the machines, instead of the processing times of the jobs, are unknown and augment this problem with predictions. In this talk, we give an algorithm that simultaneously achieves, for any x < 1, a 1 + x approximation when the predictions are accurate and a 2+ 2/x approximation when the predictions are not accurate. We also study special cases and evaluate our algorithms performance as a function of the error. Joint work with Eric Balanski, TingTing Ou and Hao-Ting Wei, all at Columbia.",
   "presenter": {

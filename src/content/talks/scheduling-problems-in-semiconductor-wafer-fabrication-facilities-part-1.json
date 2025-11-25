@@ -1,5 +1,4 @@
-{
-  "id": 54,
+﻿{
   "title": "Scheduling Problems in Semiconductor Wafer Fabrication Facilities:\n\t\t\t\t\t\t\t\tPart 1",
   "abstract": "Semiconductors enable the systems and products that we use to work, communicate, travel, entertain, harness energy, treat illness, make new scientific discoveries, and more. Semiconductor manufacturing is among the most complex manufacturing systems in existence today. This complexity makes scheduling semiconductor manufacturing systems extremely difficult. In this two-part seminar, we discuss scheduling problems in this challenging domain. In the first part, we describe the manufacturing process and identify typical scheduling problems found in semiconductor manufacturing systems at the workstation, work area, factory, and supply chain levels. We also discuss approaches for scheduling problems with secondary resources and for factory level scheduling.",
   "presenter": {

@@ -1,5 +1,4 @@
-{
-  "id": 18,
+﻿{
   "title": "Maximizing stability of assembly line balancing schedules under\n\t\t\t\t\t\t\t\tuncertain task duration",
   "abstract": "We consider a variant of the simple assembly line balancing problem in which the number of workstations and the cycle time are fixed, but some tasks are subjected to uncertainty (processing times can increase). The purpose is to maintain the schedule feasibility when the duration of tasks increases. To achieve this, we consider two stability measures (to be maximized): the stability radius, and the stability factor, that correspond to different types of task duration increase. The scheduling problem is formulated as a mixed integer linear program, and this formulation is strengthened by an upper bound and a heuristic. More specifically, the allocation intervals of the tasks, that are based on precedence constraints, are narrowed, which in turn are used to improve the results of the heuristic and the mixed integer linear programming formulation.",
   "presenter": {

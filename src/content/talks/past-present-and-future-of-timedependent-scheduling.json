@@ -1,5 +1,4 @@
-{
-  "id": 48,
+﻿{
   "title": "Past, present and future of time-dependent scheduling",
   "abstract": "In the lecture, we will present a general landscape of time-dependent scheduling which is one of the main research domains in modern scheduling theory. This lecture will be divided into three parts. In the first part, we will sketch the main dates in time-dependent scheduling development, specify the most important forms of time-dependent processing times and formulate the basic assumptions of time-dependent scheduling. Next, we will present the main results from that area, paying a special attention to applied proof techniques and mutual relations between different time-dependent scheduling problems. Finally, we will discuss selected open problems in time-dependent scheduling, summarizing known results for each open problem and indicating possible ways of its further research.",
   "presenter": {

@@ -1,5 +1,4 @@
-{
-  "id": 7,
+﻿{
   "title": "Online Integrated Production and Distribution Scheduling",
   "abstract": "As a growing number of companies adopt make-to-order business model or sell their products online, we are seeing numerous decision problems that can be modeled as integrated production and distribution scheduling (IPDS) problems. In such problems, order processing and delivery must be scheduled jointly in order to achieve an optimal balance between total operational costs and overall customer service. Offline IPDS problems, in which the information about every order is known in advance with certainty, are extensively studied. However, research on online IPDS problems, in which orders arrive randomly with their information unknown until they arrive, is relatively recent but is growing rapidly. In this talk, we first describe two real-world applications to illustrate the importance of studying online IPDS problems from a practical point of view, and highlight the challenges in deriving good algorithms for online IPDS problems. We then focus on one specific problem and analyze an online algorithm for the problem. Finally, we provide an overview of this problem area and discuss possible topics for future research.",
   "presenter": {

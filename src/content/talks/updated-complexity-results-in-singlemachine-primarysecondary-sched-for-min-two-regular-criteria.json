@@ -1,6 +1,5 @@
-{
-  "id": 68,
-  "title": "Updated complexity results in single-machine primary-secondary\n\t\t\t\t\t\t\t\tsched.\n\t\t\t\t\t\t\t\tfor min. two regular criteria",
+﻿{
+  "title": "Updated complexity results in single-machine primary-secondary sched. for min. two regular criteria",
   "abstract": "In the primary-secondary scheduling problem, we have a primary scheduling criterion and a secondary scheduling criterion. The goal of the problem is to find a schedule which minimizes the second criterion, subject to the restriction that the primary criterion is minimized. Lee and Vairaktarakis [LV1993] presented a comprehensive review for the computational complexity of the single-machine primary-secondary scheduling problems, where all the jobs are released at time zero. When both of the two criteria are regular, more than twenty problems were posed as open in [LV1993]. This talk will report the research progress of these open problems. Jinjiang Yuan (J.J. Yuan) is a Professor in the School of Mathematics and Statistics, Zhengzhou University, Zhengzhou, Henan, The People's Republic of China. He received his doctorate in science from Sichuan University in 1995. His principal research interests include Scheduling, Graph Theory, and Combinatorial Optimization. He has published more than 200 papers in Mathematical Programming, European Journal of Operational Research, Journal of Scheduling, Journal of Graph Theory, Operations Research Letters, and other journals. He has presided over 8 projects of National Natural Science Foundation of China.",
   "presenter": {
     "name": "Jinjiang Yuan",

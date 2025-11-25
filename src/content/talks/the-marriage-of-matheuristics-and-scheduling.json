@@ -1,5 +1,4 @@
-{
-  "id": 37,
+﻿{
   "title": "The Marriage of Matheuristics and Scheduling",
   "abstract": "This talk is about the heuristic solution of scheduling problems by means of heuristics based on mathematical programming, well-known under the name of matheuristics. Whatever they are used to build or improve a solution, they always take advantage of mathematical programming in order to efficiently solve some subproblems. Matheuristics have been introduced in the literature during the last decade especially to solve routing problems. Few is known about their application to machine scheduling problems. I will introduce to different forms of matheuristics and give a feedback on the solution of some scheduling problems, making also an outing in the land of machine learning.",
   "presenter": {

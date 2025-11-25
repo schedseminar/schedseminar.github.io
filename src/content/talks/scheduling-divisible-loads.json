@@ -1,5 +1,4 @@
-{
-  "id": 15,
+﻿{
   "title": "Scheduling divisible loads",
   "abstract": "In this talk divisible load theory (DLT) will be introduced. The theory is a scheduling and computer performance model applicable in data-parallel applications. Its basic assumption is that the computing work can be divided into pieces of arbitrary sizes and these pieces can be processed independently in parallel. In the talk we will proceed from the basic formulation of divisible load scheduling on heterogeneous system to a formulation for multi-installment divisible load processing in heterogeneous system with hierarchical memory and energy constraints. NP-hardness of various DLT scheduling problem variants will be considered. Application of DLT as isoefficiency maps visualizing parallel processing performance relationships will be demonstrated.",
   "presenter": {

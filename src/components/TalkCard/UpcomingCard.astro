@@ -7,7 +7,7 @@ import TimeZones from "./TimeZones.astro";
 import {getBorderClass} from "../../utils/constants";
 
 const {talk} = Astro.props;
-const cardId = `talk-card-${talk.id}`;
+const cardId = `talk-card-${talk.slug}`;
 const borderClass = getBorderClass(talk.presenter.continent);
 ---
 

@@ -1,5 +1,4 @@
-{
-  "id": 62,
+﻿{
   "title": "Machine Learning for Scheduling",
   "abstract": "This talk will discuss a model for augmenting algorithms with useful predictions that go beyond worst-case bounds on the algorithm performance. The model ensures predictions are formally learnable and instance robust. Learnability guarantees that predictions can be efficiently constructed from past data. Instance robustness formally ensures a prediction is robust to modest changes in the problem input. This talk will discuss predictions that satisfy these properties for scheduling and resource augmentation. Algorithms developed break through worst-case barriers with accurate predictions and have a graceful degradation in performance when the error in the predictions grows.",
   "presenter": {

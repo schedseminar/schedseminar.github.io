@@ -1,5 +1,4 @@
-{
-  "id": 35,
+﻿{
   "title": "Cooperative Games Models for Scheduling Problems",
   "abstract": "Cooperative game theory focuses on schemes that lead to a global collaboration among multiple independent decision makers. In cooperative game theory, one basic concept is the allocation in the core that characterizes how the players shall share the cost/benefit in a way acceptable to all sub-coalitions. Unfortunately, it is well known that many cooperative games have an empty core, including games concerning scheduling problems. For such games the global collaboration will not be sustainable. We consider a situation where an outside party has the need to stabilize the ground coalition because, for example, the best social welfare can be achieved only when all players collaborate. We introduce a few economic treatments that can be used by the outside party such as providing subsidy and charging penalty. These treatments, including their concepts and implementations, are demonstrated by games related to scheduling problems.",
   "presenter": {
