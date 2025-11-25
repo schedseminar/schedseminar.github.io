@@ -1,46 +1,21 @@
-# Astro Starter Kit: Basics
+# Scheduling Seminar Website
 
-```sh
-npm create astro@latest -- --template basics
-```
+This repository contains the source for the **Scheduling Seminar** website, built with [Astro](https://astro.build) and Tailwind CSS. It lists upcoming and past talks, shows the program committee, and links to videos, slides, and other resources.
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+## Getting started
 
-## 🚀 Project Structure
+From the project root:
 
-Inside of your Astro project, you'll see the following folders and files:
+- Install dependencies: `npm install`
+- Start the dev server: `npm run dev` (usually at `http://localhost:4321`)
+- Build for production: `npm run build`
+- Preview the build: `npm run preview`
 
-```text
-/
-├── public/
-│   └── favicon.svg
-├── src
-│   ├── assets
-│   │   └── astro.svg
-│   ├── components
-│   │   └── Welcome.astro
-│   ├── layouts
-│   │   └── Layout.astro
-│   └── pages
-│       └── index.astro
-└── package.json
-```
+## Content and data
 
-To learn more about the folder structure of an Astro project, refer to [our guide on project structure](https://docs.astro.build/en/basics/project-structure/).
+- Talks are stored as JSON under `src/content/talks` and loaded via Astro content collections.
+- PDF slides live in `public/presentations`.
+- Program committee members are defined in `src/data/committee.json`.
+- Speaker photos and other images are in `src/assets/photos`.
 
-## 🧞 Commands
-
-All commands are run from the root of the project, from a terminal:
-
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
-
-## 👀 Want to learn more?
-
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+There is a simple admin UI at `/admin` powered by Decap CMS for editing talks.
