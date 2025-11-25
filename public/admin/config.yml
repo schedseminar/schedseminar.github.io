@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: viktorkorladinov/viktorkorladinov.github.io
+  repo: schedseminar/schedseminar.github.io
   branch: master
   base_url: https://api.netlify.com
   auth_endpoint: auth
