@@ -15,5 +15,6 @@
   },
   "datePrague": "2025-11-26",
   "keywords": "Shunt yard planning, AI, Local Search, Constraint Programming, Linear Programming, Data analysis, Logistic Regression, Decomposition, Synchronization, Technician Routing",
-  "status": "upcoming"
+  "status": "past",
+  "pdf": "/presentations/scheduling-seminar.pdf"
 }
