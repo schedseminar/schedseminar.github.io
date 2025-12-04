@@ -1,0 +1,16 @@
+Remove resting sites from objecive
+
+add resting sites chapter
+
+write more like paper
+
+in problem defintion: 
+
+
+
+m x n grid,B set of neighbours
+
+
+
+TIle is a x a, mover is len a/2 a/2
+

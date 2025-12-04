@@ -1,0 +1,20 @@
+{
+  "title": "Test Talk",
+  "abstract": "This is a test abstract",
+  "presenter": {
+    "name": "Me",
+    "affiliation": "My Uni",
+    "photo": "/src/assets/photos/screenshot-2025-11-12-at-13.58.56.png",
+    "link": "mylink.com",
+    "continent": "Asia"
+  },
+  "invitedBy": {
+    "name": "My invitor",
+    "affiliation": "His uni",
+    "link": "hisuni.com/him"
+  },
+  "datePrague": "2025-12-11",
+  "keywords": "Me, You, Hey",
+  "pdf": "/presentations/remove-resting-sites-from-objecive.txt",
+  "status": "upcoming"
+}
