@@ -9,8 +9,8 @@ const sizeClasses = {
   large: "w-24 h-24"
 };
 
-const images = import.meta.glob('/src/assets/photos/*.{jpeg,jpg,png,gif}');
-const image = presenter.photo ? images[`/src/assets/photos/${presenter.photo}`]() : null;
+const images = import.meta.glob('/public/assets/photos/*.{jpeg,jpg,png,gif}');
+const image = presenter.photo ? images[`/public/assets/photos/${presenter.photo}`]() : null;
 ---
 
 {presenter.photo && image ? (

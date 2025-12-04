@@ -1,7 +1,7 @@
 ---
-import committee from '../data/committee';
+import committee from '../data/committee.json';
 import {Image} from "astro:assets";
-const images = import.meta.glob('/src/assets/photos/*.{jpeg,jpg,png,gif}')
+const images = import.meta.glob('/public/assets/photos/*.{jpeg,jpg,png,gif}')
 ---
 
 
@@ -35,7 +35,7 @@ const images = import.meta.glob('/src/assets/photos/*.{jpeg,jpg,png,gif}')
                             <div class="w-24 h-24 sm:w-28 sm:h-28 mx-auto mb-3 rounded-full overflow-hidden
                                 border-2 border-white shadow-inner /* Clean inner shadow */">
                                 {/* The photo is now the primary visual element, but not square-dominant */}
-                                <Image src={images[`/src/assets/${member.photo}`]()} alt={`${member.name}`}
+                                <Image src={images[`/public/assets/${member.photo}`]()} alt={`${member.name}`}
                                        loading="lazy"
                                        class="object-cover w-full h-full"/>
                             </div>

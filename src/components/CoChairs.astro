@@ -1,8 +1,8 @@
 ---
 import {Image} from "astro:assets";
-import zdenek from '../assets/photos/Zdenek.jpg'
-import pinedo from '../assets/photos/mpinedo.jpg'
-import wan from '../assets/photos/guohua_wan.jpg'
+import zdenek from '../../public/assets/photos/Zdenek.jpg'
+import pinedo from '../../public/assets/photos/mpinedo.jpg'
+import wan from '../../public/assets/photos/guohua_wan.jpg'
 
 const photos = [zdenek, pinedo, wan]
 // Define the PC Co-Chairs data structure
@@ -59,7 +59,6 @@ const continentColors = {
         </svg>
         <h2 class="text-3xl font-bold text-gray-800">Program Committee Co-chairs</h2>
     </div>
-    <div>
     <div class="w-full grid grid-cols-1 md:grid-cols-3 gap-6 px-4">
         {pcChairs.map( (chair, idx) => {
             const colors = continentColors[chair.continent] || {

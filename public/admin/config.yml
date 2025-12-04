@@ -5,8 +5,8 @@ backend:
   base_url: https://schedseminar.iid.ciirc.cvut.cz/
   auth_endpoint: auth
 
-media_folder: "../../src/assets/photos"
-public_folder: "/src/assets/photos"
+media_folder: "public/assets/photos"
+public_folder: "/assets/photos"
 
 collections:
   - name: "talks"
