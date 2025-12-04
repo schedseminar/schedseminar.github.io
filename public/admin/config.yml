@@ -34,8 +34,8 @@ collections:
           - label: "Photo"
             name: "photo"
             widget: "image"
-            media_folder: "src/assets/photos"
-            public_folder: "/src/assets/photos"
+            media_folder: "/public/assets/photos"
+            public_folder: "/assets/photos"
           - { label: "Link", name: "link", widget: "string" }
           - { label: "Continent", name: "continent", widget: "string" }
 
