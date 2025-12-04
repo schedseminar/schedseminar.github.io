@@ -44,9 +44,9 @@ collections:
         widget: "relation"
         collection: "settings"
         file: "hosts"
-        search_fields: [ "people.name" ]
-        value_field: "people.name"
-        display_fields: [ "people.name", "people.affiliation" ]
+        search_fields: [ "people.*.name" ]
+        value_field: "people.*.name"
+        display_fields: [ "people.*.name", "people.*.affiliation" ]
         required: true
 
       - { label: "Date (Prague time)", name: "datePrague", widget: "datetime", date_format: "YYYY-MM-DD", required: true }
