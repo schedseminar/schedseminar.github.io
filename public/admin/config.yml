@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: schedulingseminar/schedulingseminar.github.io
+  repo: schedseminar/schedseminar.github.io
   branch: master
   base_url: https://schedseminar.iid.ciirc.cvut.cz/
   auth_endpoint: auth
