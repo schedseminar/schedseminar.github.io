@@ -5,7 +5,7 @@ backend:
   base_url: https://schedseminar.iid.ciirc.cvut.cz/
   auth_endpoint: auth
 
-media_folder: "public/assets/photos"
+media_folder: "/public/assets/photos"
 public_folder: "/assets/photos"
 
 collections:
@@ -54,7 +54,7 @@ collections:
         name: "pdf"
         widget: "file"
         required: false
-        media_folder: "public/presentations"
+        media_folder: "/public/presentations"
         public_folder: "/presentations"
 
       - { label: "Video", name: "video", widget: "string", required: false }
