@@ -9,11 +9,7 @@
     "link": "http://math.haifa.ac.il/lea/",
     "continent": "Europe"
   },
-  "invitedBy": {
-    "name": "Dvir Shabtay",
-    "affiliation": "Ben Gurion Uni",
-    "link": "https://in.bgu.ac.il/en/engn/iem/pages/staff/Dvir-Shabtay.aspx"
-  },
+  "invitedBy": "Dvir Shabtay",
   "datePrague": "2021-09-29",
   "keywords": "Preemptive scheduling, Uniformly related machines, Total completion time, Makespan",
   "pdf": "SchedulingSeminar_LeahEpstein.pdf",

@@ -8,11 +8,7 @@
     "link": "https://www.chkwon.net",
     "continent": "Asia"
   },
-  "invitedBy": {
-    "name": "Zdeněk Hanzálek",
-    "affiliation": "CTU in Prague",
-    "link": "https://rtime.ciirc.cvut.cz/~hanzalek/"
-  },
+  "invitedBy": "Zdeněk Hanzálek",
   "datePrague": "2025-10-15",
   "keywords": "Neural combinatorial optimization, Deep reinforcement learning, Vehicle routing",
   "pdf": "SchedulingSeminar_ChanghyunKwon.pdf",

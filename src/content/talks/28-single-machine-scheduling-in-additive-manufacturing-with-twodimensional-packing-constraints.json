@@ -9,11 +9,7 @@
     "link": "https://kfang.weebly.com/",
     "continent": "Asia"
   },
-  "invitedBy": {
-    "name": "Michael Pinedo",
-    "affiliation": "New York Uni",
-    "link": "https://www.stern.nyu.edu/faculty/bio/michael-pinedo"
-  },
+  "invitedBy": "Michael Pinedo",
   "datePrague": "2023-10-04",
   "keywords": "Scheduling, Additive manufacturing, Two-dimensional bin packing, Approximation algorithm, Combinatorial Benders decomposition",
   "pdf": "SchedulingSeminar_KanFang.pdf",

@@ -9,11 +9,7 @@
     "link": "https://www.runi.ac.il/en/faculty/tami",
     "continent": "Europe"
   },
-  "invitedBy": {
-    "name": "Michael Pinedo",
-    "affiliation": "New York Uni",
-    "link": "https://www.stern.nyu.edu/faculty/bio/michael-pinedo"
-  },
+  "invitedBy": "Michael Pinedo",
   "datePrague": "2023-06-21",
   "keywords": "Machines' priority lists, Coordinated mechanisms, Minimum completion time, Equilibrium inefficiency",
   "pdf": "SchedulingSeminar_TamiTamir.pdf",

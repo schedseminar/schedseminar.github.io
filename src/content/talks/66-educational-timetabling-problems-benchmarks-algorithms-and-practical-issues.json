@@ -9,11 +9,7 @@
     "link": "http://www.dpia.uniud.it/schaerf/",
     "continent": "Europe"
   },
-  "invitedBy": {
-    "name": "Zdeněk Hanzálek",
-    "affiliation": "CTU in Prague",
-    "link": "https://rtime.ciirc.cvut.cz/~hanzalek/"
-  },
+  "invitedBy": "Zdeněk Hanzálek",
   "datePrague": "2021-07-07",
   "keywords": "Timetabling, Scheduling, Optimization, Metaheuristics, Local Search",
   "pdf": "presentations/SchedulingSeminar_AndreaSchaerf.pdf",

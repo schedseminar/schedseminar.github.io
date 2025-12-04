@@ -9,11 +9,7 @@
     "link": "https://www.hitachienergy.com/news/testimonials/2021/06/iiro-harjunkoski-germany",
     "continent": "Europe"
   },
-  "invitedBy": {
-    "name": "Přemysl Šůcha",
-    "affiliation": "CTU in Prague",
-    "link": "http://people.ciirc.cvut.cz/~suchap/"
-  },
+  "invitedBy": "Přemysl Šůcha",
   "datePrague": "2022-04-27",
   "keywords": "Energy, MILP, Bilevel optimization, Real-world application, Industry, Sustainability",
   "pdf": "SchedulingSeminar_IiroHarjunkoski.pdf",

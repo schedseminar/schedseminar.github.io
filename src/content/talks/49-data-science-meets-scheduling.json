@@ -9,11 +9,7 @@
     "link": "https://www.kuleuven.be/wieiswie/en/person/00003471",
     "continent": "Europe"
   },
-  "invitedBy": {
-    "name": "Zdeněk Hanzálek",
-    "affiliation": "CTU in Prague",
-    "link": "https://rtime.ciirc.cvut.cz/~hanzalek/"
-  },
+  "invitedBy": "Zdeněk Hanzálek",
   "datePrague": "2022-05-11",
   "keywords": "Data Science, Machine learning, Combinatorial optimization, Scheduling, Algorithms, Landscape analysis, Automated tuning, Automated construction, Automated selection, Instance hardness",
   "pdf": "SchedulingSeminar_PatrickDeCausmaecker.pdf",

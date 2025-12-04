@@ -10,10 +10,6 @@
     "photo": "laurent.jpg"
   },
   "datePrague": "2025-12-10",
-  "invitedBy": {
-    "name": "Zdeněk Hanzálek",
-    "link": "https://rtime.ciirc.cvut.cz/~hanzalek/",
-    "affiliation": "CTU in Prague"
-  },
+  "invitedBy": "Zdeněk Hanzálek",
   "status": "upcoming"
 }

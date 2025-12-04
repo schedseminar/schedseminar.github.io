@@ -1,11 +1,15 @@
 ---
 const { invitedBy } = Astro.props;
+import hostsData from '../../data/hosts.json';
+const data = invitedBy
+    ? hostsData.people.find(h => h.name === invitedBy)
+    : null;
 ---
 
 <p class="text-sm text-gray-600">
   <span class="font-semibold">Invited by:</span>{' '}
-  <a href={invitedBy.link} class="text-blue-600 hover:text-blue-700 hover:underline">
-    {invitedBy.name}
+  <a href={data.link} class="text-blue-600 hover:text-blue-700 hover:underline">
+    {data.name}
   </a>
-  {' '}({invitedBy.affiliation})
+  {' '}({data.affiliation})
 </p>

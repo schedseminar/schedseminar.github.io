@@ -1,0 +1,84 @@
+{
+  "people": [
+    {
+      "name": "Alessandro Agnetis",
+      "affiliation": "University of Siena",
+      "link": "https://www3.diism.unisi.it/~agnetis/"
+    },
+    {
+      "name": "Chris Potts",
+      "affiliation": "Southampton Uni",
+      "link": "https://www.southampton.ac.uk/maths/about/staff/cnp1.page"
+    },
+    {
+      "name": "Christian Artigues",
+      "affiliation": "LAAS - CNRS",
+      "link": "https://homepages.laas.fr/artigues/drupal/node/11"
+    },
+    {
+      "name": "Claire Hanen",
+      "affiliation": "Sorbonne Uni",
+      "link": "https://ufr-segmi.parisnanterre.fr/organisation-et-contacts/espace-reserve-enseignants/site-des-enseignants/les-enseignants-de-segmi/hanen-claire/hanen-claire-93518.kjsp"
+    },
+    {
+      "name": "Clifford Stein",
+      "affiliation": "Columbia Uni",
+      "link": "https://www.ieor.columbia.edu/faculty/clifford-stein"
+    },
+    {
+      "name": "Dvir Shabtay",
+      "affiliation": "Ben Gurion Uni",
+      "link": "https://in.bgu.ac.il/en/engn/iem/pages/staff/Dvir-Shabtay.aspx"
+    },
+    {
+      "name": "G. Vanden Berghe",
+      "affiliation": "KU Leuven",
+      "link": "https://www.kuleuven.be/wieiswie/nl/person/00053376"
+    },
+    {
+      "name": "Guohua Wan",
+      "affiliation": "Shanghai Jiao Tong",
+      "link": "http://www.acem.sjtu.edu.cn/en/faculty/wanguohua.html"
+    },
+    {
+      "name": "Jan Karel Lenstra",
+      "affiliation": "CWI",
+      "link": "https://www.cwi.nl/people/jan-karel-lenstra"
+    },
+    {
+      "name": "Lixin Tang",
+      "affiliation": "NEU China",
+      "link": "http://dao.neu.edu.cn/"
+    },
+    {
+      "name": "Mario Vanhoucke",
+      "affiliation": "Ghent University",
+      "link": "https://www.or-as.be"
+    },
+    {
+      "name": "Michael Pinedo",
+      "affiliation": "UC Davis",
+      "link": "https://www.stern.nyu.edu/faculty/bio/michael-pinedo"
+    },
+    {
+      "name": "Přemysl Šůcha",
+      "affiliation": "CTU in Prague",
+      "link": "http://people.ciirc.cvut.cz/~suchap/"
+    },
+    {
+      "name": "Rainer Kolisch",
+      "affiliation": "MILP",
+      "link": "https://www.professors.wi.tum.de/om/team/prof-dr-rainer-kolisch/"
+    },
+    {
+      "name": "Vincent T’kindt",
+      "affiliation": "Uni de Tours",
+      "link": "https://www.univ-tours.fr/annuaire/m-vincent-tkindt"
+    },
+    {
+      "name": "Zdeněk Hanzálek",
+      "affiliation": "CTU in Prague",
+      "link": "https://rtime.ciirc.cvut.cz/~hanzalek/"
+    }
+  ]
+}

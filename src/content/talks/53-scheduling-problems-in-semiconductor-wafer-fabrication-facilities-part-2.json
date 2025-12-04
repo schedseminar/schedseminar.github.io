@@ -9,11 +9,7 @@
     "link": "https://www.fernuni-hagen.de/ess/team/lars.moench.shtml",
     "continent": "Europe"
   },
-  "invitedBy": {
-    "name": "Zdeněk Hanzálek",
-    "affiliation": "CTU in Prague",
-    "link": "https://rtime.ciirc.cvut.cz/~hanzalek/"
-  },
+  "invitedBy": "Zdeněk Hanzálek",
   "datePrague": "2022-03-16",
   "keywords": "Scheduling, Batching, Semiconductor manufacturing, Decomposition methods",
   "pdf": "SchedulingSeminar_LarsMoench.pdf",

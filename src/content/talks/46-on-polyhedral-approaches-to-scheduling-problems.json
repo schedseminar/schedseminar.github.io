@@ -9,11 +9,7 @@
     "link": "https://www.sauder.ubc.ca/people/maurice-queyranne",
     "continent": "America"
   },
-  "invitedBy": {
-    "name": "Michael Pinedo",
-    "affiliation": "New York Uni",
-    "link": "https://www.stern.nyu.edu/faculty/bio/michael-pinedo"
-  },
+  "invitedBy": "Michael Pinedo",
   "datePrague": "2022-06-22",
   "keywords": "Scheduling, Polyhedra, Formulations",
   "pdf": "SchedulingSeminar_MauriceQueyranne.pdf",

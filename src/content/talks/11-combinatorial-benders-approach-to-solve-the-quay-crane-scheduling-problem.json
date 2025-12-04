@@ -9,11 +9,7 @@
     "link": "https://orcid.org/0000-0002-6699-6272",
     "continent": "Asia"
   },
-  "invitedBy": {
-    "name": "Lixin Tang",
-    "affiliation": "NEU China",
-    "link": "http://dao.neu.edu.cn/"
-  },
+  "invitedBy": "Lixin Tang",
   "datePrague": "2025-02-12",
   "keywords": "Quay crane scheduling, Benders decomposition, Combinatorial cuts",
   "pdf": "SchedulingSeminar_DefengSun.pdf",

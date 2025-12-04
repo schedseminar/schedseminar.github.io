@@ -9,11 +9,7 @@
     "link": "https://www.digep.polito.it/en/personale/scheda/(nominativo)/federico.dellacroce",
     "continent": "Europe"
   },
-  "invitedBy": {
-    "name": "Vincent T’kindt",
-    "affiliation": "Uni de Tours",
-    "link": "https://www.univ-tours.fr/annuaire/m-vincent-tkindt"
-  },
+  "invitedBy": "Vincent T’kindt",
   "datePrague": "2021-10-13",
   "keywords": "Identical parallel machine scheduling, LPT rule, Linear programming, Approximation",
   "pdf": "SchedulingSeminar_FedericoDellaCroce.pdf",

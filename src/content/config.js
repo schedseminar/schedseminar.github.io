@@ -12,11 +12,7 @@ const talks = defineCollection({
             link: z.string(),
             continent: z.string(),
         }),
-        invitedBy: z.object({
-            name: z.string(),
-            affiliation: z.string(),
-            link: z.string(),
-        }),
+        invitedBy: z.string(),
         datePrague: z.string(),
         keywords: z.string().optional(),
         pdf: z.string().optional(),

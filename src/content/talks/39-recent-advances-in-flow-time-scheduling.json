@@ -9,11 +9,7 @@
     "link": "https://larsrohwedder.com/",
     "continent": "Europe"
   },
-  "invitedBy": {
-    "name": "Jan Karel Lenstra",
-    "affiliation": "CWI",
-    "link": "https://www.cwi.nl/people/jan-karel-lenstra"
-  },
+  "invitedBy": "Jan Karel Lenstra",
   "datePrague": "2023-01-18",
   "keywords": "Scheduling, Flow time, Integer programming, Discrepancy, Dynamic programming",
   "pdf": "SchedulingSeminar_LarsRohwedder.pdf",

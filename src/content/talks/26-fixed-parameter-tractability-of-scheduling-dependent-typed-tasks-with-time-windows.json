@@ -9,11 +9,7 @@
     "link": "https://www.lip6.fr/actualite/personnes-fiche.php?ident=P41",
     "continent": "Europe"
   },
-  "invitedBy": {
-    "name": "Zdeněk Hanzálek",
-    "affiliation": "CTU in Prague",
-    "link": "https://rtime.ciirc.cvut.cz/~hanzalek/"
-  },
+  "invitedBy": "Zdeněk Hanzálek",
   "datePrague": "2023-11-15",
   "keywords": "Parameterized complexity, Typed tasks, Precedence constraints, Fixed parameter tractable algorithm",
   "pdf": "SchedulingSeminar_ClaireHanen.pdf",

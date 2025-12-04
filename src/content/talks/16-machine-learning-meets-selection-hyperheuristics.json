@@ -9,11 +9,7 @@
     "link": "https://scholar.google.co.uk/citations?user=8maqKdgAAAAJ&hl=en",
     "continent": "Europe"
   },
-  "invitedBy": {
-    "name": "Zdeněk Hanzálek",
-    "affiliation": "CTU in Prague",
-    "link": "https://rtime.ciirc.cvut.cz/~hanzalek/"
-  },
+  "invitedBy": "Zdeněk Hanzálek",
   "datePrague": "2024-06-12",
   "keywords": "Intelligent decision support, Hyper-heuristics, Metaheuristics, Machine learning",
   "pdf": "SchedulingSeminar_EnderOzcan.pdf",

@@ -9,11 +9,7 @@
     "link": "https://scholar.google.com/citations?user=nC-GgAcAAAAJ&hl=en",
     "continent": "Europe"
   },
-  "invitedBy": {
-    "name": "Michael Pinedo",
-    "affiliation": "New York Uni",
-    "link": "https://www.stern.nyu.edu/faculty/bio/michael-pinedo"
-  },
+  "invitedBy": "Michael Pinedo",
   "datePrague": "2024-02-07",
   "keywords": "Order acceptance and scheduling, Matheuristic, Variable neighborhood search, Tabu search",
   "pdf": "SchedulingSeminar_CeydaOguz.pdf",

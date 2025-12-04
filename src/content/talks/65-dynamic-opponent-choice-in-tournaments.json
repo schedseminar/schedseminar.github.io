@@ -9,11 +9,7 @@
     "link": "",
     "continent": "America"
   },
-  "invitedBy": {
-    "name": "Mario Vanhoucke",
-    "affiliation": "Ghent University",
-    "link": "https://www.or-as.be"
-  },
+  "invitedBy": "Mario Vanhoucke",
   "datePrague": "2021-09-14",
   "keywords": "Multiple round sports tournament, Choice of opponent, Performance criteria, Professional tennis",
   "pdf": "presentations/SchedulingSeminar_NicholasHall.pdf",

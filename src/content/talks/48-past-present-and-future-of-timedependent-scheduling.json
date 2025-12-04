@@ -9,11 +9,7 @@
     "link": "https://algo.wmi.amu.edu.pl/en/staff/prof-uam-dr-hab-stanislaw-gawiejnowicz/",
     "continent": "Europe"
   },
-  "invitedBy": {
-    "name": "Zdeněk Hanzálek",
-    "affiliation": "CTU in Prague",
-    "link": "https://rtime.ciirc.cvut.cz/~hanzalek/"
-  },
+  "invitedBy": "Zdeněk Hanzálek",
   "datePrague": "2022-05-25",
   "keywords": "Time-dependent scheduling, Variable job processing times, Approximation algorithms, Approximation schemes, Heuristics, Single machine, Parallel machines, Dedicated machines",
   "pdf": "SchedulingSeminar_StanislawGawiejnowicz.pdf",

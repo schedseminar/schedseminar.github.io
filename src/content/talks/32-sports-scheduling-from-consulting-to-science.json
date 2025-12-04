@@ -9,11 +9,7 @@
     "link": "https://biblio.ugent.be/person/802001574062",
     "continent": "Europe"
   },
-  "invitedBy": {
-    "name": "Chris Potts",
-    "affiliation": "Southampton Uni",
-    "link": "https://www.southampton.ac.uk/maths/about/staff/cnp1.page"
-  },
+  "invitedBy": "Chris Potts",
   "datePrague": "2023-05-10",
   "keywords": "Sports scheduling, Unified data format, International timetabling competition, Benchmarking, Instance space analysis, Algorithm selection",
   "pdf": "SchedulingSeminar_DriesGoossens.pdf",

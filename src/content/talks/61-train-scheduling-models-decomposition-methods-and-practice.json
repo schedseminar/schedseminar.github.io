@@ -9,11 +9,7 @@
     "link": "https://www.mn.uio.no/math/english/people/aca/carloman/",
     "continent": "Europe"
   },
-  "invitedBy": {
-    "name": "Alessandro Agnetis",
-    "affiliation": "University of Siena",
-    "link": "https://www3.diism.unisi.it/~agnetis/"
-  },
+  "invitedBy": "Alessandro Agnetis",
   "datePrague": "2021-11-10",
   "keywords": "Train scheduling, Job-shop scheduling, Combinatorial optimization, Integer programming, Decomposition methods",
   "pdf": "SchedulingSeminar_CarloMannino.pdf",

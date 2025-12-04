@@ -9,11 +9,7 @@
     "link": "https://www3.diism.unisi.it/~agnetis/",
     "continent": "Europe"
   },
-  "invitedBy": {
-    "name": "Zdeněk Hanzálek",
-    "affiliation": "CTU in Prague",
-    "link": "https://rtime.ciirc.cvut.cz/~hanzalek/"
-  },
+  "invitedBy": "Zdeněk Hanzálek",
   "datePrague": "2022-11-09",
   "keywords": "Scheduling, Machine breakdowns, Testing",
   "pdf": "SchedulingSeminar_AlessandroAgnetis.pdf",

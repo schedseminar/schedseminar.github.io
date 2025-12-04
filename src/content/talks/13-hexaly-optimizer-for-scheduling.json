@@ -9,11 +9,7 @@
     "link": "https://www.hexaly.com/",
     "continent": "Europe"
   },
-  "invitedBy": {
-    "name": "Zdeněk Hanzálek",
-    "affiliation": "CTU in Prague",
-    "link": "https://rtime.ciirc.cvut.cz/~hanzalek/"
-  },
+  "invitedBy": "Zdeněk Hanzálek",
   "datePrague": "2024-11-20",
   "keywords": "Mathematical optimization solver, Algebraic model, Industrial problems, Scalability, Constraint Programming, Local Search, Scheduling Theory, Exact approaches",
   "pdf": "SchedulingSeminar_PhillipeLaborie.pdf",

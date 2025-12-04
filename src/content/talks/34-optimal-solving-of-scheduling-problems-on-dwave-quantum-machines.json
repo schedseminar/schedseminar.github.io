@@ -9,11 +9,7 @@
     "link": "http://staff.iiar.pwr.wroc.pl/wojciech.bozejko/",
     "continent": "Europe"
   },
-  "invitedBy": {
-    "name": "Přemysl Šůcha",
-    "affiliation": "CTU in Prague",
-    "link": "http://people.ciirc.cvut.cz/~suchap/"
-  },
+  "invitedBy": "Přemysl Šůcha",
   "datePrague": "2023-04-12",
   "keywords": "Scheduling, Quantum Annealing, Single machine, Exact algorithm",
   "pdf": "SchedulingSeminar_WojciechBozejko.pdf",

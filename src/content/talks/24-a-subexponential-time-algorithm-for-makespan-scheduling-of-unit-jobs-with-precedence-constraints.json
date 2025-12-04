@@ -9,11 +9,7 @@
     "link": "http://cswennenhuis.win.tue.nl/",
     "continent": "Europe"
   },
-  "invitedBy": {
-    "name": "Michael Pinedo",
-    "affiliation": "New York Uni",
-    "link": "https://www.stern.nyu.edu/faculty/bio/michael-pinedo"
-  },
+  "invitedBy": "Michael Pinedo",
   "datePrague": "2023-12-13",
   "keywords": "Scheduling, Subexponential time, Precedence constraints",
   "pdf": "SchedulingSeminar_CelineSwennenhuis.pdf",

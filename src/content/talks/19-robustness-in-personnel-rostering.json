@@ -9,11 +9,7 @@
     "link": "https://people.cs.kuleuven.be/~pieter.smet/",
     "continent": "Europe"
   },
-  "invitedBy": {
-    "name": "Zdeněk Hanzálek",
-    "affiliation": "CTU in Prague",
-    "link": "https://rtime.ciirc.cvut.cz/~hanzalek/"
-  },
+  "invitedBy": "Zdeněk Hanzálek",
   "datePrague": "2024-03-20",
   "keywords": "Personnel rostering, Robustness, On-call shift rostering, Operations research, Machine learning",
   "pdf": "SchedulingSeminar_PieterSmet.pdf",

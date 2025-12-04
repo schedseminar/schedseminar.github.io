@@ -9,11 +9,7 @@
     "link": "https://www.lamsade.dauphine.fr/~arossi/",
     "continent": "Europe"
   },
-  "invitedBy": {
-    "name": "Zdeněk Hanzálek",
-    "affiliation": "CTU in Prague",
-    "link": "https://rtime.ciirc.cvut.cz/~hanzalek/"
-  },
+  "invitedBy": "Zdeněk Hanzálek",
   "datePrague": "2024-04-04",
   "keywords": "Operations research, Integer linear programming, Decomposition methods",
   "pdf": "SchedulingSeminar_AndreRossi.pdf",

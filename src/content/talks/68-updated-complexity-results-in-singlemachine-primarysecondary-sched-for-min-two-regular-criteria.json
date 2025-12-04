@@ -9,11 +9,7 @@
     "link": "https://www.researchgate.net/profile/Jinjiang-Yuan",
     "continent": "Asia"
   },
-  "invitedBy": {
-    "name": "Guohua Wan",
-    "affiliation": "Shanghai Jiao Tong",
-    "link": "http://www.acem.sjtu.edu.cn/en/faculty/wanguohua.html"
-  },
+  "invitedBy": "Guohua Wan",
   "datePrague": "2021-06-10",
   "keywords": "Single-machine scheduling, Promary-secondary criteria, Computational complexity",
   "pdf": "SchedulingSeminar_JinjiangYuan.pdf",

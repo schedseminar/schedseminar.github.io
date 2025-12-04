@@ -9,11 +9,7 @@
     "link": "https://isearch.asu.edu/profile/36406",
     "continent": "America"
   },
-  "invitedBy": {
-    "name": "Michael Pinedo",
-    "affiliation": "New York Uni",
-    "link": "https://www.stern.nyu.edu/faculty/bio/michael-pinedo"
-  },
+  "invitedBy": "Michael Pinedo",
   "datePrague": "2022-03-02",
   "keywords": "Semiconductor Manufacturing, Scheduling",
   "pdf": "SchedulingSeminar_JohnWFowler.pdf",

@@ -9,11 +9,7 @@
     "link": "https://www.lip6.fr/actualite/personnes-fiche.php?ident=P653",
     "continent": "Europe"
   },
-  "invitedBy": {
-    "name": "Claire Hanen",
-    "affiliation": "Sorbonne Uni",
-    "link": "https://ufr-segmi.parisnanterre.fr/organisation-et-contacts/espace-reserve-enseignants/site-des-enseignants/les-enseignants-de-segmi/hanen-claire/hanen-claire-93518.kjsp"
-  },
+  "invitedBy": "Claire Hanen",
   "datePrague": "2022-09-28",
   "keywords": "Synchronous DataFlow, Precedence constraints, Normalization, Liveness, Throughput evaluation",
   "pdf": "SchedulingSeminar_AlixMunierKordon.pdf",

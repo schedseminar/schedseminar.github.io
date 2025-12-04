@@ -8,11 +8,7 @@
     "link": "https://www.researchgate.net/profile/Rubing-Chen-2",
     "continent": "Asia"
   },
-  "invitedBy": {
-    "name": "Michael Pinedo",
-    "affiliation": "New York Uni",
-    "link": "https://www.stern.nyu.edu/faculty/bio/michael-pinedo"
-  },
+  "invitedBy": "Michael Pinedo",
   "datePrague": "2025-05-07",
   "keywords": "Scheduling, Hierarchical criteria, Release date, Preemption, Total completion time",
   "pdf": "SchedulingSeminar_RubingChen.pdf",

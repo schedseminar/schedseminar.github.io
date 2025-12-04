@@ -9,11 +9,7 @@
     "link": "https://che.utoronto.ca/professor-michael-w-carter/",
     "continent": "America"
   },
-  "invitedBy": {
-    "name": "Michael Pinedo",
-    "affiliation": "chemotherapy and radiation",
-    "link": "https://www.stern.nyu.edu/faculty/bio/michael-pinedo"
-  },
+  "invitedBy": "Michael Pinedo",
   "datePrague": "2021-06-23",
   "keywords": "Healthcare scheduling applications, Diagnostic imaging, Cancer treatment (chemotherapy and radiation), Nurse/physician scheduling, Surgical scheduling, 911 call centres, Home care routing, Medical resident scheduling and primary care appointments",
   "pdf": "SchedulingSeminar_MichaelCarter.pdf",

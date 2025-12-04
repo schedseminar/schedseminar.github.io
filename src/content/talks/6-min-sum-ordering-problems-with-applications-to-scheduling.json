@@ -8,11 +8,7 @@
     "link": "https://www.business.rutgers.edu/faculty/thomas-lidbetter",
     "continent": "America"
   },
-  "invitedBy": {
-    "name": "Alessandro Agnetis",
-    "affiliation": "University of Siena",
-    "link": "https://www3.diism.unisi.it/~agnetis/"
-  },
+  "invitedBy": "Alessandro Agnetis",
   "datePrague": "2025-06-04",
   "keywords": "Scheduling, Search theory, Submodular functions, Min sum problems",
   "pdf": "SchedulingSeminar_ThomasLidbetter.pdf",

@@ -9,11 +9,7 @@
     "link": "https://sites.google.com/site/kangbokstudy/",
     "continent": "Asia"
   },
-  "invitedBy": {
-    "name": "Michael Pinedo",
-    "affiliation": "New York Uni",
-    "link": "https://www.stern.nyu.edu/faculty/bio/michael-pinedo"
-  },
+  "invitedBy": "Michael Pinedo",
   "datePrague": "2022-02-16",
   "keywords": "Steelmaking-continuous casting, Hybrid flow shop, Mixed-integer programming, Matheuristic",
   "pdf": "SchedulingSeminar_KangbokLee.pdf",
