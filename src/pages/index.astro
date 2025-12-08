@@ -10,18 +10,18 @@ import UpcomingCard from '../components/TalkCard/UpcomingCard.astro';
 import PastCard from '../components/TalkCard/PastCard.astro';
 
 const {pastTalks, upcomingTalks} = await getTalks()
-const nav_links = ["PC co-chairs", "Program committee", "Calendar", "Feedback"];
+const nav_links = ["PC co-chairs", "Program committee", "Calendar"];
 ---
 
 <Layout title="Scheduling Seminar">
     <!--Hero Content-->
-    <div class="max-w-7xl mx-auto grid sm:grid-cols-12 gap-2 items-center justify-center">
-        <div class="xs: m-10 sm:col-span-5 flex items-center justify-center">
+    <div class="max-w-7xl mx-auto grid sm:grid-cols-12 gap-1 items-center justify-center">
+        <div class="xs:m-10 m-5 sm:col-span-5 flex items-center justify-center">
             <Image src={gantt} class=" contrast-85 brightness-105 rounded-md" alt="Scheduling Seminar"/>
         </div>
 
         <div class="px-6 lg:px-8 sm:pt-12 pb-12 sm:col-span-7 text-center">
-            <h1 class="text-5xl lg:text-6xl text-blue-600 font-bold mb-6">
+            <h1 class="text-4xl lg:text-5xl text-blue-600 font-bold mb-6">
                 Scheduling Seminar
             </h1>
 
@@ -46,6 +46,19 @@ const nav_links = ["PC co-chairs", "Program committee", "Calendar", "Feedback"];
                             </a>
                     )
                 })}
+                <a href="https://rtime.ciirc.cvut.cz/~hanzalek/"
+                   class="px-4 py-2 bg-white/50 border-blue-600/85 border text-blue-700 hover:bg-blue-600/85 hover:text-white rounded-xl text-sm transition-colors flex flex-row items-center justify-center"
+                   target="_blank">
+                    <svg class="mr-1 size-5 stroke-current" width="16px" height="16px" viewBox="0 0 24 24" fill="none"
+                         xmlns="http://www.w3.org/2000/svg">
+                        <g id="Interface / External_Link">
+                            <path id="Vector"
+                                  d="M10.0002 5H8.2002C7.08009 5 6.51962 5 6.0918 5.21799C5.71547 5.40973 5.40973 5.71547 5.21799 6.0918C5 6.51962 5 7.08009 5 8.2002V15.8002C5 16.9203 5 17.4801 5.21799 17.9079C5.40973 18.2842 5.71547 18.5905 6.0918 18.7822C6.5192 19 7.07899 19 8.19691 19H15.8031C16.921 19 17.48 19 17.9074 18.7822C18.2837 18.5905 18.5905 18.2839 18.7822 17.9076C19 17.4802 19 16.921 19 15.8031V14M20 9V4M20 4H15M20 4L13 11"
+                                  stroke-linecap="round" stroke-linejoin="round"/>
+                        </g>
+                    </svg>
+                    Feedback
+                </a>
                 <a href="https://docs.google.com/spreadsheets/d/1Glyd6FGzoKtZGfClNA_XaIK8vJZtnu8K4OdNcPr_yHc/edit#gid=0"
                    class="px-4 py-2 bg-white/50 border-blue-600/85 border text-blue-700 hover:bg-blue-600/85 hover:text-white rounded-xl text-sm transition-colors flex flex-row items-center justify-center"
                    target="_blank">
@@ -65,10 +78,7 @@ const nav_links = ["PC co-chairs", "Program committee", "Calendar", "Feedback"];
 
     <!--Social Media Links-->
     <div class="max-w-7xl mx-auto px-6 lg:px-8 mb-12">
-
-        <div class="w-full flex justify-center gap-6">
-
-            <div class="w-full grid grid-cols-2 md:grid-cols-4 gap-10">
+            <div class="w-full grid grid-cols-2 md:grid-cols-3 gap-10">
 
                 <a href="https://www.youtube.com/channel/UCUoCNnaAfw5NAntItILFn4A/live"
                    class="group relative bg-white p-2 sm:p-4 rounded-xl shadow-md hover:shadow-xl transition-all overflow-hidden flex flex-col items-center justify-center text-center h-full">
@@ -103,21 +113,7 @@ const nav_links = ["PC co-chairs", "Program committee", "Calendar", "Feedback"];
                     </div>
                     <p class="text-xs font-medium text-gray-700 leading-tight">Join LinkedIn group</p>
                 </a>
-
-                <a href="https://twitter.com/ZHanzalek"
-                   class="group relative bg-white p-4 sm:p-6 rounded-xl shadow-md hover:shadow-xl transition-all overflow-hidden flex flex-col items-center justify-center text-center h-full">
-                    <div class="absolute inset-0 bg-gradient-to-br from-sky-400 to-sky-500 opacity-0 group-hover:opacity-10 transition-opacity"></div>
-                    <div class="w-10 h-10 mb-1 bg-gradient-to-br from-sky-400 to-sky-500 text-white flex items-center justify-center rounded-lg group-hover:scale-110 transition-transform">
-                        <svg class="w-6 h-6" fill="currentColor" viewBox="0 0 24 24">
-                            <path d="M23.953 4.57a10 10 0 01-2.825.775 4.958 4.958 0 002.163-2.723c-.951.555-2.005.959-3.127 1.184a4.92 4.92 0 00-8.384 4.482C7.69 8.095 4.067 6.13 1.64 3.162a4.822 4.822 0 00-.666 2.475c0 1.71.87 3.213 2.188 4.096a4.904 4.904 0 01-2.228-.616v.06a4.923 4.923 0 003.946 4.827 4.996 4.996 0 01-2.212.085 4.936 4.936 0 004.604 3.417 9.867 9.867 0 01-6.102 2.105c-.39 0-.779-.023-1.17-.067a13.995 13.995 0 007.557 2.209c9.053 0 13.998-7.496 13.998-13.985 0-.21 0-.42-.015-.63A9.935 9.935 0 0024 4.59z"/>
-                        </svg>
-                    </div>
-                    <p class="text-xs font-medium text-gray-700 leading-tight">Follow on Twitter</p>
-                </a>
-
             </div>
-
-        </div>
     </div>
     <!-- Main Content -->
     <div class="max-w-7xl mx-auto px-6 lg:px-8 pb-20">
@@ -168,7 +164,7 @@ const nav_links = ["PC co-chairs", "Program committee", "Calendar", "Feedback"];
         <CommitteeGrid/>
 
         <!-- Calendar and Feedback Section -->
-        <div class="grid xl:grid-cols-2 gap-8">
+        <div class="grid">
             <section id="Calendar" class="mt-20">
                 <div class="flex items-center gap-3 mb-6">
                     <svg class="w-8 h-8 text-blue-600" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
@@ -184,7 +180,6 @@ const nav_links = ["PC co-chairs", "Program committee", "Calendar", "Feedback"];
                             width="100%" height="100%" class="rounded-2xl"></iframe>
                 </div>
             </section>
-            <Feedback/>
         </div>
 
     </div>
