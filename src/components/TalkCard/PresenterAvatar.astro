@@ -4,9 +4,9 @@ import { getInitials } from "../../utils/constants";
 
 const { presenter, size = "medium" } = Astro.props;
 const sizeClasses = {
-  small: "w-12 h-12 sm:w-10 sm:h-10",
-  medium: "w-16 h-16 sm:w-14 sm:h-14",
-  large: "w-24 h-24"
+  small: 48,
+  medium: 64,
+  large: 96
 };
 
 const images = import.meta.glob('/public/assets/photos/*.{jpeg,jpg,png,gif}');
@@ -17,11 +17,14 @@ const image = presenter.photo ? images[`/public/assets/photos/${presenter.photo}
   <Image
     src={image}
     alt={presenter.name}
-    class={`${sizeClasses[size]} object-cover rounded-lg shadow flex-shrink-0`}
+    class={`rounded-lg shadow flex-shrink-0`}
+    fit="cover"
+    width={sizeClasses[size]}
+    height={sizeClasses[size]}
     loading="lazy"
   />
 ) : (
-  <div class={`${sizeClasses[size]} bg-gradient-to-br from-blue-400 to-blue-600 rounded-lg flex items-center justify-center text-white font-bold text-sm shadow flex-shrink-0`}>
+  <div class="w-16 bg-gradient-to-br from-blue-400 to-blue-600 rounded-lg flex items-center justify-center text-white font-bold text-sm shadow flex-shrink-0">
     {getInitials(presenter.name)}
   </div>
 )}

@@ -37,6 +37,8 @@ const images = import.meta.glob('/public/assets/photos/*.{jpeg,jpg,png,gif}')
                                 {/* The photo is now the primary visual element, but not square-dominant */}
                                 <Image src={images[`/public/assets/${member.photo}`]()} alt={`${member.name}`}
                                        loading="lazy"
+                                       width="96" height="96"
+                                       fit="cover"
                                        class="object-cover w-full h-full"/>
                             </div>
 
