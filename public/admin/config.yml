@@ -58,6 +58,10 @@ collections:
         required: false
         media_folder: "/public/presentations"
         public_folder: "/presentations"
+        media_library:
+          config:
+            file_name: "SchedulingSeminar_{{ presenter.name | replace(' ', '') }}"
+
 
       - { label: "Video", name: "video", widget: "string", required: false }
       - { label: "YouTube Embed", name: "youtubeEmbed", widget: "string", required: false }
