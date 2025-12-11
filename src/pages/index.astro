@@ -11,6 +11,9 @@ import PastCard from '../components/TalkCard/PastCard.astro';
 
 const {pastTalks, upcomingTalks} = await getTalks()
 const nav_links = ["PC co-chairs", "Program committee", "Calendar"];
+
+const talks = upcomingTalks.toReversed();
+const hasTalks = talks.length > 0;
 ---
 
 <Layout title="Scheduling Seminar">
@@ -118,9 +121,15 @@ const nav_links = ["PC co-chairs", "Program committee", "Calendar"];
                 </div>
 
                 <div class="space-y-6">
-                    {upcomingTalks.toReversed().map(talk => (
-                            <UpcomingCard talk={talk} past={false}/>
-                    ))}
+                    {
+                        hasTalks ? (
+                            talks.map((talk) => <UpcomingCard talk={talk} past={false} />)
+                        ) : (
+                                <div class="p-4 mt-10 text-center text-gray-500">
+                                    We are currently coordinating upcoming sessions. New talks will appear here and be announced via email once confirmed.
+                                </div>
+                        )
+                    }
                 </div>
             </div>
             <!-- Past Talks -->
