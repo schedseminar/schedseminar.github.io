@@ -19,37 +19,68 @@ const borderClass = getBorderClass(presenters[0].continent);
 >
     <div class={compactable ? 'p-4' : 'p-6'}>
         <div class="compact-card-content">
-            <div class="flex flex-col sm:flex-row items-start gap-4 hover:cursor-pointer" id="card-header">
-                <div class="flex flex-row items-start gap-3 flex-1 w-full">
-                    <div class="flex flex-col gap-2 shrink-0">
-                        {presenters.map(presenter => (
-                             <PresenterAvatar presenter={presenter} size="medium"/>
-                        ))}
-                    </div>
-                    <div class="flex-1 min-w-0 break-words text-center sm:text-left">
-                        <h3 class="talk-title text-base font-semibold text-gray-800 line-clamp-2 mb-1 break-words"
-                            title={talk.title}>
-                            {talk.title}
-                        </h3>
-                        <div class="flex flex-col gap-1">
+            <div class={`card-header flex ${presenters.length > 1 ? 'flex-col gap-3' : 'flex-col sm:flex-row items-center gap-4'} hover:cursor-pointer`}>
+                
+                {presenters.length > 1 ? (
+                    /* Multi-Presenter Layout: Title top, then list of (Avatar + Name) rows */
+                    <div class="w-full">
+                         <div class="flex justify-between items-start gap-4">
+                            <h3 class="talk-title text-base font-semibold text-gray-800 line-clamp-2 mb-3 break-words flex-1"
+                                title={talk.title}>
+                                {talk.title}
+                            </h3>
+                             <ActionButtons talk={talk} stopPropagation={true}/>
+                         </div>
+                        
+                        <div class="flex flex-col sm:flex-row flex-wrap gap-4">
                             {presenters.map(presenter => (
+                                <div class="flex flex-row items-center gap-3">
+                                    <PresenterAvatar presenter={presenter} size="medium"/>
+                                    <div class="min-w-0 break-words">
+                                        <p class="font-semibold text-gray-800 leading-tight">
+                                            <a
+                                                    href={presenter.link}
+                                                    target="_blank"
+                                                    rel="noreferrer"
+                                                    class="hover:opacity-80"
+                                            >
+                                                {presenter.name}
+                                            </a>
+                                        </p>
+                                        <p class="text-sm text-gray-600 leading-tight">
+                                           {presenter.affiliation}
+                                        </p>
+                                    </div>
+                                </div>
+                            ))}
+                        </div>
+                    </div>
+                ) : (
+                    /* Single Presenter Layout: Avatar Left, Title+Content Right */
+                    <>
+                        <div class="flex flex-row items-center gap-3 flex-1 w-full">
+                            <PresenterAvatar presenter={presenters[0]} size="medium"/>
+                            <div class="flex-1 min-w-0 break-words text-center sm:text-left">
+                                <h3 class="talk-title text-base font-semibold text-gray-800 line-clamp-2 mb-1 break-words"
+                                    title={talk.title}>
+                                    {talk.title}
+                                </h3>
                                 <p class="text-sm text-gray-600 break-words">
                                     <a
-                                            href={presenter.link}
+                                            href={presenters[0].link}
                                             target="_blank"
                                             rel="noreferrer"
                                             class="font-semibold text-gray-800 hover:opacity-80"
                                     >
-                                        {presenter.name}
+                                        {presenters[0].name}
                                     </a>
-                                    {`, ${presenter.affiliation}`}
+                                    {`, ${presenters[0].affiliation}`}
                                 </p>
-                            ))}
+                            </div>
                         </div>
-                    </div>
-                </div>
-
-                <ActionButtons talk={talk} stopPropagation={true}/>
+                        <ActionButtons talk={talk} stopPropagation={true}/>
+                    </>
+                )}
             </div>
 
             <div class="compact-expanded-content hidden mt-4 pt-4 border-t border-gray-200">
@@ -62,13 +93,7 @@ const borderClass = getBorderClass(presenters[0].continent);
                 {talk.youtubeEmbed && (
                         <div class="mt-4 rounded-xl overflow-hidden shadow-lg">
                             <div class="relative aspect-video youtube-placeholder" data-src={talk.youtubeEmbed}>
-                                <button class="absolute inset-0 flex items-center justify-center bg-black/40 text-white hover:bg-black/60 transition-colors"
-                                        title="Click to load video">
-                                    <svg class="w-16 h-16 text-white opacity-90" fill="currentColor"
-                                         viewBox="0 0 24 24">
-                                        <path d="M8 5v14l11-7z"/>
-                                    </svg>
-                                </button>
+                                {/* Video will load automatically on expansion */}
                             </div>
                         </div>
                 )}
@@ -77,40 +102,42 @@ const borderClass = getBorderClass(presenters[0].continent);
     </div>
 </article>
 
-<script define:vars={{cardId}}>
-    (function () {
-        const card = document.querySelector(`[data-card-id="${cardId}"]`);
-        if (!card) return;
+<script>
+    document.addEventListener('click', (e) => {
+        const header = e.target.closest('.card-header');
+        if (!header) return;
 
+        // Prevent expansion when clicking interactive elements
+        if (e.target.closest('a, button, summary')) return;
+
+        const card = header.closest('article');
         const expandedContent = card.querySelector('.compact-expanded-content');
-        const header = card.querySelector('#card-header');
 
-        if (header && expandedContent) {
-            header.addEventListener('click', (e) => {
-                if (e.target.closest('a, button, summary')) return;
-                expandedContent.classList.toggle('hidden');
-                card.classList.toggle('expanded');
-            });
+        if (card && expandedContent) {
+            expandedContent.classList.toggle('hidden');
+            card.classList.toggle('expanded');
 
+            // Auto-load video if expanding
+            if (!expandedContent.classList.contains('hidden')) {
+                const placeholder = expandedContent.querySelector('.youtube-placeholder');
+                if (placeholder && !placeholder.querySelector('iframe')) {
+                    const src = placeholder.getAttribute('data-src');
+                    if (src) {
+                        const iframe = document.createElement('iframe');
+                        iframe.src = src;
+                        iframe.title = 'YouTube video player';
+                        iframe.className = 'absolute inset-0 w-full h-full';
+                        iframe.allow = 'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture;';
+                        iframe.referrerPolicy = 'strict-origin-when-cross-origin';
+                        iframe.allowFullscreen = true;
+
+                        placeholder.innerHTML = '';
+                        placeholder.appendChild(iframe);
+                    }
+                }
+            }
         }
-
-        card.addEventListener('click', (e) => {
-            const placeholder = e.target.closest('.youtube-placeholder');
-            if (!placeholder || placeholder.querySelector('iframe')) return;
-
-            const src = placeholder.getAttribute('data-src');
-            const iframe = document.createElement('iframe');
-            iframe.src = src;
-            iframe.title = 'YouTube video player';
-            iframe.className = 'absolute inset-0 w-full h-full';
-            iframe.allow = 'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture;';
-            iframe.referrerPolicy = 'strict-origin-when-cross-origin';
-            iframe.allowFullscreen = true;
-
-            placeholder.innerHTML = '';
-            placeholder.appendChild(iframe);
-        });
-    })();
+    });
 </script>
 <style>
 
