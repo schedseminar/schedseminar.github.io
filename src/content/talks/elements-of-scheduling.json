@@ -1,0 +1,27 @@
+{
+  "abstract": "During the 1970’s, the area of scheduling developed from a hodge-podge of isolated results into a unified theory. Over the past decades, it has grown to a mature and lively area, which is a meeting point of operations research, mathematics and computer science, and at the same time a sound basis for the allocation of scarce resources to activities over time in many practical situations. We will sketch the early development of scheduling theory, and also discuss the integration of ideas from online analysis, stochastic models, and machine learning in response to the needs of a changing society.\n",
+  "datePrague": "2021-03-31",
+  "presenter": [
+    {
+      "link": "https://www.cwi.nl/people/jan-karel-lenstra",
+      "photo": "jan_karel_lenstra.jpg",
+      "name": "Jan Karel Lenstra",
+      "affiliation": "CWI",
+      "continent": "Europe"
+    },
+    {
+      "name": "David Shmoys",
+      "affiliation": "Cornell University",
+      "photo": "david_schmoys.jpg",
+      "link": "https://people.orie.cornell.edu/shmoys/",
+      "continent": "Europe"
+    }
+  ],
+  "keywords": "Scheduling, Scheduling history, Classification, Complexity, Online analysis, Data-driven decision-making, Algorithmic game theory",
+  "invitedBy": "Michael Pinedo",
+  "pdf": "/presentations/SchedulingSeminar_ElementsofScheduling-JKLDBS.pdf",
+  "status": "past",
+  "youtubeEmbed": "https://www.youtube.com/embed/dSX3rmXSLlo",
+  "title": "Elements Of Scheduling",
+  "video": "https://scheduling-seminar.iid.ciirc.cvut.cz/videos/21_2_Spring/21_3_31%20J.K.%20Lenstra%20and%20D.%20Shmoys%20_%20Elements%20of%20scheduling%20_%20Mar%2031,%202021.mp4"
+}
