@@ -1,13 +1,15 @@
 {
   "title": "Min sum ordering problems with applications to scheduling",
   "abstract": "We consider a large family of problems in which an ordering (or, more precisely, a chain of subsets) of a finite set must be chosen to minimize some weighted sum of costs. This family includes variations of min sum set cover, several scheduling and search problems, and problems in Boolean function evaluation. We define a problem, called the min sum ordering problem (MSOP), which generalizes all these problems using a cost and a weight function defined on subsets of a finite set. By making certain assumptions on the structure of the cost and weight functions, we derive general approximation results that can be applied to several problems. This talk will be based on two joint works with Robbert Fokkink, László Végh, Felix Happach and Lisa Hellerstein.",
-  "presenter": {
-    "name": "Thomas Lidbetter",
-    "affiliation": "Rutgers University",
-    "photo": "Thomas_Lidbetter.jpg",
-    "link": "https://www.business.rutgers.edu/faculty/thomas-lidbetter",
-    "continent": "America"
-  },
+  "presenter": [
+    {
+      "name": "Thomas Lidbetter",
+      "affiliation": "Rutgers University",
+      "photo": "Thomas_Lidbetter.jpg",
+      "link": "https://www.business.rutgers.edu/faculty/thomas-lidbetter",
+      "continent": "America"
+    }
+  ],
   "invitedBy": "Alessandro Agnetis",
   "datePrague": "2025-06-04",
   "keywords": "Scheduling, Search theory, Submodular functions, Min sum problems",

@@ -2,13 +2,15 @@
   "id": 13,
   "title": "Hexaly Optimizer for Scheduling",
   "abstract": "Hexaly Optimizer is a model-and-run mathematical optimization solver that addresses a broad range of industrial optimization problems in the areas of supply chain and workforce management, such as routing, scheduling, packing, clustering, matching, assignment, or facility location. Its mathematical formalism extends classical Mixed-Integer Linear Programming with set, permutation and interval variables on which any usual algebraic operator (arithmetic, logic, relational, etc.) can be applied. Hexaly Optimizer is widely used in industry today, has performances often comparable to the best dedicated algorithms, allows compact modeling, scales well (with problem size and complexity) and is constantly improving. This seminar focuses on the use of Hexaly Optimizer to model and solve industrial scheduling problems. We show how to exploit the mathematical concepts of the input formalism to model several classic scheduling problems in an elegant and compact manner and give an idea of the solver's performance compared to the state of the art. Next, we outline the various techniques employed under the hood to produce good-quality primal and dual solutions like constraint propagation, local search, large neighborhood search, linear relaxations, scheduling heuristics, or exact scheduling algorithms on particular sub-problems.",
-  "presenter": {
-    "name": "Philippe Laborie",
-    "affiliation": "Hexaly",
-    "photo": "phillipe_laborie.jpg",
-    "link": "https://www.hexaly.com/",
-    "continent": "Europe"
-  },
+  "presenter": [
+    {
+      "name": "Philippe Laborie",
+      "affiliation": "Hexaly",
+      "photo": "phillipe_laborie.jpg",
+      "link": "https://www.hexaly.com/",
+      "continent": "Europe"
+    }
+  ],
   "invitedBy": "Zdeněk Hanzálek",
   "datePrague": "2024-11-20",
   "keywords": "Mathematical optimization solver, Algebraic model, Industrial problems, Scalability, Constraint Programming, Local Search, Scheduling Theory, Exact approaches",

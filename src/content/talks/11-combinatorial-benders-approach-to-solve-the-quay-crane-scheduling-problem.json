@@ -2,13 +2,15 @@
   "id": 11,
   "title": "Combinatorial Benders approach to solve the Quay Crane Scheduling\n\t\t\t\t\t\t\t\tProblem",
   "abstract": "We propose an exact decomposition approach to solve the Quay Crane Scheduling Problem (QCSP) in container terminals. The problem is decomposed into two simpler problems: a sequencing master problem and a scheduling sub-problem. The master problem explores possible operation sequencing solutions for the tasks, while the sub-problem determines the completion times for each task to avoid collisions among quay cranes. A series of combinatorial cuts based on minimum infeasible systems and minimum sub-optimal systems are generated to accelerate the algorithm convergence. Furthermore, we provide a cut selection strategy to generate tighter multiple cuts. Computational tests on benchmark instances verify the effectiveness of the proposed approach.",
-  "presenter": {
-    "name": "Defeng Sun",
-    "affiliation": "DAO lab, NEU China",
-    "photo": "Defeng_Sun.jpg",
-    "link": "https://orcid.org/0000-0002-6699-6272",
-    "continent": "Asia"
-  },
+  "presenter": [
+    {
+      "name": "Defeng Sun",
+      "affiliation": "DAO lab, NEU China",
+      "photo": "Defeng_Sun.jpg",
+      "link": "https://orcid.org/0000-0002-6699-6272",
+      "continent": "Asia"
+    }
+  ],
   "invitedBy": "Lixin Tang",
   "datePrague": "2025-02-12",
   "keywords": "Quay crane scheduling, Benders decomposition, Combinatorial cuts",

@@ -2,13 +2,15 @@
   "id": 23,
   "title": "Minimizing the Weighted Number of Tardy Jobs is W[1]-hard",
   "abstract": "We consider the 1 || ∑ wj Uj problem, the problem of minimizing the weighted number of tardy jobs on a single machine. This problem is one of the most basic and fundamental problems in scheduling theory, with several different applications both in theory and practice. We prove that 1 || ∑ wj Uj is W[1]-hard with respect to the number of different processing times in the input, as well as with respect to the number of different weights in the input. This, along with previous work, provides a complete picture for 1 || ∑ wj Uj from the perspective of parameterized complexity, as well as almost tight complexity bounds for the problem under the Exponential Time Hypothesis (ETH). Based on joint work with Danny Hermelin.",
-  "presenter": {
-    "name": "Klaus Heeger",
-    "affiliation": "Ben Gurion Uni",
-    "photo": "Klaus_Heeger.jpg",
-    "link": "https://scholar.google.com/citations?user=ACal2xIAAAAJ&hl=de",
-    "continent": "Europe"
-  },
+  "presenter": [
+    {
+      "name": "Klaus Heeger",
+      "affiliation": "Ben Gurion Uni",
+      "photo": "Klaus_Heeger.jpg",
+      "link": "https://scholar.google.com/citations?user=ACal2xIAAAAJ&hl=de",
+      "continent": "Europe"
+    }
+  ],
   "invitedBy": "Michael Pinedo",
   "datePrague": "2024-01-24",
   "keywords": "Single-machine scheduling, Parameterized complexity, Number of numbers",

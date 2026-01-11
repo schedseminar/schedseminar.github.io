@@ -8,7 +8,9 @@ import {getBorderClass} from "../../utils/constants";
 
 const {talk, compactable = false} = Astro.props;
 const cardId = `talk-card-${talk.datePrague}`;
-const borderClass = getBorderClass(talk.presenter.continent);
+// Ensure presenters is an array
+const presenters = Array.isArray(talk.presenter) ? talk.presenter : [talk.presenter];
+const borderClass = getBorderClass(presenters[0].continent);
 ---
 
 <article
@@ -17,25 +19,33 @@ const borderClass = getBorderClass(talk.presenter.continent);
 >
     <div class={compactable ? 'p-4' : 'p-6'}>
         <div class="compact-card-content">
-            <div class="flex flex-col sm:flex-row items-center gap-4 hover:cursor-pointer" id="card-header">
-                <div class="flex flex-row items-center gap-3 flex-1 w-full">
-                    <PresenterAvatar presenter={talk.presenter} size="medium"/>
+            <div class="flex flex-col sm:flex-row items-start gap-4 hover:cursor-pointer" id="card-header">
+                <div class="flex flex-row items-start gap-3 flex-1 w-full">
+                    <div class="flex flex-col gap-2 shrink-0">
+                        {presenters.map(presenter => (
+                             <PresenterAvatar presenter={presenter} size="medium"/>
+                        ))}
+                    </div>
                     <div class="flex-1 min-w-0 break-words text-center sm:text-left">
                         <h3 class="talk-title text-base font-semibold text-gray-800 line-clamp-2 mb-1 break-words"
                             title={talk.title}>
                             {talk.title}
                         </h3>
-                        <p class="text-sm text-gray-600 break-words">
-                            <a
-                                    href={talk.presenter.link}
-                                    target="_blank"
-                                    rel="noreferrer"
-                                    class="font-semibold text-gray-800 hover:opacity-80"
-                            >
-                                {talk.presenter.name}
-                            </a>
-                            {`, ${talk.presenter.affiliation}`}
-                        </p>
+                        <div class="flex flex-col gap-1">
+                            {presenters.map(presenter => (
+                                <p class="text-sm text-gray-600 break-words">
+                                    <a
+                                            href={presenter.link}
+                                            target="_blank"
+                                            rel="noreferrer"
+                                            class="font-semibold text-gray-800 hover:opacity-80"
+                                    >
+                                        {presenter.name}
+                                    </a>
+                                    {`, ${presenter.affiliation}`}
+                                </p>
+                            ))}
+                        </div>
                     </div>
                 </div>
 

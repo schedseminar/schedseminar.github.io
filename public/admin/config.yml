@@ -25,9 +25,10 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Abstract", name: "abstract", widget: "text", required: false }
 
-      - label: "Presenter"
+      - label: "Presenters"
         name: "presenter"
-        widget: "object"
+        widget: "list"
+        summary: "{{fields.name}}"
         fields:
           - { label: "Name", name: "name", widget: "string" }
           - { label: "Affiliation", name: "affiliation", widget: "string" }

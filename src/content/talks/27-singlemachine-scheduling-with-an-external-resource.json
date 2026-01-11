@@ -2,13 +2,15 @@
   "id": 27,
   "title": "Single-machine scheduling with an external resource",
   "abstract": "We study a single-machine scheduling problem with an external resource, which is rented for a non-interrupted period. Jobs that need this external resource are executed only when the external resource is available. There is a cost associated with the scheduling of jobs and a cost associated with the duration of the renting period of the external resource. We look at four classes of problems with an external resource: a class of problems where the renting period is budgeted and the scheduling cost needs to be minimized, a class of problems where the scheduling cost is budgeted and the renting period needs to be minimized, a class of two-objective problems where both, the renting period and the scheduling cost, are to be minimized, and a class of problems where a linear combination of the scheduling cost and the renting period is minimized. We provide a thorough complexity analysis (NP-hardness proofs and (pseudo-)polynomial algorithms) for different members of these four classes.",
-  "presenter": {
-    "name": "Dirk Briskorn",
-    "affiliation": "Uni of Wuppertal",
-    "photo": "Dirk_Briskorn.jpg",
-    "link": "http://www.briskorn.info/",
-    "continent": "Europe"
-  },
+  "presenter": [
+    {
+      "name": "Dirk Briskorn",
+      "affiliation": "Uni of Wuppertal",
+      "photo": "Dirk_Briskorn.jpg",
+      "link": "http://www.briskorn.info/",
+      "continent": "Europe"
+    }
+  ],
   "invitedBy": "Zdeněk Hanzálek",
   "datePrague": "2023-10-18",
   "keywords": "Scheduling, Single-machine scheduling, External resource, Complexity, Pseudo-polynomial algorithm",

@@ -2,13 +2,15 @@
   "id": 58,
   "title": "State-of-the-art flowshop scheduling heuristics: Dos and\n\t\t\t\t\t\t\t\tDon'ts",
   "abstract": "Many scheduling problems are simply too hard to be solved exactly, especially for instances of medium or large size or when realistic constraints are present. As a result, the literature on heuristics and metaheuristics for scheduling is extensive. More often than not, metaheuristics are capable of generating solutions close to optimality or to tight lower bounds for instances of realistic size in a matter of minutes. Metaheuristics have been refined over the years and there are literally hundreds of papers published every year with applications to most domains in many different journals. Most regrettably, some of these methods are complex in the sense that they have many parameters that affect performance and hence need careful calibration. Furthermore, many times published results are hard to reproduce due to specific speed-ups being used or complicated software constructs. These complex methods are difficult to transfer to industries in the case of scheduling problems. Another important concern is the recently recognized “tsunami” of novel metaheuristics that mimic the most bizarre natural or human processes, as for example intelligent water drops, harmony search, firefly algorithms and the like. See K. Sörensen “Metaheuristics—The Metaphor exposed” (2015), ITOR 22(1):3-18. In this presentation, we briefly review different flowshop problems and variants. From the basic flowshop problem with makespan minimization to other objectives like flowtime minimization, flowshops with sequence-dependent setup times, no-idle flowshops, all the way up to complex hybrid flexible flowline problems. We will show how simple Iterated Greedy (IG) algorithms often outperform much more complex approaches. IG methods are inherently simple with very few parameters. They are easy to code and results are easy to reproduce. We will show that for all tested problems so far they show state-of-the-art performance despite their simplicity. As a result, we will defend the choice of simpler, yet good performing approaches over complicated metaphor-based algorithms.",
-  "presenter": {
-    "name": "Rubén Ruiz",
-    "affiliation": "UP de València",
-    "photo": "ruben_ruiz.jpg",
-    "link": "http://soa.iti.es/rruiz",
-    "continent": "Europe"
-  },
+  "presenter": [
+    {
+      "name": "Rubén Ruiz",
+      "affiliation": "UP de València",
+      "photo": "ruben_ruiz.jpg",
+      "link": "http://soa.iti.es/rruiz",
+      "continent": "Europe"
+    }
+  ],
   "invitedBy": "G. Vanden Berghe",
   "datePrague": "2021-12-22",
   "keywords": "Scheduling, Flowshop, Heuristics, Metaheuristics, Iterated greedy",

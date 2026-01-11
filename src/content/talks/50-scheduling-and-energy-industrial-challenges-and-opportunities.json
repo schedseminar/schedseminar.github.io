@@ -2,13 +2,15 @@
   "id": 50,
   "title": "Scheduling and Energy – Industrial Challenges and\n\t\t\t\t\t\t\t\tOpportunities",
   "abstract": "Real-life industrial scheduling problems, especially in the process industries, are very complex as they contain many problem-specific features or rules that are sometimes even difficult to be expressed mathematically. Nonetheless, often the requirement to reach optimality or close-to-optimality is critical for the competitiveness and the survival of the company. Due to this, mixed-integer linear programming (MILP) has become the most common tool of choice and can be said to be the \"backbone\" for many practical scheduling problems. In this presentation, we take an engineering perspective of selected problems and discuss few examples where energy plays a significant role. The role of energy is in fact growing and most process industries will in the future be more closely integrated into the energy supply chain. We will discuss few MILP formulations and methods to improve their performance in practical cases.",
-  "presenter": {
-    "name": "Iiro Harjunkoski",
-    "affiliation": "Hitachi Energy",
-    "photo": "Iiro_Harjunkoski.jpg",
-    "link": "https://www.hitachienergy.com/news/testimonials/2021/06/iiro-harjunkoski-germany",
-    "continent": "Europe"
-  },
+  "presenter": [
+    {
+      "name": "Iiro Harjunkoski",
+      "affiliation": "Hitachi Energy",
+      "photo": "Iiro_Harjunkoski.jpg",
+      "link": "https://www.hitachienergy.com/news/testimonials/2021/06/iiro-harjunkoski-germany",
+      "continent": "Europe"
+    }
+  ],
   "invitedBy": "Přemysl Šůcha",
   "datePrague": "2022-04-27",
   "keywords": "Energy, MILP, Bilevel optimization, Real-world application, Industry, Sustainability",

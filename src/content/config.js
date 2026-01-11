@@ -1,17 +1,26 @@
-import {defineCollection, z} from "astro:content";
+import { defineCollection, z } from "astro:content";
 
 const talks = defineCollection({
     type: 'data',
     schema: z.object({
         title: z.string(),
         abstract: z.string().optional(),
-        presenter: z.object({
-            name: z.string(),
-            affiliation: z.string(),
-            photo: z.string(),
-            link: z.string(),
-            continent: z.string(),
-        }),
+        presenter: z.union([
+            z.object({
+                name: z.string(),
+                affiliation: z.string(),
+                photo: z.string(),
+                link: z.string(),
+                continent: z.string(),
+            }),
+            z.array(z.object({
+                name: z.string(),
+                affiliation: z.string(),
+                photo: z.string(),
+                link: z.string(),
+                continent: z.string(),
+            }))
+        ]).transform((val) => Array.isArray(val) ? val : [val]),
         invitedBy: z.string(),
         datePrague: z.string(),
         keywords: z.string().optional(),
@@ -22,4 +31,4 @@ const talks = defineCollection({
     }),
 });
 
-export const collections = {talks};
+export const collections = { talks };

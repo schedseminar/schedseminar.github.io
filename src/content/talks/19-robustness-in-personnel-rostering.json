@@ -2,13 +2,15 @@
   "id": 19,
   "title": "Robustness in personnel rostering",
   "abstract": "In this talk, we study the problem of generating personnel rosters that are robust with respect to disruptions caused by employee absenteeism. If an employee unexpectedly becomes absent, they must be replaced by another employee. This in turn may affect the working hours of other employees, creating an undesirable ripple effect that changes a large part of the roster. We investigate how making use of on-call duties may avoid such large perturbations. We begin by first introducing a metric to quantify the robustness of a roster, which is then used to generate sufficiently robust rosters. In the second part of this talk, we discuss the conditions under which machine learning can lead to better solutions. A novel methodology is presented to determine the minimum prediction performance required to outperform the non-data-driven rostering approach.",
-  "presenter": {
-    "name": "Pieter Smet",
-    "affiliation": "KU Leuven",
-    "photo": "Pieter_Smet.jpg",
-    "link": "https://people.cs.kuleuven.be/~pieter.smet/",
-    "continent": "Europe"
-  },
+  "presenter": [
+    {
+      "name": "Pieter Smet",
+      "affiliation": "KU Leuven",
+      "photo": "Pieter_Smet.jpg",
+      "link": "https://people.cs.kuleuven.be/~pieter.smet/",
+      "continent": "Europe"
+    }
+  ],
   "invitedBy": "Zdeněk Hanzálek",
   "datePrague": "2024-03-20",
   "keywords": "Personnel rostering, Robustness, On-call shift rostering, Operations research, Machine learning",

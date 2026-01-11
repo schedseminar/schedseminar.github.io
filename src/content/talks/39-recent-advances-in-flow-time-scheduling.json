@@ -2,13 +2,15 @@
   "id": 39,
   "title": "Recent advances in flow time scheduling",
   "abstract": "Flow time is one of the most natural metrics to optimize in scheduling, but algorithmically it can be notoriously difficult to handle. I will talk about some recent advances in this topic, focusing on two results by myself and co-authors: a PTAS for the sum of weighted flow times on a single machine and improved approximation guarantees for parallel unrelated machines. The first result is enabled by a study of structural properties of constraints in a natural ILP formulation and the second result relies on a novel connection to discrepancy theory.",
-  "presenter": {
-    "name": "Lars Rohwedder",
-    "affiliation": "Maastricht University",
-    "photo": "Lars_Rohwedder.jpg",
-    "link": "https://larsrohwedder.com/",
-    "continent": "Europe"
-  },
+  "presenter": [
+    {
+      "name": "Lars Rohwedder",
+      "affiliation": "Maastricht University",
+      "photo": "Lars_Rohwedder.jpg",
+      "link": "https://larsrohwedder.com/",
+      "continent": "Europe"
+    }
+  ],
   "invitedBy": "Jan Karel Lenstra",
   "datePrague": "2023-01-18",
   "keywords": "Scheduling, Flow time, Integer programming, Discrepancy, Dynamic programming",

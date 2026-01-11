@@ -2,13 +2,15 @@
   "id": 30,
   "title": "Surgery Scheduling: Research and Practice",
   "abstract": "Scheduling of surgeries is a complex process that involves simultaneous scheduling of not only several resources (staff, room, equipment, supplies, instruments), but also building flexibility in capacity-reservation policies to accommodate most types of patient classes. In the case of trauma centers this complexity increases even more due to the need for dynamic rescheduling of elective surgeries as emergency surgeries arrive randomly. In practice, these issues are tackled every day in a ‘non-optimal / heuristic’ way. Recent research in this area has shown the potential of implementing modified priority rules. In contrast to trauma centers, ambulatory surgery centers only perform elective surgeries and have a lower cost structure. Their profitability is therefore dependent upon efficient use of capacity. Recent research has modeled these as Hybrid Flow Shops and solved the capacity planning problem using easy to implement heuristics. This talk will also discuss some new avenues of operating room scheduling that have not yet been researched by academics.",
-  "presenter": {
-    "name": "Vikram Tiwari",
-    "affiliation": "Vanderbilt Uni",
-    "photo": "Vikram_Tiwari.jpg",
-    "link": "https://business.vanderbilt.edu/bio/vikram-tiwari/",
-    "continent": "America"
-  },
+  "presenter": [
+    {
+      "name": "Vikram Tiwari",
+      "affiliation": "Vanderbilt Uni",
+      "photo": "Vikram_Tiwari.jpg",
+      "link": "https://business.vanderbilt.edu/bio/vikram-tiwari/",
+      "continent": "America"
+    }
+  ],
   "invitedBy": "Michael Pinedo",
   "datePrague": "2023-06-07",
   "keywords": "Surgery, Scheduling, Operating Room, Healthcare, Capacity Management, Optimization",

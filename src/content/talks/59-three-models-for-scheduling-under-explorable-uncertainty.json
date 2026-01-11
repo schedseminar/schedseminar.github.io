@@ -2,13 +2,15 @@
   "id": 59,
   "title": "Three models for scheduling under explorable uncertainty",
   "abstract": "We consider a single machine scheduling problem, where every job has a processing time and a priority weight and the objective is to minimize the total weighted sum of completion times. The novelty is that the job characteristics are initially given in an imprecise manner to the algorithm. Tests can be performed for chosen jobs to learn their precise values, allowing for a better ordering of the jobs in the schedule. These tests however take some time, delaying the subsequent schedule. The algorithm needs to produce a schedule consisting of executions of all jobs and tests of some jobs. We will present three different models that have been studied in this context, as well as the results obtained for each of them. The talk covers papers authored by Levi, Magnanti and Shaposhnik, by C.D., Thomas Erlebach, Nicole Megow, Julie Meißner, and by Fanny Dufossé, C.D., Noël Nadal, Denis Trystram and Óscar C. Vásquez.",
-  "presenter": {
-    "name": "Christoph Dürr",
-    "affiliation": "Sorbonne Uni",
-    "photo": "christoph_durr.jpg",
-    "link": "http://www.lip6.fr/Christoph.Durr",
-    "continent": "Europe"
-  },
+  "presenter": [
+    {
+      "name": "Christoph Dürr",
+      "affiliation": "Sorbonne Uni",
+      "photo": "christoph_durr.jpg",
+      "link": "http://www.lip6.fr/Christoph.Durr",
+      "continent": "Europe"
+    }
+  ],
   "invitedBy": "Zdeněk Hanzálek",
   "datePrague": "2021-12-08",
   "keywords": "Scheduling, uncertainty, Sum of completion times, Processing time oracle, Competitive ratio",

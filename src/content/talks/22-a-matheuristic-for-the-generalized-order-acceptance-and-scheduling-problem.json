@@ -2,13 +2,15 @@
   "id": 22,
   "title": "A Matheuristic for the Generalized Order Acceptance and Scheduling\n\t\t\t\t\t\t\t\tProblem",
   "abstract": "Firms operating on a make-to-order basis may not satisfy the entire demand due to limited capacity and tight delivery times. This necessitates selecting only part of customer orders to maximize the total revenue, which gives rise to the order acceptance and scheduling (OAS) problems. In this study, we investigate a generalized version of the OAS (GOAS) problem originating from a real- life setting. Due to several components of the problem, such as release times, due dates, deadlines and sequence dependent setup times, finding an exact solution to GOAS problem, that determines which orders to accept and how to schedule them simultaneously to maximize the revenue, in reasonable time even in a single machine environment is difficult. Hence, we develop an effective and efficient matheuristic, which consists of a time-bucket based mixed integer linear programming model, a variable neighborhood search algorithm and a tabu search algorithm, for the GOAS problem. Computational results show that the proposed matheuristic outperforms the state-of-the- art algorithms developed for the GOAS problem. The boundary of optimally solved instance size is pushed further and near optimal solutions are obtained in reasonable time for instances falling beyond this boundary. Joint work with İstenç Tarhan.",
-  "presenter": {
-    "name": "Ceyda Oğuz",
-    "affiliation": "Koç University",
-    "photo": "Ceyda_Oguz.jpg",
-    "link": "https://scholar.google.com/citations?user=nC-GgAcAAAAJ&hl=en",
-    "continent": "Europe"
-  },
+  "presenter": [
+    {
+      "name": "Ceyda Oğuz",
+      "affiliation": "Koç University",
+      "photo": "Ceyda_Oguz.jpg",
+      "link": "https://scholar.google.com/citations?user=nC-GgAcAAAAJ&hl=en",
+      "continent": "Europe"
+    }
+  ],
   "invitedBy": "Michael Pinedo",
   "datePrague": "2024-02-07",
   "keywords": "Order acceptance and scheduling, Matheuristic, Variable neighborhood search, Tabu search",

@@ -2,13 +2,15 @@
   "id": 14,
   "title": "Operational scheduling in automotive industry",
   "abstract": "Artelys has developed a scheduler service for Toyota Motor Europe that creates plannings for post-production workshops operations across Europe. The problem consists in scheduling operations on vehicles on different production lines with available resources. This case study details how this industrial problem differs from the classical Resource Constrained Project Scheduling Problem (RCPSP) with its additional operational constraints (multiple shifts, preemptive breaks, sequence constraints, etc.) and its multi-objectives (minimizing late tasks, late vehicles, maximizing efficiency and workers ergonomics, etc.). Artelys has worked closely with Toyota to deploy this scheduler service as micro-service in order to solve this complex problem in a real-time context and as a flexible decision-aid software. The associated constraint programming model is implemented with Fico Mosel modelling language and the model is solved using Artelys Kalis solver. This micro-service has replaced a manual tedious task that was taking place differently in all workshops by delivering faster, higher quality solutions.",
-  "presenter": {
-    "name": "Hugo Chareyre",
-    "affiliation": "Artelys",
-    "photo": "Hugo_Chareyre.jpg",
-    "link": "https://www.artelys.com",
-    "continent": "Europe"
-  },
+  "presenter": [
+    {
+      "name": "Hugo Chareyre",
+      "affiliation": "Artelys",
+      "photo": "Hugo_Chareyre.jpg",
+      "link": "https://www.artelys.com",
+      "continent": "Europe"
+    }
+  ],
   "invitedBy": "Zdeněk Hanzálek",
   "datePrague": "2024-11-06",
   "keywords": "Logistics, Automotive industry, Constraint Programming, RCPSP",

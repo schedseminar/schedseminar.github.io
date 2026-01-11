@@ -2,13 +2,15 @@
   "id": 70,
   "title": "Efficient Algorithms and Provably Good Solutions for NP-hard\n\t\t\t\t\t\t\t\tScheduling\n\t\t\t\t\t\t\t\tProblems",
   "abstract": "Machine scheduling problems are among the first optimization problems for which approximation algorithms have been analyzed. An approximation algorithm is a polynomial-time algorithm which always finds a feasible solution whose objective function value is within an a priori known factor (performance ratio) of the optimum solution value. In this talk we focus on identical parallel machine scheduling with total weighted completion time objective. We present, among other things, a refined analysis of the performance ratio for the weighted shortest processing time first (WSPT) rule. This is joint work with Sven Jäger.",
-  "presenter": {
-    "name": "Martin Skutella",
-    "affiliation": "TU Berlin",
-    "photo": "skutella.jpg",
-    "link": "https://www.coga.tu-berlin.de/v_menue/mitarbeitende/prof_dr_martin_skutella/prof_dr_martin_skutella/parameter/en/",
-    "continent": "Europe"
-  },
+  "presenter": [
+    {
+      "name": "Martin Skutella",
+      "affiliation": "TU Berlin",
+      "photo": "skutella.jpg",
+      "link": "https://www.coga.tu-berlin.de/v_menue/mitarbeitende/prof_dr_martin_skutella/prof_dr_martin_skutella/parameter/en/",
+      "continent": "Europe"
+    }
+  ],
   "invitedBy": "Zdeněk Hanzálek",
   "datePrague": "2021-05-12",
   "keywords": "Machine scheduling, List scheduling, Approximation algorithm, Performance guarantee, Total weighted completion time",

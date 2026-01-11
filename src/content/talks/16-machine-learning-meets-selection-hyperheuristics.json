@@ -2,13 +2,15 @@
   "id": 16,
   "title": "Machine Learning meets Selection Hyper-heuristics",
   "abstract": "Hyper-heuristics are powerful search methodologies that operate on low level heuristics or heuristic components to tackle computationally hard optimisation problems. The current state-of-the-art in hyper-heuristic research contains classes of algorithms that focus on intelligently selecting or generating a suitable heuristic for a given situation. Hence, there are two main types of hyper-heuristics: selection and generation hyper-heuristics. A typical selection hyper-heuristic chooses a low-level heuristic and applies it to the current solution at each step of a search, before deciding whether to accept or reject the newly created solution. Generation hyper-heuristics, in contrast, automatically build heuristics or heuristic components during the search process. Machine learning is revolutionising various fields, and its integration with hyper-heuristics holds immense potential. This talk will first offer a concise overview of hyper-heuristics, followed by illustrative case studies demonstrating how we have successfully applied machine learning to automatically design more effective selection hyper-heuristics.",
-  "presenter": {
-    "name": "Ender Ozcan",
-    "affiliation": "Uni of Nottingham",
-    "photo": "Ender_Ozcan.jpg",
-    "link": "https://scholar.google.co.uk/citations?user=8maqKdgAAAAJ&hl=en",
-    "continent": "Europe"
-  },
+  "presenter": [
+    {
+      "name": "Ender Ozcan",
+      "affiliation": "Uni of Nottingham",
+      "photo": "Ender_Ozcan.jpg",
+      "link": "https://scholar.google.co.uk/citations?user=8maqKdgAAAAJ&hl=en",
+      "continent": "Europe"
+    }
+  ],
   "invitedBy": "Zdeněk Hanzálek",
   "datePrague": "2024-06-12",
   "keywords": "Intelligent decision support, Hyper-heuristics, Metaheuristics, Machine learning",

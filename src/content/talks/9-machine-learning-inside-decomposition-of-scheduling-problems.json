@@ -1,13 +1,15 @@
 {
   "title": "Machine Learning Inside Decomposition of Scheduling Problems",
   "abstract": "Problem decomposition refers to general techniques for efficiently solving large instances. The fact that decomposition splits the problem into smaller subproblems and then combines their solutions into a solution to the original problem opens up many possibilities for applying machine learning. There are two main advantages why it is suitable. The first is that the subproblems are solved repeatedly/recursively, so similar instances are solved multiple times. The second is that the subproblems are smaller and thus easier to combine with machine learning. In this talk, we show two successful applications of machine learning to speed up scheduling algorithms based on decomposition techniques, namely branch and price and Lawler's decomposition.",
-  "presenter": {
-    "name": "Přemysl Šůcha",
-    "affiliation": "CTU in Prague",
-    "photo": "Premysl_Sucha.jpg",
-    "link": "http://people.ciirc.cvut.cz/~suchap/",
-    "continent": "Europe"
-  },
+  "presenter": [
+    {
+      "name": "Přemysl Šůcha",
+      "affiliation": "CTU in Prague",
+      "photo": "Premysl_Sucha.jpg",
+      "link": "http://people.ciirc.cvut.cz/~suchap/",
+      "continent": "Europe"
+    }
+  ],
   "invitedBy": "Zdeněk Hanzálek",
   "datePrague": "2025-04-09",
   "keywords": "Scheduling, Machine learning, Decomposition, Branch and price, Lawler's decomposition",
