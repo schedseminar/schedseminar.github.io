@@ -9,11 +9,7 @@
     "link": "http://www.cs.cmu.edu/~harchol/",
     "continent": "America"
   },
-  "invitedBy": {
-    "name": "Michael Pinedo",
-    "affiliation": "New York Uni",
-    "link": "https://www.stern.nyu.edu/faculty/bio/michael-pinedo"
-  },
+  "invitedBy": "Michael Pinedo",
   "datePrague": "2021-04-14",
   "keywords": "Stochastic scheduling, Job scheduling, M/G/1, M/G/k, SRPT, Shortest-job-first, Gittins, Queuing theory, Priority queues, Preemption, Data centers, High variability, Job sizes, SOAP, Sigmetrics, Performance modeling, Google workloads",
   "pdf": "/presentations/SchedulingSeminar_HarcholBalter.pdf",

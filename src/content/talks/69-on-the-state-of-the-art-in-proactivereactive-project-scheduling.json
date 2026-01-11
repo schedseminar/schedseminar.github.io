@@ -9,14 +9,10 @@
     "link": "https://www.kuleuven.be/wieiswie/en/person/00008606",
     "continent": "Europe"
   },
-  "invitedBy": {
-    "name": "Zdeněk Hanzálek",
-    "affiliation": "CTU in Prague",
-    "link": "https://rtime.ciirc.cvut.cz/~hanzalek/"
-  },
+  "invitedBy": "Zdeněk Hanzálek",
   "datePrague": "2021-05-26",
   "keywords": "Project scheduling, Stochastic activity durations, Proactive/reactive scheduling, Markov decision process",
-  "pdf": "SchedulingSeminar_ErikDemeulemeester.pdf",
+  "pdf": "/presentations/SchedulingSeminar_ErikDemeulemeester.pdf",
   "video": "https://scheduling-seminar.iid.ciirc.cvut.cz/videos/21_2_Spring/21_5_26%20Erik%20Demeulemeester%20_%20State%20of%20the%20Art%20in%20Proactive_Reactive...%20_%20May%2026,%202021.mp4",
   "youtubeEmbed": "https://www.youtube.com/embed/yUfvCgNTe08",
   "status": "past"

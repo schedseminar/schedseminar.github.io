@@ -9,14 +9,10 @@
     "link": "https://developers.google.com/optimization",
     "continent": "Europe"
   },
-  "invitedBy": {
-    "name": "Zdeněk Hanzálek",
-    "affiliation": "CTU in Prague",
-    "link": "https://rtime.ciirc.cvut.cz/~hanzalek/"
-  },
+  "invitedBy": "Zdeněk Hanzálek",
   "datePrague": "2024-03-06",
   "keywords": "Constraint programming, SAT solver, Integer linear programming",
-  "pdf": "SchedulingSeminar_LaurentPerron.pdf",
+  "pdf": "/presentations/SchedulingSeminar_LaurentPerron.pdf",
   "video": "https://scheduling-seminar.iid.ciirc.cvut.cz/videos/24_1_Winter/24_03_06%20Laurent%20Perron%20(Google%20France)%20_%20The%20CP-SAT%20solver.mp4",
   "youtubeEmbed": "https://www.youtube.com/embed/vvUxusrUcpU?si=ldUAKR6WqdfAIrhL",
   "status": "past"

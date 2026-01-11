@@ -9,14 +9,10 @@
     "link": "https://www.kuleuven.be/wieiswie/nl/person/00053376",
     "continent": "Europe"
   },
-  "invitedBy": {
-    "name": "Zdeněk Hanzálek",
-    "affiliation": "CTU in Prague",
-    "link": "https://rtime.ciirc.cvut.cz/~hanzalek/"
-  },
+  "invitedBy": "Zdeněk Hanzálek",
   "datePrague": "2022-10-12",
   "keywords": "Vehicle routing, Local search operators, Ruin and recreate, Spatial slack, Capacity slack, Fleet minimization",
-  "pdf": "SchedulingSeminar_GreetVandenBerghe.pdf",
+  "pdf": "/presentations/SchedulingSeminar_GreetVandenBerghe.pdf",
   "video": "https://scheduling-seminar.iid.ciirc.cvut.cz/videos/22_3_Fall/22_10_12%20Greet%20Vanden%20Berghe%20(KU%20Leuven)%20_%20Vehicle%20routing_%20A%20focus%20on%20heuristic%20design.mp4",
   "youtubeEmbed": "https://www.youtube.com/embed/jPZu44xJfpk",
   "status": "past"

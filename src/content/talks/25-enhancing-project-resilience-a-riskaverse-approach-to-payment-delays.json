@@ -9,14 +9,10 @@
     "link": "https://www.unical.it/storage/teachers/gAAAAABi2D-mEiJ-DC2koDLqpcRWlGK5Iqt7PXrVZZFzO6-vUCbdNHpud2f3YD2nN-FriRbt-aqfOBGausOLqfuhcsrRp-hJSg==/?lang=en",
     "continent": "Europe"
   },
-  "invitedBy": {
-    "name": "Zdeněk Hanzálek",
-    "affiliation": "CTU in Prague",
-    "link": "https://rtime.ciirc.cvut.cz/~hanzalek/"
-  },
+  "invitedBy": "Zdeněk Hanzálek",
   "datePrague": "2023-11-29",
   "keywords": "Scheduling under uncertainty and risk, Payment delays, Net Present Value, Cash flow analysis",
-  "pdf": "SchedulingSeminar_MariaElenaBruni.pdf",
+  "pdf": "/presentations/SchedulingSeminar_MariaElenaBruni.pdf",
   "video": "https://scheduling-seminar.iid.ciirc.cvut.cz/videos/23_3_Fall/23_11_29%20Maria%20Elena%20Bruni%20(Calabria)%20_%20Enhancing%20project%20resilience_%20a%20risk-averse....mp4",
   "youtubeEmbed": "https://www.youtube.com/embed/Zvn9YemZp60?si=d6y-quI7eKj1Hyiu",
   "status": "past"

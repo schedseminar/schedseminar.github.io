@@ -9,14 +9,10 @@
     "link": "http://www.andrew.cmu.edu/user/moseleyb/  ",
     "continent": "America"
   },
-  "invitedBy": {
-    "name": "Clifford Stein",
-    "affiliation": "Columbia Uni",
-    "link": "https://www.ieor.columbia.edu/faculty/clifford-stein"
-  },
+  "invitedBy": "Clifford Stein",
   "datePrague": "2021-10-27",
   "keywords": "Scheduling, Learning augmented, Optimization, Sample complexity, Robustness, Error, Competitive, Approximation",
-  "pdf": "SchedulingSeminar_BenjaminMoseley.pdf",
+  "pdf": "/presentations/SchedulingSeminar_BenjaminMoseley.pdf",
   "video": "https://scheduling-seminar.iid.ciirc.cvut.cz/videos/21_3_Fall/21_10_27%20Benjamin%20Moseley%20_%20Machine%20Learning%20for%20Scheduling%20_%20Oct%2027,%202021.mp4",
   "youtubeEmbed": "https://www.youtube.com/embed/TQ2sF0BMTHo",
   "status": "past"

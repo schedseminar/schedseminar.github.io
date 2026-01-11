@@ -9,14 +9,10 @@
     "link": "https://www.professors.wi.tum.de/om/team/prof-dr-rainer-kolisch/",
     "continent": "Europe"
   },
-  "invitedBy": {
-    "name": "Zdeněk Hanzálek",
-    "affiliation": "CTU in Prague",
-    "link": "https://rtime.ciirc.cvut.cz/~hanzalek/"
-  },
+  "invitedBy": "Zdeněk Hanzálek",
   "datePrague": "2023-04-26",
   "keywords": "Project scheduling, Flexible resource profiles, Work content, MIP-formulations, Metaheuristic, Applications",
-  "pdf": "SchedulingSeminar_RainerKolisch.pdf",
+  "pdf": "/presentations/SchedulingSeminar_RainerKolisch.pdf",
   "video": "https://scheduling-seminar.iid.ciirc.cvut.cz/videos/23_2_Spring/23_4_26%20Rainer%20Kolisch%20(TU%20Munich)%20_%20RCPSP%20with%20Flexible%20Resource%20Profiles_%20Models....mp4",
   "youtubeEmbed": "https://www.youtube.com/embed/s5hbYHeUyn4",
   "status": "past"

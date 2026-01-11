@@ -9,14 +9,10 @@
     "link": "https://sites.gatech.edu/pascal-van-hentenryck/",
     "continent": "America"
   },
-  "invitedBy": {
-    "name": "Zdeněk Hanzálek",
-    "affiliation": "CTU in Prague",
-    "link": "https://rtime.ciirc.cvut.cz/~hanzalek/"
-  },
+  "invitedBy": "Zdeněk Hanzálek",
   "datePrague": "2022-04-13",
   "keywords": "Constraint programming, Scheduling, Machine learning, Hybrid optimization",
-  "pdf": "SchedulingSeminar_PascalVanHentenryck.pdf",
+  "pdf": "/presentations/SchedulingSeminar_PascalVanHentenryck.pdf",
   "video": "https://scheduling-seminar.iid.ciirc.cvut.cz/videos/22_2_Spring/22_4_13%20Pascal%20Van%20Hentenryck%20(Georgia%20Tech)%20_%20Constraint%20Programming%20for%20Scheduling.mp4",
   "youtubeEmbed": "https://www.youtube.com/embed/PzC0FeLO3UA",
   "status": "past"

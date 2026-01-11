@@ -9,14 +9,10 @@
     "link": "https://in.bgu.ac.il/en/engn/iem/pages/staff/Dvir-Shabtay.aspx",
     "continent": "Europe"
   },
-  "invitedBy": {
-    "name": "Michael Pinedo",
-    "affiliation": "FPT",
-    "link": "https://www.stern.nyu.edu/faculty/bio/michael-pinedo"
-  },
+  "invitedBy": "Michael Pinedo",
   "datePrague": "2022-01-19",
   "keywords": "Scheduling, NP-hard, Fixed parameterized tractability (FPT), Algorithmic design, Optimization",
-  "pdf": "SchedulingSeminar_DvirShabtay.pdf",
+  "pdf": "/presentations/SchedulingSeminar_DvirShabtay.pdf",
   "video": "https://scheduling-seminar.iid.ciirc.cvut.cz/videos/22_1_Winter/22_1_19%20Dvir%20Shabtay%20(Ben-Gurion%20Uni)%20_%20On%20the%20Parameterized%20Complexity%20of%20Machine....mp4",
   "youtubeEmbed": "https://www.youtube.com/embed/IayJ9V3BWwQ",
   "status": "past"

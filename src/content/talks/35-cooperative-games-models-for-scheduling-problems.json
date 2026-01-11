@@ -9,14 +9,10 @@
     "link": "https://seng.ust.hk/about/people/faculty/xiangtong-qi",
     "continent": "Asia"
   },
-  "invitedBy": {
-    "name": "Michael Pinedo",
-    "affiliation": "New York Uni",
-    "link": "https://www.stern.nyu.edu/faculty/bio/michael-pinedo"
-  },
+  "invitedBy": "Michael Pinedo",
   "datePrague": "2023-03-15",
   "keywords": "Scheduling, Cooperative game, Core",
-  "pdf": "SchedulingSeminar_XiangtongQi.pdf",
+  "pdf": "/presentations/SchedulingSeminar_XiangtongQi.pdf",
   "video": "https://scheduling-seminar.iid.ciirc.cvut.cz/videos/23_1_Winter/23_3_15%20Xiangtong%20Qi%20(HKUST)%20_%20Cooperative%20Games%20Models%20for%20Scheduling%20Problems.mp4",
   "youtubeEmbed": "https://www.youtube.com/embed/jWrmCla5wCA",
   "status": "past"

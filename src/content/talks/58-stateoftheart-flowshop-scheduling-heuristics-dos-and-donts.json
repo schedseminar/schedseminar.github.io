@@ -9,14 +9,10 @@
     "link": "http://soa.iti.es/rruiz",
     "continent": "Europe"
   },
-  "invitedBy": {
-    "name": "G. Vanden Berghe",
-    "affiliation": "KU Leuven",
-    "link": "https://www.kuleuven.be/wieiswie/nl/person/00053376"
-  },
+  "invitedBy": "G. Vanden Berghe",
   "datePrague": "2021-12-22",
   "keywords": "Scheduling, Flowshop, Heuristics, Metaheuristics, Iterated greedy",
-  "pdf": "SchedulingSeminar_RubénRuiz.pdf",
+  "pdf": "/presentations/SchedulingSeminar_RubénRuiz.pdf",
   "video": "https://scheduling-seminar.iid.ciirc.cvut.cz/videos/21_3_Fall/21_12_22%20Rub%c3%a9n%20Ruiz%20(UP%20de%20Val%c3%a8ncia)%20_%20State-of-the-art%20flowshop%20scheduling%20heuristics.mp4",
   "youtubeEmbed": "https://www.youtube.com/embed/F3Ykma1eqnY",
   "status": "past"

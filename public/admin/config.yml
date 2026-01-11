@@ -5,8 +5,8 @@ backend:
   base_url: https://schedseminar.iid.ciirc.cvut.cz/
   auth_endpoint: auth
 
-media_folder: "../../src/assets/photos"
-public_folder: "/src/assets/photos"
+media_folder: "/public/assets/photos"
+public_folder: "/assets/photos"
 
 collections:
   - name: "talks"
@@ -34,18 +34,20 @@ collections:
           - label: "Photo"
             name: "photo"
             widget: "image"
-            media_folder: "src/assets/photos"
-            public_folder: "/src/assets/photos"
+            media_folder: "/public/assets/photos"
+            public_folder: ""
           - { label: "Link", name: "link", widget: "string" }
           - { label: "Continent", name: "continent", widget: "string" }
 
       - label: "Invited By"
         name: "invitedBy"
-        widget: "object"
-        fields:
-          - { label: "Name", name: "name", widget: "string" }
-          - { label: "Affiliation", name: "affiliation", widget: "string" }
-          - { label: "Link", name: "link", widget: "string" }
+        widget: "relation"
+        collection: "settings"
+        file: "hosts"
+        search_fields: [ "people.*.name" ]
+        value_field: "people.*.name"
+        display_fields: [ "people.*.name", "people.*.affiliation" ]
+        required: true
 
       - { label: "Date (Prague time)", name: "datePrague", widget: "datetime", date_format: "YYYY-MM-DD", required: true }
       - { label: "Keywords", name: "keywords", widget: "string", required: false }
@@ -54,8 +56,12 @@ collections:
         name: "pdf"
         widget: "file"
         required: false
-        media_folder: "public/presentations"
+        media_folder: "/public/presentations"
         public_folder: "/presentations"
+        media_library:
+          config:
+            file_name: "SchedulingSeminar_{{ presenter.name | replace(' ', '') }}"
+
 
       - { label: "Video", name: "video", widget: "string", required: false }
       - { label: "YouTube Embed", name: "youtubeEmbed", widget: "string", required: false }
@@ -64,3 +70,18 @@ collections:
         name: "status"
         widget: "select"
         options: ["upcoming", "past"]
+
+  - name: "settings"
+    label: "Settings / Data"
+    files:
+      - name: "hosts"
+        label: "Invited By (Presets)"
+        file: "src/data/hosts.json" # This file will store your list of people
+        fields:
+          - label: "People List"
+            name: "people"
+            widget: "list"
+            fields:
+              - { label: "Name", name: "name", widget: "string" }
+              - { label: "Affiliation", name: "affiliation", widget: "string" }
+              - { label: "Link", name: "link", widget: "string" }

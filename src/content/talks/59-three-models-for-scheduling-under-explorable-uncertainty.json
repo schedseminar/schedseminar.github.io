@@ -9,14 +9,10 @@
     "link": "http://www.lip6.fr/Christoph.Durr",
     "continent": "Europe"
   },
-  "invitedBy": {
-    "name": "Zdeněk Hanzálek",
-    "affiliation": "CTU in Prague",
-    "link": "https://rtime.ciirc.cvut.cz/~hanzalek/"
-  },
+  "invitedBy": "Zdeněk Hanzálek",
   "datePrague": "2021-12-08",
   "keywords": "Scheduling, uncertainty, Sum of completion times, Processing time oracle, Competitive ratio",
-  "pdf": "SchedulingSeminar_ChristophDürr.pdf",
+  "pdf": "/presentations/SchedulingSeminar_ChristophDürr.pdf",
   "video": "https://scheduling-seminar.iid.ciirc.cvut.cz/videos/21_3_Fall/21_12_8%20Christoph%20D%c3%bcrr%20(Sorbonne%20Uni)%20_%20Three%20models%20for%20scheduling%20under%20explorable....mp4",
   "youtubeEmbed": "https://youtube.com/embed/57lVMZ1AhXQ",
   "status": "past"

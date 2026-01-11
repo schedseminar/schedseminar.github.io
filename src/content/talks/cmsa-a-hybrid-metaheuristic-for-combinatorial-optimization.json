@@ -1,0 +1,15 @@
+{
+  "title": "CMSA: A Hybrid Metaheuristic for Combinatorial Optimization",
+  "abstract": "Construct, Merge, Solve & Adapt (CMSA) is an award-winning, hybrid algorithm for solving hard combinatorial optimization problems. The main idea consists in the iterated application of an exact solver---such as an integer linear programming (ILP) solver---to sub-instances of the original problem instance. These sub-instances are enlarged at each iteration by adding solution components from a set of valid solutions that are obtained either by probabilistic solution construction or by any other means. Moreover, seemingly useless (or even harmful) solution components are removed. In this talk, an introduction to CMSA  will be given, in addition to describing some of the most recent research lines around this technique.\n",
+  "keywords": "combinatorial optimization, hybrid solver",
+  "datePrague": "2026-02-18",
+  "presenter": {
+    "affiliation": " IIIA-CSIC",
+    "photo": "christian_blum_iiia.jpg",
+    "link": "https://www.iiia.csic.es/~christian.blum/",
+    "continent": "Europe",
+    "name": "Christian Blum"
+  },
+  "invitedBy": "Zdeněk Hanzálek",
+  "status": "upcoming"
+}

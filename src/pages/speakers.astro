@@ -1,0 +1,75 @@
+---
+import Layout from "../layouts/Layout.astro";
+import {getColor, getSeasonColor} from "../utils/constants";
+
+const files = import.meta.glob('../content/talks/*.json', {eager: true});
+
+const continent = {
+    'Europe': 'Europe, the Middle East & Africa',
+    'Asia': 'Asia, Australia & Oceania',
+    'America': 'North America & South America'
+}
+
+const tableData = Object.values(files).map((file) => {
+    const data = file.default;
+    return {
+        name: data.presenter.name,
+        affiliation: data.presenter.affiliation,
+        title: data.title,
+        datePrague: data.datePrague,
+        continent: data.presenter.continent,
+        continentParsed: continent[data.presenter.continent],
+        keywords: data.keywords
+    };
+}).sort((a, b) => {
+    return new Date(b.datePrague) - new Date(a.datePrague);
+});
+
+const columns = ["Name", "Affiliation", "Talk Title", "Date", "Continent", "Keywords"];
+---
+<Layout title="Speakers List">
+    <div class=" mx-auto px-6 py-10">
+        <h1 class="text-2xl font-bold mb-2">Speaker List</h1>
+        <a href="/" class="text-blue-500 hover:underline block mb-4">&larr; Home</a>
+
+        <div class="overflow-x-auto rounded-lg border border-gray-200 shadow-sm">
+            <table class="w-full text-sm text-left text-gray-500">
+                <thead class="text-xs text-gray-700 uppercase bg-gray-50">
+                <tr>
+                    {columns.map((column, index) => (
+                            <th class="px-2 py-2" key={index}>{column}</th>
+                    ))}
+                </tr>
+                </thead>
+                <tbody class="text-xs">
+                {tableData.map((data, rIndex) =>
+                    (
+                            <tr key={`row#${rIndex}`} class="bg-white hover:bg-gray-200 ">
+                                <td class={`px-2 py-1 font-medium ${getSeasonColor(data.datePrague)} whitespace-nowrap`}>
+                                    {data.name}
+                                </td>
+                                <td class={`px-2 py-1 font-medium whitespace-nowrap`}>
+                                    {data.affiliation}
+                                </td>
+                                <td class={`px-2 py-1 font-medium min-w-96`}>
+                                    <div class="line-clamp-2 leading-relaxed whitespace-normal" title={data.title}>
+                                        {data.title}
+                                    </div>
+                                </td>
+                                <td class={`px-2 py-1 font-medium whitespace-nowrap`}>
+                                    {data.datePrague}
+                                </td>
+                                <td class={`px-2 py-1 font-medium whitespace-nowrap ${getColor(data.continent)}`}>
+                                    {data.continentParsed}
+                                </td>
+                                <td class={`px-2 py-1 font-medium whitespace-nowrap`}>
+                                    {data.keywords}
+                                </td>
+                            </tr>
+                    )
+                )}
+                </tbody>
+            </table>
+        </div>
+    </div>
+</Layout>

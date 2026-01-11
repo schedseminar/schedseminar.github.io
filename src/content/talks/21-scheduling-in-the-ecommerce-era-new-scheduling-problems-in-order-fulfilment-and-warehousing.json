@@ -9,14 +9,10 @@
     "link": "https://www.om.uni-jena.de/en",
     "continent": "Europe"
   },
-  "invitedBy": {
-    "name": "Zdeněk Hanzálek",
-    "affiliation": "CTU in Prague",
-    "link": "https://rtime.ciirc.cvut.cz/~hanzalek/"
-  },
+  "invitedBy": "Zdeněk Hanzálek",
   "datePrague": "2024-02-21",
   "keywords": "Warehousing, E-commerce, Order fulfillment scheduling, Synchronization, Classification",
-  "pdf": "SchedulingSeminar_NilsBoysen.pdf",
+  "pdf": "/presentations/SchedulingSeminar_NilsBoysen.pdf",
   "video": "https://scheduling-seminar.iid.ciirc.cvut.cz/videos/24_1_Winter/24_02_21%20Nils%20Boysen%20(University%20of%20Jena)%20_%20Scheduling%20in%20the%20e-commerce%20era.mp4",
   "youtubeEmbed": "https://www.youtube.com/embed/4mR-eyKUliw?si=dgeK8UmfHygSvo97",
   "status": "past"

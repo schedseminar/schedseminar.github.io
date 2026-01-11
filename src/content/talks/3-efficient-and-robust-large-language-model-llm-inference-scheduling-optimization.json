@@ -8,14 +8,10 @@
     "link": "https://sites.google.com/view/zijiezhou/",
     "continent": "Asia"
   },
-  "invitedBy": {
-    "name": "Guohua Wan",
-    "affiliation": "Shanghai Jiao Tong",
-    "link": "http://www.acem.sjtu.edu.cn/en/faculty/wanguohua.html"
-  },
+  "invitedBy": "Guohua Wan",
   "datePrague": "2025-10-29",
   "keywords": "Scheduling, Optimization for LLM inference, Approximation online algorithms",
-  "pdf": "SchedulingSeminar_ZijieZhou.pdf",
+  "pdf": "/presentations/SchedulingSeminar_ZijieZhou.pdf",
   "video": "https://scheduling-seminar.iid.ciirc.cvut.cz/videos/25_3_Fall/25_10_29%20Zijie%20Zhou%20(IEDA,%20HKUST)%20_%20Efficient%20and%20Robust%20LLM%20Scheduling.mp4",
   "youtubeEmbed": "https://www.youtube.com/embed/obTtEShQKXc?si=0RYly4VpxVZ_-nLV",
   "status": "past"

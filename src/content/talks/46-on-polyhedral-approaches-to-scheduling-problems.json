@@ -9,14 +9,10 @@
     "link": "https://www.sauder.ubc.ca/people/maurice-queyranne",
     "continent": "America"
   },
-  "invitedBy": {
-    "name": "Michael Pinedo",
-    "affiliation": "New York Uni",
-    "link": "https://www.stern.nyu.edu/faculty/bio/michael-pinedo"
-  },
+  "invitedBy": "Michael Pinedo",
   "datePrague": "2022-06-22",
   "keywords": "Scheduling, Polyhedra, Formulations",
-  "pdf": "SchedulingSeminar_MauriceQueyranne.pdf",
+  "pdf": "/presentations/SchedulingSeminar_MauriceQueyranne.pdf",
   "video": "https://scheduling-seminar.iid.ciirc.cvut.cz/videos/22_2_Spring/22_6_22%20Maurice%20Queyranne%20(Sauder%20School,%20UBC)%20_%20On%20Polyhedral%20Approaches%20to%20Sched....mp4",
   "youtubeEmbed": "https://www.youtube.com/embed/Pi_aBHm10-c",
   "status": "past"

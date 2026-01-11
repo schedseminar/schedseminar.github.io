@@ -9,14 +9,10 @@
     "link": "https://scholar.google.com/citations?user=5LvVxNYAAAAJ&hl=en",
     "continent": "Europe"
   },
-  "invitedBy": {
-    "name": "Dvir Shabtay",
-    "affiliation": "Ben Gurion Uni",
-    "link": "https://in.bgu.ac.il/en/engn/iem/pages/staff/Dvir-Shabtay.aspx"
-  },
+  "invitedBy": "Dvir Shabtay",
   "datePrague": "2024-05-29",
   "keywords": "Uniformly related machine scheduling, Makespan minimization, Efficient approximation schemes, Mixed-integer linear programming",
-  "pdf": "SchedulingSeminar_MatthiasMnich.pdf",
+  "pdf": "/presentations/SchedulingSeminar_MatthiasMnich.pdf",
   "video": "https://scheduling-seminar.iid.ciirc.cvut.cz/videos/24_2_Spring/24_05_29%20Matthias%20Mnich%20(TU%20Hamburg)%20_%20New%20Support%20Size%20Bounds%20for%20Integer%20Programming.mp4",
   "youtubeEmbed": "https://www.youtube.com/embed/xUsWfpcyMYQ?si=73vJc0xnuS8OH6Lq",
   "status": "past"

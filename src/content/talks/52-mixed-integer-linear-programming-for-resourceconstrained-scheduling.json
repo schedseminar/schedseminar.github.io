@@ -9,14 +9,10 @@
     "link": "https://homepages.laas.fr/artigues/drupal/node/11",
     "continent": "Europe"
   },
-  "invitedBy": {
-    "name": "Rainer Kolisch",
-    "affiliation": "MILP",
-    "link": "https://www.professors.wi.tum.de/om/team/prof-dr-rainer-kolisch/"
-  },
+  "invitedBy": "Rainer Kolisch",
   "datePrague": "2022-03-30",
   "keywords": "Mixed-integer linear programming (MILP), Resource-constrained project scheduling problem (RCPSP), solvers, relaxation, CP, SAT",
-  "pdf": "SchedulingSeminar_ChristianArtigues.pdf",
+  "pdf": "/presentations/SchedulingSeminar_ChristianArtigues.pdf",
   "video": "https://scheduling-seminar.iid.ciirc.cvut.cz/videos/22_2_Spring/22_3_30%20Christian%20Artigues%20(LAAS%20-%20CNRS)%20_%20MILP%20for%20resource-constrained%20scheduling.mp4",
   "youtubeEmbed": "https://www.youtube.com/embed/3KGLAnIgVuc",
   "status": "past"

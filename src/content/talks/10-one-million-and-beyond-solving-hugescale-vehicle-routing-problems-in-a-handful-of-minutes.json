@@ -9,14 +9,10 @@
     "link": "https://www.unibo.it/sitoweb/daniele.vigo/en",
     "continent": "Europe"
   },
-  "invitedBy": {
-    "name": "Zdeněk Hanzálek",
-    "affiliation": "CTU in Prague",
-    "link": "https://rtime.ciirc.cvut.cz/~hanzalek/"
-  },
+  "invitedBy": "Zdeněk Hanzálek",
   "datePrague": "2025-03-12",
   "keywords": "Vehicle routing, Logistics optimization, Metaheuristics, Pruning and acceleration of local search",
-  "pdf": "SchedulingSeminar_DanieleVigo.pdf",
+  "pdf": "/presentations/SchedulingSeminar_DanieleVigo.pdf",
   "video": "https://scheduling-seminar.iid.ciirc.cvut.cz/videos/25_1_Winter/25_03_12%20Daniele%20Vigo%20(Unibo%20CIRI-ICT)%20%20One%20Million%20...%20and%20Beyond!%20Solving%20Huge-Scale%20VRPs!.mp4",
   "youtubeEmbed": "https://www.youtube.com/embed/5hxwkxiAS0c?si=XsyqM2tH3d2hi0kz",
   "status": "past"

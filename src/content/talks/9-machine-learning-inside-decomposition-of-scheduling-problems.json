@@ -8,14 +8,10 @@
     "link": "http://people.ciirc.cvut.cz/~suchap/",
     "continent": "Europe"
   },
-  "invitedBy": {
-    "name": "Zdeněk Hanzálek",
-    "affiliation": "CTU in Prague",
-    "link": "https://rtime.ciirc.cvut.cz/~hanzalek/"
-  },
+  "invitedBy": "Zdeněk Hanzálek",
   "datePrague": "2025-04-09",
   "keywords": "Scheduling, Machine learning, Decomposition, Branch and price, Lawler's decomposition",
-  "pdf": "SchedulingSeminar_PremyslSucha.pdf",
+  "pdf": "/presentations/SchedulingSeminar_PremyslSucha.pdf",
   "video": "https://scheduling-seminar.iid.ciirc.cvut.cz/videos/25_2_Spring/25_04_09%20P%c5%99emysl%20%c5%a0%c5%afcha%20(CTU%20in%20Prague)%20_%20Machine%20Learning%20Inside%20Decomposition.mp4",
   "youtubeEmbed": "https://www.youtube.com/embed/u3YIK32rMtI?si=OxeIUu-_p6xKgTFy",
   "status": "past"

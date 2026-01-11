@@ -8,14 +8,10 @@
     "link": "https://www.researchgate.net/profile/Rubing-Chen-2",
     "continent": "Asia"
   },
-  "invitedBy": {
-    "name": "Michael Pinedo",
-    "affiliation": "New York Uni",
-    "link": "https://www.stern.nyu.edu/faculty/bio/michael-pinedo"
-  },
+  "invitedBy": "Michael Pinedo",
   "datePrague": "2025-05-07",
   "keywords": "Scheduling, Hierarchical criteria, Release date, Preemption, Total completion time",
-  "pdf": "SchedulingSeminar_RubingChen.pdf",
+  "pdf": "/presentations/SchedulingSeminar_RubingChen.pdf",
   "video": "https://scheduling-seminar.iid.ciirc.cvut.cz/videos/25_2_Spring/25_05_07%20Rubing%20Chen%20(Zhengzhou%20University)%20_%20Single-machine%20hierarchical%20scheduling....mp4",
   "youtubeEmbed": "https://www.youtube.com/embed/kVI2fJT1cFM?si=mFdDGqoNzGshPOjr",
   "status": "past"

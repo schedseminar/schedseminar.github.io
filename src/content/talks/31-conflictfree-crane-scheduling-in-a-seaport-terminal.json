@@ -9,14 +9,10 @@
     "link": "https://www.wiwi.uni-siegen.de/mis/team/",
     "continent": "Europe"
   },
-  "invitedBy": {
-    "name": "Zdeněk Hanzálek",
-    "affiliation": "CTU in Prague",
-    "link": "https://rtime.ciirc.cvut.cz/~hanzalek/"
-  },
+  "invitedBy": "Zdeněk Hanzálek",
   "datePrague": "2023-05-25",
   "keywords": "Logistics, Scheduling, Stacking cranes, Container terminal, Branch and cut",
-  "pdf": "SchedulingSeminar_ErwinPesch.pdf",
+  "pdf": "/presentations/SchedulingSeminar_ErwinPesch.pdf",
   "video": "https://scheduling-seminar.iid.ciirc.cvut.cz/videos/23_2_Spring/23_5_25%20Erwin%20Pesch%20(Uni%20of%20Siegen)%20_%20Conflict-Free%20Crane%20Scheduling%20in%20a%20Seaport%20Ter..mp4",
   "youtubeEmbed": "https://www.youtube.com/embed/Oc_pNrNp9NM",
   "status": "past"

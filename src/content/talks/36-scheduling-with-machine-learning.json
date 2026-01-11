@@ -9,14 +9,10 @@
     "link": "https://msslab.kaist.ac.kr/Professor/professor",
     "continent": "Asia"
   },
-  "invitedBy": {
-    "name": "Michael Pinedo",
-    "affiliation": "New York Uni",
-    "link": "https://www.stern.nyu.edu/faculty/bio/michael-pinedo"
-  },
+  "invitedBy": "Michael Pinedo",
   "datePrague": "2023-03-01",
   "keywords": "Scheduling, Manufacturing Systems, Machine Learning, Real Applications",
-  "pdf": "SchedulingSeminar_HyunJungKim.pdf",
+  "pdf": "/presentations/SchedulingSeminar_HyunJungKim.pdf",
   "video": "https://scheduling-seminar.iid.ciirc.cvut.cz/videos/23_1_Winter/23_3_1%20Hyun-Jung%20Kim%20(KAIST)_Scheduling%20with%20Machine%20Learning.mp4",
   "youtubeEmbed": "https://www.youtube.com/embed/aaGESG8kolc",
   "status": "past"

@@ -9,14 +9,10 @@
     "link": "http://math.haifa.ac.il/lea/",
     "continent": "Europe"
   },
-  "invitedBy": {
-    "name": "Dvir Shabtay",
-    "affiliation": "Ben Gurion Uni",
-    "link": "https://in.bgu.ac.il/en/engn/iem/pages/staff/Dvir-Shabtay.aspx"
-  },
+  "invitedBy": "Dvir Shabtay",
   "datePrague": "2021-09-29",
   "keywords": "Preemptive scheduling, Uniformly related machines, Total completion time, Makespan",
-  "pdf": "SchedulingSeminar_LeahEpstein.pdf",
+  "pdf": "/presentations/SchedulingSeminar_LeahEpstein.pdf",
   "video": "https://scheduling-seminar.iid.ciirc.cvut.cz/videos/21_3_Fall/21_9_29%20Leah%20Epstein%20_%20The%20Benefit%20of%20Preemption%20_%20Sep%2029,%202021.mp4",
   "youtubeEmbed": "https://www.youtube.com/embed/Ik7106Ul9Uw",
   "status": "past"

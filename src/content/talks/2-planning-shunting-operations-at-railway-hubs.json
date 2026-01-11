@@ -1,6 +1,6 @@
 {
-  "title": "Planning shunting operations at railway hubs",
   "abstract": "At night, trains are parked on shunting yards. Here cleaning and small maintenance takes place, after which the trains have to leave in the morning at the planned departure time and in the desired composition, which may require splitting and coupling during their stay at the yard. As NS (Dutch Railways) continues to expand its fleet while the available yard space remains fixed, the shunting yards are becoming increasingly congested, with occupation rates reaching up to 90%. Consequently, planning all train movements and related activities has become a complex challenge. In this talk, I will discuss the main challenges encountered in planning the shunting yards and the algorithms that we have designed to tackle these problems. First, I want to discuss the shunting problem on a single yard. We solve this problem using local search; our algorithm is the first one that is capable of solving real-world problem instances of the complete shunting and scheduling problem. Next, I want to extend the problem to the entire station area, which requires that we distribute the trains over two (or more) shunting yards, while avoiding interference with through traffic and respecting the capacity of the separate shunting yards. The main difficulty here is that the capacity of the shunting yard is not known; we use data analysis to estimate it. Finally, I want to discuss the problem of assigning shunting tasks to train drivers. This is a variant of the technician routing problem without skills, but with synchronization. We have developed an algorithm for this that is based on a novel decomposition approach.",
+  "datePrague": "2025-11-26",
   "presenter": {
     "name": "Hoogeveen, J.A. (Han)",
     "affiliation": "Utrecht University",
@@ -8,12 +8,11 @@
     "link": "https://www.uu.nl/medewerkers/JAHoogeveen",
     "continent": "Europe"
   },
-  "invitedBy": {
-    "name": "Zdeněk Hanzálek",
-    "affiliation": "CTU in Prague",
-    "link": "https://rtime.ciirc.cvut.cz/~hanzalek/"
-  },
-  "datePrague": "2025-11-26",
   "keywords": "Shunt yard planning, AI, Local Search, Constraint Programming, Linear Programming, Data analysis, Logistic Regression, Decomposition, Synchronization, Technician Routing",
-  "status": "upcoming"
+  "invitedBy": "Zdeněk Hanzálek",
+  "pdf": "/presentations/SchedulingSeminar_HanHoogeveen.pdf",
+  "status": "past",
+  "youtubeEmbed": "https://www.youtube.com/embed/uhKTjAYevCo?si=O6AFgT2QIdkMJd7o",
+  "title": "Planning shunting operations at railway hubs",
+  "video": "https://scheduling-seminar.iid.ciirc.cvut.cz/videos/25_3_Fall/25_11_26_Hoogeveen,%20J.A.%20(Utrecht%20Uni)%20_%20Planning%20shunting%20operations%20at%20railway%20hubs.mp4"
 }

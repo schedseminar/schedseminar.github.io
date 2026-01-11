@@ -9,14 +9,10 @@
     "link": "https://www.lamsade.dauphine.fr/~arossi/",
     "continent": "Europe"
   },
-  "invitedBy": {
-    "name": "Zdeněk Hanzálek",
-    "affiliation": "CTU in Prague",
-    "link": "https://rtime.ciirc.cvut.cz/~hanzalek/"
-  },
+  "invitedBy": "Zdeněk Hanzálek",
   "datePrague": "2024-04-04",
   "keywords": "Operations research, Integer linear programming, Decomposition methods",
-  "pdf": "SchedulingSeminar_AndreRossi.pdf",
+  "pdf": "/presentations/SchedulingSeminar_AndreRossi.pdf",
   "video": "https://scheduling-seminar.iid.ciirc.cvut.cz/videos/24_1_Winter/24_04_04%20Andr%c3%a9%20Rossi%20(Universite%20PSL)%20_%20Maximizing%20stability%20of%20assembly%20line....mp4",
   "youtubeEmbed": "https://www.youtube.com/embed/pjVSsqpnM9k?si=HfSEk7AwBqVH5P9Z",
   "status": "past"

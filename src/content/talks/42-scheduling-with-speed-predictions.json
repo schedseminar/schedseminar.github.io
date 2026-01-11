@@ -9,14 +9,10 @@
     "link": "https://www.ieor.columbia.edu/faculty/clifford-stein",
     "continent": "America"
   },
-  "invitedBy": {
-    "name": "Michael Pinedo",
-    "affiliation": "New York Uni",
-    "link": "https://www.stern.nyu.edu/faculty/bio/michael-pinedo"
-  },
+  "invitedBy": "Michael Pinedo",
   "datePrague": "2022-10-26",
   "keywords": "Scheduling, Machine learning, Predictions, On-line algorithms",
-  "pdf": "SchedulingSeminar_CliffordStein.pdf",
+  "pdf": "/presentations/SchedulingSeminar_CliffordStein.pdf",
   "video": "https://scheduling-seminar.iid.ciirc.cvut.cz/videos/22_3_Fall/22_10_26%20Clifford%20Stein%20(Columbia%20Uni)%20_%20Scheduling%20with%20Speed%20Predictions.mp4",
   "youtubeEmbed": "https://www.youtube.com/embed/JrARHkA-voU",
   "status": "past"

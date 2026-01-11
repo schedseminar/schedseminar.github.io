@@ -9,14 +9,10 @@
     "link": "http://moya.bus.miami.edu/~czacharias/",
     "continent": "America"
   },
-  "invitedBy": {
-    "name": "Michael Pinedo",
-    "affiliation": "New York Uni",
-    "link": "https://www.stern.nyu.edu/faculty/bio/michael-pinedo"
-  },
+  "invitedBy": "Michael Pinedo",
   "datePrague": "2022-09-14",
   "keywords": "Dynamic programming, Discrete convexity, Stochastic models, Appointment scheduling",
-  "pdf": "SchedulingSeminar_ChristosZacharias.pdf",
+  "pdf": "/presentations/SchedulingSeminar_ChristosZacharias.pdf",
   "video": "https://scheduling-seminar.iid.ciirc.cvut.cz/videos/22_3_Fall/22_9_14%20Christos%20Zacharias%20(University%20of%20Miami)%20_%20Dynamic%20Inter%20&%20Intraday%20Scheduling.mp4",
   "youtubeEmbed": "https://www.youtube.com/embed/Z2MBOY7vsC0",
   "status": "past"

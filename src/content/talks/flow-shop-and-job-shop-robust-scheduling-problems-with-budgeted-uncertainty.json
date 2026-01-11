@@ -1,19 +1,18 @@
 {
-  "title": "Flow-shop and job-shop robust scheduling problems with budgeted uncertainty",
   "abstract": "We study different solution methods for two two-stage robust, multi-machine scheduling problems under uncertainty budget. Compact formulations of the problems are proposed and two decomposition approaches are presented: a logic Benders decomposition approach and a column and constraint generation approach. Computational experiments show that for small-sized instances, a compact formulation of the problem quickly yields optimal solutions. However, for larger instances, decomposition methods, particularly the column and constraint generation method with a master problem solved using constraint programming, provide better quality solutions. An acceleration method for the column and constraint generation algorithm is proposed. This method is generic and can be applied to any two-stage robust optimisation problem.",
-  "keywords": "Discrete optimisation,  Robust scheduling,  Uncertainty budget,  Constraint programming ,  Mixed integer linear programming",
+  "datePrague": "2025-12-10",
   "presenter": {
-    "affiliation": "ENAC, Université de Toulouse, France",
+    "affiliation": "ENAC, Université de Toulouse",
     "link": "https://homepages.laas.fr/lhoussin/index.html",
     "continent": "Europe",
     "name": "Laurent Houssin",
     "photo": "laurent.jpg"
   },
-  "datePrague": "2025-12-10",
-  "invitedBy": {
-    "name": "Zdeněk Hanzálek",
-    "link": "https://rtime.ciirc.cvut.cz/~hanzalek/",
-    "affiliation": "CTU in Prague"
-  },
-  "status": "upcoming"
+  "keywords": "Discrete optimisation,  Robust scheduling,  Uncertainty budget,  Constraint programming ,  Mixed integer linear programming",
+  "invitedBy": "Zdeněk Hanzálek",
+  "pdf": "/presentations/SchedulingSeminar_LaurentHoussin.pdf",
+  "status": "past",
+  "youtubeEmbed": "https://www.youtube.com/embed/S8atVTl4RDo?si=E659tibeKWiixhR6",
+  "title": "Flow-shop and job-shop robust scheduling problems with budgeted uncertainty",
+  "video": "https://scheduling-seminar.iid.ciirc.cvut.cz/videos/25_3_Fall/25_12_10_Laurent%20Houssin%20(ENAC,%20UT)_Flow-shop%20and%20job-shop%20robust%20scheduling%20problems.mp4"
 }
