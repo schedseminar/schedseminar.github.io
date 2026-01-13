@@ -61,7 +61,8 @@ function parseTalks() {
         // A "date" string in ISO usually parses to 00:00.
 
         // Generating a unique ID for the event based on filename to stay deterministic
-        const id = `sched_seminar_${getHash(file)}`;
+        // Google Calendar IDs must be base32hex (0-9, a-v). Underscores are NOT allowed.
+        const id = `schedseminar${getHash(file)}`;
 
         talks.push({
             id: id,
