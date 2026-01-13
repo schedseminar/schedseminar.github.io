@@ -45,23 +45,9 @@ function parseTalks() {
         const filePath = path.join(TALKS_DIR, file);
         const content = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
 
-        // Ensure datePrague is present
         if (!content.datePrague) continue;
 
-        const date = DateTime.fromISO(content.datePrague).set({ hour: 14, minute: 0 }); // Defaulting to 14:00 if not specified? Adjust as needed.
-        // Or if datePrague is just YYYY-MM-DD, we should probably set a default time or make it an all-day event?
-        // Seminar usually has a time. The JSONs seem to only have "datePrague".
-        // Assuming 2 PM for now or checking if time is stored elsewhere.
-        // Looking at previous files, it's just a date string "2021-03-31".
-
-        // Let's assume standard seminar time 16:15 usually? Or 14:00?
-        // I will use 16:15 as a placeholder default based on common seminar times, 
-        // but user might want to configure this. 
-        // Actually, let's make it an all-day event if no time, or pick a safe default.
-        // A "date" string in ISO usually parses to 00:00.
-
-        // Generating a unique ID for the event based on filename to stay deterministic
-        // Google Calendar IDs must be base32hex (0-9, a-v). Underscores are NOT allowed.
+        const date = DateTime.fromISO(content.datePrague).set({ hour: 15, minute: 0 }); 
         const id = `schedseminar${getHash(file)}`;
 
         talks.push({
@@ -69,7 +55,6 @@ function parseTalks() {
             title: content.title,
             description: content.abstract || '',
             start: date,
-            // Assuming 1.5 hour duration
             end: date.plus({ minutes: 90 }),
             originalFile: file,
             presenter: Array.isArray(content.presenter)
@@ -129,7 +114,7 @@ async function sync() {
                 requestBody: {
                     id: talk.id,
                     summary: talk.title,
-                    description: `${talk.description}\n\nPresenter: ${talk.presenter}`,
+                    description: `${talk.description}\n\nPresenter: ${talk.presenter}\nYou can watch the talk online at: https://www.youtube.com/channel/UCUoCNnaAfw5NAntItILFn4A/live`,
                     start: {
                         dateTime: talk.start.toISO(),
                         timeZone: 'Europe/Prague',
