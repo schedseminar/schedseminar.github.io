@@ -12,12 +12,12 @@ const CALENDAR_ID = process.env.CALENDAR_ID;
 const ACTION_CREDENTIALS = process.env.GOOGLE_CALENDAR_CREDENTIALS;
 
 if (!CALENDAR_ID) {
-    console.error('❌ Missing CALENDAR_ID environment variable.');
+    console.error('Missing CALENDAR_ID environment variable.');
     process.exit(1);
 }
 
 if (!ACTION_CREDENTIALS) {
-    console.error('❌ Missing GOOGLE_CALENDAR_CREDENTIALS environment variable.');
+    console.error('Missing GOOGLE_CALENDAR_CREDENTIALS environment variable.');
     process.exit(1);
 }
 
@@ -27,8 +27,8 @@ const auth = new google.auth.GoogleAuth({
     scopes: ['https://www.googleapis.com/auth/calendar'],
 });
 
-console.log(`🔑 Authenticating as Service Account: ${credentials.client_email}`);
-console.log(`📅 Target Calendar ID: ${CALENDAR_ID}`);
+console.log(`Authenticating as Service Account: ${credentials.client_email}`);
+console.log(`Target Calendar ID: ${CALENDAR_ID}`);
 
 const calendar = google.calendar({ version: 'v3', auth });
 
@@ -90,7 +90,7 @@ async function sync() {
     console.log(`Found ${allTalks.length} total talks, ${futureTalks.length} in the future.`);
 
     if (futureTalks.length === 0) {
-        console.log('✅ No future talks to sync.');
+        console.log(' No future talks to sync.');
         return;
     }
 
@@ -114,12 +114,12 @@ async function sync() {
     for (const talk of futureTalks) {
         // Check duplication by Title
         if (existingTitles.has(talk.title)) {
-            console.log(`⏭️  Skipping "${talk.title}" (Title match found in calendar).`);
+            console.log(`    Skipping "${talk.title}" (Title match found in calendar).`);
             skippedCount++;
             continue;
         }
 
-        console.log(`➕ Adding "${talk.title}"...`);
+        console.log(`  Adding "${talk.title}"...`);
 
         try {
             await calendar.events.insert({
@@ -139,18 +139,18 @@ async function sync() {
                     },
                 },
             });
-            console.log(`   ✅ Created event for "${talk.title}"`);
+            console.log(`     Created event for "${talk.title}"`);
             addedCount++;
         } catch (error) {
             if (error.code === 409) {
-                console.log(`   ⚠️  Event with ID ${talk.id} already exists (but title didn't match?). Skipping.`);
+                console.log(`      Event with ID ${talk.id} already exists (but title didn't match?). Skipping.`);
             } else {
-                console.error(`   ❌ Failed to add "${talk.title}":`, error.message);
+                console.error(`     Failed to add "${talk.title}":`, error.message);
             }
         }
     }
 
-    console.log(`\n🎉 Sync Complete. Added: ${addedCount}, Skipped: ${skippedCount}.`);
+    console.log(`\nSync Complete. Added: ${addedCount}, Skipped: ${skippedCount}.`);
 }
 
 sync().catch(err => {
