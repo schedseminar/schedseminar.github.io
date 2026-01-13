@@ -12,13 +12,15 @@ const continent = {
 
 const tableData = Object.values(files).map((file) => {
     const data = file.default;
+    const presenters = Array.isArray(data.presenter) ? data.presenter : [data.presenter];
+
     return {
-        name: data.presenter.name,
-        affiliation: data.presenter.affiliation,
+        names: presenters.map(p => p.name),
+        affiliations: presenters.map(p => p.affiliation),
         title: data.title,
         datePrague: data.datePrague,
-        continent: data.presenter.continent,
-        continentParsed: continent[data.presenter.continent],
+        continents: [...new Set(presenters.map(p => p.continent))],
+        parsedContinents: [...new Set(presenters.map(p => continent[p.continent]))],
         keywords: data.keywords
     };
 }).sort((a, b) => {
@@ -28,13 +30,13 @@ const tableData = Object.values(files).map((file) => {
 const columns = ["Name", "Affiliation", "Talk Title", "Date", "Continent", "Keywords"];
 ---
 <Layout title="Speakers List">
-    <div class=" mx-auto px-6 py-10">
+    <div class="mx-auto px-6 py-5 flex flex-col h-[calc(100vh-3rem)]">
         <h1 class="text-2xl font-bold mb-2">Speaker List</h1>
         <a href="/" class="text-blue-500 hover:underline block mb-4">&larr; Home</a>
 
-        <div class="overflow-x-auto rounded-lg border border-gray-200 shadow-sm">
+        <div class="overflow-auto rounded-lg border border-gray-200 shadow-sm flex-1 min-h-0">
             <table class="w-full text-sm text-left text-gray-500">
-                <thead class="text-xs text-gray-700 uppercase bg-gray-50">
+                <thead class="text-xs text-gray-700 uppercase bg-gray-50 sticky top-0 z-10 shadow-sm">
                 <tr>
                     {columns.map((column, index) => (
                             <th class="px-2 py-2" key={index}>{column}</th>
@@ -45,11 +47,11 @@ const columns = ["Name", "Affiliation", "Talk Title", "Date", "Continent", "Keyw
                 {tableData.map((data, rIndex) =>
                     (
                             <tr key={`row#${rIndex}`} class="bg-white hover:bg-gray-200 ">
-                                <td class={`px-2 py-1 font-medium ${getSeasonColor(data.datePrague)} whitespace-nowrap`}>
-                                    {data.name}
+                                <td class={`px-2 py-1 font-medium ${getSeasonColor(data.datePrague)}`}>
+                                    {data.names.map((name, i) => <div key={i}>{name}</div>)}
                                 </td>
-                                <td class={`px-2 py-1 font-medium whitespace-nowrap`}>
-                                    {data.affiliation}
+                                <td class={`px-2 py-1 font-medium`}>
+                                    {data.affiliations.map((affiliation, i) => <div key={i}>{affiliation}</div>)}
                                 </td>
                                 <td class={`px-2 py-1 font-medium min-w-96`}>
                                     <div class="line-clamp-2 leading-relaxed whitespace-normal" title={data.title}>
@@ -59,8 +61,8 @@ const columns = ["Name", "Affiliation", "Talk Title", "Date", "Continent", "Keyw
                                 <td class={`px-2 py-1 font-medium whitespace-nowrap`}>
                                     {data.datePrague}
                                 </td>
-                                <td class={`px-2 py-1 font-medium whitespace-nowrap ${getColor(data.continent)}`}>
-                                    {data.continentParsed}
+                                <td class={`px-2 py-1 font-medium whitespace-nowrap ${getColor(data.continents[0])}`}>
+                                    {data.parsedContinents.map((c, i) => <div key={i}>{c}</div>)}
                                 </td>
                                 <td class={`px-2 py-1 font-medium whitespace-nowrap`}>
                                     {data.keywords}
