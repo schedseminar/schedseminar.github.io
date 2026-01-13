@@ -21,11 +21,14 @@ if (!ACTION_CREDENTIALS) {
     process.exit(1);
 }
 
-// --- Setup Auth ---
+const credentials = JSON.parse(ACTION_CREDENTIALS);
 const auth = new google.auth.GoogleAuth({
-    credentials: JSON.parse(ACTION_CREDENTIALS),
+    credentials,
     scopes: ['https://www.googleapis.com/auth/calendar'],
 });
+
+console.log(`🔑 Authenticating as Service Account: ${credentials.client_email}`);
+console.log(`📅 Target Calendar ID: ${CALENDAR_ID}`);
 
 const calendar = google.calendar({ version: 'v3', auth });
 
