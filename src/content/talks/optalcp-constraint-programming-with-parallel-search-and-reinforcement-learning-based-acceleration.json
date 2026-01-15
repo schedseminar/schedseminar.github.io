@@ -6,18 +6,18 @@
   "invitedBy": "Zdeněk Hanzálek",
   "presenter": [
     {
-      "name": "Vilém Heinz",
-      "link": "https://iid.ciirc.cvut.cz/people/heinz-vilem/",
-      "affiliation": "CTU in Prague, CIIRC",
-      "continent": "Europe",
-      "photo": "vilem_heinz.jpg"
-    },
-    {
       "name": "Petr Vilím",
       "affiliation": "OptalCP",
       "link": "https://optalcp.com/",
       "continent": "Europe",
       "photo": "petr_vilim.png"
+    },
+    {
+      "name": "Vilém Heinz",
+      "link": "https://iid.ciirc.cvut.cz/people/heinz-vilem/",
+      "affiliation": "CTU in Prague, CIIRC",
+      "continent": "Europe",
+      "photo": "vilem_heinz.jpg"
     }
   ],
   "status": "upcoming"
