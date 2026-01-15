@@ -1,0 +1,24 @@
+{
+  "title": "OptalCP: Constraint Programming with Parallel Search and Reinforcement Learning-Based Acceleration",
+  "abstract": "Constraint Programming (CP) is a powerful paradigm for solving hard combinatorial optimization problems, especially in scheduling. In this talk, we introduce OptalCP, a modern CP solver designed for scheduling, and explain why its design is both practical and effective for real-world instances. We begin with an overview of what CP is and how models are defined using variables, domains, and constraints. We then break down the essential components of a solver—propagation and search—and show how OptalCP combines efficient propagation algorithms with parallel search strategies: LNS, failure-directed search, and user heuristics, all exchanging solutions to find better results faster. The main part focuses on OptalCP’s internal solving strategy: Large Neighborhood Search (LNS) for fast improvements, Failure-Directed Search (FDS) for strong reasoning and bounds, and efficient propagation algorithms for aggressive pruning. We explain why combining these approaches is crucial. To demonstrate, we will show the solver on a live example. In the last part, we present research results showing how reinforcement learning—specifically multi-armed bandits (MAB)—can accelerate complete CP search by reducing the explored search tree. This approach achieves state-of-the-art performance on classical JobShop and RCPSP scheduling benchmarks.",
+  "keywords": "Constraint Programming, Reinforcement Learning, Failure-Directed Search, Large Neighborhood Search, Propagation, Scheduling",
+  "datePrague": "2026-02-04",
+  "invitedBy": "Zdeněk Hanzálek",
+  "presenter": [
+    {
+      "name": "Vilém Heinz",
+      "link": "https://iid.ciirc.cvut.cz/people/heinz-vilem/",
+      "affiliation": "CTU in Prague, CIIRC",
+      "continent": "Europe",
+      "photo": "vilem_heinz.jpg"
+    },
+    {
+      "name": "Petr Vilím",
+      "affiliation": "OptalCP",
+      "link": "https://optalcp.com/",
+      "continent": "Europe",
+      "photo": "petr_vilim.png"
+    }
+  ],
+  "status": "upcoming"
+}
