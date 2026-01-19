@@ -47,15 +47,23 @@ function parseTalks() {
 
         if (!content.datePrague) continue;
 
-        const date = DateTime.fromISO(content.datePrague).set({ hour: 15, minute: 0 }); 
+        // Parse the date (Day/Month/Year) from the file
+        const baseDate = DateTime.fromISO(content.datePrague, { zone: 'Europe/Prague' });
+
+        // Explicitly set Start to 15:00:00
+        const startDate = baseDate.set({ hour: 15, minute: 0, second: 0, millisecond: 0 });
+
+        // Explicitly set End to 16:30:00
+        const endDate = baseDate.set({ hour: 16, minute: 30, second: 0, millisecond: 0 });
+
         const id = `schedseminar${getHash(file)}`;
 
         talks.push({
             id: id,
             title: content.title,
             description: content.abstract || '',
-            start: date,
-            end: date.plus({ minutes: 90 }),
+            start: startDate,
+            end: endDate,
             originalFile: file,
             presenter: Array.isArray(content.presenter)
                 ? content.presenter.map(p => p.name).join(', ')
