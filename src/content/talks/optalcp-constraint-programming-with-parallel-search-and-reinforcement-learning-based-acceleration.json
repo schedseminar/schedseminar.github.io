@@ -22,5 +22,6 @@
   "pdf": "/presentations/schedulingseminar_petrvilim_vilemheinz.pdf",
   "status": "past",
   "youtubeEmbed": "https://www.youtube.com/embed/1Dm-kY3ekKo?si=wn34td-NrpOxknB4",
-  "title": "OptalCP: Constraint Programming with Parallel Search and Reinforcement Learning-Based Acceleration"
+  "title": "OptalCP: Constraint Programming with Parallel Search and Reinforcement Learning-Based Acceleration",
+  "video": "https://scheduling-seminar.iid.ciirc.cvut.cz/videos/26_1_Winter/26_02_04_Petr%20Vilim(OptalCP)_Vilem%20Heinz(CTU%20in%20Prague)_OptalCP.mp4"
 }
