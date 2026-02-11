@@ -17,8 +17,7 @@ const image = presenter.photo ? images[`/public/assets/photos/${presenter.photo}
   <Image
     src={image}
     alt={presenter.name}
-    class={`rounded-lg shadow flex-shrink-0`}
-    fit="cover"
+    class={`rounded-lg shadow flex-shrink-0 object-cover object-top`}
     width={sizeClasses[size]}
     height={sizeClasses[size]}
     loading="lazy"
