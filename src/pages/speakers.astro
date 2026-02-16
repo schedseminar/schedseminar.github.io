@@ -47,7 +47,7 @@ const columns = ["Name", "Affiliation", "Talk Title", "Date", "Continent", "Keyw
                 {tableData.map((data, rIndex) =>
                     (
                             <tr key={`row#${rIndex}`} class="bg-white hover:bg-gray-200 ">
-                                <td class={`px-2 py-1 font-medium ${getSeasonColor(data.datePrague)}`}>
+                                <td class={`px-2 py-1 font-medium`}> <!-- ${getSeasonColor(data.datePrague)} -->
                                     {data.names.map((name, i) => <div key={i}>{name}</div>)}
                                 </td>
                                 <td class={`px-2 py-1 font-medium`}>
