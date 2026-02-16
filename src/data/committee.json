@@ -9,13 +9,13 @@
     "name": "M. Selim Akturk",
     "university": "Bilkent University",
     "photo": "photos/Akturk.jpg",
-    "profile": "//akturk.bilkent.edu.tr"
+    "profile": "https://akturk.bilkent.edu.tr"
   },
   {
     "name": "Christian Artigues",
     "university": "LAAS - CNRS",
     "photo": "photos/christian_artigues_new.jpg",
-    "profile": "https://homepages.laas.fr/artigues/drupal/node/11"
+    "profile": "https://www.laas.fr/en/annuaire/201"
   },
   {
     "name": "Sanjoy Baruah",
@@ -27,7 +27,7 @@
     "name": "Edmund Burke",
     "university": "Uni of Leicester",
     "photo": "photos/Prof_Burke.jpg",
-    "profile": "https://le.ac.uk/about/senior-management/profiles/deputy-vice-chancellor"
+    "profile": "https://www.bangor.ac.uk/vice-chancellor/edmund-burke"
   },
   {
     "name": "Zhi-Long Chen",
@@ -87,7 +87,7 @@
     "name": "Bertrand Lin",
     "university": "NCTU, Taiwan",
     "photo": "photos/bertrand_lin.jpg",
-    "profile": "https://www.iim.nctu.edu.tw/en/teacher/Lin-Bertrand%20M.T."
+    "profile": "https://www.nycu.edu.tw/ihha/en/app/artwebsite/view?module=artwebsite&id=20121&serno=b34b9bf7-0fe4-4391-a83f-8091359e68c4"
   },
   {
     "name": "Hirofumi Matsuo",
@@ -106,12 +106,6 @@
     "university": "The Ohio State Uni",
     "photo": "photos/MPosner.jpg",
     "profile": "https://ise.osu.edu/people/posner.1"
-  },
-  {
-    "name": "Chris Potts",
-    "university": "Southampton Uni",
-    "photo": "photos/chris_potts.jpg",
-    "profile": "https://www.southampton.ac.uk/maths/about/staff/cnp1.page"
   },
   {
     "name": "Xiangtong Qi",
