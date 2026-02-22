@@ -1,0 +1,17 @@
+{
+  "title": "Resource leveling for scheduling problems: some complexity and approximation results",
+  "abstract": "Scheduling problems usually consider resource constraints as hard constraints. In resource leveling instead, a function of resource use is optimized, typically under a deadline constraint. This is motivated by the fact that, in practice, additional resources (e.g., workforce or machines) can be mobilized in order to meet a deadline, yet at some cost.\nIn this talk we will focus on the following setting: given a (target) resource level, our goal is to schedule the jobs in such a way as to best respect this resource level, that is to say, to exceed it as little as possible. We study classical scheduling problems (with or without precedence constraints, with arbitrary or unit processing times,...) in this setting, providing both positive and negative complexity and approximability results.",
+  "invitedBy": "Claire Hanen",
+  "presenter": [
+    {
+      "affiliation": " LIP6, Sorbonne U",
+      "link": "https://escoffier.perso.lip6.fr/",
+      "continent": "Europe",
+      "name": "Bruno Escoffier",
+      "photo": "bruno_escoffier.jpg"
+    }
+  ],
+  "keywords": "Scheduling, Resource leveling, Complexity, Approximation algorithms",
+  "status": "upcoming",
+  "datePrague": "2026-04-15"
+}
