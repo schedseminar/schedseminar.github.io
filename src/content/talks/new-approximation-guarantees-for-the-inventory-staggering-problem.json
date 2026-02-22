@@ -1,0 +1,17 @@
+{
+  "title": "New Approximation Guarantees for The Inventory Staggering Problem",
+  "abstract": "Since its inception in the mid-60s, the inventory staggering problem has been explored and exploited in a wide range of application domains, such as production planning, stock control systems, warehousing, and aerospace/defense logistics. However, even with a rich history of academic focus, we are still very much in the dark when it comes to cornerstone computational questions around inventory staggering and to related structural characterizations, with our methodological toolbox being severely under-stocked.\n\nThe central contribution of this paper consists in devising a host of algorithmic techniques and analytical ideas — some being entirely novel and some leveraging well-studied concepts in combinatorics and number theory — for surpassing essentially all known approximation guarantees for the inventory staggering problem. In particular, our work demonstrates that numerous structural properties open the door for designing polynomial-time approximation schemes; these findings offer substantial improvements over currently available constant-factor approximations and resolve outstanding open questions in their respective contexts (Teo et al., 1998; Hum et al., 2005; Hochbaum and Rao, 2019, 2020). In parallel, we develop new theory around a number of yet-uncharted questions, related to the sampling complexity of peak inventory estimation as well as to the plausibility of groupwise synchronization.\n\n",
+  "presenter": [
+    {
+      "name": "Danny Segev",
+      "affiliation": "Tel Aviv University",
+      "link": "https://www.dannysegev.net/",
+      "continent": "Asia",
+      "photo": "danny_segev.webp"
+    }
+  ],
+  "invitedBy": "Zdeněk Hanzálek",
+  "datePrague": "2026-06-10",
+  "keywords": "Inventory theory, impossibility results, approximation schemes, LP-rounding",
+  "status": "upcoming"
+}
