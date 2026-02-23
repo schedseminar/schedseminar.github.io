@@ -109,10 +109,12 @@ const hasTalks = talks.length > 0;
                 </a>
             </div>
     </div>
+
     <!-- Main Content -->
     <div class="max-w-7xl mx-auto px-6 lg:px-8 pb-20">
         <!-- Talks -->
         <div class="grid xl:grid-cols-2 gap-8">
+
             <!-- Upcoming Talks -->
             <div id="upcoming">
                 <div class="flex items-center gap-3 mb-6">
@@ -120,10 +122,14 @@ const hasTalks = talks.length > 0;
                     <h2 class="text-3xl font-bold text-gray-800">Upcoming Talks</h2>
                 </div>
 
-                <div class="space-y-6">
+                <div class="mt-6 p-2 max-h-[840px] overflow-y-auto space-y-3 pr-2 snap-y
+                            scrollbar-thin scrollbar-thumb-gray-300 scrollbar-track-gray-100 scroll-pt-2">
                     {
                         hasTalks ? (
-                            talks.map((talk) => <UpcomingCard talk={talk} past={false} />)
+                            talks.map((talk) => (
+                                    <div class="snap-start">
+                                        <UpcomingCard talk={talk} past={false} />
+                                    </div>))
                         ) : (
                                 <div class="p-4 mt-10 text-center text-gray-500">
                                     We are currently coordinating upcoming sessions. New talks will appear here and be announced via email once confirmed.
@@ -132,6 +138,7 @@ const hasTalks = talks.length > 0;
                     }
                 </div>
             </div>
+
             <!-- Past Talks -->
             <div>
                 <div class="pl-2 flex items-center gap-3">
@@ -146,7 +153,7 @@ const hasTalks = talks.length > 0;
                             <div class="mt-6 p-2 max-h-[840px] overflow-y-auto space-y-3 pr-2 snap-y
                             scrollbar-thin scrollbar-thumb-gray-300 scrollbar-track-gray-100 scroll-pt-2">
                                 {pastTalks.map(talk => (
-                                        <div class="snap-start"> <!-- Add this wrapper -->
+                                        <div class="snap-start">
                                             <PastCard talk={talk} past={true} compactable={true}/>
                                         </div>
                                 ))}
