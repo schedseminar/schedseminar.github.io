@@ -17,10 +17,14 @@ collections:
     format: "json"
     create: true
     slug: "{{fields.title | slug}}"
-    # Decap CMS 'slug' filter automatically:
-    #  - lowercases
-    #  - replaces spaces with hyphens
-    #  - removes most special chars
+    sortable_fields: ['datePrague']
+    view_filters:
+      - label: Upcoming Talks
+        field: status
+        pattern: upcoming
+      - label: Past Seminars
+        field: status
+        pattern: past
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Abstract", name: "abstract", widget: "text", required: false }
