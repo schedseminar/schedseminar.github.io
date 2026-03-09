@@ -1,0 +1,41 @@
+name: Auto-Assign Chronological IDs
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  assign-id:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Process JSON IDs
+        run: |
+          # 1. Directory containing your JSON entries
+          CONTENT_DIR="src/content/talks"
+          
+          # 2. Create a temporary mapping of filename to datePrague
+          # This extracts the filename and the date field into a sortable list
+          temp_list=$(jq -r 'FILENAME + " " + .datePrague' $CONTENT_DIR/*.json | sort -k2)
+
+          # 3. Loop through the sorted list and assign incrementing IDs
+          counter=1
+          while read -r line; do
+            file=$(echo $line | cut -d' ' -f1)
+          
+            # Update the JSON file with the new integer ID
+            # Using jq to add/update the "id" field at the top level
+            jq ".id = $counter" "$file" > "$file.tmp" && mv "$file.tmp" "$file"
+          
+            echo "Assigned ID $counter to $file based on date"
+            counter=$((counter + 1))
+          done <<< "$temp_list"
+
+      - name: Commit and Push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: re-index chronological IDs"
+          file_pattern: 'src/content/**/*.json'

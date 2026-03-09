@@ -17,10 +17,6 @@ collections:
     format: "json"
     create: true
     slug: "{{fields.title | slug}}"
-    # Decap CMS 'slug' filter automatically:
-    #  - lowercases
-    #  - replaces spaces with hyphens
-    #  - removes most special chars
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Abstract", name: "abstract", widget: "text", required: false }
@@ -71,13 +67,14 @@ collections:
         name: "status"
         widget: "select"
         options: ["upcoming", "past"]
+        default: "upcoming"
 
   - name: "settings"
     label: "Settings / Data"
     files:
       - name: "hosts"
         label: "Invited By (Presets)"
-        file: "src/data/hosts.json" # This file will store your list of people
+        file: "src/data/hosts.json"
         fields:
           - label: "People List"
             name: "people"
