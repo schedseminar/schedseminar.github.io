@@ -17,6 +17,14 @@ collections:
     format: "json"
     create: true
     slug: "{{fields.title | slug}}"
+    sortable_fields: ['datePrague']
+    view_filters:
+      - label: Upcoming Talks
+        field: status
+        pattern: upcoming
+      - label: Past Seminars
+        field: status
+        pattern: past
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Abstract", name: "abstract", widget: "text", required: false }

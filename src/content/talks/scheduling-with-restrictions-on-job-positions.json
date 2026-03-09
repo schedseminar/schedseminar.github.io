@@ -1,0 +1,17 @@
+{
+  "title": "Scheduling with restrictions on job positions",
+  "abstract": "Unlike time restrictions on jobs, such as release dates or deadlines, which are common in scheduling, we consider position restrictions. For example, a job may be required to be in position x of the job sequence. Such a restriction may be motivated by maintenance scheduling, among other things. In maintenance scheduling, we may also encounter constraints, such as a maintenance operation that must be performed after executing at most k jobs.\n\nWe provide an overview of classical one-machine problems and demonstrate how these additional constraints affect their complexity. While the complexity remains unchanged for many cases, it changes for some, revealing surprising effects.",
+  "keywords": "Single-Machine Scheduling, Position Constraints, Structural Scheduling Properties, Complexity Analysis",
+  "presenter": [
+    {
+      "affiliation": "Helmut Schmidt University",
+      "link": "https://www.hsu-hh.de/or/en/",
+      "continent": "Europe",
+      "name": "Florian Jaehn",
+      "photo": "florian_jaehn.jpg"
+    }
+  ],
+  "invitedBy": "Erwin Pesch",
+  "datePrague": "2026-06-24",
+  "status": "upcoming"
+}

@@ -4,9 +4,64 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="robots" content="noindex" />
+    <link rel="stylesheet" href="/admin/preview.css" />
     <title>Content Manager</title>
 </head>
 <body>
     <script src="https://unpkg.com/decap-cms@^3.0.0/dist/decap-cms.js"></script>
+    <script>
+        // Extract helpers from the global CMS object
+        const { createClass, h } = window;
+
+        const TalkPreview = createClass({
+            render: function () {
+                const entry = this.props.entry;
+                
+                // Use .getIn(['data', 'field']) or .get('data').toJS()
+                const title = entry.getIn(['data', 'title']) || "Untitled Seminar";
+                const date = entry.getIn(['data', 'datePrague']);
+                const abstract = entry.getIn(['data', 'abstract']);
+                const presenters = entry.getIn(['data', 'presenter']);
+                const invitedBy = entry.getIn(['data', 'invitedBy']);
+                const status = entry.getIn(['data', 'status']);
+
+                return h('div', { className: 'preview-container' },
+                    h('span', { className: 'badge ' + (status || 'upcoming') }, status || 'upcoming'),
+
+                    h('h1', { className: 'preview-title' }, title),
+                    h('div', { className: 'preview-date' }, date ? 'Scheduled for: ' + date : 'No date set'),
+
+                    h('div', { className: 'presenters-section' },
+                        presenters ? presenters.map((p, index) => {
+                            const photo = p.get('photo');
+                            const src = photo ? this.props.getAsset(photo).toString() : '';
+                            
+                            return h('div', { key: index, className: 'presenter-card' },
+                                photo ? h('img', { src: src, className: 'presenter-img' }) : h('div', { className: 'presenter-img-placeholder' }),
+                                h('div', {},
+                                    h('strong', {}, p.get('name') || 'Unnamed Presenter'),
+                                    h('p', { className: 'affiliation' }, p.get('affiliation')),
+                                    h('span', { className: 'continent' }, p.get('continent'))
+                                )
+                            );
+                        }) : null
+                    ),
+
+                    h('hr'),
+                    h('div', { className: 'abstract-box' },
+                        h('h3', {}, 'Abstract'),
+                        h('p', {}, abstract || 'No abstract provided.')
+                    ),
+
+                    h('div', { className: 'meta-info' },
+                        h('p', {}, 'Invited by: ' + (invitedBy || 'TBA')),
+                    )
+                );
+            }
+        });
+
+        CMS.registerPreviewStyle("/admin/preview.css");
+        CMS.registerPreviewTemplate("talks", TalkPreview);
+    </script>
 </body>
 </html>
