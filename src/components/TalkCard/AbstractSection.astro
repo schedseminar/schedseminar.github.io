@@ -1,13 +1,24 @@
 ---
-const { abstract } = Astro.props;
+const { abstract, showId, entryId } = Astro.props;
 ---
 
 <details class="mb-4 group">
-  <summary class="flex items-center gap-2 text-blue-600 hover:text-blue-700 font-medium cursor-pointer transition-colors list-none">
+  <summary
+      class:list={[
+        "flex gap-2 text-blue-600 hover:text-blue-700 font-medium cursor-pointer transition-colors list-none",
+        { "items-center justify-center": showId }
+      ]}
+  >
     <span class="text-sm">Abstract</span>
     <svg class="w-4 h-4 transition-transform group-open:rotate-180" fill="none" stroke="currentColor" viewBox="0 0 24 24">
       <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/>
     </svg>
+
+    {showId && (
+        <span class="ml-auto text-xs text-gray-400 font-normal">
+        Talk #{entryId}
+      </span>
+    )}
   </summary>
   <p class="text-gray-600 text-sm leading-relaxed mt-3 pl-4 border-l-2 border-blue-200">
     {abstract}

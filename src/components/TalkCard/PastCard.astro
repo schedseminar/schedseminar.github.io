@@ -85,15 +85,13 @@ const borderClass = getBorderClass(presenters[0].continent);
 
             <div class="compact-expanded-content hidden mt-4 pt-4 border-t border-gray-200">
                 <ActionButtons talk={talk} compact={true} stopPropagation={true}/>
-
-                <AbstractSection abstract={talk.abstract}/>
+                <AbstractSection abstract={talk.abstract} showId={talk.showId} entryId={talk.entryId}/>
                 <Keywords keywords={talk.keywords}/>
                 <InvitedBy invitedBy={talk.invitedBy}/>
 
                 {talk.youtubeEmbed && (
                         <div class="mt-4 rounded-xl overflow-hidden shadow-lg">
                             <div class="relative aspect-video youtube-placeholder" data-src={talk.youtubeEmbed}>
-                                {/* Video will load automatically on expansion */}
                             </div>
                         </div>
                 )}

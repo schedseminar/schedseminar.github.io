@@ -40,7 +40,7 @@ const hasTalks = talks.length > 0;
             </p>
 
             <nav class="flex flex-wrap gap-3 justify-center">
-                {nav_links.map((name, i) => {
+                {nav_links.map((name, _) => {
                     const tag = name.split(' ').join('_')
                     return (
                             <a href={`#${tag}`}
@@ -149,7 +149,7 @@ const hasTalks = talks.length > 0;
 
                 {pastTalks.length > 0 && (
                         <>
-                            <!-- Compact list of remaining talks in scrollable container -->
+                            <!-- Compact list of remaining talks in a scrollable container -->
                             <div class="mt-6 p-2 max-h-[840px] overflow-y-auto space-y-3 pr-2 snap-y
                             scrollbar-thin scrollbar-thumb-gray-300 scrollbar-track-gray-100 scroll-pt-2">
                                 {pastTalks.map(talk => (

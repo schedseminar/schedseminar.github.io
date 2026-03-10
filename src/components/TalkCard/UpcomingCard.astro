@@ -15,25 +15,22 @@ const borderClass = getBorderClass(presenters[0].continent);
 ---
 
 <article
-        class={`bg-white rounded-2xl shadow-md hover:shadow-xl transition-all overflow-hidden border-l-4 snap-start shrink-0 ${borderClass} hover:scale-[1.02]`}
+        class={`bg-white rounded-2xl shadow-md hover:shadow-xl transition-all overflow-hidden border-l-4 snap-start shrink-0 ${borderClass}`}
         data-card-id={cardId}
 >
     <div class="p-6">
         <div class="flex justify-between items-start gap-4 mb-3">
-            <h3 class="text-xl font-bold text-gray-800 leading-tight">
-                {talk.title}
+            <h3 class="flex justify-between items-baseline gap-4 w-full text-xl font-bold text-gray-800 leading-tight">
+                <span>{talk.title}</span>
             </h3>
 
-            {/* Buttons positioned next to title.
-                shrink-0 ensures they don't collapse.
-                pt-1 aligns them visually with the text top. */}
             <div class="shrink-0 pt-1">
                 <ActionButtons talk={talk} />
                 <ActionButtons talk={talk} compact={true} />
             </div>
         </div>
 
-        <AbstractSection abstract={talk.abstract}/>
+        <AbstractSection abstract={talk.abstract} showId={talk.showId} entryId={talk.entryId} />
 
         <div class="flex flex-col md:flex-row gap-6 mt-4">
             <div class="flex flex-col gap-4 md:w-32 shrink-0">
