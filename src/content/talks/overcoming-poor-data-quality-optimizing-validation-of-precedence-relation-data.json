@@ -1,0 +1,17 @@
+{
+  "status": "upcoming",
+  "title": "Overcoming poor data quality: Optimizing validation of precedence relation data",
+  "keywords": "Scheduling, Dynamic programming, Data validation problem, Assembly line balancing, Reinforcement learning",
+  "datePrague": "2026-04-29",
+  "presenter": [
+    {
+      "affiliation": "Techincal University of Munich",
+      "name": "Alena Otto",
+      "photo": "alena_otto.jpg",
+      "link": " https://www.mgt.tum.de/professors-1/info/alena-otto",
+      "continent": "Europe"
+    }
+  ],
+  "abstract": "This talk centers around the problem of insufficient data quality on precedence relations between tasks, which is relevant, for instance, in project scheduling and assembly line balancing. Inaccurate data on unnecessary precedence relations cannot be used, otherwise the recommendations of decision support systems may turn infeasible. So, unnecessary relations must be satisfied, diminishing the baseline problem’s solution space and the business result. Experts can validate the data, but their time is limited.\n\nWe apply an optimization lens and formulate the data validation problem (DVP). Restricted by the available time budget, an expert dynamically receives queries about specific data entries and corrects or validates them. The DVP searches for an interview policy that states queries to the expert, each using up some of the time budget, in a way that maximizes the (weighted) number of removed precedence relations. We model the DVP as a dynamic program, derive optimal policies for several important special cases and design a heuristic interview policy LSTD. In a case study of an automobile manufacturer, this policy substantially reduces the stations’ idle time after selectively addressing about 8% of the data entries.\n\nWe prove theoretically and numerically that data validation by experts can lead to significant savings. The number of queries required to validate the data exhaustively is much less than naive estimates. Additionally, the probability to remove an unnecessary precedence relation per query in a series of queries is high, even for simple interview policies.",
+  "invitedBy": "Erwin Pesch"
+}
