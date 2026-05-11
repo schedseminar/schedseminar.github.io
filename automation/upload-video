@@ -45,6 +45,7 @@ read FOLDER
 [[ -z "$FOLDER" ]] && FOLDER="$DEFAULT_FOLDER"
 echo "Copying $NEW_NAME to $REMOTE_HOST:$REMOTE_BASE/$FOLDER/"
 scp "$DEST" "$REMOTE_HOST:$REMOTE_BASE/$FOLDER/"
+rm "$DEST"
 
 echo "Done."
 echo ""
