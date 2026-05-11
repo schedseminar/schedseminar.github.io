@@ -1,6 +1,6 @@
 {
-  "title": "A review of the  sequential testing problem and its extensions",
   "abstract": "In the sequential testing problem, the goal is to evaluate a Boolean (or discrete) function with the minimum expected cost, where the values of the variables can be learned by paying a cost. The variables take values independent of each other with known probabilities. For a simple series system, a solution is a permutation of the variables, whereas in the general case, a solution can be described by a binary decision tree. The problem has been studied in different domains for various applications. In this talk, we will define various extensions of the problem and focus on works published in the last 20 years to provide a comprehensive review of the results obtained. We also provide insights to explore potential areas for future research.",
+  "datePrague": "2026-04-01",
   "presenter": [
     {
       "name": "Tonguç Ünlüyurt",
@@ -11,7 +11,10 @@
     }
   ],
   "keywords": "Sequential Testing, Function Evaluation, Optimal  Decision Trees, Approximation Algorithms",
-  "datePrague": "2026-04-01",
-  "status": "upcoming",
-  "invitedBy": "Alessandro Agnetis"
+  "invitedBy": "Alessandro Agnetis",
+  "pdf": "/presentations/scheduling_seminar_tonguc_unluyurt.pdf",
+  "status": "past",
+  "youtubeEmbed": "https://www.youtube.com/embed/zegqUsbD1Iw?si=e3BsNIizOmzOErC9",
+  "title": "A review of the  sequential testing problem and its extensions",
+  "video": "https://scheduling-seminar.iid.ciirc.cvut.cz/videos/26_2_Spring/26_04_01_Tonguc%20Unluyurt(Sabanci%20University)_A%20review%20of%20the%20sequential%20testing%20problem%20and%20its%20extensions.mp4"
 }
