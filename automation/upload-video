@@ -35,10 +35,10 @@ yt-dlp -f "bestvideo[ext=mp4]+bestaudio[ext=m4a]/best[ext=mp4]" \
        "$YT_URL"
 
 echo "Existing folders:"
-ls -1 "$REMOTE_BASE"
+ssh "$REMOTE_HOST" "ls -1 '$REMOTE_BASE'"
 echo ""
 
-DEFAULT_FOLDER=$(ls -1 "$REMOTE_BASE" | tail -1)
+DEFAULT_FOLDER=$(ssh "$REMOTE_HOST" "ls -1 '$REMOTE_BASE'" | tail -1)
 echo "Enter folder name (default: $DEFAULT_FOLDER, or 'new' to create one):"
 read FOLDER
 
