@@ -1,0 +1,51 @@
+#!/bin/zsh
+set -e
+
+REMOTE_HOST="rtime"
+REMOTE_BASE="/var/www/scheduling-seminar/html/videos"
+
+YT_URL="${1:?Usage: ./upload-video.sh <youtube-url>}"
+
+# --- Fetch metadata ---
+echo "Fetching metadata..."
+YT_DATE=$(yt-dlp --no-download --print "%(release_date)s" "$YT_URL")
+YT_TITLE=$(yt-dlp --no-download --print "%(title)s" "$YT_URL")
+
+# YYYYMMDD → YY_MM_DD
+FORMATTED_DATE="${YT_DATE[3,4]}_${YT_DATE[5,6]}_${YT_DATE[7,8]}"
+
+# Parse "Speaker (Affiliation) Talk title"
+SPEAKER=$(echo "$YT_TITLE" | grep -oE '^(.+\([^)]+\))+')
+TALK=$(echo "$YT_TITLE" | sed -E 's/^(.+\([^)]+\))[[:space:]]*//')
+
+if [[ -z "$SPEAKER" ]]; then
+    NEW_NAME="${FORMATTED_DATE}_${TALK}.mp4"
+else
+    NEW_NAME="${FORMATTED_DATE}_${SPEAKER}_${TALK}.mp4"
+fi
+
+echo "Filename: $NEW_NAME"
+echo ""
+
+# --- Download ---
+DEST=~/Downloads/"$NEW_NAME"
+yt-dlp -f "bestvideo[ext=mp4]+bestaudio[ext=m4a]/best[ext=mp4]" \
+       --merge-output-format mp4 \
+       -o "$DEST" \
+       "$YT_URL"
+
+echo "Existing folders:"
+ls -1 "$REMOTE_BASE"
+echo ""
+
+DEFAULT_FOLDER=$(ls -1 "$REMOTE_BASE" | tail -1)
+echo "Enter folder name (default: $DEFAULT_FOLDER, or 'new' to create one):"
+read FOLDER
+
+[[ -z "$FOLDER" ]] && FOLDER="$DEFAULT_FOLDER"
+echo "Copying $NEW_NAME to $REMOTE_HOST:$REMOTE_BASE/$FOLDER/"
+scp "$DEST" "$REMOTE_HOST:$REMOTE_BASE/$FOLDER/"
+
+echo "Done."
+echo ""
+echo "https://scheduling-seminar.iid.ciirc.cvut.cz/videos/$FOLDER/$NEW_NAME"
