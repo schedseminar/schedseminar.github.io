@@ -2,7 +2,7 @@
   "status": "upcoming",
   "title": "Feature-driven Robust Stochastic Scheduling for Printed Circuit Board Assembly",
   "abstract": "Motivated by an industry project, this talk addresses scheduling in printed circuit board assembly (PCBA), a bottleneck of electronic manufacturing. We consider uncertain processing and setup times arising from machine variability and human intervention, and model the problem as identical parallel machine scheduling to minimize total completion time and makespan. We develop a feature-driven robust stochastic optimization model that embeds production features into decision-making: processing times are predicted via support vector regression, while setup uncertainty is captured through event-wise ambiguity sets constructed by K-means clustering. The model is reformulated as a mixed-integer linear program and solved using a branch-and-price (B&P) algorithm. Experiments on real-world data show that the proposed approach outperforms sample average approximation (SAA) and standard distributionally robust optimization (DRO) by 52% and 33%, respectively. The B&P algorithm scales well to realistic instances, and sensitivity analysis reveals the impact of setup scenarios on the trade-off between solution quality and computational effort.",
-  "keywords": "Parallel machine scheduling; Processing time uncertainty; Setup time uncertainty; Event-wise ambiguity",
+  "keywords": "Parallel machine scheduling, Processing time uncertainty, Setup time uncertainty, Event-wise ambiguity",
   "presenter": [
     {
       "affiliation": "Fuzhou University",
