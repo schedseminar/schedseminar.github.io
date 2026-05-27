@@ -1,5 +1,5 @@
 {
-  "status": "upcoming",
+  "status": "past",
   "title": "Elective Surgery Sequencing and Scheduling Under Uncertainty",
   "abstract": "We study a surgery sequencing and scheduling problem with uncertain surgery durations under the commonly used “to-follow” policy, where surgeries are performed sequentially and immediately after one another according to a predetermined schedule. Motivated by real hospital data, we develop a mathematical framework based on a punctuality index that balances the probability and severity of both delays and idle time. We propose an exact solution approach using Benders decomposition and show that the scheduling problem is polynomial-time solvable when the sequence is fixed. The framework also extends to a robust setting when duration distributions are not fully known. For practical sequencing decisions, we develop two efficient heuristics. Computational results show that our approach outperforms risk-neutral and probability-maximizing benchmarks, reduces extreme delays and idle time, and provides implementable decision-support tools for operating theater managers.",
   "keywords": "Healthcare operations, Sequencing and scheduling, Robust optimization, Risk measure",
