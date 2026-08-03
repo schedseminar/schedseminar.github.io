@@ -1,0 +1,17 @@
+{
+  "status": "upcoming",
+  "title": "Scheduling in the World of Sports",
+  "abstract": "At first sight, the schedule of any particular league or tournament may look like a rather mundane matter. Indeed, it is obvious that one has to pick certain dates and times for a set of matches to be played. However, that is *not* all there is to it. There is a, sometimes subtle, relation between the schedule of a tournament and its outcome. Thus, the schedule of a tournament should be designed with care, ensuring that, among the interests of all other stakeholders, fairness among players (or teams), receives the attention it deserves.\nWe will review examples that shed light on the relation between the schedule on the one hand, and the outcome on the other hand. From these examples, we extract analytical insights that allow us to construct fairer schedules. We intend to illustrate our findings by considering examples from leagues and tournaments from various sports.\n\n",
+  "keywords": "Scheduling, Sports, Fairness",
+  "invitedBy": "Alessandro Agnetis",
+  "presenter": [
+    {
+      "name": "Frits Spieksma",
+      "affiliation": "Eindhoven University",
+      "link": "https://www.tue.nl/en/research/researchers/frits-spieksma/",
+      "continent": "Europe",
+      "photo": "frits_spieksma.jpg"
+    }
+  ],
+  "datePrague": "2026-10-07"
+}
