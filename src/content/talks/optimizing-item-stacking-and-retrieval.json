@@ -1,0 +1,17 @@
+{
+  "status": "upcoming",
+  "title": " Optimizing item stacking and retrieval",
+  "abstract": "Items such as containers, steel plates, and boxes are often stored in parallel stacks because of limited storage space. Since only the topmost item in each stack is directly accessible, poor stacking decisions may result in costly relocations during retrieval. This talk addresses optimization problems arising in both the stacking and retrieval stages of such storage systems.\n\nFirst, we consider the parallel stack loading problem, in which arriving items are assigned to stacks so as to reduce the future retrieval workload. We show that the problem of minimizing the number of items that obstruct the retrieval of items below them is polynomially solvable when stack capacity is unlimited. For the finite-capacity case, which is computationally more challenging, we develop exact approaches based on branch-and-cut and combinatorial Benders decomposition. Computational experiments show that the combinatorial Benders decomposition approach scales well to large instances containing several hundred items when sufficient empty capacity is available in the stacks.\n\nWe then consider the block relocation problem, in which an initial stacking configuration and a retrieval order are given, and blocks (items) obstructing the next retrieval must be relocated. By decomposing a solution into relocation sequences for individual blocks, we develop integer programming formulations and an iterative exact algorithm that progressively generates and extends the required sequences. Computational experiments demonstrate that the proposed approach can solve challenging benchmark instances to proven optimality.",
+  "presenter": [
+    {
+      "name": "Shunji Tanaka",
+      "affiliation": " Okayama University",
+      "photo": "shunjitanaka.jpg",
+      "link": "https://sites.google.com/site/shunjitanaka",
+      "continent": "Asia"
+    }
+  ],
+  "invitedBy": "Zdeněk Hanzálek",
+  "datePrague": "2026-10-21",
+  "keywords": "Warehouse, Container Terminal, Parallel Stack Loading Problem, Block Relocation Problem, Container Relocation Problem, Integer Programming, Branch-and-cut, Combinatorial Benders Decomposition"
+}
