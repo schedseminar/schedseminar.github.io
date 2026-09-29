@@ -1,0 +1,17 @@
+{
+  "status": "upcoming",
+  "title": "Conflict Analysis and Restarts in Mixed Integer Programming",
+  "abstract": "Mixed Integer Programming and Constraint Programming can be viewed as\ntwo flavors of the same fundamental paradigm: solving discrete\noptimization problems by traversing a search tree with partial\nvariable assignments and backtracking. From a high level, the\ndifferences are more in the details: while Constraint Programming is\nmostly about finding feasible solutions using efficient\nspecial-purpose domain propagation algorithms, mixed integer\nprogramming is more driven by the objective function and puts the LP\nrelaxation into its algorithmic core.\n\nWhile CP and MIP started independently in two different research\ncommunities, they inspired each other over the years, and techniques\nfrom one were adopted by the other.\n\nTwo such techniques that originated in the SAT and CP world are\nconflict analysis and restarts. Nowadays, these two, together with\ndomain propagation, are the central components of state-of-the-art SAT\nand CP solvers. They have been adopted by MIP solvers as well. While\nnot being as fundamental as in SAT and CP, they still provide a major\nperformance improvement for MIP solvers.\n\nIn this talk, we shed some light on how conflict analysis and restarts\nare being used inside the Gurobi MIP solver and why their role in MIP\nis a little different from their SAT and CP counterparts.",
+  "keywords": "Mixed Integer Programming, Conflict Analysis, Restarts",
+  "datePrague": "2026-11-18",
+  "invitedBy": "Zdeněk Hanzálek",
+  "presenter": [
+    {
+      "name": "Tobias Achterberg",
+      "affiliation": "Gurobi Optimization",
+      "link": "https://www.gurobi.com/company/our-people",
+      "continent": "America",
+      "photo": "tobias_achterberg.jpg"
+    }
+  ]
+}
