@@ -4,7 +4,7 @@
   "abstract": "In the Home Healthcare Routing and Scheduling Problem (HHRSP), trained caregivers must be assigned and routed to patients’ homes subject to skill requirements, time windows, and synchronization or precedence relations between services. The problem combines temporal scheduling decisions with spatial routing decisions, since caregivers must travel between geographically distributed patients.\n\nIn this talk, I first consider a widely used benchmark formulation of the HHRSP and compare two markedly different solution paradigms: a Simulated Annealing approach and a mathematical programming model solved with CP-SAT. Computational results highlight a clear trade-off between optimality guarantees and scalability.\n\nI will then address a broader methodological issue: different HHRSP studies often consider different objectives, constraints, data formats, and benchmark sets, making algorithmic comparisons difficult. To tackle this, I will present a unified formulation and benchmarking infrastructure that combines many real-world features from the literature with a common data format, an instance generator, a feature-based instance analysis, validation tools, and a new benchmark set. The talk will conclude with computational and managerial insights obtained within this unified framework.\n",
   "keywords": " Home Healthcare; Routing and Scheduling, Benchmarking, Simulated Annealing, Mixed Integer Linear Programming",
   "datePrague": "2026-12-16",
-  "invitedBy": "Zdeněk Hanzálek",
+  "invitedBy": "Andrea Schaerf",
   "presenter": [
     {
       "link": "https://people.uniud.it/page/sara.ceschia",
