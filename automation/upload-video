@@ -26,7 +26,7 @@ FORMATTED_DATE="${YT_DATE[3,4]}_${YT_DATE[5,6]}_${YT_DATE[7,8]}"
 
 # Parse "Speaker (Affiliation) Talk title"
 SPEAKER=$(echo "$YT_TITLE" | grep -oE '^(.+\([^)]+\))+')
-TALK=$(echo "$YT_TITLE" | sed -E 's/^(.+\([^)]+\))[[:space:]]*//')
+TALK=$(echo "$YT_TITLE" | sed -E 's/^(.+\([^)]+\))[[:space:]]*//; s/^[|:–-]+[[:space:]]*//' | tr '/|' '--')
 
 if [[ -z "$SPEAKER" ]]; then
     NEW_NAME="${FORMATTED_DATE}_${TALK}.mp4"
@@ -39,20 +39,26 @@ echo ""
 
 # --- Download ---
 DEST=~/Downloads/"$NEW_NAME"
-yt-dlp -f "bestvideo[ext=mp4]+bestaudio[ext=m4a]/best[ext=mp4]" \
-       --merge-output-format mp4 \
-       -o "$DEST" \
-       "$YT_URL"
+if [[ ! -f "$DEST" ]]; then
+    yt-dlp -f "bestvideo[ext=mp4]+bestaudio[ext=m4a]/best[ext=mp4]" \
+           --merge-output-format mp4 \
+           -o "$DEST" \
+           "$YT_URL"
+fi
 
 echo "Existing folders:"
 ssh "$REMOTE_HOST" "ls -1 '$REMOTE_BASE'"
 echo ""
 
-DEFAULT_FOLDER=$(ssh "$REMOTE_HOST" "ls -1 '$REMOTE_BASE'" | tail -1)
-echo "Enter folder name (default: $DEFAULT_FOLDER, or 'new' to create one):"
+# Folders are named YY_<1|2|3>_<Winter|Spring|Fall>
+MONTH=$((10#${FORMATTED_DATE[4,5]}))
+if (( MONTH <= 3 )); then SEASON="1_Winter"; elif (( MONTH <= 8 )); then SEASON="2_Spring"; else SEASON="3_Fall"; fi
+DEFAULT_FOLDER="${FORMATTED_DATE[1,2]}_${SEASON}"
+echo "Enter folder name (default: $DEFAULT_FOLDER; created if it doesn't exist):"
 read FOLDER
 
 [[ -z "$FOLDER" ]] && FOLDER="$DEFAULT_FOLDER"
+ssh "$REMOTE_HOST" "mkdir -p '$REMOTE_BASE/$FOLDER'"
 echo "Copying $NEW_NAME to $REMOTE_HOST:$REMOTE_BASE/$FOLDER/"
 scp "$DEST" "$REMOTE_HOST:$REMOTE_BASE/$FOLDER/"
 rm "$DEST"
