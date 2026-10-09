@@ -71,7 +71,7 @@ let playlistId;
 let pageToken;
 do {
     const res = await youtube.playlists.list({ part: ['snippet'], mine: true, maxResults: 50, pageToken });
-    playlistId = res.data.items.find(p => p.snippet.title === wantedPlaylist)?.id;
+    playlistId = res.data.items.find(p => p.snippet.title.toLowerCase() === wantedPlaylist.toLowerCase())?.id;
     pageToken = res.data.nextPageToken;
 } while (!playlistId && pageToken);
 
