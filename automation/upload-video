@@ -4,12 +4,22 @@ set -e
 REMOTE_HOST="rtime"
 REMOTE_BASE="/var/www/scheduling-seminar/html/videos"
 
-YT_URL="${1:?Usage: ./upload-video.sh <youtube-url>}"
+REPO="${0:A:h:h}"
+
+# With no URL, use the latest talk that has a YouTube video but no uploaded file yet
+if [[ -z "$1" ]]; then
+    git -C "$REPO" pull --ff-only
+    YT_URL=$(node "$REPO/scripts/pending-video.js")
+    echo "Using $YT_URL"
+else
+    YT_URL="$1"
+fi
 
 # --- Fetch metadata ---
 echo "Fetching metadata..."
 YT_DATE=$(yt-dlp --no-download --print "%(release_date)s" "$YT_URL")
 YT_TITLE=$(yt-dlp --no-download --print "%(title)s" "$YT_URL")
+YT_ID=$(yt-dlp --no-download --print "%(id)s" "$YT_URL")
 
 # YYYYMMDD → YY_MM_DD
 FORMATTED_DATE="${YT_DATE[3,4]}_${YT_DATE[5,6]}_${YT_DATE[7,8]}"
@@ -49,4 +59,18 @@ rm "$DEST"
 
 echo "Done."
 echo ""
-echo "https://scheduling-seminar.iid.ciirc.cvut.cz/videos/$FOLDER/$NEW_NAME"
+VIDEO_URL="https://scheduling-seminar.iid.ciirc.cvut.cz/videos/$FOLDER/$NEW_NAME"
+echo "$VIDEO_URL"
+
+# --- Link the video to the talk and mark it past ---
+REPO="${0:A:h:h}"
+TALK_DATE="20${FORMATTED_DATE[1,2]}-${FORMATTED_DATE[4,5]}-${FORMATTED_DATE[7,8]}"
+if node "$REPO/scripts/attach-video.js" "$TALK_DATE" "$VIDEO_URL" "$YT_ID"; then
+    echo -n "Commit and push the talk update? [y/N] "
+    read CONFIRM
+    if [[ "$CONFIRM" == [yY] ]]; then
+        git -C "$REPO" add src/content/talks
+        git -C "$REPO" commit -m "Add video for talk on $TALK_DATE"
+        git -C "$REPO" push
+    fi
+fi

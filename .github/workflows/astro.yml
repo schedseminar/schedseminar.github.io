@@ -4,9 +4,12 @@ on:
   push:
     branches: ["master"]
   workflow_dispatch:
+  schedule:
+    # Wednesdays 16:00 UTC (17:00 or 18:00 Prague), after the talk ends
+    - cron: "0 16 * * 3"
 
 permissions:
-  contents: read
+  contents: write
   pages: write
   id-token: write
 
@@ -26,6 +29,30 @@ jobs:
 
       - name: Install dependencies
         run: npm ci --quiet
+
+      - name: Mark finished talks as past
+        if: github.event_name != 'push'
+        run: node scripts/mark-past.js
+
+      - name: Set YouTube title/description and link video
+        if: github.event_name != 'push'
+        continue-on-error: true
+        env:
+          YOUTUBE_CLIENT_ID: ${{ secrets.YOUTUBE_CLIENT_ID }}
+          YOUTUBE_CLIENT_SECRET: ${{ secrets.YOUTUBE_CLIENT_SECRET }}
+          YOUTUBE_REFRESH_TOKEN: ${{ secrets.YOUTUBE_REFRESH_TOKEN }}
+        run: node scripts/youtube-update.js
+
+      - name: Commit talk updates
+        if: github.event_name != 'push'
+        run: |
+          if [[ -n "$(git status --porcelain src/content/talks)" ]]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add src/content/talks
+            git commit -m "Update finished talk"
+            git push
+          fi
 
       - name: Sync Calendar
         if: github.ref == 'refs/heads/master'

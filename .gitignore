@@ -25,3 +25,6 @@ pnpm-debug.log*
 WARP.md
 /.vscode
 migrate-hosts.mjs
+
+#secrets
+secrets/
