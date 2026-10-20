@@ -13,5 +13,6 @@
   ],
   "invitedBy": "Zdeněk Hanzálek",
   "datePrague": "2026-10-21",
-  "keywords": "Warehouse, Container Terminal, Parallel Stack Loading Problem, Block Relocation Problem, Container Relocation Problem, Integer Programming, Branch-and-cut, Combinatorial Benders Decomposition"
+  "keywords": "Warehouse, Container Terminal, Parallel Stack Loading Problem, Block Relocation Problem, Container Relocation Problem, Integer Programming, Branch-and-cut, Combinatorial Benders Decomposition",
+  "pdf": "/presentations/scheduling_seminar_shunji_tanaka.pdf"
 }
