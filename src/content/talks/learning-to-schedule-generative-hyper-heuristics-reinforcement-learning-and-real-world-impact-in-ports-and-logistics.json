@@ -1,0 +1,17 @@
+{
+  "status": "upcoming",
+  "title": "Learning to Schedule: Generative Hyper-Heuristics, Reinforcement Learning and Real-World Impact in Ports and Logistics",
+  "abstract": "Scheduling and routing in complex real-world environments — container terminals, transport networks, digital twins — must cope with uncertainty, dynamic arrivals, and hard time constraints that defeat classical static optimisation. In this talk, Professor Ruibin Bai will show how learning-based methods, particularly genetic-programming hyper-heuristics and deep reinforcement learning, are transforming online combinatorial optimisation. He will present his journey from early hyper-heuristic research on timetabling and vehicle routing to recent deep reinforcement learning assisted genetic programming ensembles for dynamic container port truck dispatching (IEEE TEVC 2025) and Real2Sim deep reinforcement learning for truck dispatching (EJOR 2024). The talk will highlight how model-based and data-driven techniques can be combined to achieve both high solution quality and real-time responsiveness, and how these methods have been commercialised in real-world applications, delivering millions in cost savings — recognised by the Huawei Spark Award 2022 and the Best Technology Innovation Award of the 4th China Industrial Internet Contest. He will conclude with emerging directions, including LLM assisted automated algorithm design, cooperative AGV scheduling, and beyond.",
+  "datePrague": "2026-12-02",
+  "keywords": "Scheduling, Routing, Hyper-heuristics, Deep Reinforcement Learning, Genetic Programming, Combinatorial Optimization, Operations Research, Evolutionary Learning, Machine Learning, Vehicle Routing Problem, Container Port, Truck Dispatching, Job Shop Scheduling, Smart Logistics, Digital Twin, AI Optimization, Metaheuristics, Online Optimization, Transportation",
+  "presenter": [
+    {
+      "name": "Ruibin Bai",
+      "affiliation": "Nottingham Ningbo",
+      "link": "https://research.nottingham.edu.cn/en/persons/ruibin-bai/",
+      "continent": "Asia",
+      "photo": "ruibin_bai.jpg"
+    }
+  ],
+  "invitedBy": "Zdeněk Hanzálek"
+}
