@@ -15,5 +15,6 @@
   "keywords": "Mixed Integer Programming, Conflict Analysis, Restarts",
   "pdf": "/presentations/schedulingseminar_tobiasachterberg.pdf",
   "youtubeEmbed": "https://www.youtube.com/embed/2g7lLcjLPVo",
-  "status": "past"
+  "status": "past",
+  "video": "https://scheduling-seminar.iid.ciirc.cvut.cz/videos/26_3_Fall/26_11_18_Tobias%20Achterberg%20(Gurobi%20Optimization)_Conflict%20Analysis%20and%20Restarts%20in%20Mixed%20Integer%20Programming.mp4"
 }

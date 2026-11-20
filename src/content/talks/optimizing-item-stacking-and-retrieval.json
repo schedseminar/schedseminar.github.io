@@ -15,5 +15,6 @@
   "datePrague": "2026-10-21",
   "keywords": "Warehouse, Container Terminal, Parallel Stack Loading Problem, Block Relocation Problem, Container Relocation Problem, Integer Programming, Branch-and-cut, Combinatorial Benders Decomposition",
   "pdf": "/presentations/scheduling_seminar_shunji_tanaka.pdf",
-  "youtubeEmbed": "https://www.youtube.com/embed/1qRF-kV3bfw"
+  "youtubeEmbed": "https://www.youtube.com/embed/1qRF-kV3bfw",
+  "video": "https://scheduling-seminar.iid.ciirc.cvut.cz/videos/26_3_Fall/26_10_21_Shunji%20Tanaka%20(%20Okayama%20University)_Optimizing%20item%20stacking%20and%20retrieval.mp4"
 }
