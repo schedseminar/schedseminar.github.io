@@ -72,9 +72,7 @@ const borderClass = getBorderClass(presenters[0].continent);
                                             rel="noreferrer"
                                             class="font-semibold text-gray-800 hover:opacity-80"
                                     >
-                                        {presenters[0].name}
-                                    </a>
-                                    {`, ${presenters[0].affiliation}`}
+                                        {presenters[0].name.trim()}</a>{`, ${presenters[0].affiliation.trim()}`}
                                 </p>
                             </div>
                         </div>
