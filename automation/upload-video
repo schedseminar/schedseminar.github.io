@@ -17,9 +17,9 @@ fi
 
 # --- Fetch metadata ---
 echo "Fetching metadata..."
-YT_DATE=$(yt-dlp --no-download --print "%(release_date)s" "$YT_URL")
-YT_TITLE=$(yt-dlp --no-download --print "%(title)s" "$YT_URL")
-YT_ID=$(yt-dlp --no-download --print "%(id)s" "$YT_URL")
+YT_DATE=$(yt-dlp --no-download --print "%(release_date)s" "$YT_URL" </dev/null)
+YT_TITLE=$(yt-dlp --no-download --print "%(title)s" "$YT_URL" </dev/null)
+YT_ID=$(yt-dlp --no-download --print "%(id)s" "$YT_URL" </dev/null)
 
 # YYYYMMDD → YY_MM_DD
 FORMATTED_DATE="${YT_DATE[3,4]}_${YT_DATE[5,6]}_${YT_DATE[7,8]}"
@@ -43,11 +43,11 @@ if [[ ! -f "$DEST" ]]; then
     yt-dlp -f "bestvideo[ext=mp4]+bestaudio[ext=m4a]/best[ext=mp4]" \
            --merge-output-format mp4 \
            -o "$DEST" \
-           "$YT_URL"
+           "$YT_URL" </dev/null
 fi
 
 echo "Existing folders:"
-ssh "$REMOTE_HOST" "ls -1 '$REMOTE_BASE'"
+ssh -n "$REMOTE_HOST" "ls -1 '$REMOTE_BASE'"
 echo ""
 
 # Folders are named YY_<1|2|3>_<Winter|Spring|Fall>
@@ -58,9 +58,9 @@ echo "Enter folder name (default: $DEFAULT_FOLDER; created if it doesn't exist):
 read FOLDER
 
 [[ -z "$FOLDER" ]] && FOLDER="$DEFAULT_FOLDER"
-ssh "$REMOTE_HOST" "mkdir -p '$REMOTE_BASE/$FOLDER'"
+ssh -n "$REMOTE_HOST" "mkdir -p '$REMOTE_BASE/$FOLDER'"
 echo "Copying $NEW_NAME to $REMOTE_HOST:$REMOTE_BASE/$FOLDER/"
-scp "$DEST" "$REMOTE_HOST:$REMOTE_BASE/$FOLDER/"
+scp "$DEST" "$REMOTE_HOST:$REMOTE_BASE/$FOLDER/" </dev/null
 rm "$DEST"
 
 echo "Done."
